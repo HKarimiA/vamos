@@ -1747,6 +1747,9 @@ version = "0.1.0"
 dependencies = [
  "leptos",
  "leptos_router",
+ "serde",
+ "serde_json",
+ "wasm-bindgen",
 ]
 
 [[package]]

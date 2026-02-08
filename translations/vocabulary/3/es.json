@@ -1,0 +1,102 @@
+[
+  {
+    "id": 41,
+    "word": "trabajo",
+    "example": "Mi trabajo es muy interesante"
+  },
+  {
+    "id": 42,
+    "word": "escuela",
+    "example": "Los niños van a la escuela"
+  },
+  {
+    "id": 43,
+    "word": "hospital",
+    "example": "El hospital está cerca"
+  },
+  {
+    "id": 44,
+    "word": "restaurante",
+    "example": "Vamos a un restaurante italiano"
+  },
+  {
+    "id": 45,
+    "word": "tienda",
+    "example": "Hay una tienda en la esquina"
+  },
+  {
+    "id": 46,
+    "word": "calle",
+    "example": "Vivo en esta calle"
+  },
+  {
+    "id": 47,
+    "word": "ciudad",
+    "example": "Madrid es una ciudad grande"
+  },
+  {
+    "id": 48,
+    "word": "país",
+    "example": "España es un país hermoso"
+  },
+  {
+    "id": 49,
+    "word": "leer",
+    "example": "Me gusta leer libros"
+  },
+  {
+    "id": 50,
+    "word": "escribir",
+    "example": "Voy a escribir un email"
+  },
+  {
+    "id": 51,
+    "word": "hablar",
+    "example": "Quiero hablar español"
+  },
+  {
+    "id": 52,
+    "word": "escuchar",
+    "example": "Me gusta escuchar música"
+  },
+  {
+    "id": 53,
+    "word": "ver",
+    "example": "Veo una película"
+  },
+  {
+    "id": 54,
+    "word": "mirar",
+    "example": "Mira el cielo"
+  },
+  {
+    "id": 55,
+    "word": "dar",
+    "example": "Voy a dar un regalo"
+  },
+  {
+    "id": 56,
+    "word": "decir",
+    "example": "¿Qué quieres decir?"
+  },
+  {
+    "id": 57,
+    "word": "pensar",
+    "example": "Pienso en ti"
+  },
+  {
+    "id": 58,
+    "word": "sentir",
+    "example": "Me siento feliz"
+  },
+  {
+    "id": 59,
+    "word": "vivir",
+    "example": "Vivo en Barcelona"
+  },
+  {
+    "id": 60,
+    "word": "trabajar",
+    "example": "Trabajo en una oficina"
+  }
+]

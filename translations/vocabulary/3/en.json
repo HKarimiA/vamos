@@ -1,0 +1,102 @@
+[
+  {
+    "id": 41,
+    "word": "work/job",
+    "example": "My work is very interesting"
+  },
+  {
+    "id": 42,
+    "word": "school",
+    "example": "The children go to school"
+  },
+  {
+    "id": 43,
+    "word": "hospital",
+    "example": "The hospital is nearby"
+  },
+  {
+    "id": 44,
+    "word": "restaurant",
+    "example": "We're going to an Italian restaurant"
+  },
+  {
+    "id": 45,
+    "word": "store",
+    "example": "There's a store on the corner"
+  },
+  {
+    "id": 46,
+    "word": "street",
+    "example": "I live on this street"
+  },
+  {
+    "id": 47,
+    "word": "city",
+    "example": "Madrid is a big city"
+  },
+  {
+    "id": 48,
+    "word": "country",
+    "example": "Spain is a beautiful country"
+  },
+  {
+    "id": 49,
+    "word": "to read",
+    "example": "I like to read books"
+  },
+  {
+    "id": 50,
+    "word": "to write",
+    "example": "I'm going to write an email"
+  },
+  {
+    "id": 51,
+    "word": "to speak",
+    "example": "I want to speak Spanish"
+  },
+  {
+    "id": 52,
+    "word": "to listen",
+    "example": "I like to listen to music"
+  },
+  {
+    "id": 53,
+    "word": "to see/watch",
+    "example": "I'm watching a movie"
+  },
+  {
+    "id": 54,
+    "word": "to look",
+    "example": "Look at the sky"
+  },
+  {
+    "id": 55,
+    "word": "to give",
+    "example": "I'm going to give a gift"
+  },
+  {
+    "id": 56,
+    "word": "to say/tell",
+    "example": "What do you want to say?"
+  },
+  {
+    "id": 57,
+    "word": "to think",
+    "example": "I'm thinking of you"
+  },
+  {
+    "id": 58,
+    "word": "to feel",
+    "example": "I feel happy"
+  },
+  {
+    "id": 59,
+    "word": "to live",
+    "example": "I live in Barcelona"
+  },
+  {
+    "id": 60,
+    "word": "to work",
+    "example": "I work in an office"
+  }
+]

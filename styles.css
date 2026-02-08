@@ -146,3 +146,286 @@ body {
     min-height: 120px;
   }
 }
+
+/* Vocabulary Page Styles */
+.vocab-content {
+  padding: 1.5rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.vocab-controls {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.direction-toggle {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 0.75rem 2rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  touch-action: manipulation;
+}
+
+.direction-toggle:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.stage-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stage-button {
+  background: white;
+  border: 2px solid #667eea;
+  border-radius: 12px;
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #667eea;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  touch-action: manipulation;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80px;
+}
+
+.stage-button:active {
+  transform: scale(0.95);
+  background: #667eea;
+  color: white;
+}
+
+.favorites-button {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+  border: none;
+  font-size: 2rem;
+  grid-column: span 3;
+}
+
+.favorites-button:active {
+  background: linear-gradient(135deg, #f5576c 0%, #f093fb 100%);
+}
+
+/* Card Learning Styles */
+.card-learning-container {
+  padding: 1.5rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.card-progress {
+  text-align: center;
+  font-size: 1rem;
+  color: #666;
+  font-weight: 600;
+}
+
+.vocabulary-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  min-height: 400px;
+}
+
+.card-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card-word {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #333;
+  flex: 1;
+  margin: 0;
+}
+
+.card-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.audio-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  touch-action: manipulation;
+}
+
+.audio-button:active {
+  transform: scale(0.9);
+}
+
+.favorite-button {
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 2rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  touch-action: manipulation;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffd700;
+  line-height: 1;
+}
+
+.favorite-button:active {
+  transform: scale(0.9);
+}
+
+.favorite-active {
+  background: white;
+  border: 2px solid #ffd700;
+  color: #ffd700;
+}
+
+.reveal-button {
+  background: #f0f0f0;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  touch-action: manipulation;
+}
+
+.reveal-button:not(:disabled):active {
+  background: #667eea;
+  color: white;
+  border-color: #667eea;
+}
+
+.reveal-button:disabled {
+  background: #e0e0e0;
+  color: #999;
+  cursor: default;
+}
+
+.translation-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+}
+
+.translation-button:disabled {
+  background: #b0b0b0;
+}
+
+.card-example {
+  background: #f8f9fa;
+  border-left: 4px solid #667eea;
+  padding: 1rem;
+  margin: 0;
+  font-size: 1.125rem;
+  font-style: italic;
+  color: #555;
+  border-radius: 8px;
+}
+
+.card-translation {
+  background: #f0f7ff;
+  border: 2px solid #667eea;
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+.translation-word {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #667eea;
+  margin: 0 0 0.5rem 0;
+}
+
+.translation-example {
+  font-size: 1.125rem;
+  color: #555;
+  font-style: italic;
+  margin: 0;
+}
+
+.card-navigation {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-btn {
+  flex: 1;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 1rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  touch-action: manipulation;
+}
+
+.nav-btn:active:not(:disabled) {
+  transform: scale(0.95);
+}
+
+.nav-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.error-message {
+  text-align: center;
+  padding: 2rem;
+}
+
+.error-message p {
+  color: #e74c3c;
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+}

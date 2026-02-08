@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "word": "hola",
+    "example": "Hola, ¿cómo estás?"
+  },
+  {
+    "id": 2,
+    "word": "adiós",
+    "example": "Adiós, hasta mañana"
+  },
+  {
+    "id": 3,
+    "word": "gracias",
+    "example": "Muchas gracias por tu ayuda"
+  },
+  {
+    "id": 4,
+    "word": "por favor",
+    "example": "Una taza de café, por favor"
+  },
+  {
+    "id": 5,
+    "word": "sí",
+    "example": "Sí, estoy de acuerdo"
+  },
+  {
+    "id": 6,
+    "word": "no",
+    "example": "No, no puedo ir hoy"
+  },
+  {
+    "id": 7,
+    "word": "bien",
+    "example": "Estoy muy bien, gracias"
+  },
+  {
+    "id": 8,
+    "word": "mal",
+    "example": "Me siento mal hoy"
+  },
+  {
+    "id": 9,
+    "word": "perdón",
+    "example": "Perdón, no te escuché"
+  },
+  {
+    "id": 10,
+    "word": "bueno",
+    "example": "Este restaurante es muy bueno"
+  },
+  {
+    "id": 11,
+    "word": "agua",
+    "example": "Quiero beber agua fría"
+  },
+  {
+    "id": 12,
+    "word": "casa",
+    "example": "Mi casa está cerca"
+  },
+  {
+    "id": 13,
+    "word": "tiempo",
+    "example": "¿Qué tiempo hace hoy?"
+  },
+  {
+    "id": 14,
+    "word": "día",
+    "example": "Hoy es un buen día"
+  },
+  {
+    "id": 15,
+    "word": "noche",
+    "example": "Buenas noches, hasta mañana"
+  },
+  {
+    "id": 16,
+    "word": "amigo",
+    "example": "Él es mi mejor amigo"
+  },
+  {
+    "id": 17,
+    "word": "comer",
+    "example": "Me gusta comer frutas"
+  },
+  {
+    "id": 18,
+    "word": "beber",
+    "example": "Quiero beber algo fresco"
+  },
+  {
+    "id": 19,
+    "word": "ir",
+    "example": "Voy a ir al mercado"
+  },
+  {
+    "id": 20,
+    "word": "venir",
+    "example": "¿Puedes venir mañana?"
+  }
+]

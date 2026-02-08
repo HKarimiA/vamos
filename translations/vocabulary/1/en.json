@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "word": "hello",
+    "example": "Hello, how are you?"
+  },
+  {
+    "id": 2,
+    "word": "goodbye",
+    "example": "Goodbye, see you tomorrow"
+  },
+  {
+    "id": 3,
+    "word": "thank you",
+    "example": "Thank you very much for your help"
+  },
+  {
+    "id": 4,
+    "word": "please",
+    "example": "A cup of coffee, please"
+  },
+  {
+    "id": 5,
+    "word": "yes",
+    "example": "Yes, I agree"
+  },
+  {
+    "id": 6,
+    "word": "no",
+    "example": "No, I can't go today"
+  },
+  {
+    "id": 7,
+    "word": "good/well",
+    "example": "I'm very well, thank you"
+  },
+  {
+    "id": 8,
+    "word": "bad",
+    "example": "I feel bad today"
+  },
+  {
+    "id": 9,
+    "word": "sorry",
+    "example": "Sorry, I didn't hear you"
+  },
+  {
+    "id": 10,
+    "word": "good",
+    "example": "This restaurant is very good"
+  },
+  {
+    "id": 11,
+    "word": "water",
+    "example": "I want to drink cold water"
+  },
+  {
+    "id": 12,
+    "word": "house",
+    "example": "My house is nearby"
+  },
+  {
+    "id": 13,
+    "word": "time/weather",
+    "example": "What's the weather like today?"
+  },
+  {
+    "id": 14,
+    "word": "day",
+    "example": "Today is a good day"
+  },
+  {
+    "id": 15,
+    "word": "night",
+    "example": "Good night, see you tomorrow"
+  },
+  {
+    "id": 16,
+    "word": "friend",
+    "example": "He is my best friend"
+  },
+  {
+    "id": 17,
+    "word": "to eat",
+    "example": "I like to eat fruits"
+  },
+  {
+    "id": 18,
+    "word": "to drink",
+    "example": "I want to drink something fresh"
+  },
+  {
+    "id": 19,
+    "word": "to go",
+    "example": "I'm going to go to the market"
+  },
+  {
+    "id": 20,
+    "word": "to come",
+    "example": "Can you come tomorrow?"
+  }
+]

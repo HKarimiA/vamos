@@ -1,0 +1,102 @@
+[
+  {
+    "id": 21,
+    "word": "family",
+    "example": "My family is very important"
+  },
+  {
+    "id": 22,
+    "word": "mother",
+    "example": "My mother cooks very well"
+  },
+  {
+    "id": 23,
+    "word": "father",
+    "example": "My father works in an office"
+  },
+  {
+    "id": 24,
+    "word": "brother",
+    "example": "I have an older brother"
+  },
+  {
+    "id": 25,
+    "word": "sister",
+    "example": "My sister studies medicine"
+  },
+  {
+    "id": 26,
+    "word": "son",
+    "example": "His son is ten years old"
+  },
+  {
+    "id": 27,
+    "word": "daughter",
+    "example": "My daughter goes to school"
+  },
+  {
+    "id": 28,
+    "word": "big/large",
+    "example": "This city is very big"
+  },
+  {
+    "id": 29,
+    "word": "small",
+    "example": "It's a small apartment"
+  },
+  {
+    "id": 30,
+    "word": "new",
+    "example": "I bought a new car"
+  },
+  {
+    "id": 31,
+    "word": "old",
+    "example": "It's a very old book"
+  },
+  {
+    "id": 32,
+    "word": "much/many",
+    "example": "I have a lot of work today"
+  },
+  {
+    "id": 33,
+    "word": "little/few",
+    "example": "There is little time"
+  },
+  {
+    "id": 34,
+    "word": "to do/make",
+    "example": "What are you going to do tomorrow?"
+  },
+  {
+    "id": 35,
+    "word": "to have",
+    "example": "I have two cats"
+  },
+  {
+    "id": 36,
+    "word": "to be",
+    "example": "She is very intelligent"
+  },
+  {
+    "id": 37,
+    "word": "to be (location)",
+    "example": "I'm in the park"
+  },
+  {
+    "id": 38,
+    "word": "to be able/can",
+    "example": "I can't go today"
+  },
+  {
+    "id": 39,
+    "word": "to want",
+    "example": "I want to learn Spanish"
+  },
+  {
+    "id": 40,
+    "word": "to know",
+    "example": "I know how to swim very well"
+  }
+]

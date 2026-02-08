@@ -1,0 +1,102 @@
+[
+  {
+    "id": 21,
+    "word": "familia",
+    "example": "Mi familia es muy importante"
+  },
+  {
+    "id": 22,
+    "word": "madre",
+    "example": "Mi madre cocina muy bien"
+  },
+  {
+    "id": 23,
+    "word": "padre",
+    "example": "Mi padre trabaja en una oficina"
+  },
+  {
+    "id": 24,
+    "word": "hermano",
+    "example": "Tengo un hermano mayor"
+  },
+  {
+    "id": 25,
+    "word": "hermana",
+    "example": "Mi hermana estudia medicina"
+  },
+  {
+    "id": 26,
+    "word": "hijo",
+    "example": "Su hijo tiene diez años"
+  },
+  {
+    "id": 27,
+    "word": "hija",
+    "example": "Mi hija va a la escuela"
+  },
+  {
+    "id": 28,
+    "word": "grande",
+    "example": "Esta ciudad es muy grande"
+  },
+  {
+    "id": 29,
+    "word": "pequeño",
+    "example": "Es un apartamento pequeño"
+  },
+  {
+    "id": 30,
+    "word": "nuevo",
+    "example": "Compré un coche nuevo"
+  },
+  {
+    "id": 31,
+    "word": "viejo",
+    "example": "Es un libro muy viejo"
+  },
+  {
+    "id": 32,
+    "word": "mucho",
+    "example": "Tengo mucho trabajo hoy"
+  },
+  {
+    "id": 33,
+    "word": "poco",
+    "example": "Hay poco tiempo"
+  },
+  {
+    "id": 34,
+    "word": "hacer",
+    "example": "¿Qué vas a hacer mañana?"
+  },
+  {
+    "id": 35,
+    "word": "tener",
+    "example": "Tengo dos gatos"
+  },
+  {
+    "id": 36,
+    "word": "ser",
+    "example": "Ella es muy inteligente"
+  },
+  {
+    "id": 37,
+    "word": "estar",
+    "example": "Estoy en el parque"
+  },
+  {
+    "id": 38,
+    "word": "poder",
+    "example": "No puedo ir hoy"
+  },
+  {
+    "id": 39,
+    "word": "querer",
+    "example": "Quiero aprender español"
+  },
+  {
+    "id": 40,
+    "word": "saber",
+    "example": "Yo sé nadar muy bien"
+  }
+]
