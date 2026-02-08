@@ -114,7 +114,7 @@ pub fn VocabularyCards() -> impl IntoView {
     view! {
         <div class="page-container">
             <header class="page-header">
-                <A href={move || format!("/vocabulary?dir={}", if direction() == LearningDirection::EnglishToSpanish { "en-to-es" } else { "es-to-en" })} attr:class="back-button">"← Stages"</A>
+                <A href={move || format!("/vocabulary?dir={}", if direction() == LearningDirection::EnglishToSpanish { "en-to-es" } else { "es-to-en" })} attr:class="back-button">"❮"</A>
                 <h1>"Stage " {move || stage()}</h1>
             </header>
 
@@ -205,7 +205,7 @@ pub fn VocabularyCards() -> impl IntoView {
                         Err(e) => view! {
                             <div class="error-message">
                                 <p>"Error loading cards: " {e}</p>
-                                <A href="/vocabulary" attr:class="back-button">"← Back to Stages"</A>
+                                <A href="/vocabulary" attr:class="back-button">"❮"</A>
                             </div>
                         }.into_any()
                     }

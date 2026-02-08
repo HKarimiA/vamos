@@ -108,7 +108,7 @@ pub fn Favorites() -> impl IntoView {
     view! {
         <div class="page-container">
             <header class="page-header">
-                <A href="/vocabulary" attr:class="back-button">"← Stages"</A>
+                <A href="/vocabulary" attr:class="back-button">"❮"</A>
                 <h1>"Favorites"</h1>
             </header>
 
@@ -121,7 +121,7 @@ pub fn Favorites() -> impl IntoView {
                             <div class="error-message">
                                 <p>"No favorites yet!"</p>
                                 <p style="color: #666; font-size: 1rem;">"Add cards to favorites by clicking the ☆ icon"</p>
-                                <A href="/vocabulary" attr:class="back-button">"← Back to Stages"</A>
+                                <A href="/vocabulary" attr:class="back-button">"❮"</A>
                             </div>
                         }.into_any()
                     } else {
@@ -207,7 +207,7 @@ pub fn Favorites() -> impl IntoView {
                             Err(e) => view! {
                                 <div class="error-message">
                                     <p>"Error loading card: " {e}</p>
-                                    <A href="/vocabulary" attr:class="back-button">"← Back to Stages"</A>
+                                    <A href="/vocabulary" attr:class="back-button">"❮"</A>
                                 </div>
                             }.into_any()
                         }

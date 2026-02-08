@@ -30,7 +30,7 @@ pub fn Vocabulary() -> impl IntoView {
     view! {
         <div class="page-container">
             <header class="page-header">
-                <A href="/" attr:class="back-button">"← Back"</A>
+                <A href="/" attr:class="back-button">"❮"</A>
                 <h1>"Vocabulary"</h1>
                 <button
                     class="direction-toggle"
