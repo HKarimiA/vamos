@@ -1,0 +1,102 @@
+[
+  {
+    "id": 61,
+    "word": "la comida",
+    "example": "La comida está deliciosa"
+  },
+  {
+    "id": 62,
+    "word": "el pan",
+    "example": "Compro el pan cada mañana"
+  },
+  {
+    "id": 63,
+    "word": "la carne",
+    "example": "No como mucha carne"
+  },
+  {
+    "id": 64,
+    "word": "el pescado",
+    "example": "El pescado es muy saludable"
+  },
+  {
+    "id": 65,
+    "word": "la fruta",
+    "example": "Me gusta comer fruta fresca"
+  },
+  {
+    "id": 66,
+    "word": "la verdura",
+    "example": "Las verduras son importantes"
+  },
+  {
+    "id": 67,
+    "word": "el arroz",
+    "example": "El arroz es muy común aquí"
+  },
+  {
+    "id": 68,
+    "word": "la leche",
+    "example": "Bebo leche cada mañana"
+  },
+  {
+    "id": 69,
+    "word": "el café",
+    "example": "Tomo un café después de comer"
+  },
+  {
+    "id": 70,
+    "word": "el vino",
+    "example": "El vino español es excelente"
+  },
+  {
+    "id": 71,
+    "word": "cocinar",
+    "example": "Me encanta cocinar para mi familia"
+  },
+  {
+    "id": 72,
+    "word": "comprar",
+    "example": "Voy a comprar verduras"
+  },
+  {
+    "id": 73,
+    "word": "vender",
+    "example": "Venden pan fresco aquí"
+  },
+  {
+    "id": 74,
+    "word": "pagar",
+    "example": "Voy a pagar con tarjeta"
+  },
+  {
+    "id": 75,
+    "word": "necesitar",
+    "example": "Necesito comprar leche"
+  },
+  {
+    "id": 76,
+    "word": "rico/a",
+    "example": "Esta sopa está muy rica"
+  },
+  {
+    "id": 77,
+    "word": "dulce",
+    "example": "Este postre es demasiado dulce"
+  },
+  {
+    "id": 78,
+    "word": "caliente",
+    "example": "El café está muy caliente"
+  },
+  {
+    "id": 79,
+    "word": "frío/a",
+    "example": "Quiero una bebida fría"
+  },
+  {
+    "id": 80,
+    "word": "hambre",
+    "example": "Tengo mucha hambre ahora"
+  }
+]

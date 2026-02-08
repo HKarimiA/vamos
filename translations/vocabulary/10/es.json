@@ -1,0 +1,102 @@
+[
+  {
+    "id": 181,
+    "word": "uno/a",
+    "example": "Tengo un hermano"
+  },
+  {
+    "id": 182,
+    "word": "dos",
+    "example": "Quiero dos cafés, por favor"
+  },
+  {
+    "id": 183,
+    "word": "tres",
+    "example": "Trabajo tres días a la semana"
+  },
+  {
+    "id": 184,
+    "word": "todo/a",
+    "example": "Todo está bien ahora"
+  },
+  {
+    "id": 185,
+    "word": "nada",
+    "example": "No quiero nada, gracias"
+  },
+  {
+    "id": 186,
+    "word": "algo",
+    "example": "Quiero comer algo"
+  },
+  {
+    "id": 187,
+    "word": "alguien",
+    "example": "Hay alguien en la puerta"
+  },
+  {
+    "id": 188,
+    "word": "nadie",
+    "example": "No hay nadie en casa"
+  },
+  {
+    "id": 189,
+    "word": "cada",
+    "example": "Cada día aprendo algo nuevo"
+  },
+  {
+    "id": 190,
+    "word": "otro/a",
+    "example": "Dame otra oportunidad"
+  },
+  {
+    "id": 191,
+    "word": "mismo/a",
+    "example": "Tenemos el mismo problema"
+  },
+  {
+    "id": 192,
+    "word": "más",
+    "example": "Quiero más tiempo"
+  },
+  {
+    "id": 193,
+    "word": "menos",
+    "example": "Necesito menos trabajo"
+  },
+  {
+    "id": 194,
+    "word": "muy",
+    "example": "Estoy muy cansado"
+  },
+  {
+    "id": 195,
+    "word": "también",
+    "example": "Yo también quiero ir"
+  },
+  {
+    "id": 196,
+    "word": "tampoco",
+    "example": "Yo tampoco sé la respuesta"
+  },
+  {
+    "id": 197,
+    "word": "quizás",
+    "example": "Quizás vaya mañana"
+  },
+  {
+    "id": 198,
+    "word": "claro",
+    "example": "Claro que sí, por supuesto"
+  },
+  {
+    "id": 199,
+    "word": "vale",
+    "example": "Vale, nos vemos luego"
+  },
+  {
+    "id": 200,
+    "word": "todavía",
+    "example": "Todavía no he terminado"
+  }
+]

@@ -1,102 +1,102 @@
 [
   {
     "id": 41,
-    "word": "work/job",
-    "example": "My work is very interesting"
-  },
-  {
-    "id": 42,
-    "word": "school",
+    "word": "the school",
     "example": "The children go to school"
   },
   {
+    "id": 42,
+    "word": "the street",
+    "example": "I live on this street"
+  },
+  {
     "id": 43,
-    "word": "hospital",
-    "example": "The hospital is nearby"
+    "word": "the city",
+    "example": "Barcelona is a beautiful city"
   },
   {
     "id": 44,
-    "word": "restaurant",
-    "example": "We're going to an Italian restaurant"
+    "word": "the country",
+    "example": "Spain is an interesting country"
   },
   {
     "id": 45,
-    "word": "store",
+    "word": "the store",
     "example": "There's a store on the corner"
   },
   {
     "id": 46,
-    "word": "street",
-    "example": "I live on this street"
+    "word": "the book",
+    "example": "I'm reading a fascinating book"
   },
   {
     "id": 47,
-    "word": "city",
-    "example": "Madrid is a big city"
+    "word": "the word",
+    "example": "I don't understand this word"
   },
   {
     "id": 48,
-    "word": "country",
-    "example": "Spain is a beautiful country"
+    "word": "the question",
+    "example": "I have an important question"
   },
   {
     "id": 49,
-    "word": "to read",
-    "example": "I like to read books"
+    "word": "the answer",
+    "example": "I don't know the correct answer"
   },
   {
     "id": 50,
-    "word": "to write",
-    "example": "I'm going to write an email"
+    "word": "the problem",
+    "example": "There's a problem with the car"
   },
   {
     "id": 51,
-    "word": "to speak",
-    "example": "I want to speak Spanish"
+    "word": "to read",
+    "example": "I like to read novels"
   },
   {
     "id": 52,
-    "word": "to listen",
-    "example": "I like to listen to music"
+    "word": "to write",
+    "example": "I'm going to write a message"
   },
   {
     "id": 53,
-    "word": "to see/watch",
-    "example": "I'm watching a movie"
+    "word": "to speak/talk",
+    "example": "I want to talk to you"
   },
   {
     "id": 54,
-    "word": "to look",
-    "example": "Look at the sky"
+    "word": "to listen",
+    "example": "I like to listen to classical music"
   },
   {
     "id": 55,
+    "word": "to see/watch",
+    "example": "I watch a movie every week"
+  },
+  {
+    "id": 56,
     "word": "to give",
     "example": "I'm going to give a gift"
   },
   {
-    "id": 56,
-    "word": "to say/tell",
-    "example": "What do you want to say?"
-  },
-  {
     "id": 57,
     "word": "to think",
-    "example": "I'm thinking of you"
+    "example": "I'm thinking about my vacation"
   },
   {
     "id": 58,
-    "word": "to feel",
-    "example": "I feel happy"
+    "word": "to live",
+    "example": "I've lived in Madrid for years"
   },
   {
     "id": 59,
-    "word": "to live",
-    "example": "I live in Barcelona"
+    "word": "to work",
+    "example": "I work at an international company"
   },
   {
     "id": 60,
-    "word": "to work",
-    "example": "I work in an office"
+    "word": "to study",
+    "example": "I study Spanish every day"
   }
 ]

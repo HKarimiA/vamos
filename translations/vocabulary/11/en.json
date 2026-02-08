@@ -1,0 +1,102 @@
+[
+  {
+    "id": 201,
+    "word": "the clothes",
+    "example": "I need to buy new clothes"
+  },
+  {
+    "id": 202,
+    "word": "the shirt",
+    "example": "I like your blue shirt"
+  },
+  {
+    "id": 203,
+    "word": "the pants/trousers",
+    "example": "These pants are very comfortable"
+  },
+  {
+    "id": 204,
+    "word": "the dress",
+    "example": "She's wearing an elegant dress"
+  },
+  {
+    "id": 205,
+    "word": "the shoe",
+    "example": "These shoes are new"
+  },
+  {
+    "id": 206,
+    "word": "the coat",
+    "example": "It's cold, I need a coat"
+  },
+  {
+    "id": 207,
+    "word": "the hat",
+    "example": "The hat protects from the sun"
+  },
+  {
+    "id": 208,
+    "word": "the bag",
+    "example": "My bag is full"
+  },
+  {
+    "id": 209,
+    "word": "the watch/clock",
+    "example": "What time does your watch say?"
+  },
+  {
+    "id": 210,
+    "word": "the hair",
+    "example": "He/She has long hair"
+  },
+  {
+    "id": 211,
+    "word": "the face",
+    "example": "Wash your face every morning"
+  },
+  {
+    "id": 212,
+    "word": "to wear/carry",
+    "example": "Today I'm wearing a jacket"
+  },
+  {
+    "id": 213,
+    "word": "to get dressed",
+    "example": "I get dressed quickly in the mornings"
+  },
+  {
+    "id": 214,
+    "word": "to put on",
+    "example": "I'm going to put on my shoes"
+  },
+  {
+    "id": 215,
+    "word": "to take off",
+    "example": "Take off your coat, it's hot"
+  },
+  {
+    "id": 216,
+    "word": "pretty/nice",
+    "example": "It's a very pretty shirt"
+  },
+  {
+    "id": 217,
+    "word": "comfortable",
+    "example": "This chair is very comfortable"
+  },
+  {
+    "id": 218,
+    "word": "clean",
+    "example": "The house is very clean"
+  },
+  {
+    "id": 219,
+    "word": "dirty",
+    "example": "The dishes are dirty"
+  },
+  {
+    "id": 220,
+    "word": "short",
+    "example": "He/She has short hair"
+  }
+]

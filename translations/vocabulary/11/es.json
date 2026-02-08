@@ -1,0 +1,102 @@
+[
+  {
+    "id": 201,
+    "word": "la ropa",
+    "example": "Necesito comprar ropa nueva"
+  },
+  {
+    "id": 202,
+    "word": "la camisa",
+    "example": "Me gusta tu camisa azul"
+  },
+  {
+    "id": 203,
+    "word": "el pantalón",
+    "example": "Este pantalón es muy cómodo"
+  },
+  {
+    "id": 204,
+    "word": "el vestido",
+    "example": "Lleva un vestido elegante"
+  },
+  {
+    "id": 205,
+    "word": "el zapato",
+    "example": "Estos zapatos son nuevos"
+  },
+  {
+    "id": 206,
+    "word": "el abrigo",
+    "example": "Hace frío, necesito un abrigo"
+  },
+  {
+    "id": 207,
+    "word": "el sombrero",
+    "example": "El sombrero protege del sol"
+  },
+  {
+    "id": 208,
+    "word": "la bolsa",
+    "example": "Mi bolsa está llena"
+  },
+  {
+    "id": 209,
+    "word": "el reloj",
+    "example": "¿Qué hora marca tu reloj?"
+  },
+  {
+    "id": 210,
+    "word": "el pelo",
+    "example": "Tiene el pelo largo"
+  },
+  {
+    "id": 211,
+    "word": "la cara",
+    "example": "Lava tu cara cada mañana"
+  },
+  {
+    "id": 212,
+    "word": "llevar",
+    "example": "Hoy llevo una chaqueta"
+  },
+  {
+    "id": 213,
+    "word": "vestirse",
+    "example": "Me visto rápido por las mañanas"
+  },
+  {
+    "id": 214,
+    "word": "ponerse",
+    "example": "Voy a ponerme los zapatos"
+  },
+  {
+    "id": 215,
+    "word": "quitarse",
+    "example": "Quítate el abrigo, hace calor"
+  },
+  {
+    "id": 216,
+    "word": "bonito/a",
+    "example": "Es una camisa muy bonita"
+  },
+  {
+    "id": 217,
+    "word": "cómodo/a",
+    "example": "Esta silla es muy cómoda"
+  },
+  {
+    "id": 218,
+    "word": "limpio/a",
+    "example": "La casa está muy limpia"
+  },
+  {
+    "id": 219,
+    "word": "sucio/a",
+    "example": "Los platos están sucios"
+  },
+  {
+    "id": 220,
+    "word": "corto/a",
+    "example": "Tiene el pelo corto"
+  }
+]

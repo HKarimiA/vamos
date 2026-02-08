@@ -1,0 +1,102 @@
+[
+  {
+    "id": 181,
+    "word": "one",
+    "example": "I have one brother"
+  },
+  {
+    "id": 182,
+    "word": "two",
+    "example": "I want two coffees, please"
+  },
+  {
+    "id": 183,
+    "word": "three",
+    "example": "I work three days a week"
+  },
+  {
+    "id": 184,
+    "word": "everything/all",
+    "example": "Everything is fine now"
+  },
+  {
+    "id": 185,
+    "word": "nothing",
+    "example": "I don't want anything, thank you"
+  },
+  {
+    "id": 186,
+    "word": "something",
+    "example": "I want to eat something"
+  },
+  {
+    "id": 187,
+    "word": "someone",
+    "example": "There's someone at the door"
+  },
+  {
+    "id": 188,
+    "word": "nobody",
+    "example": "There's nobody at home"
+  },
+  {
+    "id": 189,
+    "word": "each/every",
+    "example": "Each day I learn something new"
+  },
+  {
+    "id": 190,
+    "word": "other/another",
+    "example": "Give me another chance"
+  },
+  {
+    "id": 191,
+    "word": "same",
+    "example": "We have the same problem"
+  },
+  {
+    "id": 192,
+    "word": "more",
+    "example": "I want more time"
+  },
+  {
+    "id": 193,
+    "word": "less",
+    "example": "I need less work"
+  },
+  {
+    "id": 194,
+    "word": "very",
+    "example": "I'm very tired"
+  },
+  {
+    "id": 195,
+    "word": "also/too",
+    "example": "I also want to go"
+  },
+  {
+    "id": 196,
+    "word": "neither/not either",
+    "example": "I don't know the answer either"
+  },
+  {
+    "id": 197,
+    "word": "maybe/perhaps",
+    "example": "Maybe I'll go tomorrow"
+  },
+  {
+    "id": 198,
+    "word": "of course/sure",
+    "example": "Of course, certainly"
+  },
+  {
+    "id": 199,
+    "word": "okay/alright",
+    "example": "Okay, see you later"
+  },
+  {
+    "id": 200,
+    "word": "still/yet",
+    "example": "I haven't finished yet"
+  }
+]

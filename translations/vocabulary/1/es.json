@@ -1,102 +1,102 @@
 [
   {
     "id": 1,
-    "word": "hola",
-    "example": "Hola, ¿cómo estás?"
+    "word": "el agua",
+    "example": "Quiero beber el agua fría"
   },
   {
     "id": 2,
-    "word": "adiós",
-    "example": "Adiós, hasta mañana"
+    "word": "la casa",
+    "example": "La casa está cerca del parque"
   },
   {
     "id": 3,
-    "word": "gracias",
-    "example": "Muchas gracias por tu ayuda"
+    "word": "el tiempo",
+    "example": "No tengo mucho tiempo hoy"
   },
   {
     "id": 4,
-    "word": "por favor",
-    "example": "Una taza de café, por favor"
+    "word": "el día",
+    "example": "Hoy es un día especial"
   },
   {
     "id": 5,
-    "word": "sí",
-    "example": "Sí, estoy de acuerdo"
+    "word": "la noche",
+    "example": "La noche es muy oscura"
   },
   {
     "id": 6,
-    "word": "no",
-    "example": "No, no puedo ir hoy"
+    "word": "el/la amigo/a",
+    "example": "Mi amigo vive en Madrid"
   },
   {
     "id": 7,
-    "word": "bien",
-    "example": "Estoy muy bien, gracias"
+    "word": "la comida",
+    "example": "La comida española es deliciosa"
   },
   {
     "id": 8,
-    "word": "mal",
-    "example": "Me siento mal hoy"
+    "word": "la bebida",
+    "example": "Quiero una bebida fría"
   },
   {
     "id": 9,
-    "word": "perdón",
-    "example": "Perdón, no te escuché"
+    "word": "el lugar",
+    "example": "Este es un lugar tranquilo"
   },
   {
     "id": 10,
-    "word": "bueno",
-    "example": "Este restaurante es muy bueno"
+    "word": "la persona",
+    "example": "Esa persona es muy amable"
   },
   {
     "id": 11,
-    "word": "agua",
-    "example": "Quiero beber agua fría"
+    "word": "comer",
+    "example": "Me gusta comer frutas frescas"
   },
   {
     "id": 12,
-    "word": "casa",
-    "example": "Mi casa está cerca"
+    "word": "beber",
+    "example": "Voy a beber un café"
   },
   {
     "id": 13,
-    "word": "tiempo",
-    "example": "¿Qué tiempo hace hoy?"
-  },
-  {
-    "id": 14,
-    "word": "día",
-    "example": "Hoy es un buen día"
-  },
-  {
-    "id": 15,
-    "word": "noche",
-    "example": "Buenas noches, hasta mañana"
-  },
-  {
-    "id": 16,
-    "word": "amigo",
-    "example": "Él es mi mejor amigo"
-  },
-  {
-    "id": 17,
-    "word": "comer",
-    "example": "Me gusta comer frutas"
-  },
-  {
-    "id": 18,
-    "word": "beber",
-    "example": "Quiero beber algo fresco"
-  },
-  {
-    "id": 19,
     "word": "ir",
     "example": "Voy a ir al mercado"
   },
   {
-    "id": 20,
+    "id": 14,
     "word": "venir",
     "example": "¿Puedes venir mañana?"
+  },
+  {
+    "id": 15,
+    "word": "llegar",
+    "example": "Voy a llegar tarde"
+  },
+  {
+    "id": 16,
+    "word": "salir",
+    "example": "Salgo de casa a las ocho"
+  },
+  {
+    "id": 17,
+    "word": "bueno/a",
+    "example": "Es una buena idea"
+  },
+  {
+    "id": 18,
+    "word": "malo/a",
+    "example": "Hace mal tiempo hoy"
+  },
+  {
+    "id": 19,
+    "word": "mucho/a",
+    "example": "Hay mucha gente aquí"
+  },
+  {
+    "id": 20,
+    "word": "poco/a",
+    "example": "Tengo poca experiencia"
   }
 ]

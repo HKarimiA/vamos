@@ -19,11 +19,13 @@ pub fn Favorites() -> impl IntoView {
         let mut filtered: Vec<_> = all
             .into_iter()
             .filter(|(stage, card_id)| {
-                // Stage 1: IDs 1-20, Stage 2: IDs 21-40, Stage 3: IDs 41-60
+                // Stage 1: IDs 1-20, Stage 2: IDs 21-40, Stage 3: IDs 41-60, etc.
                 match stage {
-                    1 => *card_id >= 1 && *card_id <= 20,
-                    2 => *card_id >= 21 && *card_id <= 40,
-                    3 => *card_id >= 41 && *card_id <= 60,
+                    i if (1..=21).contains(i) => {
+                        let start_id = (i - 1) * 20 + 1;
+                        let end_id = i * 20;
+                        *card_id >= start_id && *card_id <= end_id
+                    }
                     _ => false,
                 }
             })
@@ -43,10 +45,29 @@ pub fn Favorites() -> impl IntoView {
         // Stage 1: IDs 1-20 -> index 0-19
         // Stage 2: IDs 21-40 -> index 0-19
         // Stage 3: IDs 41-60 -> index 0-19
+        // Stage 4: IDs 61-80 -> index 0-19, etc.
         let card_idx = match stage {
             1 => (card_id - 1) as usize,
             2 => (card_id - 21) as usize,
             3 => (card_id - 41) as usize,
+            4 => (card_id - 61) as usize,
+            5 => (card_id - 81) as usize,
+            6 => (card_id - 101) as usize,
+            7 => (card_id - 121) as usize,
+            8 => (card_id - 141) as usize,
+            9 => (card_id - 161) as usize,
+            10 => (card_id - 181) as usize,
+            11 => (card_id - 201) as usize,
+            12 => (card_id - 221) as usize,
+            13 => (card_id - 241) as usize,
+            14 => (card_id - 261) as usize,
+            15 => (card_id - 281) as usize,
+            16 => (card_id - 301) as usize,
+            17 => (card_id - 321) as usize,
+            18 => (card_id - 341) as usize,
+            19 => (card_id - 361) as usize,
+            20 => (card_id - 381) as usize,
+            21 => (card_id - 401) as usize,
             _ => return Err("Invalid stage".to_string()),
         };
         get_card_pair(stage, card_idx, LearningDirection::SpanishToEnglish)

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 301,
+    "word": "the weather",
+    "example": "What's the weather like today?"
+  },
+  {
+    "id": 302,
+    "word": "the climate",
+    "example": "The climate is pleasant here"
+  },
+  {
+    "id": 303,
+    "word": "the sun",
+    "example": "The sun shines a lot"
+  },
+  {
+    "id": 304,
+    "word": "the rain",
+    "example": "The rain is heavy"
+  },
+  {
+    "id": 305,
+    "word": "the snow",
+    "example": "The snow covers the mountains"
+  },
+  {
+    "id": 306,
+    "word": "the wind",
+    "example": "The wind blows a lot"
+  },
+  {
+    "id": 307,
+    "word": "the cloud",
+    "example": "The clouds are gray"
+  },
+  {
+    "id": 308,
+    "word": "the storm",
+    "example": "A big storm is coming"
+  },
+  {
+    "id": 309,
+    "word": "the temperature",
+    "example": "The temperature is high"
+  },
+  {
+    "id": 310,
+    "word": "the season",
+    "example": "My favorite season is autumn"
+  },
+  {
+    "id": 311,
+    "word": "the spring",
+    "example": "Spring begins in March"
+  },
+  {
+    "id": 312,
+    "word": "the summer",
+    "example": "Summer is very hot"
+  },
+  {
+    "id": 313,
+    "word": "the autumn/fall",
+    "example": "In autumn the leaves fall"
+  },
+  {
+    "id": 314,
+    "word": "the winter",
+    "example": "Winter is very cold"
+  },
+  {
+    "id": 315,
+    "word": "to rain",
+    "example": "It's going to rain this afternoon"
+  },
+  {
+    "id": 316,
+    "word": "to snow",
+    "example": "It's snowing a lot"
+  },
+  {
+    "id": 317,
+    "word": "hot",
+    "example": "The coffee is very hot"
+  },
+  {
+    "id": 318,
+    "word": "cool/fresh",
+    "example": "The night is cool"
+  },
+  {
+    "id": 319,
+    "word": "humid",
+    "example": "The air is very humid"
+  },
+  {
+    "id": 320,
+    "word": "dry",
+    "example": "The climate is dry here"
+  }
+]

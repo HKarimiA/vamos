@@ -1,102 +1,102 @@
 [
   {
     "id": 21,
-    "word": "familia",
+    "word": "la familia",
     "example": "Mi familia es muy importante"
   },
   {
     "id": 22,
-    "word": "madre",
+    "word": "la madre",
     "example": "Mi madre cocina muy bien"
   },
   {
     "id": 23,
-    "word": "padre",
+    "word": "el padre",
     "example": "Mi padre trabaja en una oficina"
   },
   {
     "id": 24,
-    "word": "hermano",
+    "word": "el/la hermano/a",
     "example": "Tengo un hermano mayor"
   },
   {
     "id": 25,
-    "word": "hermana",
-    "example": "Mi hermana estudia medicina"
-  },
-  {
-    "id": 26,
-    "word": "hijo",
+    "word": "el/la hijo/a",
     "example": "Su hijo tiene diez años"
   },
   {
+    "id": 26,
+    "word": "el/la abuelo/a",
+    "example": "Mi abuela tiene ochenta años"
+  },
+  {
     "id": 27,
-    "word": "hija",
-    "example": "Mi hija va a la escuela"
+    "word": "el mundo",
+    "example": "Quiero viajar por todo el mundo"
   },
   {
     "id": 28,
-    "word": "grande",
-    "example": "Esta ciudad es muy grande"
+    "word": "la vida",
+    "example": "La vida es bella"
   },
   {
     "id": 29,
-    "word": "pequeño",
-    "example": "Es un apartamento pequeño"
+    "word": "el trabajo",
+    "example": "Mi trabajo es muy interesante"
   },
   {
     "id": 30,
-    "word": "nuevo",
-    "example": "Compré un coche nuevo"
+    "word": "la semana",
+    "example": "La próxima semana tengo vacaciones"
   },
   {
     "id": 31,
-    "word": "viejo",
-    "example": "Es un libro muy viejo"
-  },
-  {
-    "id": 32,
-    "word": "mucho",
-    "example": "Tengo mucho trabajo hoy"
-  },
-  {
-    "id": 33,
-    "word": "poco",
-    "example": "Hay poco tiempo"
-  },
-  {
-    "id": 34,
     "word": "hacer",
     "example": "¿Qué vas a hacer mañana?"
   },
   {
-    "id": 35,
+    "id": 32,
     "word": "tener",
-    "example": "Tengo dos gatos"
+    "example": "Tengo dos gatos en casa"
   },
   {
-    "id": 36,
+    "id": 33,
     "word": "ser",
     "example": "Ella es muy inteligente"
   },
   {
-    "id": 37,
+    "id": 34,
     "word": "estar",
-    "example": "Estoy en el parque"
+    "example": "Estoy en el parque ahora"
   },
   {
-    "id": 38,
+    "id": 35,
     "word": "poder",
     "example": "No puedo ir hoy"
   },
   {
-    "id": 39,
+    "id": 36,
     "word": "querer",
     "example": "Quiero aprender español"
   },
   {
+    "id": 37,
+    "word": "grande",
+    "example": "Esta ciudad es muy grande"
+  },
+  {
+    "id": 38,
+    "word": "pequeño/a",
+    "example": "Es un apartamento pequeño"
+  },
+  {
+    "id": 39,
+    "word": "nuevo/a",
+    "example": "Compré un coche nuevo"
+  },
+  {
     "id": 40,
-    "word": "saber",
-    "example": "Yo sé nadar muy bien"
+    "word": "viejo/a",
+    "example": "Es un libro muy viejo"
   }
 ]

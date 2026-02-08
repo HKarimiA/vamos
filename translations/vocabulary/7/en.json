@@ -1,0 +1,102 @@
+[
+  {
+    "id": 121,
+    "word": "the color",
+    "example": "What's your favorite color?"
+  },
+  {
+    "id": 122,
+    "word": "white",
+    "example": "Snow is white"
+  },
+  {
+    "id": 123,
+    "word": "black",
+    "example": "I have a black cat"
+  },
+  {
+    "id": 124,
+    "word": "red",
+    "example": "Red wine is red"
+  },
+  {
+    "id": 125,
+    "word": "blue",
+    "example": "The sky is blue today"
+  },
+  {
+    "id": 126,
+    "word": "green",
+    "example": "Plants are green"
+  },
+  {
+    "id": 127,
+    "word": "the sun",
+    "example": "The sun is shining a lot today"
+  },
+  {
+    "id": 128,
+    "word": "the rain",
+    "example": "Rain is necessary for plants"
+  },
+  {
+    "id": 129,
+    "word": "the wind",
+    "example": "There's a lot of wind this afternoon"
+  },
+  {
+    "id": 130,
+    "word": "the cloud",
+    "example": "The clouds cover the sky"
+  },
+  {
+    "id": 131,
+    "word": "the tree",
+    "example": "That tree is very tall"
+  },
+  {
+    "id": 132,
+    "word": "the flower",
+    "example": "The garden flowers are beautiful"
+  },
+  {
+    "id": 133,
+    "word": "the sea",
+    "example": "I love to swim in the sea"
+  },
+  {
+    "id": 134,
+    "word": "the mountain",
+    "example": "The mountain has a lot of snow"
+  },
+  {
+    "id": 135,
+    "word": "the river",
+    "example": "The river passes through the city"
+  },
+  {
+    "id": 136,
+    "word": "to rain",
+    "example": "It's going to rain this afternoon"
+  },
+  {
+    "id": 137,
+    "word": "to snow",
+    "example": "It snows a lot in winter"
+  },
+  {
+    "id": 138,
+    "word": "to shine",
+    "example": "The stars shine at night"
+  },
+  {
+    "id": 139,
+    "word": "beautiful",
+    "example": "It's a beautiful day"
+  },
+  {
+    "id": 140,
+    "word": "ugly",
+    "example": "That building is very ugly"
+  }
+]

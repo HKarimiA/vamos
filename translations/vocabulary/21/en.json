@@ -1,0 +1,102 @@
+[
+  {
+    "id": 401,
+    "word": "the computer (Latin America)",
+    "example": "My computer is fast"
+  },
+  {
+    "id": 402,
+    "word": "the computer (Spain)",
+    "example": "The computer doesn't work"
+  },
+  {
+    "id": 403,
+    "word": "the keyboard",
+    "example": "The keyboard is dirty"
+  },
+  {
+    "id": 404,
+    "word": "the screen",
+    "example": "The screen is big"
+  },
+  {
+    "id": 405,
+    "word": "the application/app",
+    "example": "I downloaded a new app"
+  },
+  {
+    "id": 406,
+    "word": "the program",
+    "example": "This program is useful"
+  },
+  {
+    "id": 407,
+    "word": "the site",
+    "example": "I visit that website every day"
+  },
+  {
+    "id": 408,
+    "word": "the page",
+    "example": "This page has a lot of information"
+  },
+  {
+    "id": 409,
+    "word": "the file",
+    "example": "I saved the file on my computer"
+  },
+  {
+    "id": 410,
+    "word": "the photo",
+    "example": "I took a nice photo"
+  },
+  {
+    "id": 411,
+    "word": "the video",
+    "example": "I watch videos online"
+  },
+  {
+    "id": 412,
+    "word": "the password",
+    "example": "I forgot my password"
+  },
+  {
+    "id": 413,
+    "word": "to download",
+    "example": "I'm going to download the application"
+  },
+  {
+    "id": 414,
+    "word": "to upload",
+    "example": "I uploaded the photos to the network"
+  },
+  {
+    "id": 415,
+    "word": "to save",
+    "example": "Save the document"
+  },
+  {
+    "id": 416,
+    "word": "to delete",
+    "example": "I deleted the old files"
+  },
+  {
+    "id": 417,
+    "word": "to connect",
+    "example": "I can't connect to the internet"
+  },
+  {
+    "id": 418,
+    "word": "to work/function",
+    "example": "My phone doesn't work well"
+  },
+  {
+    "id": 419,
+    "word": "fast",
+    "example": "This connection is very fast"
+  },
+  {
+    "id": 420,
+    "word": "slow",
+    "example": "My computer is very slow"
+  }
+]

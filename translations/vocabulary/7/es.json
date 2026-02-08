@@ -1,0 +1,102 @@
+[
+  {
+    "id": 121,
+    "word": "el color",
+    "example": "¿Cuál es tu color favorito?"
+  },
+  {
+    "id": 122,
+    "word": "blanco/a",
+    "example": "La nieve es blanca"
+  },
+  {
+    "id": 123,
+    "word": "negro/a",
+    "example": "Tengo un gato negro"
+  },
+  {
+    "id": 124,
+    "word": "rojo/a",
+    "example": "El vino tinto es rojo"
+  },
+  {
+    "id": 125,
+    "word": "azul",
+    "example": "El cielo está azul hoy"
+  },
+  {
+    "id": 126,
+    "word": "verde",
+    "example": "Las plantas son verdes"
+  },
+  {
+    "id": 127,
+    "word": "el sol",
+    "example": "El sol brilla mucho hoy"
+  },
+  {
+    "id": 128,
+    "word": "la lluvia",
+    "example": "La lluvia es necesaria para las plantas"
+  },
+  {
+    "id": 129,
+    "word": "el viento",
+    "example": "Hay mucho viento esta tarde"
+  },
+  {
+    "id": 130,
+    "word": "la nube",
+    "example": "Las nubes cubren el cielo"
+  },
+  {
+    "id": 131,
+    "word": "el árbol",
+    "example": "Ese árbol es muy alto"
+  },
+  {
+    "id": 132,
+    "word": "la flor",
+    "example": "Las flores del jardín son hermosas"
+  },
+  {
+    "id": 133,
+    "word": "el mar",
+    "example": "Me encanta nadar en el mar"
+  },
+  {
+    "id": 134,
+    "word": "la montaña",
+    "example": "La montaña tiene mucha nieve"
+  },
+  {
+    "id": 135,
+    "word": "el río",
+    "example": "El río pasa por la ciudad"
+  },
+  {
+    "id": 136,
+    "word": "llover",
+    "example": "Va a llover esta tarde"
+  },
+  {
+    "id": 137,
+    "word": "nevar",
+    "example": "En invierno nieva mucho"
+  },
+  {
+    "id": 138,
+    "word": "brillar",
+    "example": "Las estrellas brillan en la noche"
+  },
+  {
+    "id": 139,
+    "word": "hermoso/a",
+    "example": "Es un día hermoso"
+  },
+  {
+    "id": 140,
+    "word": "feo/a",
+    "example": "Ese edificio es muy feo"
+  }
+]

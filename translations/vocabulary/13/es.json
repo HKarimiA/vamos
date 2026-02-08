@@ -1,0 +1,102 @@
+[
+  {
+    "id": 241,
+    "word": "el deporte",
+    "example": "Me gusta practicar deportes"
+  },
+  {
+    "id": 242,
+    "word": "el fútbol",
+    "example": "El fútbol es muy popular"
+  },
+  {
+    "id": 243,
+    "word": "la música",
+    "example": "La música me relaja"
+  },
+  {
+    "id": 244,
+    "word": "el cine",
+    "example": "Vamos al cine esta noche"
+  },
+  {
+    "id": 245,
+    "word": "la película",
+    "example": "Es una película interesante"
+  },
+  {
+    "id": 246,
+    "word": "el juego",
+    "example": "Este juego es divertido"
+  },
+  {
+    "id": 247,
+    "word": "la fiesta",
+    "example": "La fiesta empieza a las nueve"
+  },
+  {
+    "id": 248,
+    "word": "el baile",
+    "example": "Me encanta el baile"
+  },
+  {
+    "id": 249,
+    "word": "la canción",
+    "example": "Esta canción es muy bonita"
+  },
+  {
+    "id": 250,
+    "word": "el parque",
+    "example": "Vamos al parque a pasear"
+  },
+  {
+    "id": 251,
+    "word": "jugar",
+    "example": "Los niños juegan en el jardín"
+  },
+  {
+    "id": 252,
+    "word": "bailar",
+    "example": "Me gusta bailar salsa"
+  },
+  {
+    "id": 253,
+    "word": "cantar",
+    "example": "Ella canta muy bien"
+  },
+  {
+    "id": 254,
+    "word": "nadar",
+    "example": "Voy a nadar en la piscina"
+  },
+  {
+    "id": 255,
+    "word": "tocar",
+    "example": "Toco la guitarra desde niño"
+  },
+  {
+    "id": 256,
+    "word": "pintar",
+    "example": "Me encanta pintar cuadros"
+  },
+  {
+    "id": 257,
+    "word": "visitar",
+    "example": "Quiero visitar ese museo"
+  },
+  {
+    "id": 258,
+    "word": "conocer",
+    "example": "Quiero conocer gente nueva"
+  },
+  {
+    "id": 259,
+    "word": "divertirse",
+    "example": "Nos divertimos mucho ayer"
+  },
+  {
+    "id": 260,
+    "word": "descansar",
+    "example": "El domingo voy a descansar"
+  }
+]

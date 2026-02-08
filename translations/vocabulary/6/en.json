@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "word": "the body",
+    "example": "The human body is fascinating"
+  },
+  {
+    "id": 102,
+    "word": "the head",
+    "example": "My head hurts today"
+  },
+  {
+    "id": 103,
+    "word": "the eye",
+    "example": "He/She has blue eyes"
+  },
+  {
+    "id": 104,
+    "word": "the hand",
+    "example": "Give me your hand, please"
+  },
+  {
+    "id": 105,
+    "word": "the foot",
+    "example": "My right foot hurts"
+  },
+  {
+    "id": 106,
+    "word": "the heart",
+    "example": "My heart is beating fast"
+  },
+  {
+    "id": 107,
+    "word": "the health",
+    "example": "Health is the most important thing"
+  },
+  {
+    "id": 108,
+    "word": "the pain",
+    "example": "I have a pain in my stomach"
+  },
+  {
+    "id": 109,
+    "word": "the doctor",
+    "example": "I'm going to the doctor tomorrow"
+  },
+  {
+    "id": 110,
+    "word": "the medicine",
+    "example": "I need to take this medicine"
+  },
+  {
+    "id": 111,
+    "word": "to feel",
+    "example": "I feel much better today"
+  },
+  {
+    "id": 112,
+    "word": "to hurt",
+    "example": "My back hurts"
+  },
+  {
+    "id": 113,
+    "word": "to rest",
+    "example": "I need to rest a bit"
+  },
+  {
+    "id": 114,
+    "word": "to sleep",
+    "example": "I sleep eight hours every night"
+  },
+  {
+    "id": 115,
+    "word": "to walk",
+    "example": "I like to walk in the park"
+  },
+  {
+    "id": 116,
+    "word": "to run",
+    "example": "I run three times a week"
+  },
+  {
+    "id": 117,
+    "word": "sick/ill",
+    "example": "I'm sick, I have a fever"
+  },
+  {
+    "id": 118,
+    "word": "healthy",
+    "example": "I try to live a healthy life"
+  },
+  {
+    "id": 119,
+    "word": "tired",
+    "example": "I'm very tired after work"
+  },
+  {
+    "id": 120,
+    "word": "strong",
+    "example": "That man is very strong"
+  }
+]

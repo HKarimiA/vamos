@@ -1,0 +1,102 @@
+[
+  {
+    "id": 221,
+    "word": "la habitación",
+    "example": "Mi habitación es pequeña"
+  },
+  {
+    "id": 222,
+    "word": "la cocina",
+    "example": "La cocina está limpia"
+  },
+  {
+    "id": 223,
+    "word": "el baño",
+    "example": "El baño está ocupado"
+  },
+  {
+    "id": 224,
+    "word": "la sala",
+    "example": "Estamos en la sala viendo televisión"
+  },
+  {
+    "id": 225,
+    "word": "la puerta",
+    "example": "Cierra la puerta, por favor"
+  },
+  {
+    "id": 226,
+    "word": "la ventana",
+    "example": "Abre la ventana, hace calor"
+  },
+  {
+    "id": 227,
+    "word": "la mesa",
+    "example": "La mesa está en el comedor"
+  },
+  {
+    "id": 228,
+    "word": "la silla",
+    "example": "Siéntate en esta silla"
+  },
+  {
+    "id": 229,
+    "word": "la cama",
+    "example": "Mi cama es muy cómoda"
+  },
+  {
+    "id": 230,
+    "word": "el sofá",
+    "example": "El sofá es grande"
+  },
+  {
+    "id": 231,
+    "word": "la luz",
+    "example": "Enciende la luz, por favor"
+  },
+  {
+    "id": 232,
+    "word": "el suelo",
+    "example": "El suelo está mojado"
+  },
+  {
+    "id": 233,
+    "word": "la pared",
+    "example": "Las paredes son blancas"
+  },
+  {
+    "id": 234,
+    "word": "limpiar",
+    "example": "Voy a limpiar la casa"
+  },
+  {
+    "id": 235,
+    "word": "abrir",
+    "example": "Abre la puerta"
+  },
+  {
+    "id": 236,
+    "word": "cerrar",
+    "example": "Cierra la ventana"
+  },
+  {
+    "id": 237,
+    "word": "encender",
+    "example": "Enciende la luz"
+  },
+  {
+    "id": 238,
+    "word": "apagar",
+    "example": "Apaga la televisión"
+  },
+  {
+    "id": 239,
+    "word": "sentarse",
+    "example": "Siéntate aquí"
+  },
+  {
+    "id": 240,
+    "word": "levantarse",
+    "example": "Me levanto a las siete"
+  }
+]

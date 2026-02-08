@@ -1,0 +1,102 @@
+[
+  {
+    "id": 81,
+    "word": "the time",
+    "example": "I don't have time now"
+  },
+  {
+    "id": 82,
+    "word": "the hour",
+    "example": "What time is it?"
+  },
+  {
+    "id": 83,
+    "word": "the minute",
+    "example": "Wait a minute, please"
+  },
+  {
+    "id": 84,
+    "word": "the morning",
+    "example": "I wake up early in the morning"
+  },
+  {
+    "id": 85,
+    "word": "the afternoon",
+    "example": "I work until the afternoon"
+  },
+  {
+    "id": 86,
+    "word": "the year",
+    "example": "This year I'm going to travel"
+  },
+  {
+    "id": 87,
+    "word": "the month",
+    "example": "Next month is July"
+  },
+  {
+    "id": 88,
+    "word": "today",
+    "example": "Today the weather is nice"
+  },
+  {
+    "id": 89,
+    "word": "tomorrow",
+    "example": "Tomorrow I'm going to the doctor"
+  },
+  {
+    "id": 90,
+    "word": "yesterday",
+    "example": "Yesterday I went to the movies"
+  },
+  {
+    "id": 91,
+    "word": "now",
+    "example": "Now I'm busy"
+  },
+  {
+    "id": 92,
+    "word": "after/later",
+    "example": "We'll talk after the meeting"
+  },
+  {
+    "id": 93,
+    "word": "before",
+    "example": "I arrived before you"
+  },
+  {
+    "id": 94,
+    "word": "always",
+    "example": "I always have coffee for breakfast"
+  },
+  {
+    "id": 95,
+    "word": "never",
+    "example": "I've never been to Paris"
+  },
+  {
+    "id": 96,
+    "word": "to wait",
+    "example": "I'm going to wait here"
+  },
+  {
+    "id": 97,
+    "word": "to start/begin",
+    "example": "The class starts at nine"
+  },
+  {
+    "id": 98,
+    "word": "to finish",
+    "example": "I finish work at six"
+  },
+  {
+    "id": 99,
+    "word": "fast/quick",
+    "example": "This train is very fast"
+  },
+  {
+    "id": 100,
+    "word": "slow",
+    "example": "The bus is too slow"
+  }
+]

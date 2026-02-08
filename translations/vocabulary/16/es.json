@@ -1,0 +1,102 @@
+[
+  {
+    "id": 301,
+    "word": "el tiempo",
+    "example": "¿Qué tiempo hace hoy?"
+  },
+  {
+    "id": 302,
+    "word": "el clima",
+    "example": "El clima es agradable aquí"
+  },
+  {
+    "id": 303,
+    "word": "el sol",
+    "example": "El sol brilla mucho"
+  },
+  {
+    "id": 304,
+    "word": "la lluvia",
+    "example": "La lluvia es fuerte"
+  },
+  {
+    "id": 305,
+    "word": "la nieve",
+    "example": "La nieve cubre las montañas"
+  },
+  {
+    "id": 306,
+    "word": "el viento",
+    "example": "El viento sopla mucho"
+  },
+  {
+    "id": 307,
+    "word": "la nube",
+    "example": "Las nubes son grises"
+  },
+  {
+    "id": 308,
+    "word": "la tormenta",
+    "example": "Viene una tormenta grande"
+  },
+  {
+    "id": 309,
+    "word": "la temperatura",
+    "example": "La temperatura es alta"
+  },
+  {
+    "id": 310,
+    "word": "la estación",
+    "example": "Mi estación favorita es el otoño"
+  },
+  {
+    "id": 311,
+    "word": "la primavera",
+    "example": "La primavera comienza en marzo"
+  },
+  {
+    "id": 312,
+    "word": "el verano",
+    "example": "El verano es muy caluroso"
+  },
+  {
+    "id": 313,
+    "word": "el otoño",
+    "example": "En otoño caen las hojas"
+  },
+  {
+    "id": 314,
+    "word": "el invierno",
+    "example": "El invierno es muy frío"
+  },
+  {
+    "id": 315,
+    "word": "llover",
+    "example": "Va a llover esta tarde"
+  },
+  {
+    "id": 316,
+    "word": "nevar",
+    "example": "Está nevando mucho"
+  },
+  {
+    "id": 317,
+    "word": "caliente",
+    "example": "El café está muy caliente"
+  },
+  {
+    "id": 318,
+    "word": "fresco/a",
+    "example": "La noche es fresca"
+  },
+  {
+    "id": 319,
+    "word": "húmedo/a",
+    "example": "El aire está muy húmedo"
+  },
+  {
+    "id": 320,
+    "word": "seco/a",
+    "example": "El clima es seco aquí"
+  }
+]

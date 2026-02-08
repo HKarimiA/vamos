@@ -1,0 +1,102 @@
+[
+  {
+    "id": 281,
+    "word": "el teléfono",
+    "example": "Mi teléfono no funciona"
+  },
+  {
+    "id": 282,
+    "word": "el mensaje",
+    "example": "Recibí tu mensaje ayer"
+  },
+  {
+    "id": 283,
+    "word": "el correo",
+    "example": "Voy a enviar un correo"
+  },
+  {
+    "id": 284,
+    "word": "la carta",
+    "example": "Escribí una carta a mi abuela"
+  },
+  {
+    "id": 285,
+    "word": "el nombre",
+    "example": "¿Cuál es tu nombre?"
+  },
+  {
+    "id": 286,
+    "word": "la dirección",
+    "example": "Dame tu dirección"
+  },
+  {
+    "id": 287,
+    "word": "el número",
+    "example": "Anota este número"
+  },
+  {
+    "id": 288,
+    "word": "la información",
+    "example": "Necesito más información"
+  },
+  {
+    "id": 289,
+    "word": "la noticia",
+    "example": "Las noticias empiezan a las ocho"
+  },
+  {
+    "id": 290,
+    "word": "la red",
+    "example": "No tengo conexión a la red"
+  },
+  {
+    "id": 291,
+    "word": "llamar",
+    "example": "Voy a llamar a mi madre"
+  },
+  {
+    "id": 292,
+    "word": "enviar",
+    "example": "Puedes enviar el documento"
+  },
+  {
+    "id": 293,
+    "word": "recibir",
+    "example": "Recibo muchos mensajes"
+  },
+  {
+    "id": 294,
+    "word": "preguntar",
+    "example": "Quiero preguntar algo"
+  },
+  {
+    "id": 295,
+    "word": "responder",
+    "example": "Voy a responder tu pregunta"
+  },
+  {
+    "id": 296,
+    "word": "entender",
+    "example": "No entiendo esta palabra"
+  },
+  {
+    "id": 297,
+    "word": "explicar",
+    "example": "Puedes explicar eso otra vez"
+  },
+  {
+    "id": 298,
+    "word": "aprender",
+    "example": "Aprendo español cada día"
+  },
+  {
+    "id": 299,
+    "word": "enseñar",
+    "example": "Mi profesora enseña matemáticas"
+  },
+  {
+    "id": 300,
+    "word": "recordar",
+    "example": "No recuerdo su nombre"
+  }
+]

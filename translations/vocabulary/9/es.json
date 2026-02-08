@@ -1,0 +1,102 @@
+[
+  {
+    "id": 161,
+    "word": "feliz",
+    "example": "Estoy muy feliz hoy"
+  },
+  {
+    "id": 162,
+    "word": "triste",
+    "example": "Me siento triste sin ti"
+  },
+  {
+    "id": 163,
+    "word": "contento/a",
+    "example": "Estoy contento con mi trabajo"
+  },
+  {
+    "id": 164,
+    "word": "enfadado/a",
+    "example": "Está enfadado conmigo"
+  },
+  {
+    "id": 165,
+    "word": "nervioso/a",
+    "example": "Me pongo nervioso antes de hablar"
+  },
+  {
+    "id": 166,
+    "word": "tranquilo/a",
+    "example": "Este lugar es muy tranquilo"
+  },
+  {
+    "id": 167,
+    "word": "el amor",
+    "example": "El amor es muy importante"
+  },
+  {
+    "id": 168,
+    "word": "la alegría",
+    "example": "Su alegría es contagiosa"
+  },
+  {
+    "id": 169,
+    "word": "el miedo",
+    "example": "Tengo miedo de las arañas"
+  },
+  {
+    "id": 170,
+    "word": "la sorpresa",
+    "example": "Fue una gran sorpresa"
+  },
+  {
+    "id": 171,
+    "word": "reír",
+    "example": "Me gusta reír con mis amigos"
+  },
+  {
+    "id": 172,
+    "word": "llorar",
+    "example": "Lloro cuando veo películas tristes"
+  },
+  {
+    "id": 173,
+    "word": "sonreír",
+    "example": "Ella siempre sonríe"
+  },
+  {
+    "id": 174,
+    "word": "amar",
+    "example": "Amo a mi familia"
+  },
+  {
+    "id": 175,
+    "word": "odiar",
+    "example": "Odio levantarme temprano"
+  },
+  {
+    "id": 176,
+    "word": "gustar",
+    "example": "Me gusta mucho la música"
+  },
+  {
+    "id": 177,
+    "word": "preferir",
+    "example": "Prefiero el té al café"
+  },
+  {
+    "id": 178,
+    "word": "divertido/a",
+    "example": "La fiesta fue muy divertida"
+  },
+  {
+    "id": 179,
+    "word": "aburrido/a",
+    "example": "Esta película es aburrida"
+  },
+  {
+    "id": 180,
+    "word": "interesante",
+    "example": "El libro es muy interesante"
+  }
+]

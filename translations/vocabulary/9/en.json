@@ -1,0 +1,102 @@
+[
+  {
+    "id": 161,
+    "word": "happy",
+    "example": "I'm very happy today"
+  },
+  {
+    "id": 162,
+    "word": "sad",
+    "example": "I feel sad without you"
+  },
+  {
+    "id": 163,
+    "word": "content/pleased",
+    "example": "I'm content with my job"
+  },
+  {
+    "id": 164,
+    "word": "angry",
+    "example": "He/She is angry with me"
+  },
+  {
+    "id": 165,
+    "word": "nervous",
+    "example": "I get nervous before speaking"
+  },
+  {
+    "id": 166,
+    "word": "calm/quiet",
+    "example": "This place is very calm"
+  },
+  {
+    "id": 167,
+    "word": "the love",
+    "example": "Love is very important"
+  },
+  {
+    "id": 168,
+    "word": "the joy",
+    "example": "His/Her joy is contagious"
+  },
+  {
+    "id": 169,
+    "word": "the fear",
+    "example": "I'm afraid of spiders"
+  },
+  {
+    "id": 170,
+    "word": "the surprise",
+    "example": "It was a big surprise"
+  },
+  {
+    "id": 171,
+    "word": "to laugh",
+    "example": "I like to laugh with my friends"
+  },
+  {
+    "id": 172,
+    "word": "to cry",
+    "example": "I cry when I watch sad movies"
+  },
+  {
+    "id": 173,
+    "word": "to smile",
+    "example": "She always smiles"
+  },
+  {
+    "id": 174,
+    "word": "to love",
+    "example": "I love my family"
+  },
+  {
+    "id": 175,
+    "word": "to hate",
+    "example": "I hate waking up early"
+  },
+  {
+    "id": 176,
+    "word": "to like/please",
+    "example": "I really like music"
+  },
+  {
+    "id": 177,
+    "word": "to prefer",
+    "example": "I prefer tea to coffee"
+  },
+  {
+    "id": 178,
+    "word": "fun/entertaining",
+    "example": "The party was very fun"
+  },
+  {
+    "id": 179,
+    "word": "boring",
+    "example": "This movie is boring"
+  },
+  {
+    "id": 180,
+    "word": "interesting",
+    "example": "The book is very interesting"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 341,
+    "word": "el viaje",
+    "example": "El viaje fue agradable"
+  },
+  {
+    "id": 342,
+    "word": "el aeropuerto",
+    "example": "Llegamos al aeropuerto temprano"
+  },
+  {
+    "id": 343,
+    "word": "el avión",
+    "example": "El avión sale a las tres"
+  },
+  {
+    "id": 344,
+    "word": "el tren",
+    "example": "Voy en tren a Madrid"
+  },
+  {
+    "id": 345,
+    "word": "la estación",
+    "example": "La estación de tren está cerca"
+  },
+  {
+    "id": 346,
+    "word": "el boleto",
+    "example": "Compré el boleto en línea"
+  },
+  {
+    "id": 347,
+    "word": "el hotel",
+    "example": "El hotel es muy cómodo"
+  },
+  {
+    "id": 348,
+    "word": "la reserva",
+    "example": "Hice una reserva para dos noches"
+  },
+  {
+    "id": 349,
+    "word": "el mapa",
+    "example": "Necesito un mapa de la ciudad"
+  },
+  {
+    "id": 350,
+    "word": "la dirección",
+    "example": "¿Cuál es la dirección del hotel?"
+  },
+  {
+    "id": 351,
+    "word": "el norte",
+    "example": "Vamos hacia el norte"
+  },
+  {
+    "id": 352,
+    "word": "el sur",
+    "example": "El sur es más cálido"
+  },
+  {
+    "id": 353,
+    "word": "el este",
+    "example": "El sol sale por el este"
+  },
+  {
+    "id": 354,
+    "word": "el oeste",
+    "example": "Vamos al oeste"
+  },
+  {
+    "id": 355,
+    "word": "viajar",
+    "example": "Me gusta viajar por el mundo"
+  },
+  {
+    "id": 356,
+    "word": "llegar",
+    "example": "Voy a llegar tarde"
+  },
+  {
+    "id": 357,
+    "word": "salir",
+    "example": "Salimos mañana temprano"
+  },
+  {
+    "id": 358,
+    "word": "regresar",
+    "example": "Regreso el domingo"
+  },
+  {
+    "id": 359,
+    "word": "perderse",
+    "example": "Me perdí en la ciudad"
+  },
+  {
+    "id": 360,
+    "word": "seguir",
+    "example": "Sigue todo recto"
+  }
+]

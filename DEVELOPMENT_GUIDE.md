@@ -188,6 +188,78 @@ pub fn get_card_pair(
 ) -> Result<(VocabularyCard, VocabularyCard), String>
 ```
 
+### Vocabulary Content Guidelines
+
+When creating or editing vocabulary JSON files, follow these standards:
+
+**1. Gendered Nouns with Slash Notation**
+
+```json
+// ✅ CORRECT
+{"id": 1, "word": "el/la hermano/a", "example": "Tengo un hermano mayor"}
+{"id": 2, "word": "el/la amigo/a", "example": "Mi amigo vive en Madrid"}
+
+// ❌ WRONG - separate entries for each gender
+{"id": 1, "word": "hermano", "example": "..."}
+{"id": 2, "word": "hermana", "example": "..."}
+```
+
+**2. Always Include Articles with Nouns**
+
+```json
+// ✅ CORRECT
+{"id": 1, "word": "la casa", "example": "La casa está cerca"}
+{"id": 2, "word": "el agua", "example": "El agua está fría"}
+
+// ❌ WRONG - noun without article
+{"id": 1, "word": "casa", "example": "..."}
+```
+
+**3. Adjectives with Gender Conjugation**
+
+```json
+// ✅ CORRECT
+{"id": 1, "word": "nuevo/a", "example": "Compré un coche nuevo"}
+{"id": 2, "word": "pequeño/a", "example": "Es un apartamento pequeño"}
+
+// Note: Some adjectives don't change (e.g., "grande" for both genders)
+{"id": 3, "word": "grande", "example": "Esta ciudad es muy grande"}
+```
+
+**4. Word Type Distribution**
+
+Maintain a balanced mix across each stage:
+
+- **Nouns**: ~40% (with articles: el/la/los/las)
+- **Verbs**: ~35% (infinitive form)
+- **Adjectives**: ~20% (with gender notation when applicable)
+- **Adverbs/Other**: ~5%
+
+**5. Avoid Easy Cognates**
+
+Remove words that are nearly identical to English:
+
+- ❌ hospital, restaurant, hotel, música, radio, televisión
+- ✅ Include words that require actual learning
+
+**6. Example Sentences**
+
+- Use natural, everyday contexts
+- Keep sentences short (5-10 words)
+- Ensure examples demonstrate proper word usage
+- Match the word form in the example (if word shows "nuevo/a", example can show either gender)
+
+**Example Stage Structure:**
+
+```json
+[
+  { "id": 1, "word": "el agua", "example": "Quiero beber el agua fría" },
+  { "id": 2, "word": "comer", "example": "Me gusta comer frutas frescas" },
+  { "id": 3, "word": "bueno/a", "example": "Es una buena idea" },
+  { "id": 4, "word": "el/la amigo/a", "example": "Mi amigo vive en Madrid" }
+]
+```
+
 ---
 
 ## Coding Conventions

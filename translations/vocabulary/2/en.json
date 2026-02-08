@@ -1,102 +1,102 @@
 [
   {
     "id": 21,
-    "word": "family",
+    "word": "the family",
     "example": "My family is very important"
   },
   {
     "id": 22,
-    "word": "mother",
+    "word": "the mother",
     "example": "My mother cooks very well"
   },
   {
     "id": 23,
-    "word": "father",
+    "word": "the father",
     "example": "My father works in an office"
   },
   {
     "id": 24,
-    "word": "brother",
+    "word": "the brother/sister",
     "example": "I have an older brother"
   },
   {
     "id": 25,
-    "word": "sister",
-    "example": "My sister studies medicine"
-  },
-  {
-    "id": 26,
-    "word": "son",
+    "word": "the son/daughter",
     "example": "His son is ten years old"
   },
   {
+    "id": 26,
+    "word": "the grandfather/grandmother",
+    "example": "My grandmother is eighty years old"
+  },
+  {
     "id": 27,
-    "word": "daughter",
-    "example": "My daughter goes to school"
+    "word": "the world",
+    "example": "I want to travel around the whole world"
   },
   {
     "id": 28,
-    "word": "big/large",
-    "example": "This city is very big"
+    "word": "the life",
+    "example": "Life is beautiful"
   },
   {
     "id": 29,
-    "word": "small",
-    "example": "It's a small apartment"
+    "word": "the work",
+    "example": "My work is very interesting"
   },
   {
     "id": 30,
-    "word": "new",
-    "example": "I bought a new car"
+    "word": "the week",
+    "example": "Next week I have vacation"
   },
   {
     "id": 31,
-    "word": "old",
-    "example": "It's a very old book"
-  },
-  {
-    "id": 32,
-    "word": "much/many",
-    "example": "I have a lot of work today"
-  },
-  {
-    "id": 33,
-    "word": "little/few",
-    "example": "There is little time"
-  },
-  {
-    "id": 34,
     "word": "to do/make",
     "example": "What are you going to do tomorrow?"
   },
   {
-    "id": 35,
+    "id": 32,
     "word": "to have",
-    "example": "I have two cats"
+    "example": "I have two cats at home"
   },
   {
-    "id": 36,
-    "word": "to be",
+    "id": 33,
+    "word": "to be (essence)",
     "example": "She is very intelligent"
   },
   {
-    "id": 37,
+    "id": 34,
     "word": "to be (location)",
-    "example": "I'm in the park"
+    "example": "I'm in the park now"
   },
   {
-    "id": 38,
+    "id": 35,
     "word": "to be able/can",
     "example": "I can't go today"
   },
   {
-    "id": 39,
+    "id": 36,
     "word": "to want",
     "example": "I want to learn Spanish"
   },
   {
+    "id": 37,
+    "word": "big/large",
+    "example": "This city is very big"
+  },
+  {
+    "id": 38,
+    "word": "small",
+    "example": "It's a small apartment"
+  },
+  {
+    "id": 39,
+    "word": "new",
+    "example": "I bought a new car"
+  },
+  {
     "id": 40,
-    "word": "to know",
-    "example": "I know how to swim very well"
+    "word": "old",
+    "example": "It's a very old book"
   }
 ]

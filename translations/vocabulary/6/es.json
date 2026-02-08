@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "word": "el cuerpo",
+    "example": "El cuerpo humano es fascinante"
+  },
+  {
+    "id": 102,
+    "word": "la cabeza",
+    "example": "Me duele la cabeza hoy"
+  },
+  {
+    "id": 103,
+    "word": "el ojo",
+    "example": "Tiene los ojos azules"
+  },
+  {
+    "id": 104,
+    "word": "la mano",
+    "example": "Dame la mano, por favor"
+  },
+  {
+    "id": 105,
+    "word": "el pie",
+    "example": "Me duele el pie derecho"
+  },
+  {
+    "id": 106,
+    "word": "el corazón",
+    "example": "Mi corazón late rápido"
+  },
+  {
+    "id": 107,
+    "word": "la salud",
+    "example": "La salud es lo más importante"
+  },
+  {
+    "id": 108,
+    "word": "el dolor",
+    "example": "Tengo un dolor en el estómago"
+  },
+  {
+    "id": 109,
+    "word": "el/la médico/a",
+    "example": "Voy al médico mañana"
+  },
+  {
+    "id": 110,
+    "word": "la medicina",
+    "example": "Necesito tomar esta medicina"
+  },
+  {
+    "id": 111,
+    "word": "sentirse",
+    "example": "Me siento mucho mejor hoy"
+  },
+  {
+    "id": 112,
+    "word": "doler",
+    "example": "Me duele la espalda"
+  },
+  {
+    "id": 113,
+    "word": "descansar",
+    "example": "Necesito descansar un poco"
+  },
+  {
+    "id": 114,
+    "word": "dormir",
+    "example": "Duermo ocho horas cada noche"
+  },
+  {
+    "id": 115,
+    "word": "caminar",
+    "example": "Me gusta caminar por el parque"
+  },
+  {
+    "id": 116,
+    "word": "correr",
+    "example": "Corro tres veces por semana"
+  },
+  {
+    "id": 117,
+    "word": "enfermo/a",
+    "example": "Estoy enfermo, tengo fiebre"
+  },
+  {
+    "id": 118,
+    "word": "sano/a",
+    "example": "Intento llevar una vida sana"
+  },
+  {
+    "id": 119,
+    "word": "cansado/a",
+    "example": "Estoy muy cansado después del trabajo"
+  },
+  {
+    "id": 120,
+    "word": "fuerte",
+    "example": "Ese hombre es muy fuerte"
+  }
+]

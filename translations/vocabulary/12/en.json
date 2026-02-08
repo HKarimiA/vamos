@@ -1,0 +1,102 @@
+[
+  {
+    "id": 221,
+    "word": "the room/bedroom",
+    "example": "My room is small"
+  },
+  {
+    "id": 222,
+    "word": "the kitchen",
+    "example": "The kitchen is clean"
+  },
+  {
+    "id": 223,
+    "word": "the bathroom",
+    "example": "The bathroom is occupied"
+  },
+  {
+    "id": 224,
+    "word": "the living room",
+    "example": "We're in the living room watching TV"
+  },
+  {
+    "id": 225,
+    "word": "the door",
+    "example": "Close the door, please"
+  },
+  {
+    "id": 226,
+    "word": "the window",
+    "example": "Open the window, it's hot"
+  },
+  {
+    "id": 227,
+    "word": "the table",
+    "example": "The table is in the dining room"
+  },
+  {
+    "id": 228,
+    "word": "the chair",
+    "example": "Sit on this chair"
+  },
+  {
+    "id": 229,
+    "word": "the bed",
+    "example": "My bed is very comfortable"
+  },
+  {
+    "id": 230,
+    "word": "the sofa/couch",
+    "example": "The sofa is big"
+  },
+  {
+    "id": 231,
+    "word": "the light",
+    "example": "Turn on the light, please"
+  },
+  {
+    "id": 232,
+    "word": "the floor",
+    "example": "The floor is wet"
+  },
+  {
+    "id": 233,
+    "word": "the wall",
+    "example": "The walls are white"
+  },
+  {
+    "id": 234,
+    "word": "to clean",
+    "example": "I'm going to clean the house"
+  },
+  {
+    "id": 235,
+    "word": "to open",
+    "example": "Open the door"
+  },
+  {
+    "id": 236,
+    "word": "to close",
+    "example": "Close the window"
+  },
+  {
+    "id": 237,
+    "word": "to turn on",
+    "example": "Turn on the light"
+  },
+  {
+    "id": 238,
+    "word": "to turn off",
+    "example": "Turn off the TV"
+  },
+  {
+    "id": 239,
+    "word": "to sit down",
+    "example": "Sit here"
+  },
+  {
+    "id": 240,
+    "word": "to get up",
+    "example": "I get up at seven"
+  }
+]

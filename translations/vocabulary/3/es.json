@@ -1,102 +1,102 @@
 [
   {
     "id": 41,
-    "word": "trabajo",
-    "example": "Mi trabajo es muy interesante"
-  },
-  {
-    "id": 42,
-    "word": "escuela",
+    "word": "la escuela",
     "example": "Los niños van a la escuela"
   },
   {
+    "id": 42,
+    "word": "la calle",
+    "example": "Vivo en esta calle"
+  },
+  {
     "id": 43,
-    "word": "hospital",
-    "example": "El hospital está cerca"
+    "word": "la ciudad",
+    "example": "Barcelona es una ciudad hermosa"
   },
   {
     "id": 44,
-    "word": "restaurante",
-    "example": "Vamos a un restaurante italiano"
+    "word": "el país",
+    "example": "España es un país interesante"
   },
   {
     "id": 45,
-    "word": "tienda",
+    "word": "la tienda",
     "example": "Hay una tienda en la esquina"
   },
   {
     "id": 46,
-    "word": "calle",
-    "example": "Vivo en esta calle"
+    "word": "el libro",
+    "example": "Estoy leyendo un libro fascinante"
   },
   {
     "id": 47,
-    "word": "ciudad",
-    "example": "Madrid es una ciudad grande"
+    "word": "la palabra",
+    "example": "No entiendo esta palabra"
   },
   {
     "id": 48,
-    "word": "país",
-    "example": "España es un país hermoso"
+    "word": "la pregunta",
+    "example": "Tengo una pregunta importante"
   },
   {
     "id": 49,
-    "word": "leer",
-    "example": "Me gusta leer libros"
+    "word": "la respuesta",
+    "example": "No sé la respuesta correcta"
   },
   {
     "id": 50,
-    "word": "escribir",
-    "example": "Voy a escribir un email"
+    "word": "el problema",
+    "example": "Hay un problema con el coche"
   },
   {
     "id": 51,
-    "word": "hablar",
-    "example": "Quiero hablar español"
+    "word": "leer",
+    "example": "Me gusta leer novelas"
   },
   {
     "id": 52,
-    "word": "escuchar",
-    "example": "Me gusta escuchar música"
+    "word": "escribir",
+    "example": "Voy a escribir un mensaje"
   },
   {
     "id": 53,
-    "word": "ver",
-    "example": "Veo una película"
+    "word": "hablar",
+    "example": "Quiero hablar contigo"
   },
   {
     "id": 54,
-    "word": "mirar",
-    "example": "Mira el cielo"
+    "word": "escuchar",
+    "example": "Me gusta escuchar música clásica"
   },
   {
     "id": 55,
+    "word": "ver",
+    "example": "Veo una película cada semana"
+  },
+  {
+    "id": 56,
     "word": "dar",
     "example": "Voy a dar un regalo"
   },
   {
-    "id": 56,
-    "word": "decir",
-    "example": "¿Qué quieres decir?"
-  },
-  {
     "id": 57,
     "word": "pensar",
-    "example": "Pienso en ti"
+    "example": "Pienso en mis vacaciones"
   },
   {
     "id": 58,
-    "word": "sentir",
-    "example": "Me siento feliz"
+    "word": "vivir",
+    "example": "Vivo en Madrid desde hace años"
   },
   {
     "id": 59,
-    "word": "vivir",
-    "example": "Vivo en Barcelona"
+    "word": "trabajar",
+    "example": "Trabajo en una empresa internacional"
   },
   {
     "id": 60,
-    "word": "trabajar",
-    "example": "Trabajo en una oficina"
+    "word": "estudiar",
+    "example": "Estudio español cada día"
   }
 ]

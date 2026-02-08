@@ -1,0 +1,102 @@
+[
+  {
+    "id": 81,
+    "word": "el tiempo",
+    "example": "No tengo tiempo ahora"
+  },
+  {
+    "id": 82,
+    "word": "la hora",
+    "example": "¿Qué hora es?"
+  },
+  {
+    "id": 83,
+    "word": "el minuto",
+    "example": "Espera un minuto, por favor"
+  },
+  {
+    "id": 84,
+    "word": "la mañana",
+    "example": "Me levanto temprano por la mañana"
+  },
+  {
+    "id": 85,
+    "word": "la tarde",
+    "example": "Trabajo hasta la tarde"
+  },
+  {
+    "id": 86,
+    "word": "el año",
+    "example": "Este año voy a viajar"
+  },
+  {
+    "id": 87,
+    "word": "el mes",
+    "example": "El próximo mes es julio"
+  },
+  {
+    "id": 88,
+    "word": "hoy",
+    "example": "Hoy hace buen tiempo"
+  },
+  {
+    "id": 89,
+    "word": "mañana",
+    "example": "Mañana voy al médico"
+  },
+  {
+    "id": 90,
+    "word": "ayer",
+    "example": "Ayer fui al cine"
+  },
+  {
+    "id": 91,
+    "word": "ahora",
+    "example": "Ahora estoy ocupado"
+  },
+  {
+    "id": 92,
+    "word": "después",
+    "example": "Hablamos después de la reunión"
+  },
+  {
+    "id": 93,
+    "word": "antes",
+    "example": "Llegué antes que tú"
+  },
+  {
+    "id": 94,
+    "word": "siempre",
+    "example": "Siempre desayuno café"
+  },
+  {
+    "id": 95,
+    "word": "nunca",
+    "example": "Nunca he estado en París"
+  },
+  {
+    "id": 96,
+    "word": "esperar",
+    "example": "Voy a esperar aquí"
+  },
+  {
+    "id": 97,
+    "word": "empezar",
+    "example": "La clase empieza a las nueve"
+  },
+  {
+    "id": 98,
+    "word": "terminar",
+    "example": "Termino de trabajar a las seis"
+  },
+  {
+    "id": 99,
+    "word": "rápido/a",
+    "example": "Este tren es muy rápido"
+  },
+  {
+    "id": 100,
+    "word": "lento/a",
+    "example": "El autobús es demasiado lento"
+  }
+]

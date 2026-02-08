@@ -1,102 +1,102 @@
 [
   {
     "id": 1,
-    "word": "hello",
-    "example": "Hello, how are you?"
+    "word": "the water",
+    "example": "I want to drink the cold water"
   },
   {
     "id": 2,
-    "word": "goodbye",
-    "example": "Goodbye, see you tomorrow"
+    "word": "the house",
+    "example": "The house is close to the park"
   },
   {
     "id": 3,
-    "word": "thank you",
-    "example": "Thank you very much for your help"
+    "word": "the time",
+    "example": "I don't have much time today"
   },
   {
     "id": 4,
-    "word": "please",
-    "example": "A cup of coffee, please"
+    "word": "the day",
+    "example": "Today is a special day"
   },
   {
     "id": 5,
-    "word": "yes",
-    "example": "Yes, I agree"
+    "word": "the night",
+    "example": "The night is very dark"
   },
   {
     "id": 6,
-    "word": "no",
-    "example": "No, I can't go today"
+    "word": "the friend",
+    "example": "My friend lives in Madrid"
   },
   {
     "id": 7,
-    "word": "good/well",
-    "example": "I'm very well, thank you"
+    "word": "the food",
+    "example": "Spanish food is delicious"
   },
   {
     "id": 8,
-    "word": "bad",
-    "example": "I feel bad today"
+    "word": "the drink",
+    "example": "I want a cold drink"
   },
   {
     "id": 9,
-    "word": "sorry",
-    "example": "Sorry, I didn't hear you"
+    "word": "the place",
+    "example": "This is a quiet place"
   },
   {
     "id": 10,
-    "word": "good",
-    "example": "This restaurant is very good"
+    "word": "the person",
+    "example": "That person is very kind"
   },
   {
     "id": 11,
-    "word": "water",
-    "example": "I want to drink cold water"
+    "word": "to eat",
+    "example": "I like to eat fresh fruit"
   },
   {
     "id": 12,
-    "word": "house",
-    "example": "My house is nearby"
+    "word": "to drink",
+    "example": "I'm going to drink a coffee"
   },
   {
     "id": 13,
-    "word": "time/weather",
-    "example": "What's the weather like today?"
-  },
-  {
-    "id": 14,
-    "word": "day",
-    "example": "Today is a good day"
-  },
-  {
-    "id": 15,
-    "word": "night",
-    "example": "Good night, see you tomorrow"
-  },
-  {
-    "id": 16,
-    "word": "friend",
-    "example": "He is my best friend"
-  },
-  {
-    "id": 17,
-    "word": "to eat",
-    "example": "I like to eat fruits"
-  },
-  {
-    "id": 18,
-    "word": "to drink",
-    "example": "I want to drink something fresh"
-  },
-  {
-    "id": 19,
     "word": "to go",
     "example": "I'm going to go to the market"
   },
   {
-    "id": 20,
+    "id": 14,
     "word": "to come",
     "example": "Can you come tomorrow?"
+  },
+  {
+    "id": 15,
+    "word": "to arrive",
+    "example": "I'm going to arrive late"
+  },
+  {
+    "id": 16,
+    "word": "to leave",
+    "example": "I leave home at eight"
+  },
+  {
+    "id": 17,
+    "word": "good",
+    "example": "It's a good idea"
+  },
+  {
+    "id": 18,
+    "word": "bad",
+    "example": "The weather is bad today"
+  },
+  {
+    "id": 19,
+    "word": "much/many",
+    "example": "There are many people here"
+  },
+  {
+    "id": 20,
+    "word": "little/few",
+    "example": "I have little experience"
   }
 ]

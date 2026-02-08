@@ -1,0 +1,102 @@
+[
+  {
+    "id": 141,
+    "word": "the car",
+    "example": "My car is red"
+  },
+  {
+    "id": 142,
+    "word": "the train",
+    "example": "The train arrives at three"
+  },
+  {
+    "id": 143,
+    "word": "the bus",
+    "example": "I take the bus every day"
+  },
+  {
+    "id": 144,
+    "word": "the airplane",
+    "example": "The airplane flies very high"
+  },
+  {
+    "id": 145,
+    "word": "the bicycle",
+    "example": "I go to work by bicycle"
+  },
+  {
+    "id": 146,
+    "word": "the station",
+    "example": "The train station is nearby"
+  },
+  {
+    "id": 147,
+    "word": "the airport",
+    "example": "I'm going to the airport tomorrow"
+  },
+  {
+    "id": 148,
+    "word": "the ticket",
+    "example": "I need to buy a ticket"
+  },
+  {
+    "id": 149,
+    "word": "the trip/journey",
+    "example": "The trip was very long"
+  },
+  {
+    "id": 150,
+    "word": "the suitcase",
+    "example": "My suitcase is very heavy"
+  },
+  {
+    "id": 151,
+    "word": "to travel",
+    "example": "I love to travel to other countries"
+  },
+  {
+    "id": 152,
+    "word": "to drive",
+    "example": "I've known how to drive since eighteen"
+  },
+  {
+    "id": 153,
+    "word": "to get on/go up",
+    "example": "Let's get on the train"
+  },
+  {
+    "id": 154,
+    "word": "to get off/go down",
+    "example": "We have to get off at the next stop"
+  },
+  {
+    "id": 155,
+    "word": "to fly",
+    "example": "Birds fly in the sky"
+  },
+  {
+    "id": 156,
+    "word": "to stop",
+    "example": "The bus stops here"
+  },
+  {
+    "id": 157,
+    "word": "near/close",
+    "example": "The store is very close"
+  },
+  {
+    "id": 158,
+    "word": "far",
+    "example": "The hospital is far from here"
+  },
+  {
+    "id": 159,
+    "word": "fast/quick",
+    "example": "The plane is faster than the train"
+  },
+  {
+    "id": 160,
+    "word": "long",
+    "example": "It's a very long trip"
+  }
+]

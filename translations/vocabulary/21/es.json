@@ -1,0 +1,102 @@
+[
+  {
+    "id": 401,
+    "word": "la computadora",
+    "example": "Mi computadora es rápida"
+  },
+  {
+    "id": 402,
+    "word": "el ordenador",
+    "example": "El ordenador no funciona"
+  },
+  {
+    "id": 403,
+    "word": "el teclado",
+    "example": "El teclado está sucio"
+  },
+  {
+    "id": 404,
+    "word": "la pantalla",
+    "example": "La pantalla es grande"
+  },
+  {
+    "id": 405,
+    "word": "la aplicación",
+    "example": "Descargué una aplicación nueva"
+  },
+  {
+    "id": 406,
+    "word": "el programa",
+    "example": "Este programa es útil"
+  },
+  {
+    "id": 407,
+    "word": "el sitio",
+    "example": "Visito ese sitio web cada día"
+  },
+  {
+    "id": 408,
+    "word": "la página",
+    "example": "Esta página tiene mucha información"
+  },
+  {
+    "id": 409,
+    "word": "el archivo",
+    "example": "Guardé el archivo en mi computadora"
+  },
+  {
+    "id": 410,
+    "word": "la foto",
+    "example": "Tomé una foto bonita"
+  },
+  {
+    "id": 411,
+    "word": "el video",
+    "example": "Veo videos en línea"
+  },
+  {
+    "id": 412,
+    "word": "la contraseña",
+    "example": "Olvidé mi contraseña"
+  },
+  {
+    "id": 413,
+    "word": "descargar",
+    "example": "Voy a descargar la aplicación"
+  },
+  {
+    "id": 414,
+    "word": "subir",
+    "example": "Subí las fotos a la red"
+  },
+  {
+    "id": 415,
+    "word": "guardar",
+    "example": "Guarda el documento"
+  },
+  {
+    "id": 416,
+    "word": "borrar",
+    "example": "Borré los archivos viejos"
+  },
+  {
+    "id": 417,
+    "word": "conectar",
+    "example": "No puedo conectar a internet"
+  },
+  {
+    "id": 418,
+    "word": "funcionar",
+    "example": "Mi teléfono no funciona bien"
+  },
+  {
+    "id": 419,
+    "word": "rápido/a",
+    "example": "Esta conexión es muy rápida"
+  },
+  {
+    "id": 420,
+    "word": "lento/a",
+    "example": "Mi computadora es muy lenta"
+  }
+]
