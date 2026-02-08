@@ -128,27 +128,30 @@ pub fn VocabularyCards() -> impl IntoView {
 
                             view! {
                                 <div class="card-wrapper">
-                                    <div class="card-progress">
-                                        {move || format!("{} / {}", card_index.get() + 1, card_count.get())}
-                                    </div>
-
                                     <div class="vocabulary-card">
-                                        <div class="card-main">
-                                            <h2 class="card-word">{source.word.clone()}</h2>
-                                            <div class="card-actions">
+                                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                            <div class="card-progress">
+                                                {move || format!("{} / {}", card_index.get() + 1, card_count.get())}
+                                            </div>
+                                            <div class="card-actions" style="display: flex; gap: 0.5rem;">
                                                 <button
                                                     class="audio-button"
+                                                    style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
                                                     on:click=move |_| speak(source_word.clone(), source_lang)
                                                 >
                                                     "🔊"
                                                 </button>
                                                 <button
                                                     class=move || if is_favorite() { "favorite-button favorite-active" } else { "favorite-button" }
+                                                    style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
                                                     on:click=toggle_favorite
                                                 >
                                                     {move || if is_favorite() { "⭐" } else { "☆" }}
                                                 </button>
                                             </div>
+                                        </div>
+                                        <div class="card-main">
+                                            <h2 class="card-word">{source.word.clone()}</h2>
                                         </div>
 
                                         {move || (!show_example.get()).then(|| view! {

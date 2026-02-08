@@ -142,7 +142,6 @@ pub fn Favorites() -> impl IntoView {
                             <div class="error-message">
                                 <p>"No favorites yet!"</p>
                                 <p style="color: #666; font-size: 1rem;">"Add cards to favorites by clicking the ☆ icon"</p>
-                                <A href="/vocabulary" attr:class="back-button">"❮"</A>
                             </div>
                         }.into_any()
                     } else {
