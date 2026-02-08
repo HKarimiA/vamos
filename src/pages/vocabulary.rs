@@ -1,11 +1,20 @@
 use leptos::prelude::*;
 use leptos_router::components::A;
+use leptos_router::hooks::use_query_map;
 
 /// Vocabulary learning page - Shows stage selection grid
 #[component]
 pub fn Vocabulary() -> impl IntoView {
-    // State for learning direction
-    let (direction, set_direction) = signal("es-to-en".to_string());
+    let query = use_query_map();
+
+    // State for learning direction - initialize from URL query param
+    let (direction, set_direction) = signal(
+        query
+            .read()
+            .get("dir")
+            .filter(|d| d == "en-to-es" || d == "es-to-en")
+            .unwrap_or("es-to-en".to_string()),
+    );
 
     // Toggle direction handler
     let toggle_direction = move |_| {
@@ -23,25 +32,24 @@ pub fn Vocabulary() -> impl IntoView {
             <header class="page-header">
                 <A href="/" attr:class="back-button">"← Back"</A>
                 <h1>"Vocabulary"</h1>
-            </header>
-
-            <div class="vocab-content">
-                <div class="vocab-controls">
-                    <button
-                        class="direction-toggle"
-                        on:click=toggle_direction
-                    >
-                        {move || if direction.get() == "es-to-en" {
+                <button
+                    class="direction-toggle"
+                    on:click=toggle_direction
+                >
+                    {move || {
+                        if direction.get() == "es-to-en" {
                             "🇪🇸 → 🇬🇧"
                         } else {
                             "🇬🇧 → 🇪🇸"
-                        }}
-                    </button>
-                </div>
+                        }
+                    }}
+                </button>
+            </header>
 
+            <div class="vocab-content">
                 <div class="stage-grid">
-                    {(1..=20).map(|stage| {
-                        let href = format!("/vocabulary/{}", stage);
+                    {move || (1..=20).map(|stage| {
+                        let href = format!("/vocabulary/{}?dir={}", stage, direction.get());
                         view! {
                             <A href=href attr:class="stage-button">
                                 {stage.to_string()}

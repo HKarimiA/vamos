@@ -1,12 +1,13 @@
 use crate::data::{LearningDirection, get_card_pair, get_stage_card_count};
 use leptos::prelude::*;
-use leptos_router::{components::A, hooks::use_params_map};
+use leptos_router::{components::A, hooks::use_params_map, hooks::use_query_map};
 use std::collections::HashSet;
 
 /// Vocabulary card learning component
 #[component]
 pub fn VocabularyCards() -> impl IntoView {
     let params = use_params_map();
+    let query = use_query_map();
 
     // Extract stage from URL params
     let stage = move || {
@@ -17,11 +18,25 @@ pub fn VocabularyCards() -> impl IntoView {
             .unwrap_or(1)
     };
 
+    // Extract direction from query params
+    let direction = move || {
+        query
+            .read()
+            .get("dir")
+            .map(|d| {
+                if d == "en-to-es" {
+                    LearningDirection::EnglishToSpanish
+                } else {
+                    LearningDirection::SpanishToEnglish
+                }
+            })
+            .unwrap_or(LearningDirection::SpanishToEnglish)
+    };
+
     // State management
     let (card_index, set_card_index) = signal(0usize);
     let (show_example, set_show_example) = signal(false);
     let (show_translation, set_show_translation) = signal(false);
-    let (direction, _set_direction) = signal(LearningDirection::SpanishToEnglish);
     let (favorites, set_favorites) = signal(HashSet::<(u32, u32)>::new());
     let (card_count, set_card_count) = signal(0usize);
 
@@ -40,7 +55,7 @@ pub fn VocabularyCards() -> impl IntoView {
     let current_card = move || {
         let current_stage = stage();
         let index = card_index.get();
-        get_card_pair(current_stage, index, direction.get())
+        get_card_pair(current_stage, index, direction())
     };
 
     // Navigation handlers
@@ -106,7 +121,7 @@ pub fn VocabularyCards() -> impl IntoView {
     view! {
         <div class="page-container">
             <header class="page-header">
-                <A href="/vocabulary" attr:class="back-button">"← Stages"</A>
+                <A href={move || format!("/vocabulary?dir={}", if direction() == LearningDirection::EnglishToSpanish { "en-to-es" } else { "es-to-en" })} attr:class="back-button">"← Stages"</A>
                 <h1>"Stage " {move || stage()}</h1>
             </header>
 
@@ -114,7 +129,7 @@ pub fn VocabularyCards() -> impl IntoView {
                 {move || {
                     match current_card() {
                         Ok((source, target)) => {
-                            let source_lang = match direction.get() {
+                            let source_lang = match direction() {
                                 LearningDirection::SpanishToEnglish => "es-ES",
                                 LearningDirection::EnglishToSpanish => "en-US",
                             };
