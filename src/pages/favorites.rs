@@ -110,19 +110,19 @@ pub fn Favorites() -> impl IntoView {
     };
 
     // Speak word using Web Speech API
+    #[allow(unused_variables)]
     let speak = move |text: String, lang: &str| {
+        #[allow(unused_variables)]
         let lang = lang.to_string();
         #[cfg(target_arch = "wasm32")]
         {
             use wasm_bindgen::prelude::*;
             #[wasm_bindgen]
-            unsafe extern "C" {
+            extern "C" {
                 #[wasm_bindgen(js_namespace = window)]
                 fn speak_text(text: &str, lang: &str);
             }
-            unsafe {
-                speak_text(&text, &lang);
-            }
+            speak_text(&text, &lang);
         }
     };
 

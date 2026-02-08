@@ -9,22 +9,24 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
     <title>Vamos - Learn Spanish</title>
+    <link data-trunk rel="icon" href="vamos-icon.png" />
+    <link data-trunk rel="copy-file" href="vamos-icon.png" />
     <link data-trunk rel="css" href="styles.css" />
     <script>
       // Web Speech API for text-to-speech
-      window.speak_text = function(text, lang) {
-        if ('speechSynthesis' in window) {
+      window.speak_text = function (text, lang) {
+        if ("speechSynthesis" in window) {
           // Cancel any ongoing speech
           window.speechSynthesis.cancel();
-          
+
           const utterance = new SpeechSynthesisUtterance(text);
           utterance.lang = lang;
           utterance.rate = 0.9; // Slightly slower for learning
           utterance.pitch = 1.0;
-          
+
           window.speechSynthesis.speak(utterance);
         } else {
-          console.warn('Speech synthesis not supported');
+          console.warn("Speech synthesis not supported");
         }
       };
     </script>

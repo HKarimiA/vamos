@@ -8,13 +8,11 @@ pub fn Vocabulary() -> impl IntoView {
     let query = use_query_map();
 
     // State for learning direction - initialize from URL query param
-    let (direction, set_direction) = signal(
-        query
-            .read()
-            .get("dir")
+    let (direction, set_direction) = signal(query.with_untracked(|q| {
+        q.get("dir")
             .filter(|d| d == "en-to-es" || d == "es-to-en")
-            .unwrap_or("es-to-en".to_string()),
-    );
+            .unwrap_or("es-to-en".to_string())
+    }));
 
     // Toggle direction handler
     let toggle_direction = move |_| {

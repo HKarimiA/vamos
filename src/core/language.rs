@@ -1,4 +1,5 @@
 /// Represents available languages for learning or UI
+#[allow(dead_code)]
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
 pub enum Language {
     Spanish,
@@ -6,6 +7,7 @@ pub enum Language {
     // Future: French, German, Italian, Portuguese, etc.
 }
 
+#[allow(dead_code)]
 impl Language {
     /// Display name in English
     pub fn display_name(&self) -> &'static str {
@@ -36,7 +38,9 @@ impl Language {
 // Change these constants to switch languages globally
 
 /// The language being learned by the user
+#[allow(dead_code)]
 pub const LEARNING_LANGUAGE: Language = Language::Spanish;
 
 /// The language used for UI and instructions
+#[allow(dead_code)]
 pub const UI_LANGUAGE: Language = Language::English;

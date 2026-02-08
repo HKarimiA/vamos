@@ -101,13 +101,11 @@ pub fn VocabularyCards() -> impl IntoView {
         {
             use wasm_bindgen::prelude::*;
             #[wasm_bindgen]
-            unsafe extern "C" {
+            extern "C" {
                 #[wasm_bindgen(js_namespace = window)]
                 fn speak_text(text: &str, lang: &str);
             }
-            unsafe {
-                speak_text(&text, &lang);
-            }
+            speak_text(&text, &lang);
         }
     };
 

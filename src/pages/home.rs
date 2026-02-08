@@ -7,7 +7,7 @@ pub fn Home() -> impl IntoView {
     view! {
         <div class="home-container">
             <header class="home-header">
-                <h1>"Vamos! 🎯"</h1>
+                <img src="/vamos-icon.png" alt="Vamos!" style="max-width: 300px; height: auto; margin-bottom: 1rem;" />
                 <p class="subtitle">"Learn Spanish"</p>
             </header>
 

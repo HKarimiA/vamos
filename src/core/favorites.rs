@@ -33,12 +33,14 @@ impl FavoritesContext {
         self.favorites.read().iter().copied().collect()
     }
 
+    #[allow(dead_code)]
     pub fn remove(&self, stage: u32, card_id: u32) {
         self.favorites.update(|favs| {
             favs.remove(&(stage, card_id));
         });
     }
 
+    #[allow(dead_code)]
     pub fn count(&self) -> usize {
         self.favorites.read().len()
     }
