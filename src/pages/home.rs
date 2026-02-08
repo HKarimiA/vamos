@@ -8,7 +8,6 @@ pub fn Home() -> impl IntoView {
         <div class="home-container">
             <header class="home-header">
                 <img src="/vamos-icon.png" alt="Vamos!" style="max-width: 300px; height: auto; margin-bottom: 1rem;" />
-                <p class="subtitle">"Learn Spanish"</p>
             </header>
 
             <div class="button-container">
