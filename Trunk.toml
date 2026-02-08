@@ -1,0 +1,43 @@
+[build]
+# The index HTML file to drive the bundling process.
+target = "index.html"
+
+# The output dir for all final assets.
+dist = "dist"
+
+# The public URL from which assets are served.
+public_url = "/"
+
+# Whether to include hash values in the output file names.
+filehash = true
+
+# Build in release mode.
+release = false
+
+[watch]
+# Paths to watch for changes. Use patterns to ignore paths.
+watch = ["src", "index.html", "styles.css"]
+ignore = ["target", "dist"]
+
+[serve]
+# The address to serve on.
+address = "127.0.0.1"
+
+# The port to serve on.
+port = 8087
+
+# Open a browser when the server starts.
+open = false
+
+# Enable automatic browser reloading when files change.
+# This requires the browser to have CORS enabled.
+ws_protocol = "ws"
+
+# Additional headers to send with responses
+# [serve.headers]
+# "Cross-Origin-Opener-Policy" = "same-origin"
+# "Cross-Origin-Embedder-Policy" = "require-corp"
+
+[clean]
+# Optionally, also clean the Cargo target dir
+cargo = false
