@@ -194,7 +194,7 @@ body {
   background: white;
   border: 2px solid #667eea;
   border-radius: 12px;
-  padding: 1.5rem;
+  padding: 0.75rem;
   font-size: 1.5rem;
   font-weight: 700;
   color: #667eea;
@@ -207,7 +207,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 60px;
+  min-height: 50px;
 }
 
 .stage-button:active {
