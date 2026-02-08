@@ -1,13 +1,14 @@
+use crate::core::FavoritesContext;
 use crate::data::{LearningDirection, get_card_pair, get_stage_card_count};
 use leptos::prelude::*;
 use leptos_router::{components::A, hooks::use_params_map, hooks::use_query_map};
-use std::collections::HashSet;
 
 /// Vocabulary card learning component
 #[component]
 pub fn VocabularyCards() -> impl IntoView {
     let params = use_params_map();
     let query = use_query_map();
+    let favorites_ctx = expect_context::<FavoritesContext>();
 
     // Extract stage from URL params
     let stage = move || {
@@ -37,7 +38,6 @@ pub fn VocabularyCards() -> impl IntoView {
     let (card_index, set_card_index) = signal(0usize);
     let (show_example, set_show_example) = signal(false);
     let (show_translation, set_show_translation) = signal(false);
-    let (favorites, set_favorites) = signal(HashSet::<(u32, u32)>::new());
     let (card_count, set_card_count) = signal(0usize);
 
     // Initialize card count when stage changes
@@ -79,14 +79,7 @@ pub fn VocabularyCards() -> impl IntoView {
     let toggle_favorite = move |_| {
         let current_stage = stage();
         if let Ok((source, _)) = current_card() {
-            set_favorites.update(|favs| {
-                let key = (current_stage, source.id);
-                if favs.contains(&key) {
-                    favs.remove(&key);
-                } else {
-                    favs.insert(key);
-                }
-            });
+            favorites_ctx.toggle(current_stage, source.id);
         }
     };
 
@@ -95,7 +88,7 @@ pub fn VocabularyCards() -> impl IntoView {
         let current_stage = stage();
         current_card()
             .ok()
-            .map(|(source, _)| favorites.get().contains(&(current_stage, source.id)))
+            .map(|(source, _)| favorites_ctx.is_favorite(current_stage, source.id))
             .unwrap_or(false)
     };
 
