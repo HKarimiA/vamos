@@ -25,7 +25,7 @@
 
           const utterance = new SpeechSynthesisUtterance(text);
           utterance.lang = lang;
-          utterance.rate = 0.9; // Slightly slower for learning
+          utterance.rate = 0.7; // Slightly slower for learning
           utterance.pitch = 1.0;
 
           window.speechSynthesis.speak(utterance);

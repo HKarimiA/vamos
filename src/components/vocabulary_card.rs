@@ -51,7 +51,15 @@ where
         LearningDirection::EnglishToSpanish => "en-US",
     };
 
+    let target_lang = match direction {
+        LearningDirection::SpanishToEnglish => "en-US",
+        LearningDirection::EnglishToSpanish => "es-ES",
+    };
+
     let source_word_clone = source_word.clone();
+    let source_example_clone = source_example.clone();
+    let target_word_clone = target_word.clone();
+    let target_example_clone = target_example.clone();
 
     view! {
         <div class="vocabulary-card">
@@ -95,8 +103,19 @@ where
                 </button>
             })}
 
-            {move || show_example.get().then(|| view! {
-                <p class="card-example">{source_example.clone()}</p>
+            {move || show_example.get().then(|| {
+                let example_audio = source_example_clone.clone();
+                view! {
+                    <div style="display: flex; align-items: center; gap: 0.5rem;">
+                        <p class="card-example" style="margin: 0; flex: 1;">{source_example.clone()}</p>
+                        <button
+                            class="audio-button-small"
+                            on:click=move |_| speak(example_audio.clone(), source_lang)
+                        >
+                            "🔉"
+                        </button>
+                    </div>
+                }
             })}
 
             {move || (!show_translation.get()).then(|| view! {
@@ -108,11 +127,31 @@ where
                 </button>
             })}
 
-            {move || show_translation.get().then(|| view! {
-                <div class="card-translation">
-                    <p class="translation-word">{target_word.clone()}</p>
-                    <p class="translation-example">{target_example.clone()}</p>
-                </div>
+            {move || show_translation.get().then(|| {
+                let word_audio = target_word_clone.clone();
+                let example_audio = target_example_clone.clone();
+                view! {
+                    <div class="card-translation">
+                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                            <p class="translation-word" style="margin: 0; flex: 1;">{target_word.clone()}</p>
+                            <button
+                                class="audio-button-small"
+                                on:click=move |_| speak(word_audio.clone(), target_lang)
+                            >
+                                "🔉"
+                            </button>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 0.5rem; margin-top: 1.0rem;">
+                            <p class="translation-example" style="margin: 0; flex: 1;">{target_example.clone()}</p>
+                            <button
+                                class="audio-button-small"
+                                on:click=move |_| speak(example_audio.clone(), target_lang)
+                            >
+                                "🔉"
+                            </button>
+                        </div>
+                    </div>
+                }
             })}
         </div>
     }
