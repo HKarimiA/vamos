@@ -55,7 +55,7 @@ pub fn Vocabulary() -> impl IntoView {
                         }
                     }).collect::<Vec<_>>()}
 
-                    <A href="/vocabulary/favorites" attr:class="stage-button favorites-button">
+                    <A href={move || format!("/vocabulary/favorites?dir={}", direction.get())} attr:class="stage-button favorites-button">
                         "⭐"
                     </A>
                 </div>

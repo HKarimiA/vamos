@@ -3,11 +3,28 @@ use crate::core::FavoritesContext;
 use crate::data::{LearningDirection, get_card_pair};
 use leptos::prelude::*;
 use leptos_router::components::A;
+use leptos_router::hooks::use_query_map;
 
 /// Favorites page - Shows all favorited cards with card navigation
 #[component]
 pub fn Favorites() -> impl IntoView {
     let favorites_ctx = expect_context::<FavoritesContext>();
+    let query = use_query_map();
+
+    // Extract direction from query params
+    let direction = move || {
+        query
+            .read()
+            .get("dir")
+            .map(|d| {
+                if d == "en-to-es" {
+                    LearningDirection::EnglishToSpanish
+                } else {
+                    LearningDirection::SpanishToEnglish
+                }
+            })
+            .unwrap_or(LearningDirection::SpanishToEnglish)
+    };
 
     // State management
     let (card_index, set_card_index) = signal(0usize);
@@ -44,8 +61,7 @@ pub fn Favorites() -> impl IntoView {
             i if (1..=21).contains(&i) => (card_id - ((i - 1) * 20 + 1)) as usize,
             _ => return Err("Invalid stage".to_string()),
         };
-        get_card_pair(stage, card_idx, LearningDirection::SpanishToEnglish)
-            .map(|(source, target)| (stage, source, target))
+        get_card_pair(stage, card_idx, direction()).map(|(source, target)| (stage, source, target))
     };
 
     // Navigation handlers
@@ -80,7 +96,7 @@ pub fn Favorites() -> impl IntoView {
     view! {
         <div class="page-container">
             <header class="page-header">
-                <A href="/vocabulary" attr:class="back-button">"❮"</A>
+                <A href={move || format!("/vocabulary?dir={}", if direction() == LearningDirection::EnglishToSpanish { "en-to-es" } else { "es-to-en" })} attr:class="back-button">"❮"</A>
                 <h1>"Favorites"</h1>
             </header>
 
@@ -108,7 +124,7 @@ pub fn Favorites() -> impl IntoView {
                                             card_index={card_index.get()}
                                             card_count={favorite_cards().len()}
                                             is_favorite={true}
-                                            direction={LearningDirection::SpanishToEnglish}
+                                            direction={direction()}
                                             stage=stage
                                             on_toggle_favorite=move || toggle_favorite(())
                                         />
