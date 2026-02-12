@@ -1,28 +1,31 @@
 use leptos::prelude::*;
 use leptos_router::components::A;
-use leptos_router::hooks::use_query_map;
+use leptos_router::hooks::{use_navigate, use_query_map};
 
 /// Vocabulary learning page - Shows stage selection grid
 #[component]
 pub fn Vocabulary() -> impl IntoView {
     let query = use_query_map();
+    let navigate = use_navigate();
 
-    // State for learning direction - initialize from URL query param
-    let (direction, set_direction) = signal(query.with_untracked(|q| {
-        q.get("dir")
+    // State for learning direction - sync with URL query param
+    let direction = Memo::new(move |_| {
+        query
+            .read()
+            .get("dir")
             .filter(|d| d == "en-to-es" || d == "es-to-en")
             .unwrap_or("es-to-en".to_string())
-    }));
+    });
 
     // Toggle direction handler
     let toggle_direction = move |_| {
-        set_direction.update(|d| {
-            *d = if d == "es-to-en" {
-                "en-to-es".to_string()
-            } else {
-                "es-to-en".to_string()
-            };
-        });
+        let new_dir = if direction.get() == "es-to-en" {
+            "en-to-es"
+        } else {
+            "es-to-en"
+        };
+        // Update URL to persist direction in browser history
+        navigate(&format!("/vocabulary?dir={}", new_dir), Default::default());
     };
 
     view! {
