@@ -106,8 +106,8 @@ where
             {move || show_example.get().then(|| {
                 let example_audio = source_example_clone.clone();
                 view! {
-                    <div style="display: flex; align-items: center; gap: 0.5rem;">
-                        <p class="card-example" style="margin: 0; flex: 1;">{source_example.clone()}</p>
+                    <div class="card-example" style="display: flex; align-items: center; gap: 0.5rem; margin: 0;">
+                        <p style="margin: 0; flex: 1;">{source_example.clone()}</p>
                         <button
                             class="audio-button-small"
                             on:click=move |_| speak(example_audio.clone(), source_lang)
