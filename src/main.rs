@@ -4,6 +4,7 @@ use leptos_router::{
     path,
 };
 
+mod components;
 mod core;
 mod data;
 mod pages;

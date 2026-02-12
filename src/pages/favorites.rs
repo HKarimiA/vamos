@@ -1,3 +1,4 @@
+use crate::components::VocabularyCard;
 use crate::core::FavoritesContext;
 use crate::data::{LearningDirection, get_card_pair};
 use leptos::prelude::*;
@@ -10,8 +11,6 @@ pub fn Favorites() -> impl IntoView {
 
     // State management
     let (card_index, set_card_index) = signal(0usize);
-    let (show_example, set_show_example) = signal(false);
-    let (show_translation, set_show_translation) = signal(false);
 
     // Get filtered list of valid favorites, sorted by card_id
     let favorite_cards = move || {
@@ -41,33 +40,8 @@ pub fn Favorites() -> impl IntoView {
             return Err("No favorites available".to_string());
         }
         let (stage, card_id) = cards[card_index.get()];
-        // Convert global ID to stage-relative index
-        // Stage 1: IDs 1-20 -> index 0-19
-        // Stage 2: IDs 21-40 -> index 0-19
-        // Stage 3: IDs 41-60 -> index 0-19
-        // Stage 4: IDs 61-80 -> index 0-19, etc.
         let card_idx = match stage {
-            1 => (card_id - 1) as usize,
-            2 => (card_id - 21) as usize,
-            3 => (card_id - 41) as usize,
-            4 => (card_id - 61) as usize,
-            5 => (card_id - 81) as usize,
-            6 => (card_id - 101) as usize,
-            7 => (card_id - 121) as usize,
-            8 => (card_id - 141) as usize,
-            9 => (card_id - 161) as usize,
-            10 => (card_id - 181) as usize,
-            11 => (card_id - 201) as usize,
-            12 => (card_id - 221) as usize,
-            13 => (card_id - 241) as usize,
-            14 => (card_id - 261) as usize,
-            15 => (card_id - 281) as usize,
-            16 => (card_id - 301) as usize,
-            17 => (card_id - 321) as usize,
-            18 => (card_id - 341) as usize,
-            19 => (card_id - 361) as usize,
-            20 => (card_id - 381) as usize,
-            21 => (card_id - 401) as usize,
+            i if (1..=21).contains(&i) => (card_id - ((i - 1) * 20 + 1)) as usize,
             _ => return Err("Invalid stage".to_string()),
         };
         get_card_pair(stage, card_idx, LearningDirection::SpanishToEnglish)
@@ -79,16 +53,12 @@ pub fn Favorites() -> impl IntoView {
         let cards = favorite_cards();
         if card_index.get() < cards.len() - 1 {
             set_card_index.update(|i| *i += 1);
-            set_show_example.set(false);
-            set_show_translation.set(false);
         }
     };
 
     let go_prev = move |_| {
         if card_index.get() > 0 {
             set_card_index.update(|i| *i -= 1);
-            set_show_example.set(false);
-            set_show_translation.set(false);
         }
     };
 
@@ -104,25 +74,6 @@ pub fn Favorites() -> impl IntoView {
             } else if card_index.get() >= new_count {
                 set_card_index.set(new_count - 1);
             }
-            set_show_example.set(false);
-            set_show_translation.set(false);
-        }
-    };
-
-    // Speak word using Web Speech API
-    #[allow(unused_variables)]
-    let speak = move |text: String, lang: &str| {
-        #[allow(unused_variables)]
-        let lang = lang.to_string();
-        #[cfg(target_arch = "wasm32")]
-        {
-            use wasm_bindgen::prelude::*;
-            #[wasm_bindgen]
-            extern "C" {
-                #[wasm_bindgen(js_namespace = window)]
-                fn speak_text(text: &str, lang: &str);
-            }
-            speak_text(&text, &lang);
         }
     };
 
@@ -147,63 +98,20 @@ pub fn Favorites() -> impl IntoView {
                     } else {
                         match current_card() {
                             Ok((stage, source, target)) => {
-                                let source_word = source.word.clone();
-                                let source_lang = "es-ES";
-
                                 view! {
                                     <div class="card-wrapper">
-                                        <div class="card-progress">
-                                            {move || format!("{} / {} (Stage {})", card_index.get() + 1, favorite_cards().len(), stage)}
-                                        </div>
-
-                                        <div class="vocabulary-card">
-                                            <div class="card-main">
-                                                <h2 class="card-word">{source.word.clone()}</h2>
-                                                <div class="card-actions">
-                                                    <button
-                                                        class="audio-button"
-                                                        on:click=move |_| speak(source_word.clone(), source_lang)
-                                                    >
-                                                        "🔊"
-                                                    </button>
-                                                    <button
-                                                        class="favorite-button favorite-active"
-                                                        on:click=toggle_favorite
-                                                    >
-                                                        "⭐"
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            {move || (!show_example.get()).then(|| view! {
-                                                <button
-                                                    class="reveal-button"
-                                                    on:click=move |_| set_show_example.set(true)
-                                                >
-                                                    "Show Example"
-                                                </button>
-                                            })}
-
-                                            {move || show_example.get().then(|| view! {
-                                                <p class="card-example">{source.example.clone()}</p>
-                                            })}
-
-                                            {move || (!show_translation.get()).then(|| view! {
-                                                <button
-                                                    class="reveal-button translation-button"
-                                                    on:click=move |_| set_show_translation.set(true)
-                                                >
-                                                    "Show Translation"
-                                                </button>
-                                            })}
-
-                                            {move || show_translation.get().then(|| view! {
-                                                <div class="card-translation">
-                                                    <p class="translation-word">{target.word.clone()}</p>
-                                                    <p class="translation-example">{target.example.clone()}</p>
-                                                </div>
-                                            })}
-                                        </div>
+                                        <VocabularyCard
+                                            source_word={source.word.clone()}
+                                            source_example={source.example.clone()}
+                                            target_word={target.word.clone()}
+                                            target_example={target.example.clone()}
+                                            card_index={card_index.get()}
+                                            card_count={favorite_cards().len()}
+                                            is_favorite={true}
+                                            direction={LearningDirection::SpanishToEnglish}
+                                            stage=stage
+                                            on_toggle_favorite=move || toggle_favorite(())
+                                        />
 
                                         <div class="card-navigation">
                                             <button

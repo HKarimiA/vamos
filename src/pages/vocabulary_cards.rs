@@ -1,3 +1,4 @@
+use crate::components::VocabularyCard;
 use crate::core::FavoritesContext;
 use crate::data::{LearningDirection, get_card_pair, get_stage_card_count};
 use leptos::prelude::*;
@@ -36,8 +37,6 @@ pub fn VocabularyCards() -> impl IntoView {
 
     // State management
     let (card_index, set_card_index) = signal(0usize);
-    let (show_example, set_show_example) = signal(false);
-    let (show_translation, set_show_translation) = signal(false);
     let (card_count, set_card_count) = signal(0usize);
 
     // Initialize card count when stage changes
@@ -46,8 +45,6 @@ pub fn VocabularyCards() -> impl IntoView {
         if let Ok(count) = get_stage_card_count(current_stage) {
             set_card_count.set(count);
             set_card_index.set(0);
-            set_show_example.set(false);
-            set_show_translation.set(false);
         }
     });
 
@@ -62,16 +59,12 @@ pub fn VocabularyCards() -> impl IntoView {
     let go_next = move |_| {
         if card_index.get() < card_count.get() - 1 {
             set_card_index.update(|i| *i += 1);
-            set_show_example.set(false);
-            set_show_translation.set(false);
         }
     };
 
     let go_prev = move |_| {
         if card_index.get() > 0 {
             set_card_index.update(|i| *i -= 1);
-            set_show_example.set(false);
-            set_show_translation.set(false);
         }
     };
 
@@ -92,23 +85,6 @@ pub fn VocabularyCards() -> impl IntoView {
             .unwrap_or(false)
     };
 
-    // Speak word using Web Speech API
-    let speak = move |text: String, lang: &str| {
-        let lang = lang.to_string();
-        leptos::logging::log!("Speaking: {} in {}", text, lang);
-        // We'll use JavaScript interop for Web Speech API
-        #[cfg(target_arch = "wasm32")]
-        {
-            use wasm_bindgen::prelude::*;
-            #[wasm_bindgen]
-            extern "C" {
-                #[wasm_bindgen(js_namespace = window)]
-                fn speak_text(text: &str, lang: &str);
-            }
-            speak_text(&text, &lang);
-        }
-    };
-
     view! {
         <div class="page-container">
             <header class="page-header">
@@ -120,69 +96,19 @@ pub fn VocabularyCards() -> impl IntoView {
                 {move || {
                     match current_card() {
                         Ok((source, target)) => {
-                            let source_lang = match direction() {
-                                LearningDirection::SpanishToEnglish => "es-ES",
-                                LearningDirection::EnglishToSpanish => "en-US",
-                            };
-                            let source_word = source.word.clone();
-
                             view! {
                                 <div class="card-wrapper">
-                                    <div class="vocabulary-card">
-                                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
-                                            <div class="card-progress">
-                                                {move || format!("{} / {}", card_index.get() + 1, card_count.get())}
-                                            </div>
-                                            <div class="card-actions" style="display: flex; gap: 0.5rem;">
-                                                <button
-                                                    class="audio-button"
-                                                    style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
-                                                    on:click=move |_| speak(source_word.clone(), source_lang)
-                                                >
-                                                    "🔊"
-                                                </button>
-                                                <button
-                                                    class=move || if is_favorite() { "favorite-button favorite-active" } else { "favorite-button" }
-                                                    style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
-                                                    on:click=toggle_favorite
-                                                >
-                                                    {move || if is_favorite() { "⭐" } else { "☆" }}
-                                                </button>
-                                            </div>
-                                        </div>
-                                        <div class="card-main">
-                                            <h2 class="card-word">{source.word.clone()}</h2>
-                                        </div>
-
-                                        {move || (!show_example.get()).then(|| view! {
-                                            <button
-                                                class="reveal-button"
-                                                on:click=move |_| set_show_example.set(true)
-                                            >
-                                                "Show Example"
-                                            </button>
-                                        })}
-
-                                        {move || show_example.get().then(|| view! {
-                                            <p class="card-example">{source.example.clone()}</p>
-                                        })}
-
-                                        {move || (!show_translation.get()).then(|| view! {
-                                            <button
-                                                class="reveal-button translation-button"
-                                                on:click=move |_| set_show_translation.set(true)
-                                            >
-                                                "Show Translation"
-                                            </button>
-                                        })}
-
-                                        {move || show_translation.get().then(|| view! {
-                                            <div class="card-translation">
-                                                <p class="translation-word">{target.word.clone()}</p>
-                                                <p class="translation-example">{target.example.clone()}</p>
-                                            </div>
-                                        })}
-                                    </div>
+                                    <VocabularyCard
+                                        source_word={source.word.clone()}
+                                        source_example={source.example.clone()}
+                                        target_word={target.word.clone()}
+                                        target_example={target.example.clone()}
+                                        card_index={card_index.get()}
+                                        card_count={card_count.get()}
+                                        is_favorite={is_favorite()}
+                                        direction={direction()}
+                                        on_toggle_favorite=move || toggle_favorite(())
+                                    />
 
                                     <div class="card-navigation">
                                         <button
