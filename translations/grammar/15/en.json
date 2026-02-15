@@ -1,0 +1,314 @@
+{
+  "topic": {
+    "id": 15,
+    "name": "Periphrastic & Aspectual Constructions"
+  },
+  "explanation": {
+    "title": "Spanish Verbal Periphrases: Expressing Actions with Nuance",
+    "sections": [
+      {
+        "subtitle": "Progressive Forms (Estar + Gerund)",
+        "content": "Expresses actions in progress at the moment. Structure: estar (conjugated) + gerund (-ando/-iendo). Present progressive: 'Estoy comiendo' (I am eating), 'Está hablando' (He/She is talking). Past progressive: 'Estaba estudiando' (I was studying). Future progressive: 'Estaré trabajando' (I will be working). Unlike English, Spanish uses present tense for habitual actions, reserve progressive for RIGHT NOW: 'Como a las 2' (I eat at 2 - habitual), 'Estoy comiendo ahora' (I'm eating now - in progress). Also used for temporary actions: 'Estoy viviendo en Madrid' (I'm living in Madrid temporarily)."
+      },
+      {
+        "subtitle": "Immediate Future & Recent Past",
+        "content": "IR A + INFINITIVE (going to): Express near future plans/intentions. 'Voy a estudiar' (I'm going to study), '¿Vas a venir?' (Are you going to come?). Most common way to express future in spoken Spanish. ACABAR DE + INFINITIVE (just did): Express recent past actions. 'Acabo de comer' (I just ate), 'Acabamos de llegar' (We just arrived). Use present tense of acabar for recent past! Examples: 'Acaba de salir' (He/She just left), '¿Acabas de despertar?' (Did you just wake up?)."
+      },
+      {
+        "subtitle": "Repeated Actions & Habit",
+        "content": "VOLVER A + INFINITIVE (to do again): 'Vuelvo a intentar' (I'm trying again), 'Volvió a llamar' (He called again). Emphasizes repetition. SOLER + INFINITIVE (usually do): Express habitual actions. Only in present and imperfect: 'Suelo desayunar a las 8' (I usually have breakfast at 8), 'Solía fumar' (I used to smoke). Cannot be used in other tenses. Alternative: use 'normalmente' or 'generalmente' with regular verb for past/future habits."
+      },
+      {
+        "subtitle": "Beginning & Ending Actions",
+        "content": "EMPEZAR/COMENZAR A + INFINITIVE (to start/begin to): 'Empiezo a estudiar' (I start studying), 'Comenzó a llover' (It started to rain). Note the preposition 'a' is required! DEJAR DE + INFINITIVE (to stop doing): 'Dejé de fumar' (I stopped smoking), 'No dejes de llamarme' (Don't stop calling me). Note: Use 'de' not 'a'. PARAR DE + INFINITIVE (to stop doing): Similar to dejar de. 'Para de hablar' (Stop talking)."
+      },
+      {
+        "subtitle": "Obligation & Necessity",
+        "content": "TENER QUE + INFINITIVE (to have to): Personal obligation. 'Tengo que estudiar' (I have to study), 'Tienes que venir' (You have to come). HAY QUE + INFINITIVE (one must): Impersonal/general obligation, no specific subject. 'Hay que estudiar' (One must study / It's necessary to study), 'Hay que llegar temprano' (One must arrive early). Only uses 'hay' form. DEBER + INFINITIVE (should/ought to): Moral obligation or advice. 'Debes estudiar' (You should study), 'Debemos ayudar' (We ought to help). Softer than tener que."
+      },
+      {
+        "subtitle": "Duration & Continuation",
+        "content": "LLEVAR + TIME + GERUND (have been doing): Express duration of ongoing action. 'Llevo tres años estudiando español' (I've been studying Spanish for three years), 'Lleva una hora esperando' (He/She has been waiting for one hour). Different from English: uses present tense! SEGUIR/CONTINUAR + GERUND (to keep/continue doing): 'Sigo estudiando' (I keep studying), 'Continúa trabajando' (He/She continues working). Express ongoing continuation. Can also say 'Sigue lloviendo' (It's still raining)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the structure of the progressive form?",
+      "answers": [
+        { "text": "estar (conjugated) + gerund", "correct": true },
+        { "text": "ser (conjugated) + gerund", "correct": false },
+        { "text": "haber (conjugated) + past participle", "correct": false },
+        { "text": "estar (conjugated) + infinitive", "correct": false }
+      ],
+      "hint": "Use estar + -ando/-iendo form to express action in progress."
+    },
+    {
+      "id": 2,
+      "question": "'Estoy comiendo' means...",
+      "answers": [
+        { "text": "I am eating (right now)", "correct": true },
+        { "text": "I eat (habitual)", "correct": false },
+        { "text": "I have eaten", "correct": false },
+        { "text": "I will eat", "correct": false }
+      ],
+      "hint": "Present progressive: action happening at this moment."
+    },
+    {
+      "id": 3,
+      "question": "'Como a las 2' vs 'Estoy comiendo ahora' - What's the difference?",
+      "answers": [
+        {
+          "text": "Como = habitual action; Estoy comiendo = action in progress now",
+          "correct": true
+        },
+        { "text": "Both mean the same thing", "correct": false },
+        { "text": "Como is past; Estoy comiendo is present", "correct": false },
+        {
+          "text": "Como is formal; Estoy comiendo is informal",
+          "correct": false
+        }
+      ],
+      "hint": "Present tense for habits; progressive for actions happening RIGHT NOW."
+    },
+    {
+      "id": 4,
+      "question": "How do you say 'I'm going to study'?",
+      "answers": [
+        { "text": "Voy a estudiar", "correct": true },
+        { "text": "Estoy estudiando", "correct": false },
+        { "text": "Estudiaré", "correct": false },
+        { "text": "Vaya a estudiar", "correct": false }
+      ],
+      "hint": "Use ir (present) + a + infinitive for immediate future/plans."
+    },
+    {
+      "id": 5,
+      "question": "'Voy a comer' expresses...",
+      "answers": [
+        {
+          "text": "Immediate future/intention (I'm going to eat)",
+          "correct": true
+        },
+        { "text": "Current action (I'm eating)", "correct": false },
+        { "text": "Habitual action (I eat)", "correct": false },
+        { "text": "Recent past (I just ate)", "correct": false }
+      ],
+      "hint": "Ir a + infinitive = going to do something (near future)."
+    },
+    {
+      "id": 6,
+      "question": "How do you say 'I just ate'?",
+      "answers": [
+        { "text": "Acabo de comer", "correct": true },
+        { "text": "Voy a comer", "correct": false },
+        { "text": "He comido", "correct": false },
+        { "text": "Comí", "correct": false }
+      ],
+      "hint": "Use acabar de + infinitive for 'just did' something (recent past)."
+    },
+    {
+      "id": 7,
+      "question": "'Acaba de salir' means...",
+      "answers": [
+        { "text": "He/She just left", "correct": true },
+        { "text": "He/She is going to leave", "correct": false },
+        { "text": "He/She leaves", "correct": false },
+        { "text": "He/She is leaving", "correct": false }
+      ],
+      "hint": "Acabar de + infinitive = just did something (immediate past)."
+    },
+    {
+      "id": 8,
+      "question": "'Vuelvo a intentar' means...",
+      "answers": [
+        { "text": "I'm trying again", "correct": true },
+        { "text": "I return to try", "correct": false },
+        { "text": "I try to return", "correct": false },
+        { "text": "I will try", "correct": false }
+      ],
+      "hint": "Volver a + infinitive = to do something again (repetition)."
+    },
+    {
+      "id": 9,
+      "question": "'Volvió a llamar' means...",
+      "answers": [
+        { "text": "He/She called again", "correct": true },
+        { "text": "He/She returned to call", "correct": false },
+        { "text": "He/She is calling", "correct": false },
+        { "text": "He/She will call", "correct": false }
+      ],
+      "hint": "Volver a + infinitive emphasizes repeating an action."
+    },
+    {
+      "id": 10,
+      "question": "'Suelo desayunar a las 8' means...",
+      "answers": [
+        { "text": "I usually have breakfast at 8", "correct": true },
+        { "text": "I am having breakfast at 8", "correct": false },
+        { "text": "I want to have breakfast at 8", "correct": false },
+        { "text": "I will have breakfast at 8", "correct": false }
+      ],
+      "hint": "Soler + infinitive = usually do something (habitual action)."
+    },
+    {
+      "id": 11,
+      "question": "What tenses can 'soler' be used in?",
+      "answers": [
+        { "text": "Only present and imperfect", "correct": true },
+        { "text": "All tenses", "correct": false },
+        { "text": "Only present tense", "correct": false },
+        { "text": "Only past tenses", "correct": false }
+      ],
+      "hint": "Soler is limited: suelo (present) and solía (imperfect) only."
+    },
+    {
+      "id": 12,
+      "question": "'Empiezo a estudiar' means...",
+      "answers": [
+        { "text": "I start to study / I'm starting to study", "correct": true },
+        { "text": "I study at the beginning", "correct": false },
+        { "text": "I want to study", "correct": false },
+        { "text": "I always study", "correct": false }
+      ],
+      "hint": "Empezar a + infinitive = to start doing something. Note preposition 'a'!"
+    },
+    {
+      "id": 13,
+      "question": "Which preposition follows 'empezar/comenzar'?",
+      "answers": [
+        { "text": "a (empezar a + infinitive)", "correct": true },
+        { "text": "de (empezar de + infinitive)", "correct": false },
+        { "text": "por (empezar por + infinitive)", "correct": false },
+        { "text": "No preposition needed", "correct": false }
+      ],
+      "hint": "Remember: empezar/comenzar A + infinitive (with 'a')."
+    },
+    {
+      "id": 14,
+      "question": "'Dejé de fumar' means...",
+      "answers": [
+        { "text": "I stopped smoking", "correct": true },
+        { "text": "I started smoking", "correct": false },
+        { "text": "I left to smoke", "correct": false },
+        { "text": "I continue smoking", "correct": false }
+      ],
+      "hint": "Dejar de + infinitive = to stop doing something."
+    },
+    {
+      "id": 15,
+      "question": "Which preposition follows 'dejar' when it means 'to stop'?",
+      "answers": [
+        { "text": "de (dejar de + infinitive)", "correct": true },
+        { "text": "a (dejar a + infinitive)", "correct": false },
+        { "text": "por (dejar por + infinitive)", "correct": false },
+        { "text": "No preposition needed", "correct": false }
+      ],
+      "hint": "Dejar DE + infinitive = stop doing. Use 'de' not 'a'."
+    },
+    {
+      "id": 16,
+      "question": "'Tengo que estudiar' means...",
+      "answers": [
+        { "text": "I have to study (personal obligation)", "correct": true },
+        { "text": "I want to study", "correct": false },
+        { "text": "One must study (impersonal)", "correct": false },
+        { "text": "I'm studying", "correct": false }
+      ],
+      "hint": "Tener que + infinitive = personal obligation (have to)."
+    },
+    {
+      "id": 17,
+      "question": "'Hay que estudiar' means...",
+      "answers": [
+        {
+          "text": "One must study / It's necessary to study (impersonal)",
+          "correct": true
+        },
+        { "text": "I have to study", "correct": false },
+        { "text": "There are studies", "correct": false },
+        { "text": "We study", "correct": false }
+      ],
+      "hint": "Hay que + infinitive = impersonal obligation (one must, it's necessary)."
+    },
+    {
+      "id": 18,
+      "question": "'Tengo que' vs 'Hay que' - What's the difference?",
+      "answers": [
+        {
+          "text": "Tengo que = personal (I have to); Hay que = impersonal (one must)",
+          "correct": true
+        },
+        { "text": "Both mean exactly the same", "correct": false },
+        { "text": "Tengo que is past; Hay que is present", "correct": false },
+        { "text": "Hay que is stronger obligation", "correct": false }
+      ],
+      "hint": "Tener que is personal; hay que is impersonal (no specific subject)."
+    },
+    {
+      "id": 19,
+      "question": "'Debes estudiar' means...",
+      "answers": [
+        {
+          "text": "You should study (advice/moral obligation)",
+          "correct": true
+        },
+        { "text": "You are studying", "correct": false },
+        { "text": "You owe studies", "correct": false },
+        { "text": "You must study (strong command)", "correct": false }
+      ],
+      "hint": "Deber + infinitive = should/ought to (softer than tener que)."
+    },
+    {
+      "id": 20,
+      "question": "'Llevo tres años estudiando español' means...",
+      "answers": [
+        {
+          "text": "I've been studying Spanish for three years",
+          "correct": true
+        },
+        { "text": "I will study Spanish for three years", "correct": false },
+        { "text": "I studied Spanish three years ago", "correct": false },
+        { "text": "I'm carrying three years of Spanish", "correct": false }
+      ],
+      "hint": "Llevar + time + gerund = have been doing (duration). Uses present tense!"
+    },
+    {
+      "id": 21,
+      "question": "'Lleva una hora esperando' - What tense is 'lleva'?",
+      "answers": [
+        {
+          "text": "Present (Spanish uses present, not present perfect)",
+          "correct": true
+        },
+        { "text": "Present perfect", "correct": false },
+        { "text": "Past", "correct": false },
+        { "text": "Future", "correct": false }
+      ],
+      "hint": "Unlike English 'has been waiting', Spanish uses present: lleva (carries)."
+    },
+    {
+      "id": 22,
+      "question": "'Sigo estudiando' means...",
+      "answers": [
+        { "text": "I keep/continue studying", "correct": true },
+        { "text": "I follow studying", "correct": false },
+        { "text": "I start studying", "correct": false },
+        { "text": "I stop studying", "correct": false }
+      ],
+      "hint": "Seguir/continuar + gerund = to keep doing, continue doing."
+    },
+    {
+      "id": 23,
+      "question": "'Sigue lloviendo' means...",
+      "answers": [
+        { "text": "It's still raining / It keeps raining", "correct": true },
+        { "text": "It follows raining", "correct": false },
+        { "text": "It stopped raining", "correct": false },
+        { "text": "It will rain", "correct": false }
+      ],
+      "hint": "Seguir + gerund emphasizes continuation: still doing/keeps doing."
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "topic": {
+    "id": 14,
+    "name": "Non-Finite Forms"
+  },
+  "explanation": {
+    "title": "Spanish Non-Finite Verb Forms: Infinitive, Gerund & Participle",
+    "sections": [
+      {
+        "subtitle": "Infinitive Usage",
+        "content": "The infinitive (-ar, -er, -ir) is used as: (1) Subject of sentence: 'Nadar es divertido' (Swimming is fun). (2) After conjugated verbs: 'Quiero comer' (I want to eat), 'Puedo hablar' (I can speak). (3) After 'al' (upon/when): 'Al llegar, vi a Juan' (Upon arriving, I saw Juan). (4) Instead of English gerund as noun: 'Me gusta bailar' (I like dancing/to dance). (5) In impersonal expressions: 'Es importante estudiar' (It's important to study). Unlike English, Spanish uses infinitive (not gerund) after prepositions (except 'en')."
+      },
+      {
+        "subtitle": "Infinitive After Prepositions",
+        "content": "After prepositions, Spanish uses INFINITIVE (not gerund like English). Common patterns: 'antes de + inf' (before doing), 'después de + inf' (after doing), 'para + inf' (in order to), 'sin + inf' (without doing), 'al + inf' (upon doing). Examples: 'Antes de comer' (Before eating), 'Para estudiar' (In order to study), 'Sin hablar' (Without speaking). Exception: Only 'en' can be followed by gerund: 'Insistir en hacer' (insist on doing). This is a major difference from English!"
+      },
+      {
+        "subtitle": "Gerund Formation & Usage",
+        "content": "Formation: -AR verbs → -ando (hablar→hablando), -ER/-IR verbs → -iendo (comer→comiendo, vivir→viviendo). Irregulars: -IR stem-changers (e→i, o→u): pedir→pidiendo, dormir→durmiendo. -er/-ir with vowel stems: leer→ley-endo, caer→cay-endo, ir→yendo. Usage: (1) Progressive tenses with estar: 'Estoy comiendo' (I am eating). (2) After seguir/continuar: 'Sigue estudiando' (He keeps studying). (3) To show manner/how: 'Salió corriendo' (He left running). NOT used as noun (use infinitive instead)."
+      },
+      {
+        "subtitle": "Past Participle Formation",
+        "content": "Regular formation: -AR → -ado (hablar→hablado), -ER/-IR → -ido (comer→comido, vivir→vivido). Add accent if stem ends in vowel: leer→leído, traer→traído, oír→oído, caer→caído. Common irregulars: abrir→abierto, cubrir→cubierto, decir→dicho, escribir→escrito, hacer→hecho, morir→muerto, poner→puesto, romper→roto, ver→visto, volver→vuelto. Compounds follow base: describir→descrito, devolver→devuelto, descubrir→descubierto."
+      },
+      {
+        "subtitle": "Participles as Adjectives",
+        "content": "Past participles can function as adjectives, agreeing in gender/number with nouns: 'puerta cerrada' (closed door), 'libros escritos' (written books), 'ventanas abiertas' (open windows), 'problemas resueltos' (solved problems). With estar, shows resultant state: 'La puerta está cerrada' (The door is closed - result). With ser, shows passive voice: 'La casa fue construida' (The house was built - action). Common adjectives: cansado (tired), aburrido (bored), emocionado (excited), perdido (lost), roto (broken)."
+      },
+      {
+        "subtitle": "Perfect Constructions with Haber",
+        "content": "Haber + past participle = perfect tenses. Participle is INVARIABLE (doesn't agree). Present perfect: he comido (I have eaten), has visto (you have seen). Past perfect: había comido (I had eaten). Future perfect: habré comido (I will have eaten). Conditional perfect: habría comido (I would have eaten). Present perfect subjunctive: haya comido (that I have eaten). Pluperfect subjunctive: hubiera comido (that I had eaten). Never place anything between haber and participle: 'He comido ya' (I have already eaten - 'already' goes after)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the three infinitive endings in Spanish?",
+      "answers": [
+        { "text": "-ar, -er, -ir", "correct": true },
+        { "text": "-ando, -iendo, -ido", "correct": false },
+        { "text": "-ado, -ido, -to", "correct": false },
+        { "text": "-o, -a, -e", "correct": false }
+      ],
+      "hint": "The three verb groups: hablar, comer, vivir."
+    },
+    {
+      "id": 2,
+      "question": "'Nadar es divertido' - Why use infinitive?",
+      "answers": [
+        { "text": "Infinitive used as subject of sentence", "correct": true },
+        { "text": "After conjugated verb", "correct": false },
+        { "text": "After preposition", "correct": false },
+        { "text": "Progressive form", "correct": false }
+      ],
+      "hint": "Swimming (nadar) is the subject. Spanish uses infinitive, not gerund."
+    },
+    {
+      "id": 3,
+      "question": "'Me gusta bailar' means 'I like dancing/to dance' - Why infinitive not gerund?",
+      "answers": [
+        {
+          "text": "Spanish uses infinitive as noun, not gerund",
+          "correct": true
+        },
+        { "text": "Gustar requires infinitive form", "correct": false },
+        { "text": "It's a command", "correct": false },
+        { "text": "Past participle rule", "correct": false }
+      ],
+      "hint": "Major difference from English: Spanish uses infinitive where English uses gerund (-ing)."
+    },
+    {
+      "id": 4,
+      "question": "What form follows prepositions in Spanish?",
+      "answers": [
+        { "text": "Infinitive (with exception of 'en')", "correct": true },
+        { "text": "Gerund", "correct": false },
+        { "text": "Past participle", "correct": false },
+        { "text": "Present tense", "correct": false }
+      ],
+      "hint": "Unlike English: Spanish uses infinitive after prepositions (antes de comer)."
+    },
+    {
+      "id": 5,
+      "question": "'Antes de comer' means...",
+      "answers": [
+        {
+          "text": "Before eating (infinitive after preposition)",
+          "correct": true
+        },
+        { "text": "Before I eat (present tense)", "correct": false },
+        { "text": "I ate before", "correct": false },
+        { "text": "While eating", "correct": false }
+      ],
+      "hint": "Antes de + infinitive. Prepositions take infinitive in Spanish."
+    },
+    {
+      "id": 6,
+      "question": "'Sin hablar' means...",
+      "answers": [
+        { "text": "Without speaking", "correct": true },
+        { "text": "Without speaker", "correct": false },
+        { "text": "Not speaking (present)", "correct": false },
+        { "text": "Didn't speak", "correct": false }
+      ],
+      "hint": "Sin + infinitive = without doing something."
+    },
+    {
+      "id": 7,
+      "question": "How do you form the gerund for -AR verbs?",
+      "answers": [
+        { "text": "Replace -ar with -ando", "correct": true },
+        { "text": "Replace -ar with -iendo", "correct": false },
+        { "text": "Replace -ar with -ado", "correct": false },
+        { "text": "Add -ando to infinitive", "correct": false }
+      ],
+      "hint": "hablar → hablando. Use -ando ending for -AR verbs."
+    },
+    {
+      "id": 8,
+      "question": "How do you form the gerund for -ER/-IR verbs?",
+      "answers": [
+        { "text": "Replace -er/-ir with -iendo", "correct": true },
+        { "text": "Replace -er/-ir with -ando", "correct": false },
+        { "text": "Replace -er/-ir with -ido", "correct": false },
+        { "text": "Add -iendo to infinitive", "correct": false }
+      ],
+      "hint": "comer → comiendo, vivir → viviendo. Use -iendo for -ER/-IR."
+    },
+    {
+      "id": 9,
+      "question": "What is the gerund of 'hablar'?",
+      "answers": [
+        { "text": "hablando", "correct": true },
+        { "text": "habliendo", "correct": false },
+        { "text": "hablado", "correct": false },
+        { "text": "hablar", "correct": false }
+      ],
+      "hint": "Remove -ar, add -ando: hablar → hablando."
+    },
+    {
+      "id": 10,
+      "question": "What is the irregular gerund of 'pedir' (e→i stem change)?",
+      "answers": [
+        { "text": "pidiendo", "correct": true },
+        { "text": "pediendo", "correct": false },
+        { "text": "pedido", "correct": false },
+        { "text": "pidando", "correct": false }
+      ],
+      "hint": "-IR stem-changers: e→i in gerund. Pedir → pidiendo."
+    },
+    {
+      "id": 11,
+      "question": "What is the irregular gerund of 'dormir' (o→u stem change)?",
+      "answers": [
+        { "text": "durmiendo", "correct": true },
+        { "text": "dormiendo", "correct": false },
+        { "text": "dormido", "correct": false },
+        { "text": "durmando", "correct": false }
+      ],
+      "hint": "-IR stem-changers: o→u in gerund. Dormir → durmiendo."
+    },
+    {
+      "id": 12,
+      "question": "'Estoy comiendo' uses gerund for...",
+      "answers": [
+        { "text": "Progressive tense (currently doing)", "correct": true },
+        { "text": "As a noun/subject", "correct": false },
+        { "text": "After preposition", "correct": false },
+        { "text": "Perfect tense", "correct": false }
+      ],
+      "hint": "Estar + gerund = progressive 'I am eating'."
+    },
+    {
+      "id": 13,
+      "question": "How do you form the past participle for -AR verbs?",
+      "answers": [
+        { "text": "Replace -ar with -ado", "correct": true },
+        { "text": "Replace -ar with -ido", "correct": false },
+        { "text": "Replace -ar with -ando", "correct": false },
+        { "text": "Add -ado to infinitive", "correct": false }
+      ],
+      "hint": "hablar → hablado. Use -ado for -AR verbs."
+    },
+    {
+      "id": 14,
+      "question": "How do you form the past participle for -ER/-IR verbs?",
+      "answers": [
+        { "text": "Replace -er/-ir with -ido", "correct": true },
+        { "text": "Replace -er/-ir with -ado", "correct": false },
+        { "text": "Replace -er/-ir with -iendo", "correct": false },
+        { "text": "Add -ido to infinitive", "correct": false }
+      ],
+      "hint": "comer → comido, vivir → vivido. Use -ido for -ER/-IR."
+    },
+    {
+      "id": 15,
+      "question": "What is the irregular past participle of 'hacer'?",
+      "answers": [
+        { "text": "hecho", "correct": true },
+        { "text": "hacido", "correct": false },
+        { "text": "hacio", "correct": false },
+        { "text": "hacido", "correct": false }
+      ],
+      "hint": "Very common irregular: hacer → hecho (done/made)."
+    },
+    {
+      "id": 16,
+      "question": "What is the irregular past participle of 'abrir'?",
+      "answers": [
+        { "text": "abierto", "correct": true },
+        { "text": "abrido", "correct": false },
+        { "text": "abiado", "correct": false },
+        { "text": "abriendo", "correct": false }
+      ],
+      "hint": "Irregular: abrir → abierto (opened)."
+    },
+    {
+      "id": 17,
+      "question": "'La puerta cerrada' - Why does 'cerrada' have -a ending?",
+      "answers": [
+        {
+          "text": "Past participle as adjective agrees with noun (feminine)",
+          "correct": true
+        },
+        { "text": "All past participles end in -a", "correct": false },
+        { "text": "Verb conjugated in feminine", "correct": false },
+        { "text": "Random choice", "correct": false }
+      ],
+      "hint": "Participles as adjectives agree in gender/number: puerta (fem) → cerrada."
+    },
+    {
+      "id": 18,
+      "question": "'Libros escritos' - Why does 'escritos' have -os ending?",
+      "answers": [
+        {
+          "text": "Participle as adjective agrees with plural masculine noun",
+          "correct": true
+        },
+        { "text": "All plurals use -os", "correct": false },
+        { "text": "Irregular plural form", "correct": false },
+        { "text": "Verb tense requirement", "correct": false }
+      ],
+      "hint": "Participles agree: libros (masc plural) → escritos (-os ending)."
+    },
+    {
+      "id": 19,
+      "question": "'La puerta está cerrada' vs 'La puerta es cerrada' - What's the difference?",
+      "answers": [
+        {
+          "text": "Estar = resultant state; Ser = passive action",
+          "correct": true
+        },
+        { "text": "No difference, both mean same", "correct": false },
+        { "text": "Estar is wrong, only use ser", "correct": false },
+        { "text": "Estar is temporary, ser is permanent", "correct": false }
+      ],
+      "hint": "Estar + participle = result/state. Ser + participle = passive voice/action."
+    },
+    {
+      "id": 20,
+      "question": "What is the structure of perfect tenses in Spanish?",
+      "answers": [
+        {
+          "text": "haber (conjugated) + past participle (invariable)",
+          "correct": true
+        },
+        { "text": "ser + past participle (agreeing)", "correct": false },
+        { "text": "estar + gerund", "correct": false },
+        { "text": "tener + past participle", "correct": false }
+      ],
+      "hint": "Use auxiliary haber + past participle. Participle never changes."
+    },
+    {
+      "id": 21,
+      "question": "'He comido' - Does 'comido' agree with subject gender/number?",
+      "answers": [
+        {
+          "text": "No, participles with haber are invariable",
+          "correct": true
+        },
+        { "text": "Yes, must agree with subject", "correct": false },
+        { "text": "Only agrees in plural", "correct": false },
+        { "text": "Only agrees in feminine", "correct": false }
+      ],
+      "hint": "With haber, participle NEVER changes: he/hemos/has comido (always same)."
+    },
+    {
+      "id": 22,
+      "question": "'He ya comido' or 'He comido ya' - which is correct?",
+      "answers": [
+        {
+          "text": "He comido ya (nothing between haber and participle)",
+          "correct": true
+        },
+        { "text": "He ya comido (adverb between is fine)", "correct": false },
+        { "text": "Both are equally correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "Never separate haber and participle. Adverbs go after: He comido ya."
+    },
+    {
+      "id": 23,
+      "question": "What is the past participle of 'leer' (watch for accent!)?",
+      "answers": [
+        { "text": "leído (with accent)", "correct": true },
+        { "text": "leido (no accent)", "correct": false },
+        { "text": "leído", "correct": false },
+        { "text": "leyendo", "correct": false }
+      ],
+      "hint": "Stem ends in vowel, so add accent: leer → leído (le-í-do)."
+    }
+  ]
+}

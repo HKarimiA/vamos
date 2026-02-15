@@ -1,0 +1,367 @@
+{
+  "topic": {
+    "id": 21,
+    "name": "Sentence Structure & Syntax"
+  },
+  "explanation": {
+    "title": "Spanish Sentence Structure: Building Clear Communication",
+    "sections": [
+      {
+        "subtitle": "Subject-Verb Agreement & Basic Word Order",
+        "content": "SUBJECT-VERB AGREEMENT: Verbs must agree with their subjects in person and number. 'Yo hablo' (I speak), 'Nosotros hablamos' (We speak). Spanish allows subject omission since verb endings show who is acting: 'Hablo español' = I speak Spanish (subject 'yo' understood from verb ending). Use subject pronouns for emphasis or clarity: 'Yo hablo español, pero él habla inglés' (I speak Spanish, but he speaks English). BASIC WORD ORDER: Standard is Subject-Verb-Object (SVO). 'María (S) come (V) manzanas (O)' (María eats apples). 'El niño (S) lee (V) el libro (O)' (The boy reads the book). This is the default, neutral order. However, Spanish is flexible with word order compared to English, allowing variations for emphasis or style while maintaining clarity through verb conjugations and context."
+      },
+      {
+        "subtitle": "Word Order Variations & Emphasis",
+        "content": "Spanish allows word order changes for emphasis or focus. VERB-SUBJECT ORDER: Common with questions and after certain adverbs. '¿Viene Juan?' (Is Juan coming?). 'Aquí vive mi hermano' (Here lives my brother / My brother lives here). OBJECT FRONTING: Place object first for emphasis. 'Las manzanas come María' (Apples, María eats - emphasis on apples, not normal order). 'Eso no lo sé' (That, I don't know - emphasizing 'that'). INVERSION for emphasis: 'Me gusta el café' (I like coffee - standard) vs 'El café me gusta' (Coffee, I like - emphasis on coffee). In writing or formal speech, varied word order creates interest: 'En la casa vive un gato' vs 'Un gato vive en la casa' (both = A cat lives in the house, but first emphasizes location). Remember: flexibility exists, but SVO remains the unmarked, neutral default."
+      },
+      {
+        "subtitle": "Negation & Double Negatives",
+        "content": "BASIC NEGATION: Place NO directly before the verb. 'No hablo inglés' (I don't speak English). 'No quiero café' (I don't want coffee). With object pronouns, NO goes before the pronoun: 'No lo veo' (I don't see it). DOUBLE NEGATION: Unlike English, Spanish embraces multiple negatives in one sentence - they reinforce negation rather than cancel it. NUNCA (never): 'No voy nunca' = 'Nunca voy' (I never go). NADIE (nobody): 'No veo a nadie' = 'Nadie viene' (Nobody comes). NADA (nothing): 'No quiero nada' = 'Nada me gusta' (Nothing pleases me / I don't like anything). NINGUNO (none/not any): 'No tengo ningún libro' = 'Ningún libro tengo' (I have no book / I don't have any book). Pattern: When negative word comes AFTER verb, use NO before verb. When negative word comes BEFORE verb, omit NO. 'No como nunca carne' or 'Nunca como carne' (I never eat meat). Can stack negatives: 'No veo nunca a nadie' (I never see anyone - literally: I don't see never nobody)."
+      },
+      {
+        "subtitle": "Questions & Question Words",
+        "content": "YES/NO QUESTIONS: Use intonation (rising at end) with same word order, or invert subject-verb order. '¿Hablas español?' or '¿Tú hablas español?' (Do you speak Spanish?). Written: always use inverted question marks ¿ ?. QUESTION WORDS (always with accent): ¿QUÉ? (what?): '¿Qué quieres?' (What do you want?). ¿QUIÉN/QUIÉNES? (who?): '¿Quién es?' (Who is it?), '¿Quiénes vienen?' (Who are coming? - plural). ¿CUÁNDO? (when?): '¿Cuándo llegas?' (When do you arrive?). ¿DÓNDE? (where?): '¿Dónde vives?' (Where do you live?). ¿CÓMO? (how?): '¿Cómo estás?' (How are you?). ¿POR QUÉ? (why?): '¿Por qué estudias?' (Why do you study?). Answer with PORQUE (because - no accent, one word). ¿CUÁNTO/A/OS/AS? (how much/many?): '¿Cuánto cuesta?' (How much does it cost?), '¿Cuántos años tienes?' (How many years do you have?). ¿CUÁL/CUÁLES? (which?): '¿Cuál prefieres?' (Which do you prefer?). Note: Use ¿QUÉ ES? for definitions, ¿CUÁL ES? for selections: '¿Qué es esto?' (What is this? - definition), '¿Cuál es tu nombre?' (What/Which is your name? - selection)."
+      },
+      {
+        "subtitle": "Object Pronouns & Relative Clauses",
+        "content": "OBJECT PRONOUN PLACEMENT: Direct (lo, la, los, las) and indirect (me, te, le, nos, os, les) object pronouns go BEFORE conjugated verbs. 'Lo veo' (I see it). 'Te llamo' (I call you). 'Me gusta' (It pleases me / I like it). With infinitives or gerunds, attach to end: 'Voy a verlo' or 'Lo voy a ver' (I'm going to see it). 'Estoy llamándote' or 'Te estoy llamando' (I'm calling you). With commands: attach to affirmative commands, place before negative commands. 'Hazlo' (Do it!) but 'No lo hagas' (Don't do it!). RELATIVE CLAUSES: Connect clauses with relative pronouns. QUE (that/who/which - most common): 'El libro que leo' (The book that I read). 'La mujer que conozco' (The woman whom I know). Works for people and things. QUIEN/QUIENES (who/whom - people only, often after prepositions): 'La persona con quien hablo' (The person with whom I speak). EL/LA CUAL, LOS/LAS CUALES (which - formal, after prepositions): 'La casa en la cual vivo' (The house in which I live). LO QUE (what - abstract ideas): 'No entiendo lo que dices' (I don't understand what you're saying)."
+      },
+      {
+        "subtitle": "Subordinate Clauses & Emphatic Structures",
+        "content": "SUBORDINATE CLAUSES: Dependent clauses that can't stand alone. NOUN CLAUSES (function as subject/object): 'Creo que es verdad' (I believe that it's true - object clause). 'Que estudies es importante' (That you study is important - subject clause). Often use subjunctive after doubt, emotion, desire. ADJECTIVE CLAUSES (describe nouns): Use relative pronouns. 'Busco un libro que tenga fotos' (I'm looking for a book that has photos - subjunctive for nonspecific). 'Tengo un libro que tiene fotos' (I have a book that has photos - indicative for specific). ADVERBIAL CLAUSES (time, place, manner, cause): 'Como si fuera rico' (As if he were rich). 'Llegué cuando terminó' (I arrived when it ended). INDIRECT QUESTIONS: Embedded questions in statements. Retain question words but no question marks. 'No sé qué quiere' (I don't know what he wants). 'Pregunta dónde vivo' (She asks where I live). EMPHATIC STRUCTURES: CLEFT sentences emphasize specific elements. 'Es María quien cocina' (It's María who cooks - emphasizing María). 'Lo que necesito es tiempo' (What I need is time - emphasizing time need). SER + que construction: 'Fue aquí donde nací' (It was here where I was born)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the standard word order in Spanish?",
+      "answers": [
+        { "text": "Subject-Verb-Object (SVO)", "correct": true },
+        { "text": "Object-Subject-Verb (OSV)", "correct": false },
+        { "text": "Verb-Subject-Object (VSO)", "correct": false },
+        { "text": "Subject-Object-Verb (SOV)", "correct": false }
+      ],
+      "hint": "Standard order: María (S) come (V) manzanas (O) - Subject-Verb-Object."
+    },
+    {
+      "id": 2,
+      "question": "'Hablo español' - Where is the subject?",
+      "answers": [
+        {
+          "text": "Implied in verb ending (yo understood from 'hablo')",
+          "correct": true
+        },
+        { "text": "Missing - sentence is incomplete", "correct": false },
+        { "text": "After the verb", "correct": false },
+        { "text": "Español is the subject", "correct": false }
+      ],
+      "hint": "Spanish verbs show person/number, so subject pronouns are often omitted: Hablo = I speak."
+    },
+    {
+      "id": 3,
+      "question": "'¿Viene Juan?' - What word order is used?",
+      "answers": [
+        {
+          "text": "Verb-Subject (inversion common in questions)",
+          "correct": true
+        },
+        { "text": "Subject-Verb (standard order)", "correct": false },
+        { "text": "Object-Verb", "correct": false },
+        { "text": "Random order", "correct": false }
+      ],
+      "hint": "Questions often use Verb-Subject order: Viene (V) Juan (S)? = Is Juan coming?"
+    },
+    {
+      "id": 4,
+      "question": "'No hablo inglés' - Where does NO go?",
+      "answers": [
+        { "text": "Directly before the verb", "correct": true },
+        { "text": "After the verb", "correct": false },
+        { "text": "At the end of the sentence", "correct": false },
+        { "text": "Before the subject", "correct": false }
+      ],
+      "hint": "NO always goes directly before the conjugated verb: No hablo (I don't speak)."
+    },
+    {
+      "id": 5,
+      "question": "'No veo a nadie' vs 'Nadie viene' - Why the difference with NO?",
+      "answers": [
+        {
+          "text": "Negative word after verb needs NO; before verb omits NO",
+          "correct": true
+        },
+        { "text": "Both should have NO", "correct": false },
+        { "text": "Neither should have NO", "correct": false },
+        { "text": "Random variation", "correct": false }
+      ],
+      "hint": "If negative word comes AFTER verb, use NO before verb. If BEFORE verb, omit NO."
+    },
+    {
+      "id": 6,
+      "question": "'No como nunca carne' - Is this correct Spanish?",
+      "answers": [
+        {
+          "text": "Yes - double negatives reinforce negation in Spanish",
+          "correct": true
+        },
+        { "text": "No - double negatives cancel each other", "correct": false },
+        { "text": "No - should be 'Como nunca carne'", "correct": false },
+        { "text": "No - too many negatives", "correct": false }
+      ],
+      "hint": "Spanish embraces double negatives: No...nunca = never (literally: I don't eat never)."
+    },
+    {
+      "id": 7,
+      "question": "'Nunca voy' or 'No voy nunca' - Which is correct?",
+      "answers": [
+        {
+          "text": "Both are correct (different word order, same meaning)",
+          "correct": true
+        },
+        { "text": "Only 'Nunca voy' is correct", "correct": false },
+        { "text": "Only 'No voy nunca' is correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "Both work: Nunca before verb (no NO needed) or after verb (NO needed). I never go."
+    },
+    {
+      "id": 8,
+      "question": "'¿Qué?' vs '¿Cuál?' - What's the difference?",
+      "answers": [
+        {
+          "text": "Qué asks 'what' (definition); Cuál asks 'which' (selection)",
+          "correct": true
+        },
+        { "text": "No difference, always interchangeable", "correct": false },
+        { "text": "Qué is formal, Cuál is informal", "correct": false },
+        { "text": "Cuál is for plural only", "correct": false }
+      ],
+      "hint": "¿Qué es? = What is it? (definition). ¿Cuál es? = Which is it? (selection)."
+    },
+    {
+      "id": 9,
+      "question": "'¿Quién?' vs '¿Quiénes?' - When to use each?",
+      "answers": [
+        {
+          "text": "Quién = who (singular); Quiénes = who (plural)",
+          "correct": true
+        },
+        {
+          "text": "Quién for questions, Quiénes for statements",
+          "correct": false
+        },
+        { "text": "Quién for male, Quiénes for female", "correct": false },
+        { "text": "They are always interchangeable", "correct": false }
+      ],
+      "hint": "¿Quién es? = Who is it? (one person). ¿Quiénes son? = Who are they? (multiple people)."
+    },
+    {
+      "id": 10,
+      "question": "'¿Por qué estudias?' - How do you answer?",
+      "answers": [
+        {
+          "text": "Porque... (because - no accent, one word)",
+          "correct": true
+        },
+        { "text": "Por qué... (same as question)", "correct": false },
+        { "text": "Porqué... (noun form)", "correct": false },
+        { "text": "Por que... (two words, no accent)", "correct": false }
+      ],
+      "hint": "Question: ¿Por qué? (Why?, two words, accent). Answer: Porque... (Because, one word, no accent)."
+    },
+    {
+      "id": 11,
+      "question": "'¿Cuánto cuesta?' vs '¿Cuántos años tienes?' - What's the difference?",
+      "answers": [
+        {
+          "text": "Cuánto = how much (uncountable); Cuántos = how many (countable)",
+          "correct": true
+        },
+        { "text": "Cuánto for past, Cuántos for present", "correct": false },
+        { "text": "No difference, random usage", "correct": false },
+        {
+          "text": "Cuánto for objects, Cuántos for people only",
+          "correct": false
+        }
+      ],
+      "hint": "Cuánto = how much (singular/uncountable). Cuántos = how many (plural/countable)."
+    },
+    {
+      "id": 12,
+      "question": "'Lo veo' - Where does the object pronoun 'lo' go?",
+      "answers": [
+        { "text": "Before the conjugated verb", "correct": true },
+        { "text": "After the conjugated verb", "correct": false },
+        { "text": "At the beginning of the sentence", "correct": false },
+        { "text": "At the end of the sentence", "correct": false }
+      ],
+      "hint": "Object pronouns go BEFORE conjugated verbs: Lo veo (I see it)."
+    },
+    {
+      "id": 13,
+      "question": "'Voy a verlo' or 'Lo voy a ver' - Which is correct?",
+      "answers": [
+        {
+          "text": "Both are correct (attach to infinitive or before conjugated verb)",
+          "correct": true
+        },
+        { "text": "Only 'Voy a verlo' is correct", "correct": false },
+        { "text": "Only 'Lo voy a ver' is correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "With infinitives: attach to end (verlo) OR place before conjugated verb (lo voy). Both work."
+    },
+    {
+      "id": 14,
+      "question": "'Hazlo' vs 'No lo hagas' - Why does pronoun position change?",
+      "answers": [
+        {
+          "text": "Affirmative commands: attach after; Negative commands: place before",
+          "correct": true
+        },
+        { "text": "Random placement with commands", "correct": false },
+        { "text": "Both should attach after the verb", "correct": false },
+        { "text": "Both should place before the verb", "correct": false }
+      ],
+      "hint": "Affirmative command: attach pronoun (Hazlo = Do it!). Negative command: before verb (No lo hagas = Don't do it)."
+    },
+    {
+      "id": 15,
+      "question": "'El libro que leo' - What does 'que' mean here?",
+      "answers": [
+        {
+          "text": "That/Which (relative pronoun connecting clauses)",
+          "correct": true
+        },
+        { "text": "Because", "correct": false },
+        { "text": "When", "correct": false },
+        { "text": "If", "correct": false }
+      ],
+      "hint": "QUE as relative pronoun = that/which/who. The book THAT I read."
+    },
+    {
+      "id": 16,
+      "question": "'La persona con quien hablo' - Why 'quien' not 'que'?",
+      "answers": [
+        {
+          "text": "Quien (who) preferred after prepositions with people",
+          "correct": true
+        },
+        { "text": "Que can't be used with people", "correct": false },
+        { "text": "Random choice", "correct": false },
+        { "text": "Quien is more informal", "correct": false }
+      ],
+      "hint": "After prepositions with people, prefer QUIEN: con quien (with whom), para quien (for whom)."
+    },
+    {
+      "id": 17,
+      "question": "'No entiendo lo que dices' - What does 'lo que' mean?",
+      "answers": [
+        {
+          "text": "What (refers to abstract ideas/things said)",
+          "correct": true
+        },
+        { "text": "Who (refers to people)", "correct": false },
+        { "text": "That the (article + relative pronoun)", "correct": false },
+        { "text": "Because that", "correct": false }
+      ],
+      "hint": "LO QUE = what (abstract/general concepts). I don't understand WHAT you're saying."
+    },
+    {
+      "id": 18,
+      "question": "'Busco un libro que tenga fotos' - Why subjunctive 'tenga'?",
+      "answers": [
+        {
+          "text": "Book is nonspecific/hypothetical (any book that has photos)",
+          "correct": true
+        },
+        { "text": "Buscar always requires subjunctive", "correct": false },
+        { "text": "This should be 'tiene' in indicative", "correct": false },
+        { "text": "Fotos requires subjunctive", "correct": false }
+      ],
+      "hint": "Adjective clauses use subjunctive for nonspecific/nonexistent antecedents: any book that has photos."
+    },
+    {
+      "id": 19,
+      "question": "'Tengo un libro que tiene fotos' - Why indicative 'tiene'?",
+      "answers": [
+        {
+          "text": "Book is specific/exists (I have a specific book)",
+          "correct": true
+        },
+        { "text": "Tener never uses subjunctive", "correct": false },
+        { "text": "This should be 'tenga' in subjunctive", "correct": false },
+        { "text": "Past reference requires indicative", "correct": false }
+      ],
+      "hint": "Adjective clauses use indicative for specific/existing antecedents: a specific book that I have."
+    },
+    {
+      "id": 20,
+      "question": "'No sé qué quiere' - Is this a question?",
+      "answers": [
+        {
+          "text": "No, it's an indirect question (embedded in statement)",
+          "correct": true
+        },
+        { "text": "Yes, it needs question marks", "correct": false },
+        { "text": "No, 'qué' is used incorrectly", "correct": false },
+        { "text": "Yes, but written incorrectly", "correct": false }
+      ],
+      "hint": "INDIRECT question: embedded in statement, keeps question word but no question marks. I don't know what he wants."
+    },
+    {
+      "id": 21,
+      "question": "'Pregunta dónde vivo' means...",
+      "answers": [
+        {
+          "text": "She asks where I live (indirect question)",
+          "correct": true
+        },
+        { "text": "Where do I live? (direct question)", "correct": false },
+        { "text": "Ask where I live (command)", "correct": false },
+        { "text": "Question where I live", "correct": false }
+      ],
+      "hint": "Indirect question: She asks WHERE I LIVE (embedded, no question marks)."
+    },
+    {
+      "id": 22,
+      "question": "'Es María quien cocina' - What does this structure emphasize?",
+      "answers": [
+        {
+          "text": "María (cleft structure emphasizes who cooks)",
+          "correct": true
+        },
+        { "text": "Cooking (emphasizes the action)", "correct": false },
+        { "text": "Nothing - neutral statement", "correct": false },
+        { "text": "Time (when she cooks)", "correct": false }
+      ],
+      "hint": "CLEFT structure ES...quien = It's...who (emphasizes María). It's MARÍA who cooks (not someone else)."
+    },
+    {
+      "id": 23,
+      "question": "'Lo que necesito es tiempo' - What is emphasized?",
+      "answers": [
+        { "text": "Time (what I need is specifically TIME)", "correct": true },
+        { "text": "What (the question word)", "correct": false },
+        { "text": "I/me (the person needing)", "correct": false },
+        { "text": "Nothing - neutral statement", "correct": false }
+      ],
+      "hint": "LO QUE...es structure emphasizes what comes after ES. WHAT I need is TIME (specifically time)."
+    },
+    {
+      "id": 24,
+      "question": "'Fue aquí donde nací' - What does this emphasize?",
+      "answers": [
+        {
+          "text": "Here/this location (where birth happened)",
+          "correct": true
+        },
+        { "text": "I/me (who was born)", "correct": false },
+        { "text": "Birth (the event)", "correct": false },
+        { "text": "Past time (when it happened)", "correct": false }
+      ],
+      "hint": "Cleft: Fue AQUÍ donde... = It was HERE where... (emphasizes location: HERE, not elsewhere)."
+    }
+  ]
+}

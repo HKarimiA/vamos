@@ -1,0 +1,308 @@
+{
+  "topic": {
+    "id": 13,
+    "name": "Imperative (Commands)"
+  },
+  "explanation": {
+    "title": "Spanish Imperative Mood: Giving Commands & Instructions",
+    "sections": [
+      {
+        "subtitle": "Informal Affirmative Commands (Tú)",
+        "content": "For tú, use the 3rd person singular (él/ella) present indicative form. Regular: habla (speak), come (eat), escribe (write). Common irregulars: decir→di, hacer→haz, ir→ve, poner→pon, salir→sal, ser→sé, tener→ten, venir→ven. Examples: '¡Habla más despacio!' (Speak more slowly!), '¡Come la comida!' (Eat the food!), '¡Haz tu tarea!' (Do your homework!). This is the most common command form in everyday Spanish."
+      },
+      {
+        "subtitle": "Informal Negative Commands (Tú)",
+        "content": "For negative tú commands, use 'no' + present subjunctive (tú form). Regular: no hables (don't speak), no comas (don't eat), no escribas (don't write). Irregulars follow subjunctive: no seas (don't be), no vayas (don't go), no hagas (don't do), no digas (don't say), no tengas (don't have). Examples: '¡No hables!' (Don't speak!), '¡No comas eso!' (Don't eat that!), '¡No vayas!' (Don't go!). Remember: negative commands ALWAYS use subjunctive for all persons."
+      },
+      {
+        "subtitle": "Formal Commands (Usted/Ustedes)",
+        "content": "For usted and ustedes, ALWAYS use present subjunctive forms (affirmative AND negative). Usted: hable (speak), coma (eat), escriba (write), sea (be), vaya (go), haga (do). Ustedes: hablen, coman, escriban, sean, vayan, hagan. Negative: add 'no' before: no hable, no hablen. Examples: '¡Hable más despacio!' (Speak more slowly! - formal), '¡No hablen aquí!' (Don't speak here! - formal plural). Ustedes is used for plural 'you' in Latin America (formal AND informal) and formal plural in Spain."
+      },
+      {
+        "subtitle": "Vosotros Commands (Spain)",
+        "content": "AFFIRMATIVE: Replace final 'r' of infinitive with 'd': hablar→hablad, comer→comed, vivir→vivid. No irregulars in affirmative! Examples: '¡Hablad!' (Speak! - you all), '¡Comed!' (Eat! - you all). NEGATIVE: Use present subjunctive (vosotros form): no habléis, no comáis, no viváis, no seáis, no vayáis. Examples: '¡No habléis!' (Don't speak! - you all). Note: Vosotros is primarily used in Spain; Latin America uses ustedes for plural you."
+      },
+      {
+        "subtitle": "Pronoun Placement with Commands",
+        "content": "AFFIRMATIVE commands: Attach pronouns to the END of the verb (one word): '¡Hazlo!' (Do it!), '¡Dámelo!' (Give it to me!), '¡Siéntate!' (Sit down!), '¡Levántate!' (Get up!). Add accent marks to maintain original stress. NEGATIVE commands: Pronouns go BEFORE the verb (separate): '¡No lo hagas!' (Don't do it!), '¡No me lo des!' (Don't give it to me!), '¡No te sientes!' (Don't sit down!). Order with two pronouns: indirect before direct (me lo, te la, se los). Reflexive pronoun 'te' attaches: siéntate, levántate."
+      },
+      {
+        "subtitle": "Nosotros Commands (Let's...)",
+        "content": "Use present subjunctive (nosotros form) for 'let's' commands. Affirmative: hablemos (let's speak), comamos (let's eat), vayamos (let's go), seamos (let's be). Alternative for 'ir': use 'vamos' (not vayamos) for affirmative: '¡Vamos!' (Let's go!). Negative: no hablemos, no comamos, no vayamos (use subjunctive), no seamos. With pronouns: affirmative attaches them (drop final 's' before 'nos'): sentémonos (let's sit down - not sentemosnos), levantémonos (let's get up). Negative: pronouns go before: no nos sentemos."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you form affirmative tú commands for regular verbs?",
+      "answers": [
+        {
+          "text": "Use 3rd person singular present indicative (él/ella form)",
+          "correct": true
+        },
+        {
+          "text": "Use 2nd person singular present indicative (tú form)",
+          "correct": false
+        },
+        { "text": "Use present subjunctive (tú form)", "correct": false },
+        { "text": "Use infinitive minus -ar/-er/-ir", "correct": false }
+      ],
+      "hint": "Same as 'he/she' present form: habla (he speaks) → ¡Habla! (speak!)."
+    },
+    {
+      "id": 2,
+      "question": "What is the affirmative tú command of 'hablar'?",
+      "answers": [
+        { "text": "habla", "correct": true },
+        { "text": "hablas", "correct": false },
+        { "text": "hable", "correct": false },
+        { "text": "hablar", "correct": false }
+      ],
+      "hint": "Use the él/ella form: él habla → ¡Habla!"
+    },
+    {
+      "id": 3,
+      "question": "What is the affirmative tú command of 'comer'?",
+      "answers": [
+        { "text": "come", "correct": true },
+        { "text": "comes", "correct": false },
+        { "text": "coma", "correct": false },
+        { "text": "comed", "correct": false }
+      ],
+      "hint": "Use the él/ella form: él come → ¡Come!"
+    },
+    {
+      "id": 4,
+      "question": "What is the irregular affirmative tú command of 'hacer'?",
+      "answers": [
+        { "text": "haz", "correct": true },
+        { "text": "hace", "correct": false },
+        { "text": "haga", "correct": false },
+        { "text": "hacer", "correct": false }
+      ],
+      "hint": "This is one of 8 common irregular tú commands. Think 'haz-lo' (do it)."
+    },
+    {
+      "id": 5,
+      "question": "What is the irregular affirmative tú command of 'ir'?",
+      "answers": [
+        { "text": "ve", "correct": true },
+        { "text": "va", "correct": false },
+        { "text": "vaya", "correct": false },
+        { "text": "ir", "correct": false }
+      ],
+      "hint": "Irregular and very short. Same as 'ver' command: ¡Ve!"
+    },
+    {
+      "id": 6,
+      "question": "Which verbs have irregular affirmative tú commands?",
+      "answers": [
+        {
+          "text": "decir, hacer, ir, poner, salir, ser, tener, venir",
+          "correct": true
+        },
+        { "text": "All -ir verbs", "correct": false },
+        { "text": "All stem-changing verbs", "correct": false },
+        { "text": "No verbs are irregular", "correct": false }
+      ],
+      "hint": "8 common verbs: di, haz, ve, pon, sal, sé, ten, ven. Memorize these!"
+    },
+    {
+      "id": 7,
+      "question": "How do you form negative tú commands?",
+      "answers": [
+        { "text": "no + present subjunctive (tú form)", "correct": true },
+        { "text": "no + present indicative (tú form)", "correct": false },
+        { "text": "no + infinitive", "correct": false },
+        { "text": "no + affirmative command", "correct": false }
+      ],
+      "hint": "Negative commands ALWAYS use subjunctive forms."
+    },
+    {
+      "id": 8,
+      "question": "What is the negative tú command of 'hablar'?",
+      "answers": [
+        { "text": "no hables", "correct": true },
+        { "text": "no hablas", "correct": false },
+        { "text": "no habla", "correct": false },
+        { "text": "no hablar", "correct": false }
+      ],
+      "hint": "Use subjunctive: no + hables (present subjunctive tú form)."
+    },
+    {
+      "id": 9,
+      "question": "What is the negative tú command of 'ir'?",
+      "answers": [
+        { "text": "no vayas", "correct": true },
+        { "text": "no ve", "correct": false },
+        { "text": "no vas", "correct": false },
+        { "text": "no va", "correct": false }
+      ],
+      "hint": "Negative uses subjunctive. Ir subjunctive: vaya, vayas, vaya..."
+    },
+    {
+      "id": 10,
+      "question": "How do you form usted/ustedes commands (both affirmative and negative)?",
+      "answers": [
+        { "text": "Always use present subjunctive", "correct": true },
+        { "text": "Use present indicative", "correct": false },
+        { "text": "Use infinitive", "correct": false },
+        { "text": "Use future tense", "correct": false }
+      ],
+      "hint": "Formal commands ALWAYS use subjunctive (unlike tú affirmative commands)."
+    },
+    {
+      "id": 11,
+      "question": "What is the usted command of 'hablar' (affirmative)?",
+      "answers": [
+        { "text": "hable", "correct": true },
+        { "text": "habla", "correct": false },
+        { "text": "hablas", "correct": false },
+        { "text": "hablad", "correct": false }
+      ],
+      "hint": "Usted commands use subjunctive: hable (formal singular 'speak')."
+    },
+    {
+      "id": 12,
+      "question": "What is the ustedes command of 'comer' (affirmative)?",
+      "answers": [
+        { "text": "coman", "correct": true },
+        { "text": "comen", "correct": false },
+        { "text": "comed", "correct": false },
+        { "text": "coma", "correct": false }
+      ],
+      "hint": "Ustedes commands use subjunctive: coman (formal/Latin America plural 'eat')."
+    },
+    {
+      "id": 13,
+      "question": "How do you form affirmative vosotros commands?",
+      "answers": [
+        { "text": "Replace infinitive -r with -d", "correct": true },
+        { "text": "Use present subjunctive", "correct": false },
+        { "text": "Use present indicative (vosotros form)", "correct": false },
+        { "text": "Use infinitive", "correct": false }
+      ],
+      "hint": "hablar → hablad, comer → comed, vivir → vivid. No irregulars!"
+    },
+    {
+      "id": 14,
+      "question": "What is the affirmative vosotros command of 'hablar'?",
+      "answers": [
+        { "text": "hablad", "correct": true },
+        { "text": "habláis", "correct": false },
+        { "text": "hablen", "correct": false },
+        { "text": "hablar", "correct": false }
+      ],
+      "hint": "Replace -r with -d: hablar → hablad (speak, you all - Spain)."
+    },
+    {
+      "id": 15,
+      "question": "How do you form negative vosotros commands?",
+      "answers": [
+        { "text": "no + present subjunctive (vosotros form)", "correct": true },
+        { "text": "no + infinitive minus r plus d", "correct": false },
+        { "text": "no + present indicative", "correct": false },
+        { "text": "no + affirmative command", "correct": false }
+      ],
+      "hint": "Negative commands use subjunctive: no habléis, no comáis."
+    },
+    {
+      "id": 16,
+      "question": "Where do pronouns go with affirmative commands?",
+      "answers": [
+        { "text": "Attached to the end of the verb", "correct": true },
+        { "text": "Before the verb", "correct": false },
+        { "text": "After 'no'", "correct": false },
+        { "text": "Between auxiliary and main verb", "correct": false }
+      ],
+      "hint": "Forms one word: hazlo (do it), dámelo (give it to me)."
+    },
+    {
+      "id": 17,
+      "question": "'¡Hazlo!' means 'Do it!' - Why the accent on 'Haz'?",
+      "answers": [
+        {
+          "text": "No accent on 'Hazlo' - accent maintains stress when pronoun attaches",
+          "correct": true
+        },
+        { "text": "All commands have accents", "correct": false },
+        { "text": "Lo always requires accent before it", "correct": false },
+        { "text": "Irregular verbs always have accents", "correct": false }
+      ],
+      "hint": "Actually: ¡Hazlo! (no accent). Add accent when needed to maintain original stress."
+    },
+    {
+      "id": 18,
+      "question": "Where do pronouns go with negative commands?",
+      "answers": [
+        { "text": "Before the verb (separate)", "correct": true },
+        { "text": "Attached to the end", "correct": false },
+        { "text": "After 'no'", "correct": false },
+        { "text": "Before 'no'", "correct": false }
+      ],
+      "hint": "No lo hagas (Don't do it), No te sientes (Don't sit down)."
+    },
+    {
+      "id": 19,
+      "question": "'¡Siéntate!' means...",
+      "answers": [
+        { "text": "Sit down! (reflexive pronoun attached)", "correct": true },
+        { "text": "He/she sits down", "correct": false },
+        { "text": "Don't sit down!", "correct": false },
+        { "text": "I sit down", "correct": false }
+      ],
+      "hint": "Affirmative tú command of sentarse: sienta + te = siéntate (accent added)."
+    },
+    {
+      "id": 20,
+      "question": "How do you form nosotros commands (let's...)?",
+      "answers": [
+        { "text": "Use present subjunctive (nosotros form)", "correct": true },
+        { "text": "Use present indicative (nosotros form)", "correct": false },
+        { "text": "Use infinitive plus -mos", "correct": false },
+        { "text": "Use vamos + infinitive", "correct": false }
+      ],
+      "hint": "Hablemos (let's speak), Comamos (let's eat) - uses subjunctive."
+    },
+    {
+      "id": 21,
+      "question": "What is the affirmative nosotros command of 'ir' (let's go)?",
+      "answers": [
+        { "text": "vamos (not vayamos for affirmative)", "correct": true },
+        { "text": "vayamos", "correct": false },
+        { "text": "iremos", "correct": false },
+        { "text": "ímos", "correct": false }
+      ],
+      "hint": "Exception! Use vamos for affirmative 'let's go', not vayamos."
+    },
+    {
+      "id": 22,
+      "question": "'¡No nos sentemos!' means...",
+      "answers": [
+        {
+          "text": "Let's not sit down! (pronouns before negative command)",
+          "correct": true
+        },
+        { "text": "We don't sit down", "correct": false },
+        { "text": "Don't sit us down!", "correct": false },
+        { "text": "Let's sit down!", "correct": false }
+      ],
+      "hint": "Negative nosotros command: no + pronoun + subjunctive."
+    },
+    {
+      "id": 23,
+      "question": "'Sentémonos' (let's sit down) - Why drop the 's'?",
+      "answers": [
+        {
+          "text": "Drop final 's' before reflexive 'nos' in affirmative",
+          "correct": true
+        },
+        { "text": "All nosotros commands drop 's'", "correct": false },
+        { "text": "Typo - should be 'sentemosnos'", "correct": false },
+        { "text": "Irregular rule for sentarse", "correct": false }
+      ],
+      "hint": "Sentemos + nos: drop the 's' → sentémonos (phonetic rule)."
+    }
+  ]
+}

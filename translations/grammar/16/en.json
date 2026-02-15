@@ -1,0 +1,334 @@
+{
+  "topic": {
+    "id": 16,
+    "name": "Reflexive & Pronominal Verbs"
+  },
+  "explanation": {
+    "title": "Spanish Reflexive Verbs: When the Subject Acts on Itself",
+    "sections": [
+      {
+        "subtitle": "Reflexive Pronouns & Basic Usage",
+        "content": "Reflexive pronouns: me (myself), te (yourself), se (himself/herself/itself/themselves), nos (ourselves), os (yourselves - Spain), se (yourselves - formal/Latin America). Placement: before conjugated verb or attached to infinitive/gerund/affirmative command. Examples: 'Me lavo' (I wash myself), 'Te duchas' (You shower), 'Se viste' (He/She gets dressed). With infinitive: 'Voy a lavarme' or 'Me voy a lavar' (I'm going to wash myself). With gerund: 'Estoy lavándome' or 'Me estoy lavando' (I'm washing myself). Affirmative command: '¡Lávate!' (Wash yourself!). Negative: '¡No te laves!' (Don't wash yourself!)."
+      },
+      {
+        "subtitle": "Common Reflexive Verbs",
+        "content": "Daily routine verbs: levantarse (get up), despertarse (wake up), ducharse (shower), bañarse (bathe), lavarse (wash), vestirse (get dressed), peinarse (comb hair), afeitarse (shave), maquillarse (put on makeup), acostarse (go to bed). Position/movement: sentarse (sit down), levantarse (stand up), pararse (stop/stand), irse (leave/go away), quedarse (stay). Emotion/state: sentirse (feel), ponerse (become/put on), enojarse (get angry), preocuparse (worry), aburrirse (get bored), divertirse (have fun), alegrarse (be happy). Example: 'Me despierto a las 7' (I wake up at 7), 'Nos divertimos mucho' (We have a lot of fun)."
+      },
+      {
+        "subtitle": "Reciprocal Actions & Pronominal Verbs",
+        "content": "RECIPROCAL: Use nos, os, se to mean 'each other'. Must be plural subject: 'Nos vemos mañana' (We'll see each other tomorrow), 'Se aman' (They love each other), 'Os escribís' (You write to each other). Context clarifies reciprocal vs reflexive. PRONOMINAL VERBS: Change meaning with reflexive pronoun. ir (go) → irse (leave/go away): 'Voy a Madrid' (I'm going to Madrid) vs 'Me voy' (I'm leaving). dormir (sleep) → dormirse (fall asleep): 'Duermo 8 horas' vs 'Me duermo rápido' (I fall asleep quickly). Other examples: poner (put) → ponerse (put on/become), acordar (agree) → acordarse (remember), parecer (seem) → parecerse (resemble), quedar (remain) → quedarse (stay)."
+      },
+      {
+        "subtitle": "Accidental/Unintentional Se",
+        "content": "Express unintentional actions using: se + indirect object pronoun + verb (3rd person). Structure shows action happened accidentally, not on purpose. Examples: 'Se me olvidó la tarea' (I forgot the homework - lit: the homework forgot itself to me), 'Se te cayó el libro' (You dropped the book - accidentally), 'Se nos perdieron las llaves' (We lost the keys - they got lost on us), 'Se le rompió el vaso' (He/She broke the glass - accidentally). Common verbs: olvidarse (forget), caerse (fall/drop), perderse (get lost), romperse (break), acabarse (run out), ocurrirse (occur to). Removes blame/responsibility!"
+      },
+      {
+        "subtitle": "Passive Se Constructions",
+        "content": "Use 'se' to express passive voice without naming agent. Structure: se + verb (3rd person) + subject. Verb agrees with subject. Examples: 'Se habla español' (Spanish is spoken - lit: One speaks Spanish), 'Se venden casas' (Houses are sold/for sale), 'Se necesitan trabajadores' (Workers are needed), 'Se prohibe fumar' (Smoking is prohibited). With singular subject: se + verb (singular). With plural subject: se + verb (plural). Common in signs, instructions, formal writing: 'Se ruega silencio' (Silence is requested), 'Se alquilan habitaciones' (Rooms for rent)."
+      },
+      {
+        "subtitle": "Impersonal Se",
+        "content": "Express general 'one/you/people' without specific subject. Always use 3rd person SINGULAR, even with plural objects. Structure: se + verb (singular). Examples: 'Se come bien aquí' (One eats well here / The food is good here), 'Se vive bien en España' (One lives well in Spain / Life is good in Spain), 'Se trabaja mucho' (People work a lot), 'Se dice que...' (It is said that.../People say that...). Difference from passive se: Impersonal has NO SUBJECT (always singular verb), Passive has subject that agrees with verb. 'Se necesita experiencia' (Experience is needed - passive, experiencia is subject) vs 'Se necesita trabajar' (One needs to work - impersonal, trabajar is infinitive not subject)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the reflexive pronouns in Spanish?",
+      "answers": [
+        { "text": "me, te, se, nos, os, se", "correct": true },
+        { "text": "yo, tú, él, nosotros, vosotros, ellos", "correct": false },
+        { "text": "mi, ti, si, nuestro, vuestro, su", "correct": false },
+        { "text": "lo, la, le, los, las, les", "correct": false }
+      ],
+      "hint": "These pronouns mean 'myself, yourself, himself, ourselves', etc."
+    },
+    {
+      "id": 2,
+      "question": "Where do reflexive pronouns go with conjugated verbs?",
+      "answers": [
+        { "text": "Before the conjugated verb", "correct": true },
+        { "text": "After the conjugated verb", "correct": false },
+        { "text": "At the beginning of sentence", "correct": false },
+        { "text": "At the end of sentence", "correct": false }
+      ],
+      "hint": "Me lavo, te duchas, se viste - pronoun comes before conjugated verb."
+    },
+    {
+      "id": 3,
+      "question": "'Me lavo' means...",
+      "answers": [
+        { "text": "I wash myself", "correct": true },
+        { "text": "I wash", "correct": false },
+        { "text": "He/She washes me", "correct": false },
+        { "text": "We wash", "correct": false }
+      ],
+      "hint": "Me = myself. The subject performs the action on themselves."
+    },
+    {
+      "id": 4,
+      "question": "'Voy a lavarme' or 'Me voy a lavar' - which is correct?",
+      "answers": [
+        { "text": "Both are correct", "correct": true },
+        { "text": "Only 'Voy a lavarme'", "correct": false },
+        { "text": "Only 'Me voy a lavar'", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "With infinitive, pronoun can attach to infinitive OR go before conjugated verb."
+    },
+    {
+      "id": 5,
+      "question": "What is the affirmative tú command of 'lavarse' (wash yourself)?",
+      "answers": [
+        { "text": "¡Lávate!", "correct": true },
+        { "text": "¡Lava te!", "correct": false },
+        { "text": "¡Te lava!", "correct": false },
+        { "text": "¡No te laves!", "correct": false }
+      ],
+      "hint": "Affirmative command: attach pronoun to end (lava + te = lávate)."
+    },
+    {
+      "id": 6,
+      "question": "What is the negative tú command of 'lavarse' (don't wash yourself)?",
+      "answers": [
+        { "text": "¡No te laves!", "correct": true },
+        { "text": "¡No lávate!", "correct": false },
+        { "text": "¡Lávate no!", "correct": false },
+        { "text": "¡Te no laves!", "correct": false }
+      ],
+      "hint": "Negative command: pronoun goes before verb (no + te + laves)."
+    },
+    {
+      "id": 7,
+      "question": "'Me despierto a las 7' means...",
+      "answers": [
+        { "text": "I wake up at 7", "correct": true },
+        { "text": "I wake someone at 7", "correct": false },
+        { "text": "Someone wakes me at 7", "correct": false },
+        { "text": "I'm awake at 7", "correct": false }
+      ],
+      "hint": "Despertarse = to wake up (reflexive). Me despierto = I wake myself up."
+    },
+    {
+      "id": 8,
+      "question": "'Nos divertimos mucho' means...",
+      "answers": [
+        { "text": "We have a lot of fun (ourselves)", "correct": true },
+        { "text": "We amuse others a lot", "correct": false },
+        { "text": "They amuse us a lot", "correct": false },
+        { "text": "We are funny", "correct": false }
+      ],
+      "hint": "Divertirse = to have fun (reflexive). Nos = ourselves."
+    },
+    {
+      "id": 9,
+      "question": "'Nos vemos mañana' - What does this mean?",
+      "answers": [
+        {
+          "text": "We'll see each other tomorrow (reciprocal)",
+          "correct": true
+        },
+        { "text": "We see ourselves tomorrow", "correct": false },
+        { "text": "We look good tomorrow", "correct": false },
+        { "text": "Someone sees us tomorrow", "correct": false }
+      ],
+      "hint": "Plural reflexive pronouns can mean 'each other' (reciprocal action)."
+    },
+    {
+      "id": 10,
+      "question": "'Se aman' means...",
+      "answers": [
+        { "text": "They love each other", "correct": true },
+        { "text": "They love themselves", "correct": false },
+        { "text": "He loves himself", "correct": false },
+        { "text": "Someone loves them", "correct": false }
+      ],
+      "hint": "Plural 'se' can be reciprocal: they love each other."
+    },
+    {
+      "id": 11,
+      "question": "'Voy a Madrid' vs 'Me voy' - What's the difference?",
+      "answers": [
+        {
+          "text": "Voy = I'm going (to place); Me voy = I'm leaving (general)",
+          "correct": true
+        },
+        { "text": "Both mean exactly the same", "correct": false },
+        { "text": "Me voy is wrong grammar", "correct": false },
+        { "text": "Voy is past, Me voy is present", "correct": false }
+      ],
+      "hint": "Irse (pronominal) changes meaning: 'to leave/go away' not just 'go'."
+    },
+    {
+      "id": 12,
+      "question": "'Duermo 8 horas' vs 'Me duermo rápido' - What's the difference?",
+      "answers": [
+        {
+          "text": "Duermo = I sleep; Me duermo = I fall asleep",
+          "correct": true
+        },
+        { "text": "Both mean I sleep", "correct": false },
+        { "text": "Me duermo is wrong grammar", "correct": false },
+        { "text": "Duermo is formal, Me duermo is informal", "correct": false }
+      ],
+      "hint": "Dormirse (pronominal) = fall asleep. Dormir = sleep (state)."
+    },
+    {
+      "id": 13,
+      "question": "'Se me olvidó la tarea' literally translates to...",
+      "answers": [
+        {
+          "text": "The homework forgot itself to me (I forgot the homework)",
+          "correct": true
+        },
+        { "text": "I forgot the homework on purpose", "correct": false },
+        { "text": "Someone forgot my homework", "correct": false },
+        { "text": "I don't have homework", "correct": false }
+      ],
+      "hint": "Accidental se construction removes blame - it 'forgot itself'!"
+    },
+    {
+      "id": 14,
+      "question": "What is the structure of accidental/unintentional se?",
+      "answers": [
+        {
+          "text": "se + indirect object pronoun + verb (3rd person)",
+          "correct": true
+        },
+        { "text": "verb + se + direct object", "correct": false },
+        { "text": "se + verb + subject", "correct": false },
+        { "text": "indirect object + se + verb", "correct": false }
+      ],
+      "hint": "Se me cayó, Se te rompió, Se nos perdió - follows this pattern."
+    },
+    {
+      "id": 15,
+      "question": "'Se te cayó el libro' means...",
+      "answers": [
+        { "text": "You dropped the book (accidentally)", "correct": true },
+        { "text": "The book fell by itself", "correct": false },
+        { "text": "You threw the book down", "correct": false },
+        { "text": "Someone dropped your book", "correct": false }
+      ],
+      "hint": "Accidental se: Se + te + cayó = 'it fell on you' (you accidentally dropped it)."
+    },
+    {
+      "id": 16,
+      "question": "'Se nos perdieron las llaves' - Why is 'perdieron' plural?",
+      "answers": [
+        {
+          "text": "Verb agrees with 'las llaves' (plural subject)",
+          "correct": true
+        },
+        { "text": "Because 'nos' is plural", "correct": false },
+        { "text": "All accidental se verbs are plural", "correct": false },
+        { "text": "It's an error, should be singular", "correct": false }
+      ],
+      "hint": "In accidental se, verb agrees with what was lost/broken: llaves (plural)."
+    },
+    {
+      "id": 17,
+      "question": "'Se habla español' means...",
+      "answers": [
+        { "text": "Spanish is spoken (passive se)", "correct": true },
+        { "text": "He speaks Spanish", "correct": false },
+        { "text": "One speaks oneself in Spanish", "correct": false },
+        { "text": "Spanish speaks", "correct": false }
+      ],
+      "hint": "Passive se construction: Se habla = 'is spoken' (no agent specified)."
+    },
+    {
+      "id": 18,
+      "question": "'Se venden casas' - Why is 'venden' plural?",
+      "answers": [
+        {
+          "text": "Verb agrees with 'casas' (plural subject)",
+          "correct": true
+        },
+        { "text": "Because multiple people are selling", "correct": false },
+        { "text": "Se always requires plural verb", "correct": false },
+        { "text": "It's an error, should be 'vende'", "correct": false }
+      ],
+      "hint": "Passive se: verb agrees with subject. Casas (plural) → venden (plural)."
+    },
+    {
+      "id": 19,
+      "question": "'Se necesitan trabajadores' means...",
+      "answers": [
+        { "text": "Workers are needed", "correct": true },
+        { "text": "They need workers", "correct": false },
+        { "text": "Workers need themselves", "correct": false },
+        { "text": "One needs to work", "correct": false }
+      ],
+      "hint": "Passive se: Trabajadores (plural subject) are needed."
+    },
+    {
+      "id": 20,
+      "question": "'Se come bien aquí' means...",
+      "answers": [
+        {
+          "text": "One eats well here / The food is good here (impersonal)",
+          "correct": true
+        },
+        { "text": "Food eats itself well here", "correct": false },
+        { "text": "They eat well here (specific people)", "correct": false },
+        { "text": "He eats himself well here", "correct": false }
+      ],
+      "hint": "Impersonal se: general 'one/you/people' - no specific subject."
+    },
+    {
+      "id": 21,
+      "question": "What is the verb form in impersonal se constructions?",
+      "answers": [
+        { "text": "Always 3rd person singular", "correct": true },
+        { "text": "Always 3rd person plural", "correct": false },
+        { "text": "Agrees with object", "correct": false },
+        { "text": "Can be any person", "correct": false }
+      ],
+      "hint": "Impersonal se uses SINGULAR verb: Se vive bien, Se trabaja mucho."
+    },
+    {
+      "id": 22,
+      "question": "'Se necesita experiencia' vs 'Se necesita trabajar' - Which is which?",
+      "answers": [
+        {
+          "text": "First is passive (experiencia = subject); Second is impersonal (no subject)",
+          "correct": true
+        },
+        { "text": "Both are passive se", "correct": false },
+        { "text": "Both are impersonal se", "correct": false },
+        { "text": "First is impersonal; Second is passive", "correct": false }
+      ],
+      "hint": "Passive has noun subject (experiencia). Impersonal has no subject (trabajar is infinitive)."
+    },
+    {
+      "id": 23,
+      "question": "'Se dice que...' means...",
+      "answers": [
+        {
+          "text": "It is said that... / People say that... (impersonal)",
+          "correct": true
+        },
+        { "text": "He says that...", "correct": false },
+        { "text": "Someone is said", "correct": false },
+        { "text": "You say yourself that...", "correct": false }
+      ],
+      "hint": "Impersonal se: general statement, no specific person saying it."
+    },
+    {
+      "id": 24,
+      "question": "Which verb changes meaning with reflexive pronoun: ponerse?",
+      "answers": [
+        {
+          "text": "poner (put/place) → ponerse (put on/become)",
+          "correct": true
+        },
+        { "text": "No change in meaning", "correct": false },
+        { "text": "poner (become) → ponerse (put)", "correct": false },
+        { "text": "Both mean 'to put'", "correct": false }
+      ],
+      "hint": "Poner = put/place something. Ponerse = put on (clothing) or become (state)."
+    }
+  ]
+}

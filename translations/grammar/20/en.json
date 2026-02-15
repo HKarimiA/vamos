@@ -1,0 +1,409 @@
+{
+  "topic": {
+    "id": 20,
+    "name": "Conjunctions & Connectors"
+  },
+  "explanation": {
+    "title": "Spanish Conjunctions & Connectors: Linking Ideas",
+    "sections": [
+      {
+        "subtitle": "Basic Coordinating Conjunctions",
+        "content": "Y (and): connects words, phrases, or clauses. 'Juan y María' (Juan and María), 'Como y bebo' (I eat and drink). IMPORTANT: Changes to E before words starting with i- or hi-: 'padre e hijo' (father and son), 'español e inglés' (Spanish and English). O (or): presents alternatives. 'Café o té' (Coffee or tea). IMPORTANT: Changes to U before words starting with o- or ho-: 'siete u ocho' (seven or eight), 'mujer u hombre' (woman or man). PERO (but): introduces contrast. 'Es caro pero bueno' (It's expensive but good). SINO (but rather): contrast after negation, correcting previous statement. 'No es verde sino azul' (It's not green but (rather) blue). Use SINO only after negative statements to correct/replace info. PORQUE (because): gives reason. '¿Por qué estudias? Porque quiero aprender' (Why do you study? Because I want to learn)."
+      },
+      {
+        "subtitle": "Pero vs Sino & Double Negatives",
+        "content": "PERO vs SINO: PERO = general contrast, can follow affirmative or negative. 'Es inteligente pero perezoso' (He's smart but lazy - affirmative + contrast). 'No es fácil, pero es posible' (It's not easy, but it's possible - negative + contrast). SINO = correction after negation, replaces the negated element. 'No es médico sino abogado' (He's not a doctor but (rather) a lawyer - corrects profession). 'No quiero café sino té' (I don't want coffee but tea - replaces drink). Remember: SINO corrects what was just negated. NI...NI (neither...nor): double negative construction. 'No tengo ni tiempo ni dinero' (I have neither time nor money / I don't have time nor money). Can also use: 'Ni Juan ni María vienen' (Neither Juan nor María is coming). Spanish embraces double/multiple negatives: 'No veo nada nunca' (I never see anything - literally 'I don't see nothing never')."
+      },
+      {
+        "subtitle": "Subordinating Conjunctions: Basic & Temporal",
+        "content": "QUE (that): introduces subordinate clauses. 'Sé que estudias' (I know that you study), 'Creo que sí' (I think so). Often required in Spanish where 'that' is optional in English. SI (if): introduces conditional clauses. 'Si llueve, no voy' (If it rains, I won't go). Note: si (if) vs sí (yes) - accent matters! CUANDO (when): time relationship. 'Cuando llegues, llama' (When you arrive, call). With future meaning, use subjunctive: 'Cuando tenga tiempo...' (When I have time...). MIENTRAS (while): simultaneous actions. 'Mientras cocino, él limpia' (While I cook, he cleans). Can also mean 'as long as' with subjunctive: 'Mientras tengas salud...' (As long as you have health...). ANTES DE QUE (before): requires subjunctive. 'Antes de que salgas' (Before you leave). DESPUÉS DE QUE (after): may take subjunctive or indicative depending on whether action is completed."
+      },
+      {
+        "subtitle": "Subordinating Conjunctions: Concessive & Purpose",
+        "content": "AUNQUE (although/even though): concession. With indicative for known facts: 'Aunque llueve, voy' (Although it's raining, I'm going - it IS raining). With subjunctive for possibility: 'Aunque llueva, voy' (Even if it rains, I'm going - it might rain). PARA QUE (so that/in order that): purpose, requires subjunctive. 'Hablo despacio para que entiendas' (I speak slowly so that you understand). Purpose = subjunctive always! COMO (as/like/since): comparison or reason. 'Como estaba cansado, dormí' (Since/As I was tired, I slept). COMO SI (as if): hypothetical comparison, requires imperfect or pluperfect subjunctive. 'Habla como si supiera todo' (He speaks as if he knew everything - but he doesn't). SIN QUE (without): requires subjunctive. 'Salió sin que lo viera' (He left without me seeing him). A MENOS QUE (unless): requires subjunctive. 'No voy a menos que vengas' (I won't go unless you come). CON TAL DE QUE (provided that): requires subjunctive. 'Voy con tal de que pagues' (I'll go provided that you pay)."
+      },
+      {
+        "subtitle": "Connectors: Sequencing & Addition",
+        "content": "SEQUENCING CONNECTORS: Order events or ideas. PRIMERO (first/firstly): 'Primero, lee el texto' (First, read the text). LUEGO / DESPUÉS (then/afterwards): 'Luego, responde las preguntas' (Then, answer the questions). FINALMENTE / POR FIN / AL FINAL (finally/at last): 'Finalmente, revisamos' (Finally, we review). Also: ENTONCES (then/so), MÁS TARDE (later), ANTES (before), AHORA (now). ADDITION CONNECTORS: Add information. ADEMÁS (besides/furthermore/in addition): 'Además, es muy caro' (Besides, it's very expensive). TAMBIÉN (also/too): 'Yo también voy' (I'm going too). TAMPOCO (neither/not either): used in negative contexts. 'No me gusta. A mí tampoco' (I don't like it. Me neither). 'Tampoco como carne' (I don't eat meat either). Y TAMBIÉN (and also), NI SIQUIERA (not even): 'Ni siquiera lo intentó' (He didn't even try it)."
+      },
+      {
+        "subtitle": "Connectors: Contrast & Cause-Effect",
+        "content": "CONTRAST CONNECTORS: Show opposition or unexpected results. SIN EMBARGO (however/nevertheless): 'Es difícil; sin embargo, lo intentaré' (It's difficult; however, I'll try). NO OBSTANTE (nevertheless/nonetheless): formal alternative to sin embargo. EN CAMBIO (on the other hand/instead): 'Él trabaja; en cambio, ella estudia' (He works; she, on the other hand, studies). MIENTRAS QUE (whereas/while): contrast between two situations. 'Yo estudio, mientras que tú descansas' (I study, whereas you rest). A PESAR DE (in spite of): 'A pesar del frío, salimos' (In spite of the cold, we went out). CAUSE & EFFECT CONNECTORS: Show logical relationships. POR ESO (that's why/for that reason): 'Estudié mucho; por eso aprobé' (I studied a lot; that's why I passed). POR LO TANTO (therefore): 'Es tarde; por lo tanto, debemos irnos' (It's late; therefore, we should leave). ASÍ QUE (so/therefore): less formal. 'Tengo hambre; así que comeré' (I'm hungry; so I'll eat). PORQUE (because - as clause), YA QUE / PUESTO QUE (since/because - more formal)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "'Español e inglés' or 'Español y inglés' - which is correct?",
+      "answers": [
+        { "text": "Español e inglés (y → e before i-/hi-)", "correct": true },
+        { "text": "Español y inglés (y never changes)", "correct": false },
+        { "text": "Both are equally correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "Y changes to E before words starting with i- or hi- (español E inglés)."
+    },
+    {
+      "id": 2,
+      "question": "'Siete o ocho' or 'Siete u ocho' - which is correct?",
+      "answers": [
+        { "text": "Siete u ocho (o → u before o-/ho-)", "correct": true },
+        { "text": "Siete o ocho (o never changes)", "correct": false },
+        { "text": "Both are equally correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "O changes to U before words starting with o- or ho- (siete U ocho)."
+    },
+    {
+      "id": 3,
+      "question": "'Padre e hijo' - Why 'e' instead of 'y'?",
+      "answers": [
+        {
+          "text": "Because 'hijo' starts with hi-, y changes to e",
+          "correct": true
+        },
+        { "text": "Because 'padre' ends with e", "correct": false },
+        { "text": "Random variation", "correct": false },
+        { "text": "Both y and e work equally", "correct": false }
+      ],
+      "hint": "Y → E before words starting with i- or hi-. Hijo starts with hi-."
+    },
+    {
+      "id": 4,
+      "question": "'No es verde sino azul' - Why 'sino' not 'pero'?",
+      "answers": [
+        {
+          "text": "Sino corrects/replaces after negation (not green BUT blue)",
+          "correct": true
+        },
+        { "text": "Pero is never used after negation", "correct": false },
+        {
+          "text": "Sino and pero are always interchangeable",
+          "correct": false
+        },
+        { "text": "Sino is used with colors only", "correct": false }
+      ],
+      "hint": "SINO corrects the negated element. It's not green but (rather) blue - replacing color."
+    },
+    {
+      "id": 5,
+      "question": "'Es caro pero bueno' - Why 'pero' not 'sino'?",
+      "answers": [
+        {
+          "text": "Pero shows general contrast (expensive BUT good)",
+          "correct": true
+        },
+        { "text": "Sino is only after negatives", "correct": false },
+        {
+          "text": "This should use sino because of contrast",
+          "correct": false
+        },
+        { "text": "Random choice between pero and sino", "correct": false }
+      ],
+      "hint": "PERO = general contrast. SINO = correction after negation only. 'Es caro' is affirmative, so use pero."
+    },
+    {
+      "id": 6,
+      "question": "'No quiero café sino té' vs 'No es fácil, pero es posible' - What's the difference?",
+      "answers": [
+        {
+          "text": "Sino replaces café with té; pero adds contrasting info",
+          "correct": true
+        },
+        { "text": "Both use pero for contrast", "correct": false },
+        { "text": "Both use sino after negation", "correct": false },
+        { "text": "No difference, interchangeable", "correct": false }
+      ],
+      "hint": "SINO = replacement/correction after negation. PERO = additional contrasting information."
+    },
+    {
+      "id": 7,
+      "question": "What does 'No tengo ni tiempo ni dinero' mean?",
+      "answers": [
+        { "text": "I have neither time nor money", "correct": true },
+        { "text": "I have either time or money", "correct": false },
+        { "text": "I have both time and money", "correct": false },
+        { "text": "I have only time, not money", "correct": false }
+      ],
+      "hint": "Ni...ni = neither...nor. Spanish uses double negatives: no + ni...ni."
+    },
+    {
+      "id": 8,
+      "question": "'Creo que sí' - Why is 'que' needed?",
+      "answers": [
+        {
+          "text": "Que introduces the subordinate clause (that you do)",
+          "correct": true
+        },
+        { "text": "Que is optional, like English 'that'", "correct": false },
+        { "text": "Que means 'yes' here", "correct": false },
+        { "text": "Random usage", "correct": false }
+      ],
+      "hint": "QUE (that) is typically required in Spanish to introduce clauses, unlike English where 'that' is often optional."
+    },
+    {
+      "id": 9,
+      "question": "'Si llueve, no voy' - What does this mean?",
+      "answers": [
+        { "text": "If it rains, I won't go", "correct": true },
+        { "text": "Yes, it rains and I don't go", "correct": false },
+        { "text": "When it rains, I always go", "correct": false },
+        { "text": "It's raining, but I go", "correct": false }
+      ],
+      "hint": "SI (without accent) = if (conditional). Sí (with accent) = yes."
+    },
+    {
+      "id": 10,
+      "question": "'Mientras cocino, él limpia' means...",
+      "answers": [
+        {
+          "text": "While I cook, he cleans (simultaneous actions)",
+          "correct": true
+        },
+        { "text": "Before I cook, he cleans", "correct": false },
+        { "text": "After I cook, he cleans", "correct": false },
+        { "text": "If I cook, he cleans", "correct": false }
+      ],
+      "hint": "MIENTRAS = while (simultaneous actions happening at the same time)."
+    },
+    {
+      "id": 11,
+      "question": "'Cuando llegues, llama' - Why subjunctive 'llegues'?",
+      "answers": [
+        {
+          "text": "Future/uncertain event with cuando requires subjunctive",
+          "correct": true
+        },
+        { "text": "Cuando always requires subjunctive", "correct": false },
+        { "text": "This is an error, should be 'llegas'", "correct": false },
+        {
+          "text": "Llama requires subjunctive in the cuando clause",
+          "correct": false
+        }
+      ],
+      "hint": "CUANDO + subjunctive when referring to future/uncertain events. When you arrive (future), call."
+    },
+    {
+      "id": 12,
+      "question": "'Antes de que salgas' - Why is 'que' needed?",
+      "answers": [
+        {
+          "text": "Antes de que is a compound conjunction requiring que",
+          "correct": true
+        },
+        { "text": "Que is optional with antes de", "correct": false },
+        { "text": "Que is only for emphasis", "correct": false },
+        {
+          "text": "This should be 'antes de salgas' without que",
+          "correct": false
+        }
+      ],
+      "hint": "Before a conjugated verb, use ANTES DE QUE (before). Always requires subjunctive."
+    },
+    {
+      "id": 13,
+      "question": "'Aunque llueve, voy' vs 'Aunque llueva, voy' - What's the difference?",
+      "answers": [
+        {
+          "text": "Llueve = it IS raining (fact); llueva = it might rain (possibility)",
+          "correct": true
+        },
+        { "text": "No difference, both mean the same", "correct": false },
+        { "text": "Llueve is past, llueva is present", "correct": false },
+        { "text": "Llueva is an error", "correct": false }
+      ],
+      "hint": "AUNQUE + indicative = known fact. AUNQUE + subjunctive = possibility/hypothetical."
+    },
+    {
+      "id": 14,
+      "question": "'Hablo despacio para que entiendas' - Why subjunctive 'entiendas'?",
+      "answers": [
+        {
+          "text": "Para que (so that/purpose) always requires subjunctive",
+          "correct": true
+        },
+        { "text": "Para que sometimes uses subjunctive", "correct": false },
+        {
+          "text": "This should be 'entiendes' in indicative",
+          "correct": false
+        },
+        {
+          "text": "Despacio requires subjunctive in the para clause",
+          "correct": false
+        }
+      ],
+      "hint": "PARA QUE (so that) = purpose, always requires subjunctive. I speak slowly SO THAT you understand."
+    },
+    {
+      "id": 15,
+      "question": "'Habla como si supiera todo' - What does 'como si' mean?",
+      "answers": [
+        {
+          "text": "As if (he speaks as if he knew everything - but doesn't)",
+          "correct": true
+        },
+        {
+          "text": "Since (he speaks since he knows everything)",
+          "correct": false
+        },
+        {
+          "text": "When (he speaks when he knows everything)",
+          "correct": false
+        },
+        {
+          "text": "Because (he speaks because he knows everything)",
+          "correct": false
+        }
+      ],
+      "hint": "COMO SI = as if (hypothetical comparison). Always requires imperfect/pluperfect subjunctive."
+    },
+    {
+      "id": 16,
+      "question": "'Salió sin que lo viera' - Why subjunctive 'viera'?",
+      "answers": [
+        {
+          "text": "Sin que (without) always requires subjunctive",
+          "correct": true
+        },
+        { "text": "Sin que never requires subjunctive", "correct": false },
+        {
+          "text": "This should be 'veía' in imperfect indicative",
+          "correct": false
+        },
+        { "text": "Random usage", "correct": false }
+      ],
+      "hint": "SIN QUE (without) always requires subjunctive. He left without me seeing him."
+    },
+    {
+      "id": 17,
+      "question": "What's the correct order? 'First, read. Then, write. Finally, review.'",
+      "answers": [
+        {
+          "text": "Primero, lee. Luego, escribe. Finalmente, revisa.",
+          "correct": true
+        },
+        {
+          "text": "Finalmente, lee. Luego, escribe. Primero, revisa.",
+          "correct": false
+        },
+        {
+          "text": "Además, lee. También, escribe. Tampoco, revisa.",
+          "correct": false
+        },
+        {
+          "text": "Sin embargo, lee. Por eso, escribe. Aunque, revisa.",
+          "correct": false
+        }
+      ],
+      "hint": "Sequencing: PRIMERO (first) → LUEGO (then) → FINALMENTE (finally)."
+    },
+    {
+      "id": 18,
+      "question": "'No me gusta. A mí tampoco.' What does 'tampoco' mean?",
+      "answers": [
+        {
+          "text": "Neither / Me neither (negative agreement)",
+          "correct": true
+        },
+        { "text": "Also / Me too (positive agreement)", "correct": false },
+        { "text": "Yes, me neither", "correct": false },
+        { "text": "However", "correct": false }
+      ],
+      "hint": "TAMPOCO = neither/not either (negative contexts). Also = TAMBIÉN (positive contexts)."
+    },
+    {
+      "id": 19,
+      "question": "'Además, es muy caro' means...",
+      "answers": [
+        {
+          "text": "Besides/Furthermore/In addition, it's very expensive",
+          "correct": true
+        },
+        { "text": "However, it's very expensive", "correct": false },
+        { "text": "Therefore, it's very expensive", "correct": false },
+        { "text": "Although it's very expensive", "correct": false }
+      ],
+      "hint": "ADEMÁS = besides/furthermore/in addition (adds information)."
+    },
+    {
+      "id": 20,
+      "question": "'Es difícil; sin embargo, lo intentaré' means...",
+      "answers": [
+        {
+          "text": "It's difficult; however, I'll try (contrast)",
+          "correct": true
+        },
+        {
+          "text": "It's difficult; therefore, I'll try (cause-effect)",
+          "correct": false
+        },
+        {
+          "text": "It's difficult; also, I'll try (addition)",
+          "correct": false
+        },
+        {
+          "text": "It's difficult; first, I'll try (sequence)",
+          "correct": false
+        }
+      ],
+      "hint": "SIN EMBARGO = however/nevertheless (shows contrast/unexpected result)."
+    },
+    {
+      "id": 21,
+      "question": "'Estudié mucho; por eso aprobé' means...",
+      "answers": [
+        {
+          "text": "I studied a lot; that's why I passed (cause → effect)",
+          "correct": true
+        },
+        {
+          "text": "I studied a lot; however, I passed (contrast)",
+          "correct": false
+        },
+        {
+          "text": "I studied a lot; also, I passed (addition)",
+          "correct": false
+        },
+        { "text": "I studied a lot; although I passed", "correct": false }
+      ],
+      "hint": "POR ESO = that's why/for that reason (shows cause-effect relationship)."
+    },
+    {
+      "id": 22,
+      "question": "'Tengo hambre; así que comeré' - What does 'así que' mean?",
+      "answers": [
+        { "text": "So / Therefore (cause-effect, informal)", "correct": true },
+        { "text": "However (contrast)", "correct": false },
+        { "text": "Also (addition)", "correct": false },
+        { "text": "Although (concession)", "correct": false }
+      ],
+      "hint": "ASÍ QUE = so/therefore (less formal than por lo tanto). Shows cause-effect."
+    },
+    {
+      "id": 23,
+      "question": "'Yo estudio, mientras que tú descansas' - What does 'mientras que' show?",
+      "answers": [
+        {
+          "text": "Contrast/opposition (whereas - I study while you rest)",
+          "correct": true
+        },
+        { "text": "Simultaneous identical actions", "correct": false },
+        { "text": "Cause and effect", "correct": false },
+        { "text": "Sequence of events", "correct": false }
+      ],
+      "hint": "MIENTRAS QUE = whereas/while (contrast between two different situations)."
+    },
+    {
+      "id": 24,
+      "question": "'No voy a menos que vengas' - What does 'a menos que' mean?",
+      "answers": [
+        { "text": "Unless (I won't go unless you come)", "correct": true },
+        { "text": "Because (I won't go because you come)", "correct": false },
+        { "text": "Although (I won't go although you come)", "correct": false },
+        { "text": "So that (I won't go so that you come)", "correct": false }
+      ],
+      "hint": "A MENOS QUE = unless (always requires subjunctive). Expresses exception/condition."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "topic": {
+    "id": 17,
+    "name": "Special Verb Patterns"
+  },
+  "explanation": {
+    "title": "Special Spanish Verb Patterns: Hay, Gustar & Similar Verbs",
+    "sections": [
+      {
+        "subtitle": "Hay vs Estar vs Tener: Basic Distinctions",
+        "content": "HAY (there is/are): Impersonal, indicates existence. Only uses 'hay' form (present), no subject. 'Hay un libro' (There is a book), 'Hay libros' (There are books). ESTAR (to be located): Shows specific location of known things. 'El libro está en la mesa' (The book is on the table). Requires subject, conjugates normally: estoy, estás, está, estamos, estáis, están. TENER (to have/possess): Ownership or possession. 'Tengo un libro' (I have a book), 'Tienes libros' (You have books). Conjugates: tengo, tienes, tiene, tenemos, tenéis, tienen. Key: Use hay for existence, estar for location, tener for possession."
+      },
+      {
+        "subtitle": "Hay vs Estar: Detailed Differences",
+        "content": "HAY: (1) Introduces something new/unspecified: '¿Hay un banco cerca?' (Is there a bank nearby?), (2) Expresses existence: 'Hay problemas' (There are problems), (3) No definite article: 'Hay *una* mesa' (not 'Hay *la* mesa'), (4) Other tenses: hubo (preterite), había (imperfect), habrá (future). ESTAR: (1) Locates specific/known things: '¿Dónde está el banco?' (Where is the bank?), (2) Requires subject: '*La mesa* está aquí', (3) Often with definite articles: 'El libro está allí', (4) Conjugates fully. Compare: 'Hay leche en el frigo' (There's milk - existence) vs '¿Dónde está la leche?' (Where's the milk - specific location)."
+      },
+      {
+        "subtitle": "Gustar Structure: The Logic Behind 'Liking'",
+        "content": "Gustar literally means 'to be pleasing to'. Structure: INDIRECT OBJECT + GUSTAR + SUBJECT. 'Me gusta el café' = 'Coffee is pleasing to me' (I like coffee). Indirect object pronouns: me (to me), te (to you), le (to him/her), nos (to us), os (to you all), les (to them/you formal). Verb agrees with WHAT IS LIKED (subject), not the liker: 'Me gusta la pizza' (singular subject → gusta), 'Me gustan las pizzas' (plural subject → gustan). Only two forms commonly used: gusta (singular) and gustan (plural). For clarification/emphasis, add 'a' + person: 'A mí me gusta', 'A Juan le gusta'."
+      },
+      {
+        "subtitle": "Gustar in Different Tenses & With Infinitives",
+        "content": "Present: me gusta(n). Preterite: me gustó/gustaron. Imperfect: me gustaba(n). Future: me gustará(n). Conditional: me gustaría(n) - 'I would like'. Perfect: me ha gustado. WITH INFINITIVES: Always use singular gusta, even with multiple infinitives. 'Me gusta bailar' (I like to dance), 'Me gusta cantar y bailar' (I like singing and dancing - still gusta). WITH QUE CLAUSES: 'Me gusta que vengas' (I like that you come - subjunctive after). NO DEFINITE ARTICLE with infinitives: 'Me gusta *bailar*' (not 'me gusta el bailar')."
+      },
+      {
+        "subtitle": "Verbs Like Gustar: Encantar, Interesar, Molestar & More",
+        "content": "These verbs follow the SAME structure as gustar: indirect object + verb + subject. ENCANTAR (to love/enchant): 'Me encanta la música' (I love music). INTERESAR (to interest): 'Te interesan los libros' (Books interest you / You're interested in books). MOLESTAR (to bother): 'Le molesta el ruido' (Noise bothers him/her). IMPORTAR (to matter): 'No me importa' (It doesn't matter to me). DOLER (to hurt): 'Me duele la cabeza' (My head hurts - lit: the head hurts to me). FALTAR (to lack/need): 'Me faltan dos euros' (I'm missing 2 euros). QUEDAR (to remain/fit): 'Te queda bien' (It fits you well), 'Nos quedan 5 minutos' (We have 5 minutes left)."
+      },
+      {
+        "subtitle": "Agreement & Multiple Subjects with Gustar-Type Verbs",
+        "content": "Verb ALWAYS agrees with the subject (what is liked/interests/bothers), NOT the experiencer. SINGULAR subject → singular verb: 'Me gusta este libro', 'Le interesa la política'. PLURAL subject → plural verb: 'Me gustan estos libros', 'Le interesan los deportes'. INFINITIVE(S) → singular verb: 'Me gusta correr', 'Nos gusta estudiar y leer'. CLAUSE → singular verb: 'Me gusta que seas honesto'. MULTIPLE NOUNS: If connected by 'y', can use plural: 'Me gustan el café y el té' OR 'Me gusta el café y el té' (both acceptable). Clarification: A mí me gusta (emphasize I), A ti te gusta (emphasize you), A él/ella le gusta, A nosotros nos gusta, A ellos les gusta."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does 'hay' mean and how is it used?",
+      "answers": [
+        {
+          "text": "There is/are - indicates existence (impersonal)",
+          "correct": true
+        },
+        { "text": "To be located at a place", "correct": false },
+        { "text": "To have/possess", "correct": false },
+        { "text": "To exist in the past", "correct": false }
+      ],
+      "hint": "Hay is impersonal and expresses existence: 'There is/are'."
+    },
+    {
+      "id": 2,
+      "question": "'Hay un libro' vs 'Hay libros' - Why the same verb form?",
+      "answers": [
+        {
+          "text": "Hay is impersonal, doesn't change for singular/plural",
+          "correct": true
+        },
+        { "text": "It's an error, should be 'hayan'", "correct": false },
+        { "text": "Only used with singular", "correct": false },
+        { "text": "Libros is actually singular", "correct": false }
+      ],
+      "hint": "Hay = there is AND there are. Same form for both singular and plural."
+    },
+    {
+      "id": 3,
+      "question": "When do you use 'estar' instead of 'hay'?",
+      "answers": [
+        { "text": "For specific location of known things", "correct": true },
+        { "text": "For existence of things", "correct": false },
+        { "text": "For possession", "correct": false },
+        { "text": "When asking if something exists", "correct": false }
+      ],
+      "hint": "Estar locates specific things: '¿Dónde está el libro?' (Where is THE book?)."
+    },
+    {
+      "id": 4,
+      "question": "'El libro está en la mesa' - Why estar not hay?",
+      "answers": [
+        {
+          "text": "Locating a specific book (el libro), not stating existence",
+          "correct": true
+        },
+        { "text": "Hay cannot be used with location", "correct": false },
+        { "text": "Mesa requires estar", "correct": false },
+        { "text": "It's past tense", "correct": false }
+      ],
+      "hint": "Specific/known item (el libro) → use estar for location."
+    },
+    {
+      "id": 5,
+      "question": "'Tengo un libro' uses 'tener' for...",
+      "answers": [
+        { "text": "Possession/ownership (I have a book)", "correct": true },
+        { "text": "Location (the book is somewhere)", "correct": false },
+        { "text": "Existence (there is a book)", "correct": false },
+        { "text": "Description of the book", "correct": false }
+      ],
+      "hint": "Tener = to have/possess. Shows ownership."
+    },
+    {
+      "id": 6,
+      "question": "'¿Hay un banco cerca?' vs '¿Dónde está el banco?' - What's the difference?",
+      "answers": [
+        {
+          "text": "Hay = asking if one exists (unspecific); Estar = asking where specific one is",
+          "correct": true
+        },
+        { "text": "Both mean exactly the same", "correct": false },
+        { "text": "Hay is past tense, estar is present", "correct": false },
+        { "text": "Estar is more polite", "correct": false }
+      ],
+      "hint": "Hay introduces new info (is there A bank?). Estar locates known info (where is THE bank?)."
+    },
+    {
+      "id": 7,
+      "question": "What is the literal meaning of 'Me gusta el café'?",
+      "answers": [
+        { "text": "Coffee is pleasing to me", "correct": true },
+        { "text": "I like coffee", "correct": false },
+        { "text": "I taste coffee", "correct": false },
+        { "text": "The coffee likes me", "correct": false }
+      ],
+      "hint": "Gustar literally means 'to be pleasing'. El café is the subject, me is indirect object."
+    },
+    {
+      "id": 8,
+      "question": "What is the structure of gustar-type verbs?",
+      "answers": [
+        { "text": "Indirect object pronoun + verb + subject", "correct": true },
+        { "text": "Subject + verb + direct object", "correct": false },
+        { "text": "Verb + indirect object + direct object", "correct": false },
+        { "text": "Subject + verb + indirect object", "correct": false }
+      ],
+      "hint": "Me gusta la pizza: Me (indirect object) + gusta (verb) + la pizza (subject)."
+    },
+    {
+      "id": 9,
+      "question": "'Me gusta la pizza' vs 'Me gustan las pizzas' - Why different verb forms?",
+      "answers": [
+        {
+          "text": "Verb agrees with subject: la pizza (singular) vs las pizzas (plural)",
+          "correct": true
+        },
+        { "text": "Gusta is formal, gustan is informal", "correct": false },
+        { "text": "Different tenses", "correct": false },
+        { "text": "Random variation", "correct": false }
+      ],
+      "hint": "Gustar agrees with what is liked (the subject), not the liker."
+    },
+    {
+      "id": 10,
+      "question": "What are the indirect object pronouns used with gustar?",
+      "answers": [
+        { "text": "me, te, le, nos, os, les", "correct": true },
+        { "text": "yo, tú, él, nosotros, vosotros, ellos", "correct": false },
+        { "text": "lo, la, le, los, las, les", "correct": false },
+        { "text": "mi, ti, si, nosotros, vosotros, sí", "correct": false }
+      ],
+      "hint": "These mean 'to me, to you, to him/her, to us, to you all, to them'."
+    },
+    {
+      "id": 11,
+      "question": "'Me gusta bailar' - Why 'gusta' (singular) not 'gustan'?",
+      "answers": [
+        { "text": "Infinitives always take singular gusta", "correct": true },
+        { "text": "Bailar is plural", "correct": false },
+        { "text": "It's an error, should be gustan", "correct": false },
+        { "text": "Me requires singular", "correct": false }
+      ],
+      "hint": "With infinitives (bailar, cantar, etc.), always use singular gusta."
+    },
+    {
+      "id": 12,
+      "question": "'Me gusta cantar y bailar' - Why 'gusta' not 'gustan'?",
+      "answers": [
+        {
+          "text": "Multiple infinitives still take singular gusta",
+          "correct": true
+        },
+        { "text": "It's an error, should be gustan", "correct": false },
+        { "text": "Only first verb counts", "correct": false },
+        { "text": "Y changes the rule", "correct": false }
+      ],
+      "hint": "Even with multiple infinitives, use singular: gusta."
+    },
+    {
+      "id": 13,
+      "question": "'Me gustaría ir' means...",
+      "answers": [
+        { "text": "I would like to go", "correct": true },
+        { "text": "I liked to go", "correct": false },
+        { "text": "I will like to go", "correct": false },
+        { "text": "I like going", "correct": false }
+      ],
+      "hint": "Gustaría is conditional form: 'would like' (polite/hypothetical)."
+    },
+    {
+      "id": 14,
+      "question": "'Me encanta la música' means...",
+      "answers": [
+        { "text": "I love music / Music enchants me", "correct": true },
+        { "text": "I sing music", "correct": false },
+        { "text": "Music loves me", "correct": false },
+        { "text": "I hear music", "correct": false }
+      ],
+      "hint": "Encantar = to love/enchant. Same structure as gustar."
+    },
+    {
+      "id": 15,
+      "question": "'Te interesan los libros' means...",
+      "answers": [
+        {
+          "text": "Books interest you / You're interested in books",
+          "correct": true
+        },
+        { "text": "You interest the books", "correct": false },
+        { "text": "You read books", "correct": false },
+        { "text": "You buy books", "correct": false }
+      ],
+      "hint": "Interesar follows gustar structure. Los libros (plural) → interesan (plural)."
+    },
+    {
+      "id": 16,
+      "question": "'Le molesta el ruido' means...",
+      "answers": [
+        { "text": "Noise bothers him/her", "correct": true },
+        { "text": "He/she bothers the noise", "correct": false },
+        { "text": "He/she hears noise", "correct": false },
+        { "text": "The noise is loud", "correct": false }
+      ],
+      "hint": "Molestar = to bother. Same structure: le (to him/her) + molesta + el ruido (subject)."
+    },
+    {
+      "id": 17,
+      "question": "'No me importa' means...",
+      "answers": [
+        { "text": "It doesn't matter to me / I don't care", "correct": true },
+        { "text": "I don't import", "correct": false },
+        { "text": "Don't important me", "correct": false },
+        { "text": "I'm not important", "correct": false }
+      ],
+      "hint": "Importar = to matter/be important. No me importa = it doesn't matter to me."
+    },
+    {
+      "id": 18,
+      "question": "'Me duele la cabeza' literally means...",
+      "answers": [
+        { "text": "The head hurts to me (My head hurts)", "correct": true },
+        { "text": "I hurt the head", "correct": false },
+        { "text": "My head is sick", "correct": false },
+        { "text": "I have headache", "correct": false }
+      ],
+      "hint": "Doler = to hurt. Follows gustar structure: la cabeza (subject) hurts to me."
+    },
+    {
+      "id": 19,
+      "question": "'Me faltan dos euros' means...",
+      "answers": [
+        {
+          "text": "I'm missing/lacking 2 euros (I need 2 more euros)",
+          "correct": true
+        },
+        { "text": "I have 2 euros", "correct": false },
+        { "text": "I fail 2 euros", "correct": false },
+        { "text": "2 euros are false", "correct": false }
+      ],
+      "hint": "Faltar = to lack/be missing. Dos euros (plural) → faltan (plural)."
+    },
+    {
+      "id": 20,
+      "question": "'Te queda bien' means...",
+      "answers": [
+        { "text": "It fits you well / It looks good on you", "correct": true },
+        { "text": "You stay well", "correct": false },
+        { "text": "You remain good", "correct": false },
+        { "text": "You want well", "correct": false }
+      ],
+      "hint": "Quedar can mean 'to fit'. Follows gustar structure with clothing."
+    },
+    {
+      "id": 21,
+      "question": "'Nos quedan 5 minutos' means...",
+      "answers": [
+        {
+          "text": "We have 5 minutes left / 5 minutes remain to us",
+          "correct": true
+        },
+        { "text": "We stay 5 minutes", "correct": false },
+        { "text": "5 minutes fit us", "correct": false },
+        { "text": "We want 5 minutes", "correct": false }
+      ],
+      "hint": "Quedar = to remain/be left. 5 minutos (plural) → quedan (plural)."
+    },
+    {
+      "id": 22,
+      "question": "'A mí me gusta' - Why both 'a mí' and 'me'?",
+      "answers": [
+        {
+          "text": "A mí adds emphasis/clarification, me is required pronoun",
+          "correct": true
+        },
+        { "text": "It's redundant and grammatically wrong", "correct": false },
+        { "text": "A mí is formal, me is informal", "correct": false },
+        { "text": "One is subject, one is object", "correct": false }
+      ],
+      "hint": "A mí/ti/él emphasizes WHO likes it. Me/te/le is grammatically required."
+    },
+    {
+      "id": 23,
+      "question": "'Le gusta' - Who likes it?",
+      "answers": [
+        {
+          "text": "He/she/you(formal) - could be any, context clarifies",
+          "correct": true
+        },
+        { "text": "Only he", "correct": false },
+        { "text": "Only she", "correct": false },
+        { "text": "Only you formal", "correct": false }
+      ],
+      "hint": "Le is ambiguous. Add 'a él/ella/usted' for clarification."
+    },
+    {
+      "id": 24,
+      "question": "'Me gustan el café y el té' - Is this correct?",
+      "answers": [
+        {
+          "text": "Yes, plural verb for multiple items connected by 'y'",
+          "correct": true
+        },
+        { "text": "No, should be 'gusta' (singular)", "correct": false },
+        { "text": "No, needs different structure", "correct": false },
+        { "text": "No, café and té cannot be together", "correct": false }
+      ],
+      "hint": "Multiple nouns with 'y' can take plural gustan (though singular gusta also acceptable)."
+    }
+  ]
+}

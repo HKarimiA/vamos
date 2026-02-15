@@ -1,0 +1,319 @@
+{
+  "topic": {
+    "id": 18,
+    "name": "Adverbs"
+  },
+  "explanation": {
+    "title": "Spanish Adverbs: Modifying Actions & Descriptions",
+    "sections": [
+      {
+        "subtitle": "Formation with -mente",
+        "content": "To form adverbs from adjectives, add -mente to the feminine singular form. ADJECTIVES ENDING IN -O: Change to -a, add -mente: rápido → rápida → rápidamente (quickly), lento → lenta → lentamente (slowly). ADJECTIVES ENDING IN -E OR CONSONANT: Add -mente directly: triste → tristemente (sadly), feliz → felizmente (happily), fácil → fácilmente (easily). ACCENT PRESERVATION: If adjective has accent, keep it: rápido → rápidamente, difícil → difícilmente. MULTIPLE ADVERBS: Only last one gets -mente: 'Habla clara y lentamente' (clearly and slowly). First one stays as feminine adjective."
+      },
+      {
+        "subtitle": "Adverbs of Time",
+        "content": "PRESENT/NOW: ahora (now), ya (already/now), todavía/aún (still), hoy (today). FUTURE: luego (later/then), después (afterwards/later), mañana (tomorrow), pronto (soon). PAST: ayer (yesterday), antes (before), anteayer (day before yesterday), recientemente (recently). FREQUENCY: siempre (always), nunca/jamás (never), a veces (sometimes), muchas veces (often), casi nunca (hardly ever), todos los días (every day). SEQUENCE: primero (first), entonces (then), luego (then), finalmente (finally). Examples: 'Ahora estoy ocupado' (I'm busy now), 'Siempre llego tarde' (I always arrive late), '¿Ya terminaste?' (Did you finish already?)."
+      },
+      {
+        "subtitle": "Adverbs of Place",
+        "content": "PROXIMITY: aquí/acá (here), ahí (there - near you), allí/allá (there - far), cerca (near/close), lejos (far). DIRECTION: arriba (up/above), abajo (down/below), delante (in front), detrás (behind), dentro (inside), fuera (outside). GENERIC: donde (where), adonde (to where), en todas partes (everywhere), en ningún sitio (nowhere). Examples: 'Ven aquí' (Come here), 'El libro está ahí' (The book is there), 'Vivo cerca' (I live nearby), 'Vamos arriba' (Let's go upstairs). Note: Aquí/acá and allí/allá are somewhat interchangeable, but aquí/allí more common in Spain, acá/allá in Latin America."
+      },
+      {
+        "subtitle": "Adverbs of Manner & Quantity",
+        "content": "MANNER (how): bien (well), mal (badly), despacio (slowly), deprisa (quickly), así (like this/so), mejor (better), peor (worse). Examples: 'Habla bien español' (He speaks Spanish well), 'Lo hice así' (I did it like this). QUANTITY (how much): muy (very - with adjectives/adverbs), mucho (a lot - with verbs), poco (little), bastante (quite/enough), demasiado (too much), más (more), menos (less). KEY DISTINCTION: MUY vs MUCHO: 'Es muy grande' (It's very big - modifies adjective), 'Como mucho' (I eat a lot - modifies verb). Never 'muy mucho'! Examples: 'Trabaja mucho' (works a lot), 'Es muy inteligente' (very intelligent)."
+      },
+      {
+        "subtitle": "Comparative & Superlative Adverbs",
+        "content": "COMPARATIVE: más + adverb + que (more...than), menos + adverb + que (less...than), tan + adverb + como (as...as). Examples: 'Corro más rápido que tú' (I run faster than you), 'Habla menos claramente que él' (speaks less clearly than him), 'Trabajo tan duro como tú' (I work as hard as you). IRREGULARS: bien → mejor (better), mal → peor (worse), mucho → más (more), poco → menos (less). Examples: 'Lo hago mejor que antes' (I do it better than before), 'Canta peor que yo' (sings worse than me). SUPERLATIVE: Use 'lo' + más/menos + adverb (+ possible): 'Lo más rápidamente posible' (as quickly as possible), 'Llegué lo más tarde que pude' (I arrived as late as I could)."
+      },
+      {
+        "subtitle": "Position of Adverbs",
+        "content": "GENERAL RULE: Adverbs usually follow the verb they modify: 'Habla lentamente' (speaks slowly), 'Corro mucho' (I run a lot). WITH COMPOUND TENSES: Between auxiliary and participle OR after participle: 'He trabajado mucho' or 'He mucho trabajado' (less common). WITH OBJECT: After object: 'Leo libros frecuentemente' (I read books frequently), NOT 'Leo frecuentemente libros'. TIME/FREQUENCY ADVERBS: More flexible, can start sentence: 'Siempre llego tarde' or 'Llego siempre tarde' (both OK). 'Nunca' and 'jamás' go before verb (no double negative needed): 'Nunca como carne' (I never eat meat). EMPHASIS: Place at beginning for emphasis: 'Rápidamente, corrí a casa' (Quickly, I ran home)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you form adverbs from adjectives ending in -o?",
+      "answers": [
+        { "text": "Change to feminine -a, add -mente", "correct": true },
+        { "text": "Add -mente directly to masculine form", "correct": false },
+        { "text": "Change to -e, add -mente", "correct": false },
+        { "text": "Remove -o, add -mente", "correct": false }
+      ],
+      "hint": "Rápido → rápida → rápidamente. Use feminine form first."
+    },
+    {
+      "id": 2,
+      "question": "What is the adverb form of 'rápido' (fast)?",
+      "answers": [
+        { "text": "rápidamente", "correct": true },
+        { "text": "rápidomente", "correct": false },
+        { "text": "rápide", "correct": false },
+        { "text": "rapidmente", "correct": false }
+      ],
+      "hint": "Rápido → rápida (feminine) → rápidamente. Keep the accent!"
+    },
+    {
+      "id": 3,
+      "question": "How do you form adverbs from adjectives ending in -e or consonants?",
+      "answers": [
+        { "text": "Add -mente directly", "correct": true },
+        { "text": "Change to -a, add -mente", "correct": false },
+        { "text": "Remove ending, add -mente", "correct": false },
+        { "text": "Cannot form adverbs from these", "correct": false }
+      ],
+      "hint": "Triste → tristemente, fácil → fácilmente. Just add -mente."
+    },
+    {
+      "id": 4,
+      "question": "What is the adverb form of 'feliz' (happy)?",
+      "answers": [
+        { "text": "felizmente", "correct": true },
+        { "text": "feliza-mente", "correct": false },
+        { "text": "felicemente", "correct": false },
+        { "text": "felizte", "correct": false }
+      ],
+      "hint": "Ends in consonant, so add -mente directly: felizmente."
+    },
+    {
+      "id": 5,
+      "question": "'Habla clara y lentamente' - Why not 'claramente y lentamente'?",
+      "answers": [
+        {
+          "text": "With multiple adverbs, only last one gets -mente",
+          "correct": true
+        },
+        { "text": "Claramente is grammatically wrong", "correct": false },
+        { "text": "Clara is an adjective here", "correct": false },
+        { "text": "Y prevents -mente on first word", "correct": false }
+      ],
+      "hint": "Efficiency rule: first adverb(s) stay as feminine adjective, only last gets -mente."
+    },
+    {
+      "id": 6,
+      "question": "What does 'ahora' mean?",
+      "answers": [
+        { "text": "now", "correct": true },
+        { "text": "later", "correct": false },
+        { "text": "before", "correct": false },
+        { "text": "always", "correct": false }
+      ],
+      "hint": "Present time adverb: Ahora estoy ocupado (I'm busy now)."
+    },
+    {
+      "id": 7,
+      "question": "What does 'luego' mean?",
+      "answers": [
+        { "text": "later/then", "correct": true },
+        { "text": "now", "correct": false },
+        { "text": "never", "correct": false },
+        { "text": "yesterday", "correct": false }
+      ],
+      "hint": "Future time adverb: Luego voy al cine (I'll go to the movies later)."
+    },
+    {
+      "id": 8,
+      "question": "What does 'siempre' mean?",
+      "answers": [
+        { "text": "always", "correct": true },
+        { "text": "never", "correct": false },
+        { "text": "sometimes", "correct": false },
+        { "text": "now", "correct": false }
+      ],
+      "hint": "Frequency adverb: Siempre llego tarde (I always arrive late)."
+    },
+    {
+      "id": 9,
+      "question": "What does 'nunca' or 'jamás' mean?",
+      "answers": [
+        { "text": "never", "correct": true },
+        { "text": "always", "correct": false },
+        { "text": "sometimes", "correct": false },
+        { "text": "often", "correct": false }
+      ],
+      "hint": "Negative frequency: Nunca como carne (I never eat meat)."
+    },
+    {
+      "id": 10,
+      "question": "'¿Ya terminaste?' means...",
+      "answers": [
+        { "text": "Did you finish already?", "correct": true },
+        { "text": "Will you finish?", "correct": false },
+        { "text": "You never finish", "correct": false },
+        { "text": "Finish now!", "correct": false }
+      ],
+      "hint": "Ya = already/now. Often used in questions about completion."
+    },
+    {
+      "id": 11,
+      "question": "What does 'aquí' mean?",
+      "answers": [
+        { "text": "here", "correct": true },
+        { "text": "there", "correct": false },
+        { "text": "far", "correct": false },
+        { "text": "near", "correct": false }
+      ],
+      "hint": "Place adverb: Ven aquí (Come here)."
+    },
+    {
+      "id": 12,
+      "question": "'Allí' vs 'ahí' - What's the difference?",
+      "answers": [
+        {
+          "text": "Allí = there (far); ahí = there (near you)",
+          "correct": true
+        },
+        { "text": "Both mean exactly the same", "correct": false },
+        { "text": "Allí is formal, ahí is informal", "correct": false },
+        { "text": "Allí = here, ahí = there", "correct": false }
+      ],
+      "hint": "Ahí is closer (there near you), allí is farther away (over there)."
+    },
+    {
+      "id": 13,
+      "question": "What does 'arriba' mean?",
+      "answers": [
+        { "text": "up/above/upstairs", "correct": true },
+        { "text": "down/below", "correct": false },
+        { "text": "inside", "correct": false },
+        { "text": "outside", "correct": false }
+      ],
+      "hint": "Direction: Vamos arriba (Let's go upstairs)."
+    },
+    {
+      "id": 14,
+      "question": "'Habla bien español' - What does 'bien' modify?",
+      "answers": [
+        { "text": "The verb 'habla' (speaks well)", "correct": true },
+        { "text": "The noun 'español'", "correct": false },
+        { "text": "Nothing, it's an error", "correct": false },
+        { "text": "The subject", "correct": false }
+      ],
+      "hint": "Bien = well (adverb of manner). Modifies how he speaks."
+    },
+    {
+      "id": 15,
+      "question": "'Es muy grande' vs 'Como mucho' - Why muy vs mucho?",
+      "answers": [
+        {
+          "text": "Muy modifies adjectives/adverbs; mucho modifies verbs",
+          "correct": true
+        },
+        { "text": "Muy is formal, mucho is informal", "correct": false },
+        { "text": "Both can be used interchangeably", "correct": false },
+        { "text": "Mucho is only for food", "correct": false }
+      ],
+      "hint": "MUY + adjective/adverb (very big). MUCHO + verb (eat a lot)."
+    },
+    {
+      "id": 16,
+      "question": "Is 'muy mucho' correct?",
+      "answers": [
+        { "text": "No, never use muy and mucho together", "correct": true },
+        { "text": "Yes, for emphasis", "correct": false },
+        { "text": "Yes, in formal contexts", "correct": false },
+        { "text": "Yes, in Latin America only", "correct": false }
+      ],
+      "hint": "NEVER combine muy and mucho. Use one or the other based on what you're modifying."
+    },
+    {
+      "id": 17,
+      "question": "'Trabaja mucho' means...",
+      "answers": [
+        { "text": "He/She works a lot", "correct": true },
+        { "text": "He/She is very working", "correct": false },
+        { "text": "Much work", "correct": false },
+        { "text": "He/She works well", "correct": false }
+      ],
+      "hint": "Mucho modifies verb: trabajar mucho = to work a lot."
+    },
+    {
+      "id": 18,
+      "question": "'Corro más rápido que tú' means...",
+      "answers": [
+        { "text": "I run faster than you", "correct": true },
+        { "text": "I run as fast as you", "correct": false },
+        { "text": "You run faster than me", "correct": false },
+        { "text": "I run very fast", "correct": false }
+      ],
+      "hint": "Más + adverb + que = more...than (comparative)."
+    },
+    {
+      "id": 19,
+      "question": "What is the irregular comparative of 'bien' (well)?",
+      "answers": [
+        { "text": "mejor (better)", "correct": true },
+        { "text": "más bien", "correct": false },
+        { "text": "mejorar", "correct": false },
+        { "text": "bueno", "correct": false }
+      ],
+      "hint": "Bien has irregular comparative: mejor (not 'más bien'). Lo hago mejor (I do it better)."
+    },
+    {
+      "id": 20,
+      "question": "What is the irregular comparative of 'mal' (badly)?",
+      "answers": [
+        { "text": "peor (worse)", "correct": true },
+        { "text": "más mal", "correct": false },
+        { "text": "malo", "correct": false },
+        { "text": "peorar", "correct": false }
+      ],
+      "hint": "Mal has irregular comparative: peor (not 'más mal'). Canta peor (sings worse)."
+    },
+    {
+      "id": 21,
+      "question": "'Trabajo tan duro como tú' means...",
+      "answers": [
+        { "text": "I work as hard as you", "correct": true },
+        { "text": "I work harder than you", "correct": false },
+        { "text": "I work less hard than you", "correct": false },
+        { "text": "I work very hard", "correct": false }
+      ],
+      "hint": "Tan + adverb + como = as...as (equality comparison)."
+    },
+    {
+      "id": 22,
+      "question": "Where do adverbs usually go in Spanish sentences?",
+      "answers": [
+        { "text": "After the verb they modify", "correct": true },
+        { "text": "Before the verb", "correct": false },
+        { "text": "At the beginning of sentence", "correct": false },
+        { "text": "At the end of sentence always", "correct": false }
+      ],
+      "hint": "General rule: verb + adverb. Habla lentamente (speaks slowly)."
+    },
+    {
+      "id": 23,
+      "question": "'Nunca como carne' - Why is there no 'no' before the verb?",
+      "answers": [
+        {
+          "text": "Nunca before verb doesn't need 'no' (no double negative)",
+          "correct": true
+        },
+        { "text": "It's an error, should be 'no nunca'", "correct": false },
+        { "text": "Nunca is not actually negative", "correct": false },
+        { "text": "Only in Spain", "correct": false }
+      ],
+      "hint": "When nunca/jamás goes BEFORE verb, no 'no' needed. After verb needs 'no': No como nunca."
+    },
+    {
+      "id": 24,
+      "question": "'He trabajado mucho' vs 'He mucho trabajado' - which is more common?",
+      "answers": [
+        {
+          "text": "He trabajado mucho (after participle is more common)",
+          "correct": true
+        },
+        {
+          "text": "He mucho trabajado (between is more common)",
+          "correct": false
+        },
+        { "text": "Both are equally common", "correct": false },
+        { "text": "Both are incorrect", "correct": false }
+      ],
+      "hint": "With compound tenses, adverb typically goes after participle, though between is possible."
+    }
+  ]
+}

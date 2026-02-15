@@ -1,0 +1,361 @@
+{
+  "topic": {
+    "id": 24,
+    "name": "Agreement & Concordance"
+  },
+  "explanation": {
+    "title": "Spanish Agreement & Concordance: Making Words Match",
+    "sections": [
+      {
+        "subtitle": "Gender Agreement: Masculine & Feminine",
+        "content": "GENDER AGREEMENT: Spanish nouns have gender (masculine or feminine), and articles, adjectives, and pronouns must agree. ARTICLES agree with noun gender: EL (masculine), LA (feminine). 'El libro' (the book - masculine), 'La mesa' (the table - feminine). UN (a - masculine), UNA (a - feminine). 'Un gato' (a cat - masculine), 'Una casa' (a house - feminine). ADJECTIVES agree with noun gender: Masculine adjectives often end in -o, feminine in -a. 'El libro rojo' (the red book - rojo masculine), 'La casa roja' (the red house - roja feminine). Adjectives ending in -e or consonants often stay the same: 'El coche grande, La casa grande' (both use grande). Some adjectives drop -o and add -a: 'bueno/buena, nuevo/nueva, pequeño/pequeña'. Adjectives ending in -or add -a for feminine: 'trabajador/trabajadora' (hardworking). Nationality adjectives: 'español/española, francés/francesa, alemán/alemana'. PRONOUNS agree: 'Él es alto' (He is tall - masculine), 'Ella es alta' (She is tall - feminine). Even inanimate objects have gender: 'El libro es interesante' (The book - masculine - is interesting), 'La película es interesante' (The movie - feminine - is interesting)."
+      },
+      {
+        "subtitle": "Number Agreement: Singular & Plural",
+        "content": "NUMBER AGREEMENT: Articles, adjectives, and verbs must agree with noun number (singular or plural). ARTICLES: EL/LA (singular) → LOS/LAS (plural). 'El libro' → 'Los libros', 'La casa' → 'Las casas'. UN/UNA (singular) → UNOS/UNAS (plural, meaning 'some'). 'Un gato' → 'Unos gatos', 'Una mesa' → 'Unas mesas'. ADJECTIVES: Add -s if ending in vowel, -es if ending in consonant. 'Libro rojo' → 'Libros rojos', 'Casa grande' → 'Casas grandes', 'Chico joven' → 'Chicos jóvenes' (young boy → young boys). VERBS agree with subject: 'El niño come' (The boy eats - singular), 'Los niños comen' (The boys eat - plural). Mixed gender groups use masculine plural: 'Juan y María son altos' (Juan and María are tall - altos masculine plural even though María is feminine). DEMONSTRATIVES agree: 'Este libro' (this book - masculine singular), 'Estos libros' (these books - masculine plural), 'Esta casa' (this house - feminine singular), 'Estas casas' (these houses - feminine plural). POSSESSIVES agree: 'Mi libro/Mis libros' (my book/books), 'Nuestro amigo/Nuestros amigos' (our friend/friends - masculine), 'Nuestra amiga/Nuestras amigas' (our friend/friends - feminine)."
+      },
+      {
+        "subtitle": "Agreement in Compound Tenses with HABER",
+        "content": "COMPOUND TENSES with HABER: When using haber (have) + past participle for perfect tenses, the past participle is INVARIABLE - it doesn't change for gender or number. Present perfect: 'He comido' (I have eaten - masculine speaker), 'Ella ha comido' (She has eaten - same form), 'Hemos comido' (We have eaten - same form). The participle 'comido' never changes. 'María ha estudiado' (María has studied), 'Los estudiantes han estudiado' (The students have studied - same 'estudiado'). Pluperfect: 'Había terminado' (I/he/she had finished - same form for all). 'Las chicas habían terminado' (The girls had finished - same 'terminado', no change for feminine plural). Future perfect: 'Habré llegado' (I will have arrived - same for everyone). This is different from English and other Romance languages. The rule: HABER + past participle = NO AGREEMENT. Only HABER conjugates; participle stays in -o form (technically masculine singular, but used for all). Exception: passive voice with SER changes participle, but that's not a compound tense with haber. Compare: 'He visto la película' (I have seen the movie - haber + participle, no agreement) vs 'La película fue vista' (The movie was seen - ser + participle, agrees with película)."
+      },
+      {
+        "subtitle": "Agreement with SER, ESTAR, and Passive Voice",
+        "content": "AGREEMENT with SER and ESTAR + adjectives/participles: The predicate adjective or participle must agree with the subject in gender and number. SER + adjective: 'Juan es alto' (Juan is tall - masculine), 'María es alta' (María is tall - feminine), 'Los niños son altos' (The boys are tall - masculine plural), 'Las niñas son altas' (The girls are tall - feminine plural). ESTAR + adjective: 'La puerta está abierta' (The door is open - feminine), 'Los libros están cerrados' (The books are closed - masculine plural). ESTAR + participle (resultant state): 'La carta está escrita' (The letter is written - feminine), 'Los documentos están firmados' (The documents are signed - masculine plural). The participle agrees because it functions as an adjective. PASSIVE VOICE with SER: The past participle acts as adjective and must agree. 'El libro fue escrito por Cervantes' (The book was written by Cervantes - escrito masculine singular agrees with libro). 'Las cartas fueron escritas por mi madre' (The letters were written by my mother - escritas feminine plural agrees with cartas). Remember: With HABER (have) = no agreement. With SER/ESTAR = full agreement. 'He escrito la carta' (I have written the letter - no agreement with carta) vs 'La carta está escrita' (The letter is written - escrita agrees with carta)."
+      },
+      {
+        "subtitle": "Agreement with Collective Nouns",
+        "content": "COLLECTIVE NOUNS refer to groups but are grammatically singular. Common collective nouns: GENTE (people), FAMILIA (family), EQUIPO (team), GRUPO (group), PAREJA (couple), MULTITUD (crowd), PÚBLICO (audience). VERB AGREEMENT: Collective nouns take singular verbs, even though they refer to multiple people. 'La gente está contenta' (People ARE happy - gente is singular, so está not están). 'Mi familia vive en Madrid' (My family lives in Madrid - vive singular). 'El equipo ganó el partido' (The team won the match - ganó singular). ADJECTIVE AGREEMENT: Adjectives agree with the grammatical gender/number of the collective noun, not the individuals. 'La gente es simpática' (People are nice - simpática feminine singular agrees with gente, not with the individual people). 'El público estuvo silencioso' (The audience was silent - silencioso masculine singular agrees with público). EXCEPTION: Sometimes in informal speech, speakers use plural agreement if emphasizing individuals: 'La gente estaban contentos' (less formal, emphasizing individual people). However, standard grammar requires singular: 'La gente estaba contenta'. With pronouns referring back: 'La familia llegó y ellos comieron' (The family arrived and they ate - ellos can refer to family members as individuals in the second clause)."
+      },
+      {
+        "subtitle": "Agreement in Complex Sentences",
+        "content": "RELATIVE CLAUSES: Verbs and adjectives agree with the antecedent (the noun the relative pronoun refers to). 'La chica que vive aquí es simpática' (The girl who lives here is nice - vive agrees with chica singular). 'Los chicos que estudian mucho son inteligentes' (The boys who study a lot are intelligent - estudian agrees with chicos plural). 'Busco personas que sean honestas' (I'm looking for people who are honest - sean plural agrees with personas, honestas plural adjective). COORDINATION (multiple subjects): When coordinating subjects with Y (and), the verb is plural. 'Juan y María comen pizza' (Juan and María eat pizza - comen plural). If genders are mixed, adjectives are masculine plural: 'Juan y María son altos' (altos masculine plural, default for mixed). PARTICIPIAL clauses: Past participle agrees when it modifies a noun directly. 'Compré manzanas cultivadas localmente' (I bought apples grown locally - cultivadas feminine plural agrees with manzanas). ABSOLUTE constructions: 'Terminada la reunión, nos fuimos' (The meeting finished, we left - terminada agrees with reunión feminine). QUANTIFIERS: Agreement depends on structure. 'Mucha gente vino' (Many people came - mucha agrees with gente feminine singular, vino singular verb). 'Muchas personas vinieron' (Many people came - muchas and vinieron plural). 'La mayoría de estudiantes estudia' or 'estudian' (Most students study - can be singular or plural, both accepted)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "'El libro roj___' - Complete with the correct ending.",
+      "answers": [
+        {
+          "text": "rojo (masculine singular to agree with libro)",
+          "correct": true
+        },
+        { "text": "roja (feminine)", "correct": false },
+        { "text": "rojos (plural)", "correct": false },
+        { "text": "rojas (feminine plural)", "correct": false }
+      ],
+      "hint": "Libro is masculine singular, so adjective must be masculine singular: rojo."
+    },
+    {
+      "id": 2,
+      "question": "'La casa roj___' - Complete with the correct ending.",
+      "answers": [
+        {
+          "text": "roja (feminine singular to agree with casa)",
+          "correct": true
+        },
+        { "text": "rojo (masculine)", "correct": false },
+        { "text": "rojos (masculine plural)", "correct": false },
+        { "text": "rojas (feminine plural)", "correct": false }
+      ],
+      "hint": "Casa is feminine singular, so adjective must be feminine singular: roja."
+    },
+    {
+      "id": 3,
+      "question": "'El chico español, La chica ___' - What's the feminine form?",
+      "answers": [
+        { "text": "española (add -a for feminine)", "correct": true },
+        { "text": "español (stays the same)", "correct": false },
+        { "text": "españoles (plural)", "correct": false },
+        { "text": "españolos (doesn't exist)", "correct": false }
+      ],
+      "hint": "Nationality adjectives: español (masculine) → española (feminine)."
+    },
+    {
+      "id": 4,
+      "question": "'El profesor trabajador, La profesora ___' - Complete.",
+      "answers": [
+        {
+          "text": "trabajadora (adjectives in -or add -a for feminine)",
+          "correct": true
+        },
+        { "text": "trabajador (stays the same)", "correct": false },
+        { "text": "trabajadores (plural)", "correct": false },
+        { "text": "trabajadoro (doesn't exist)", "correct": false }
+      ],
+      "hint": "Adjectives ending in -or add -a for feminine: trabajador → trabajadora."
+    },
+    {
+      "id": 5,
+      "question": "'El coche grande, La casa ___' - What form does grande take?",
+      "answers": [
+        { "text": "grande (same form for both genders)", "correct": true },
+        { "text": "granda (changes to feminine)", "correct": false },
+        { "text": "grandes (plural)", "correct": false },
+        { "text": "grando (doesn't exist)", "correct": false }
+      ],
+      "hint": "Adjectives ending in -e usually stay the same for both genders: grande."
+    },
+    {
+      "id": 6,
+      "question": "'Los libros roj___' - Complete for plural.",
+      "answers": [
+        { "text": "rojos (masculine plural)", "correct": true },
+        { "text": "rojo (singular)", "correct": false },
+        { "text": "roja (feminine)", "correct": false },
+        { "text": "rojas (feminine plural)", "correct": false }
+      ],
+      "hint": "Libros is masculine plural, so adjective must be masculine plural: rojos."
+    },
+    {
+      "id": 7,
+      "question": "'Las casas roj___' - Complete for plural.",
+      "answers": [
+        { "text": "rojas (feminine plural)", "correct": true },
+        { "text": "rojos (masculine plural)", "correct": false },
+        { "text": "rojo (masculine singular)", "correct": false },
+        { "text": "roja (feminine singular)", "correct": false }
+      ],
+      "hint": "Casas is feminine plural, so adjective must be feminine plural: rojas."
+    },
+    {
+      "id": 8,
+      "question": "'Juan y María son ___' (altos/altas) - Which is correct for mixed group?",
+      "answers": [
+        {
+          "text": "altos (masculine plural for mixed gender groups)",
+          "correct": true
+        },
+        { "text": "altas (feminine plural)", "correct": false },
+        { "text": "alto (masculine singular)", "correct": false },
+        { "text": "alta (feminine singular)", "correct": false }
+      ],
+      "hint": "Mixed gender groups use masculine plural: altos (default for groups with both genders)."
+    },
+    {
+      "id": 9,
+      "question": "'He comido' (I have eaten - female speaker) - Should 'comido' change?",
+      "answers": [
+        {
+          "text": "No - with HABER, past participle never changes",
+          "correct": true
+        },
+        {
+          "text": "Yes - should be 'comida' for female speaker",
+          "correct": false
+        },
+        { "text": "Yes - should be 'comidos' for plural", "correct": false },
+        { "text": "Depends on what was eaten", "correct": false }
+      ],
+      "hint": "HABER + participle = NO AGREEMENT. Past participle is invariable: He comido (all genders/numbers)."
+    },
+    {
+      "id": 10,
+      "question": "'Las chicas han estudiado' - Should 'estudiado' change to 'estudiadas'?",
+      "answers": [
+        {
+          "text": "No - with HABER, participle stays invariable",
+          "correct": true
+        },
+        {
+          "text": "Yes - should agree with 'chicas' (feminine plural)",
+          "correct": false
+        },
+        { "text": "Only in formal Spanish", "correct": false },
+        { "text": "Only if using SER instead of HABER", "correct": false }
+      ],
+      "hint": "With HABER (han), past participle never changes: han estudiado (same for all)."
+    },
+    {
+      "id": 11,
+      "question": "'María ha visto la película' - Does 'visto' agree with María or película?",
+      "answers": [
+        {
+          "text": "Neither - with HABER, past participle doesn't agree",
+          "correct": true
+        },
+        { "text": "Agrees with María (should be 'vista')", "correct": false },
+        {
+          "text": "Agrees with película (should be 'vista')",
+          "correct": false
+        },
+        { "text": "Agrees with both (should be 'vistas')", "correct": false }
+      ],
+      "hint": "HABER = no agreement. 'Visto' stays the same regardless of subject or object."
+    },
+    {
+      "id": 12,
+      "question": "'Las niñas son alt___' - Complete.",
+      "answers": [
+        { "text": "altas (feminine plural with SER)", "correct": true },
+        { "text": "alto (masculine singular)", "correct": false },
+        { "text": "altos (masculine plural)", "correct": false },
+        { "text": "alta (feminine singular)", "correct": false }
+      ],
+      "hint": "With SER, adjectives agree. Niñas is feminine plural, so altas."
+    },
+    {
+      "id": 13,
+      "question": "'La puerta está abiert___' - Complete.",
+      "answers": [
+        { "text": "abierta (feminine singular with ESTAR)", "correct": true },
+        { "text": "abierto (masculine)", "correct": false },
+        { "text": "abiertas (feminine plural)", "correct": false },
+        { "text": "abiertos (masculine plural)", "correct": false }
+      ],
+      "hint": "With ESTAR, participles/adjectives agree. Puerta is feminine singular: abierta."
+    },
+    {
+      "id": 14,
+      "question": "'Los documentos están firmad___' - Complete.",
+      "answers": [
+        { "text": "firmados (masculine plural with ESTAR)", "correct": true },
+        { "text": "firmado (masculine singular)", "correct": false },
+        { "text": "firmada (feminine singular)", "correct": false },
+        { "text": "firmadas (feminine plural)", "correct": false }
+      ],
+      "hint": "With ESTAR, participle agrees. Documentos is masculine plural: firmados."
+    },
+    {
+      "id": 15,
+      "question": "'Las cartas fueron escrit___ por mi madre' - Complete passive voice.",
+      "answers": [
+        {
+          "text": "escritas (feminine plural - passive with SER)",
+          "correct": true
+        },
+        { "text": "escrito (masculine singular)", "correct": false },
+        { "text": "escritos (masculine plural)", "correct": false },
+        { "text": "escrita (feminine singular)", "correct": false }
+      ],
+      "hint": "Passive voice with SER: participle agrees. Cartas is feminine plural: escritas."
+    },
+    {
+      "id": 16,
+      "question": "'La gente está content___' - Complete. (gente = people)",
+      "answers": [
+        {
+          "text": "contenta (feminine singular - gente is singular)",
+          "correct": true
+        },
+        { "text": "contentos (masculine plural)", "correct": false },
+        { "text": "contentas (feminine plural)", "correct": false },
+        { "text": "contento (masculine singular)", "correct": false }
+      ],
+      "hint": "GENTE (people) is grammatically feminine singular, even though it refers to multiple people: contenta."
+    },
+    {
+      "id": 17,
+      "question": "'Mi familia vive/viven en Madrid' - Which verb is correct?",
+      "answers": [
+        {
+          "text": "vive (singular - familia is grammatically singular)",
+          "correct": true
+        },
+        { "text": "viven (plural)", "correct": false },
+        { "text": "Both are equally correct", "correct": false },
+        { "text": "Depends on family size", "correct": false }
+      ],
+      "hint": "Collective nouns like FAMILIA take singular verbs: familia vive (singular)."
+    },
+    {
+      "id": 18,
+      "question": "'El equipo ganó/ganaron el partido' - Which is standard Spanish?",
+      "answers": [
+        {
+          "text": "ganó (singular - equipo is grammatically singular)",
+          "correct": true
+        },
+        { "text": "ganaron (plural)", "correct": false },
+        { "text": "Both are standard", "correct": false },
+        { "text": "Depends on team size", "correct": false }
+      ],
+      "hint": "Collective nouns like EQUIPO take singular verbs in standard Spanish: equipo ganó."
+    },
+    {
+      "id": 19,
+      "question": "'La chica que vive/viven aquí' - Which verb is correct?",
+      "answers": [
+        {
+          "text": "vive (singular - agrees with antecedent 'chica')",
+          "correct": true
+        },
+        { "text": "viven (plural)", "correct": false },
+        { "text": "Both are correct", "correct": false },
+        { "text": "Depends on context", "correct": false }
+      ],
+      "hint": "In relative clauses, verb agrees with antecedent. Chica (singular) → vive (singular)."
+    },
+    {
+      "id": 20,
+      "question": "'Los chicos que estudia/estudian mucho' - Which verb is correct?",
+      "answers": [
+        {
+          "text": "estudian (plural - agrees with antecedent 'chicos')",
+          "correct": true
+        },
+        { "text": "estudia (singular)", "correct": false },
+        { "text": "Both are correct", "correct": false },
+        { "text": "Depends on number of boys", "correct": false }
+      ],
+      "hint": "Relative clause verb agrees with antecedent. Chicos (plural) → estudian (plural)."
+    },
+    {
+      "id": 21,
+      "question": "'Juan y María come/comen pizza' - Which is correct?",
+      "answers": [
+        {
+          "text": "comen (plural - coordinated subjects take plural verb)",
+          "correct": true
+        },
+        { "text": "come (singular)", "correct": false },
+        { "text": "Both are correct", "correct": false },
+        { "text": "Depends on who eats more", "correct": false }
+      ],
+      "hint": "Coordinated subjects with Y (and) take plural verbs: Juan y María comen."
+    },
+    {
+      "id": 22,
+      "question": "'Compré manzanas cultivad___ localmente' - Complete participle.",
+      "answers": [
+        {
+          "text": "cultivadas (feminine plural - agrees with manzanas)",
+          "correct": true
+        },
+        { "text": "cultivado (masculine singular)", "correct": false },
+        { "text": "cultivados (masculine plural)", "correct": false },
+        { "text": "cultivada (feminine singular)", "correct": false }
+      ],
+      "hint": "When participle modifies noun directly, it agrees. Manzanas (feminine plural): cultivadas."
+    },
+    {
+      "id": 23,
+      "question": "'Terminada la reunión' vs 'Terminado la reunión' - Which is correct?",
+      "answers": [
+        {
+          "text": "Terminada (agrees with reunión - feminine)",
+          "correct": true
+        },
+        { "text": "Terminado (masculine)", "correct": false },
+        { "text": "Both are correct", "correct": false },
+        { "text": "Neither - should be 'Terminadas'", "correct": false }
+      ],
+      "hint": "Absolute construction: participle agrees with noun. Reunión is feminine: Terminada."
+    },
+    {
+      "id": 24,
+      "question": "'He escrito la carta' vs 'La carta está escrita' - Why different agreement?",
+      "answers": [
+        {
+          "text": "HABER = no agreement; ESTAR = agreement with subject",
+          "correct": true
+        },
+        { "text": "Both should have agreement", "correct": false },
+        { "text": "Neither should have agreement", "correct": false },
+        { "text": "Random variation", "correct": false }
+      ],
+      "hint": "HABER + participle = invariable (escrito). ESTAR + participle = agrees (escrita with carta)."
+    }
+  ]
+}

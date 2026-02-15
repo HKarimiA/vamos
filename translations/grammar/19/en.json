@@ -1,0 +1,322 @@
+{
+  "topic": {
+    "id": 19,
+    "name": "Prepositions"
+  },
+  "explanation": {
+    "title": "Spanish Prepositions: Connecting Words & Ideas",
+    "sections": [
+      {
+        "subtitle": "Basic Prepositions & Their Uses",
+        "content": "A (to/at): direction, time, indirect object. 'Voy a Madrid' (I'm going to Madrid), 'A las tres' (At three o'clock). DE (of/from): possession, origin, material. 'El libro de Juan' (Juan's book), 'Soy de España' (I'm from Spain), 'Una mesa de madera' (A wooden table). EN (in/on/at): location, means. 'Estoy en casa' (I'm at home), 'En autobús' (By bus). CON (with): accompaniment. 'Café con leche' (Coffee with milk). POR (for/by/through): reason, means, duration, movement through. PARA (for/to): purpose, destination, deadline. SIN (without): 'Sin azúcar' (Without sugar). SOBRE (on/about): position, topic. 'Sobre la mesa' (On the table), 'Un libro sobre historia' (A book about history)."
+      },
+      {
+        "subtitle": "Contractions & Personal A",
+        "content": "CONTRACTIONS: Only two in Spanish: A + EL = AL: 'Voy al cine' (I'm going to the cinema). DE + EL = DEL: 'El libro del profesor' (The teacher's book). Never contract with other articles: a la, de la, a los, de los, etc. PERSONAL A: Use 'a' before direct objects that are people or pets. 'Veo a María' (I see María - person). 'Veo la casa' (I see the house - thing, no 'a'). 'Quiero a mi perro' (I love my dog - pet gets 'a'). Also with 'alguien' (someone), 'nadie' (no one), 'quién' (who as object): '¿A quién buscas?' (Who are you looking for?). Exception: tener doesn't use personal a: 'Tengo un hermano' (not 'a un hermano')."
+      },
+      {
+        "subtitle": "Prepositions of Place & Time",
+        "content": "PLACE: en (in/at/on - general location), a (to - direction), de (from - origin), sobre/encima de (on top of), debajo de (under), delante de (in front of), detrás de (behind), al lado de (next to), cerca de (near), lejos de (far from), entre (between/among), dentro de (inside), fuera de (outside). Examples: 'El libro está en la mesa' (on the table), 'Voy a la tienda' (to the store), 'Vengo de casa' (from home). TIME: a (at specific time), en (in month/year/season), por (during general time), de...a (from...to), desde (since/from), hasta (until), antes de (before), después de (after), durante (during specific). Examples: 'A las dos' (at two), 'En enero' (in January), 'Desde 2020' (since 2020), 'Hasta mañana' (until tomorrow)."
+      },
+      {
+        "subtitle": "Por vs Para: The Essential Distinction",
+        "content": "POR (reason/cause/exchange/movement through/duration): (1) REASON: 'Lo hago por ti' (I do it for you/because of you). (2) EXCHANGE: 'Pagué 10 euros por el libro' (I paid 10 euros for the book). (3) THROUGH/ALONG: 'Camino por la calle' (I walk through/along the street). (4) MEANS: 'Por avión' (by plane). (5) DURATION (vague): 'Estudié por dos horas' (for two hours). (6) 'Thanks for': 'Gracias por tu ayuda' (Thanks for your help). PARA (purpose/destination/deadline/recipient): (1) PURPOSE: 'Estudio para aprender' (I study to learn). (2) DESTINATION: 'Voy para Madrid' (I'm heading to/toward Madrid). (3) DEADLINE: 'Es para mañana' (It's for/due tomorrow). (4) RECIPIENT: 'Un regalo para ti' (A gift for you). (5) OPINION: 'Para mí, es fácil' (For me/In my opinion, it's easy)."
+      },
+      {
+        "subtitle": "Por vs Para: More Examples & Key Phrases",
+        "content": "COMMON EXPRESSIONS WITH POR: por favor (please), por ejemplo (for example), por fin (finally), por supuesto (of course), por lo menos (at least), por primera vez (for the first time), por si acaso (just in case), estar por (to be in favor of/about to). COMMON EXPRESSIONS WITH PARA: para siempre (forever), para nada (not at all), para que (so that - with subjunctive), estar listo para (ready for/to). TRICKY COMPARISONS: 'Trabajo por mi padre' (I work FOR my father - in his place/because of him) vs 'Trabajo para mi padre' (I work FOR my father - he's my boss/employer). 'Salgo por la puerta' (I exit THROUGH the door) vs 'Salgo para la puerta' (I'm heading TOWARD the door). Remember: POR looks backward (reason/cause), PARA looks forward (goal/purpose)."
+      },
+      {
+        "subtitle": "Prepositional Verbs & Complex Prepositions",
+        "content": "PREPOSITIONAL VERBS: Many verbs require specific prepositions. pensar EN (think about): 'Pienso en ti' (I think about you). soñar CON (dream about): 'Sueño con viajar' (I dream of traveling). depender DE (depend on): 'Depende de ti' (It depends on you). consistir EN (consist of): 'Consiste en esto' (It consists of this). casarse CON (marry): 'Se casó con María'. enamorarse DE (fall in love with): 'Me enamoré de ella'. Others: insistir en, tratar de, dejar de, empezar a, aprender a. COMPLEX PREPOSITIONS: a través de (through/across), en vez de (instead of), además de (besides), a pesar de (despite), en lugar de (instead of), acerca de (about), con respecto a (with respect to), junto a (next to), frente a (in front of/facing)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the two contractions in Spanish?",
+      "answers": [
+        { "text": "al (a + el) and del (de + el)", "correct": true },
+        { "text": "al and de la", "correct": false },
+        { "text": "a la and del", "correct": false },
+        { "text": "el and la", "correct": false }
+      ],
+      "hint": "Only a + el = al, and de + el = del contract in Spanish."
+    },
+    {
+      "id": 2,
+      "question": "'Voy a el cine' or 'Voy al cine' - which is correct?",
+      "answers": [
+        { "text": "Voy al cine (a + el = al)", "correct": true },
+        { "text": "Voy a el cine (no contraction)", "correct": false },
+        { "text": "Both are correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "A + el must contract to 'al'. Voy al cine (to the cinema)."
+    },
+    {
+      "id": 3,
+      "question": "'El libro de el profesor' or 'El libro del profesor' - which is correct?",
+      "answers": [
+        { "text": "El libro del profesor (de + el = del)", "correct": true },
+        {
+          "text": "El libro de el profesor (no contraction)",
+          "correct": false
+        },
+        { "text": "Both are correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "De + el must contract to 'del'. El libro del profesor (the teacher's book)."
+    },
+    {
+      "id": 4,
+      "question": "When do you use personal 'a'?",
+      "answers": [
+        {
+          "text": "Before direct objects that are people or pets",
+          "correct": true
+        },
+        { "text": "Before all direct objects", "correct": false },
+        { "text": "Only before proper names", "correct": false },
+        { "text": "Never use 'a' with direct objects", "correct": false }
+      ],
+      "hint": "Personal a: Veo a María (person) but Veo la casa (thing, no 'a')."
+    },
+    {
+      "id": 5,
+      "question": "'Veo a María' vs 'Veo la casa' - Why the difference?",
+      "answers": [
+        {
+          "text": "María is a person (needs personal a); casa is a thing (no a)",
+          "correct": true
+        },
+        { "text": "María is feminine, casa is not", "correct": false },
+        { "text": "Random variation", "correct": false },
+        { "text": "La casa needs 'la' so no room for 'a'", "correct": false }
+      ],
+      "hint": "Use personal 'a' before people/pets as direct objects, not things."
+    },
+    {
+      "id": 6,
+      "question": "'Tengo un hermano' or 'Tengo a un hermano' - which is correct?",
+      "answers": [
+        {
+          "text": "Tengo un hermano (tener doesn't use personal a)",
+          "correct": true
+        },
+        { "text": "Tengo a un hermano (needs personal a)", "correct": false },
+        { "text": "Both are equally correct", "correct": false },
+        { "text": "Neither is correct", "correct": false }
+      ],
+      "hint": "Exception: tener (to have) doesn't use personal 'a' even with people."
+    },
+    {
+      "id": 7,
+      "question": "What preposition indicates specific time?",
+      "answers": [
+        { "text": "a (at) - 'a las dos' (at two)", "correct": true },
+        { "text": "en (in) - for all times", "correct": false },
+        { "text": "por (during) - for specific times", "correct": false },
+        { "text": "de (of/from) - for times", "correct": false }
+      ],
+      "hint": "Use 'a' for specific clock times: a las tres, a la una."
+    },
+    {
+      "id": 8,
+      "question": "'En enero' means...",
+      "answers": [
+        { "text": "In January", "correct": true },
+        { "text": "On January", "correct": false },
+        { "text": "At January", "correct": false },
+        { "text": "From January", "correct": false }
+      ],
+      "hint": "Use 'en' for months, years, and seasons: en enero, en 2020, en verano."
+    },
+    {
+      "id": 9,
+      "question": "'Desde 2020' means...",
+      "answers": [
+        { "text": "Since 2020 / From 2020", "correct": true },
+        { "text": "Until 2020", "correct": false },
+        { "text": "In 2020", "correct": false },
+        { "text": "During 2020", "correct": false }
+      ],
+      "hint": "Desde = since/from (starting point). Often paired with hasta (until)."
+    },
+    {
+      "id": 10,
+      "question": "'Hasta mañana' means...",
+      "answers": [
+        { "text": "Until tomorrow / See you tomorrow", "correct": true },
+        { "text": "Since tomorrow", "correct": false },
+        { "text": "From tomorrow", "correct": false },
+        { "text": "During tomorrow", "correct": false }
+      ],
+      "hint": "Hasta = until (endpoint). Common farewell: ¡Hasta mañana!"
+    },
+    {
+      "id": 11,
+      "question": "'Lo hago por ti' - What does 'por' mean here?",
+      "answers": [
+        { "text": "For you / Because of you (reason/cause)", "correct": true },
+        { "text": "In order to reach you (purpose)", "correct": false },
+        { "text": "Until you", "correct": false },
+        { "text": "With you", "correct": false }
+      ],
+      "hint": "Por = for (reason/cause). I do it BECAUSE OF you/for your sake."
+    },
+    {
+      "id": 12,
+      "question": "'Estudio para aprender' - What does 'para' mean here?",
+      "answers": [
+        { "text": "In order to learn (purpose)", "correct": true },
+        { "text": "Because of learning", "correct": false },
+        { "text": "Through learning", "correct": false },
+        { "text": "From learning", "correct": false }
+      ],
+      "hint": "Para = for (purpose/goal). I study IN ORDER TO learn."
+    },
+    {
+      "id": 13,
+      "question": "'Pagué 10 euros por el libro' - Why 'por' not 'para'?",
+      "answers": [
+        { "text": "Por = in exchange for (price paid)", "correct": true },
+        { "text": "Para = always used with prices", "correct": false },
+        { "text": "Random choice", "correct": false },
+        { "text": "Para = for prices in future only", "correct": false }
+      ],
+      "hint": "Por = in exchange for. Use with prices, trades, exchanges."
+    },
+    {
+      "id": 14,
+      "question": "'Un regalo para ti' - Why 'para' not 'por'?",
+      "answers": [
+        { "text": "Para = for (recipient/intended for)", "correct": true },
+        { "text": "Por = always used with gifts", "correct": false },
+        { "text": "Random choice", "correct": false },
+        { "text": "Por = only for things, not people", "correct": false }
+      ],
+      "hint": "Para = for (recipient/destination). The gift is intended FOR you."
+    },
+    {
+      "id": 15,
+      "question": "'Es para mañana' means...",
+      "answers": [
+        {
+          "text": "It's for tomorrow / due tomorrow (deadline)",
+          "correct": true
+        },
+        { "text": "It's because of tomorrow", "correct": false },
+        { "text": "It's through tomorrow", "correct": false },
+        { "text": "It's since tomorrow", "correct": false }
+      ],
+      "hint": "Para = for (deadline). Homework is DUE tomorrow."
+    },
+    {
+      "id": 16,
+      "question": "'Camino por la calle' means...",
+      "answers": [
+        { "text": "I walk through/along the street", "correct": true },
+        { "text": "I walk to the street (destination)", "correct": false },
+        { "text": "I walk for the street (purpose)", "correct": false },
+        { "text": "I walk with the street", "correct": false }
+      ],
+      "hint": "Por = through/along (movement through area). Walk THROUGH/ALONG the street."
+    },
+    {
+      "id": 17,
+      "question": "'Voy para Madrid' means...",
+      "answers": [
+        {
+          "text": "I'm heading toward/for Madrid (destination/direction)",
+          "correct": true
+        },
+        { "text": "I'm going through Madrid", "correct": false },
+        { "text": "I'm going because of Madrid", "correct": false },
+        { "text": "I'm in Madrid", "correct": false }
+      ],
+      "hint": "Para = toward/for (destination/direction). Heading IN THE DIRECTION OF Madrid."
+    },
+    {
+      "id": 18,
+      "question": "'Gracias por tu ayuda' - Why 'por' not 'para'?",
+      "answers": [
+        {
+          "text": "Por = thanks FOR (reason/cause of thanks)",
+          "correct": true
+        },
+        { "text": "Para = always with thanks", "correct": false },
+        { "text": "Random usage", "correct": false },
+        { "text": "Para is more formal", "correct": false }
+      ],
+      "hint": "Fixed expression: Gracias POR (thanks for). Por shows the reason for gratitude."
+    },
+    {
+      "id": 19,
+      "question": "What does 'por favor' mean?",
+      "answers": [
+        { "text": "Please", "correct": true },
+        { "text": "For favor", "correct": false },
+        { "text": "By favor", "correct": false },
+        { "text": "Thank you", "correct": false }
+      ],
+      "hint": "Fixed expression with por: por favor (please)."
+    },
+    {
+      "id": 20,
+      "question": "What does 'para siempre' mean?",
+      "answers": [
+        { "text": "Forever", "correct": true },
+        { "text": "For always (temporary)", "correct": false },
+        { "text": "Through always", "correct": false },
+        { "text": "Because of always", "correct": false }
+      ],
+      "hint": "Fixed expression with para: para siempre (forever/for always)."
+    },
+    {
+      "id": 21,
+      "question": "'Pienso en ti' - What preposition follows 'pensar' to mean 'think about'?",
+      "answers": [
+        { "text": "en (pensar EN = think about)", "correct": true },
+        { "text": "de (pensar de)", "correct": false },
+        { "text": "a (pensar a)", "correct": false },
+        { "text": "con (pensar con)", "correct": false }
+      ],
+      "hint": "Prepositional verb: pensar EN (think about). I think ABOUT you."
+    },
+    {
+      "id": 22,
+      "question": "'Sueño con viajar' - What preposition follows 'soñar' to mean 'dream about'?",
+      "answers": [
+        { "text": "con (soñar CON = dream about)", "correct": true },
+        { "text": "en (soñar en)", "correct": false },
+        { "text": "de (soñar de)", "correct": false },
+        { "text": "para (soñar para)", "correct": false }
+      ],
+      "hint": "Prepositional verb: soñar CON (dream about/of). I dream OF traveling."
+    },
+    {
+      "id": 23,
+      "question": "'Depende de ti' - What preposition follows 'depender'?",
+      "answers": [
+        { "text": "de (depender DE = depend on)", "correct": true },
+        { "text": "en (depender en)", "correct": false },
+        { "text": "con (depender con)", "correct": false },
+        { "text": "a (depender a)", "correct": false }
+      ],
+      "hint": "Prepositional verb: depender DE (depend on). It depends ON you."
+    },
+    {
+      "id": 24,
+      "question": "What does 'a pesar de' mean?",
+      "answers": [
+        { "text": "Despite / In spite of", "correct": true },
+        { "text": "Because of", "correct": false },
+        { "text": "Instead of", "correct": false },
+        { "text": "Next to", "correct": false }
+      ],
+      "hint": "Complex preposition: a pesar de (despite). A pesar de la lluvia (despite the rain)."
+    }
+  ]
+}

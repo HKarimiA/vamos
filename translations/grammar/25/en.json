@@ -1,0 +1,391 @@
+{
+  "topic": {
+    "id": 25,
+    "name": "Passive & Impersonal Constructions"
+  },
+  "explanation": {
+    "title": "Spanish Passive & Impersonal Constructions: Expressing Actions Without Specific Actors",
+    "sections": [
+      {
+        "subtitle": "Passive Voice with SER: True Passive",
+        "content": "TRUE PASSIVE VOICE uses SER + PAST PARTICIPLE to emphasize the action or receiver rather than the doer. Formation: SER (conjugated) + past participle (agrees with subject) + POR (by) + agent (optional). Active: 'Cervantes escribió el libro' (Cervantes wrote the book - active voice, focus on Cervantes). Passive: 'El libro fue escrito por Cervantes' (The book was written by Cervantes - passive, focus on the book). The past participle MUST AGREE with the subject in gender and number. 'La carta fue escrita por María' (The letter was written by María - escrita feminine singular agrees with carta). 'Los documentos fueron firmados por el director' (The documents were signed by the director - firmados masculine plural agrees with documentos). 'Las casas fueron construidas en 1950' (The houses were built in 1950 - construidas feminine plural agrees with casas). AGENT (optional): Introduced by POR (by). 'El edificio fue diseñado por un arquitecto famoso' (The building was designed by a famous architect). Often the agent is omitted when unknown or unimportant: 'El ladrón fue arrestado' (The thief was arrested - by whom is not specified). NOTE: Spanish passive with ser is less common than English passive, mainly used in formal written Spanish (journalism, academic writing)."
+      },
+      {
+        "subtitle": "Passive SE: The Reflexive Passive",
+        "content": "PASSIVE SE (se + verb) is much more common in Spanish than ser passive, especially in everyday speech. Formation: SE + third person verb (singular or plural to agree with grammatical subject). Used when the agent is not mentioned or is general/unknown. 'Se habla español aquí' (Spanish is spoken here - literally: Spanish speaks itself here). 'Se venden casas' (Houses are sold / Houses for sale - plural verb venden agrees with casas plural). 'Se firmó el contrato' (The contract was signed - singular firmó agrees with contrato singular). 'Se escribieron las cartas' (The letters were written - plural escribieron agrees with cartas plural). The grammatical subject (the thing being acted upon) usually comes after the verb. AGREEMENT: Verb must agree in number with the grammatical subject. 'Se construyó una casa' (singular subject → singular verb). 'Se construyeron dos casas' (plural subject → plural verb). Common in signs: 'Se alquila apartamento' (Apartment for rent), 'Se buscan empleados' (Employees wanted), 'Se prohíbe fumar' (Smoking prohibited). This passive se emphasizes the action or result rather than who performs it. Much more natural than ser passive in spoken Spanish."
+      },
+      {
+        "subtitle": "ESTAR + Participle: Resultant State",
+        "content": "ESTAR + PAST PARTICIPLE describes a state or condition resulting from a previous action, not the action itself. Focus is on the current state, not the process. 'La puerta está cerrada' (The door is closed - current state, someone closed it before). Compare with passive: 'La puerta fue cerrada por Juan' (The door was closed by Juan - action, process). 'Los documentos están firmados' (The documents are signed - they are in a signed state now). 'La carta está escrita' (The letter is written - completed, current state). 'Las ventanas están abiertas' (The windows are open - current state). The participle AGREES with the subject like an adjective. ESTAR = state/condition. SER = action/process. Compare: 'La casa fue construida en 1950' (The house was built in 1950 - action, when it happened, ser for process). 'La casa está construida' (The house is built - current state, completed, estar for result). Common states: estar roto/a (broken), estar cerrado/a (closed), estar abierto/a (open), estar escrito/a (written), estar hecho/a (done/made), estar muerto/a (dead), estar lleno/a (full), estar vacío/a (empty). Focus: ESTAR describes how things are NOW as a result of past actions."
+      },
+      {
+        "subtitle": "Impersonal Expressions: ES + Adjective/Noun + QUE",
+        "content": "IMPERSONAL EXPRESSIONS with ES express general opinions, necessity, or judgments without specifying who thinks/feels this way. Pattern: ES + adjective/noun + QUE + subjunctive (usually). Common adjectives: ES IMPORTANTE QUE (it's important that), ES NECESARIO QUE (it's necessary that), ES POSIBLE QUE (it's possible that), ES PROBABLE QUE (it's probable that), ES IMPOSIBLE QUE (it's impossible that), ES MEJOR QUE (it's better that), ES BUENO/MALO QUE (it's good/bad that), ES RARO/EXTRAÑO QUE (it's strange that), ES URGENTE QUE (it's urgent that). These require SUBJUNCTIVE: 'Es importante que estudies' (It's important that you study). 'Es necesario que vengas' (It's necessary that you come). 'Es posible que llueva' (It's possible that it will rain). With certainty expressions, use INDICATIVE: 'Es verdad que estudia' (It's true that he studies - indicative because it's a fact). 'Es cierto que viene' (It's certain that he's coming - indicative). 'Es obvio que sabe' (It's obvious that he knows - indicative). Pattern: Doubt/opinion/value judgment → subjunctive. Certainty/fact → indicative. Noun forms: 'Es una pena que' (it's a pity that), 'Es una lástima que' (it's a shame that) - also take subjunctive."
+      },
+      {
+        "subtitle": "Impersonal SE: Expressing General 'They/One/People'",
+        "content": "IMPERSONAL SE expresses actions without specifying who does them - equivalent to English 'one/you/people/they' in general statements. Formation: SE + third person SINGULAR verb (always singular with impersonal se, unlike passive se). Used for general statements about what people do in general. 'Se come bien en España' (One eats well in Spain / People eat well in Spain / You eat well in Spain - general statement). 'Se vive tranquilo aquí' (One lives peacefully here / People live peacefully here). 'Se trabaja mucho en esta empresa' (People work a lot in this company). 'Se duerme mal con ruido' (One sleeps badly with noise). KEY DIFFERENCE from passive se: IMPERSONAL se doesn't have a grammatical subject (the thing being acted upon). It's about people in general doing something. 'Se estudia mucho' (People study a lot - no object, impersonal). vs 'Se estudian idiomas' (Languages are studied - plural verb agrees with idiomas, passive se). IMPERSONAL = always singular verb, no specific subject. PASSIVE = verb agrees with grammatical subject. Other uses: 'Se dice que...' (It is said that.../They say that...), 'Se cree que...' (It is believed that...), 'Se piensa que...' (It is thought that...), 'Se sabe que...' (It is known that...). Very common for expressing general wisdom or common knowledge."
+      },
+      {
+        "subtitle": "Third Person Plural for Impersonal: General 'They'",
+        "content": "THIRD PERSON PLURAL (without explicit subject) can express impersonal meaning - equivalent to English 'they' when referring to people in general, authorities, or unspecified groups. Simply use the third person plural verb form (ellos/ellas form) without actually stating the subject. 'Dicen que va a llover' (They say it's going to rain - people in general say). 'Construyeron un edificio nuevo' (They built a new building - someone/authorities built, unspecified). 'Llamaron a la puerta' (They knocked on the door / Someone knocked - unspecified person). 'Robaron el banco' (They robbed the bank - unknown robbers). 'Abrieron una tienda nueva' (They opened a new store - unspecified who). This is very natural in Spanish when you don't know or don't want to specify who did something. Compare three ways to express similar ideas: (1) IMPERSONAL SE: 'Se habla español' (Spanish is spoken - focus on language). (2) PASSIVE SE: 'Se construyeron casas' (Houses were built - focus on houses built). (3) THIRD PERSON PLURAL: 'Construyeron casas' (They built houses - focus on unspecified people building). The third person plural is especially common in spoken Spanish and narratives when the actor is unknown or unimportant. 'Me dijeron que cerrarían temprano' (They told me they would close early). 'Vendieron todo' (They sold everything)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you form the true passive voice in Spanish?",
+      "answers": [
+        { "text": "SER + past participle (+ POR + agent)", "correct": true },
+        { "text": "ESTAR + past participle", "correct": false },
+        { "text": "HABER + past participle", "correct": false },
+        { "text": "SE + verb", "correct": false }
+      ],
+      "hint": "True passive: SER + past participle. Example: fue escrito (was written)."
+    },
+    {
+      "id": 2,
+      "question": "'El libro fue escrito por Cervantes' - Does 'escrito' agree?",
+      "answers": [
+        {
+          "text": "Yes - with subject 'libro' (masculine singular)",
+          "correct": true
+        },
+        {
+          "text": "No - past participles with ser never change",
+          "correct": false
+        },
+        { "text": "Yes - with agent 'Cervantes'", "correct": false },
+        { "text": "It's optional", "correct": false }
+      ],
+      "hint": "With SER passive, participle agrees with subject. Libro (masculine singular) → escrito."
+    },
+    {
+      "id": 3,
+      "question": "'Las casas fueron construid___' - Complete the participle.",
+      "answers": [
+        {
+          "text": "construidas (feminine plural to agree with casas)",
+          "correct": true
+        },
+        { "text": "construido (masculine singular)", "correct": false },
+        { "text": "construidos (masculine plural)", "correct": false },
+        { "text": "construida (feminine singular)", "correct": false }
+      ],
+      "hint": "SER passive: participle agrees with subject. Casas (feminine plural) → construidas."
+    },
+    {
+      "id": 4,
+      "question": "What introduces the agent in passive voice?",
+      "answers": [
+        { "text": "POR (by)", "correct": true },
+        { "text": "DE (of/from)", "correct": false },
+        { "text": "PARA (for)", "correct": false },
+        { "text": "CON (with)", "correct": false }
+      ],
+      "hint": "Agent introduced by POR: fue escrito POR Cervantes (was written BY Cervantes)."
+    },
+    {
+      "id": 5,
+      "question": "'Se habla español aquí' - What does this mean?",
+      "answers": [
+        { "text": "Spanish is spoken here (passive se)", "correct": true },
+        { "text": "He speaks Spanish here", "correct": false },
+        { "text": "We speak Spanish here", "correct": false },
+        { "text": "I speak Spanish here", "correct": false }
+      ],
+      "hint": "SE + verb = passive construction. Se habla español = Spanish is spoken."
+    },
+    {
+      "id": 6,
+      "question": "'Se vende casa' vs 'Se venden casas' - Why different verbs?",
+      "answers": [
+        {
+          "text": "Verb agrees with subject: casa (singular) vs casas (plural)",
+          "correct": true
+        },
+        { "text": "Random variation", "correct": false },
+        { "text": "Se always takes singular verb", "correct": false },
+        { "text": "Different meanings entirely", "correct": false }
+      ],
+      "hint": "Passive se: verb agrees with grammatical subject. Casa (singular) → vende. Casas (plural) → venden."
+    },
+    {
+      "id": 7,
+      "question": "'Se construyó una casa' vs 'Se construyeron dos casas' - Why?",
+      "answers": [
+        {
+          "text": "Singular subject (una casa) vs plural subject (dos casas)",
+          "correct": true
+        },
+        {
+          "text": "Una requires singular, dos requires plural",
+          "correct": false
+        },
+        {
+          "text": "No difference, both are correct for both",
+          "correct": false
+        },
+        { "text": "Depends on who built them", "correct": false }
+      ],
+      "hint": "Passive se verb agrees with subject. Una casa (one house - singular) → construyó. Dos casas (plural) → construyeron."
+    },
+    {
+      "id": 8,
+      "question": "Which is more common in spoken Spanish for passive meaning?",
+      "answers": [
+        { "text": "SE + verb (passive se)", "correct": true },
+        { "text": "SER + past participle", "correct": false },
+        { "text": "ESTAR + past participle", "correct": false },
+        { "text": "All equally common", "correct": false }
+      ],
+      "hint": "Passive SE is much more common in spoken Spanish than ser passive (which is formal/written)."
+    },
+    {
+      "id": 9,
+      "question": "'La puerta está cerrada' - What does this express?",
+      "answers": [
+        {
+          "text": "Current state/condition (the door is closed - resultant state)",
+          "correct": true
+        },
+        {
+          "text": "Action of closing (someone is closing the door)",
+          "correct": false
+        },
+        {
+          "text": "Habitual action (the door closes regularly)",
+          "correct": false
+        },
+        { "text": "Future action (the door will be closed)", "correct": false }
+      ],
+      "hint": "ESTAR + participle = resultant state/condition. The door IS closed (current state)."
+    },
+    {
+      "id": 10,
+      "question": "'La casa fue construida' vs 'La casa está construida' - What's the difference?",
+      "answers": [
+        {
+          "text": "FUE = action/process (was built); ESTÁ = current state (is built/finished)",
+          "correct": true
+        },
+        {
+          "text": "No difference, both mean exactly the same",
+          "correct": false
+        },
+        { "text": "FUE is past, ESTÁ is present", "correct": false },
+        { "text": "FUE is formal, ESTÁ is informal", "correct": false }
+      ],
+      "hint": "SER (fue) = action/process of building. ESTAR (está) = current state of being built/finished."
+    },
+    {
+      "id": 11,
+      "question": "'Los documentos están firmados' - Does 'firmados' agree?",
+      "answers": [
+        {
+          "text": "Yes - with subject 'documentos' (masculine plural)",
+          "correct": true
+        },
+        {
+          "text": "No - with estar, participle never changes",
+          "correct": false
+        },
+        { "text": "It's optional", "correct": false },
+        { "text": "Only in formal Spanish", "correct": false }
+      ],
+      "hint": "With ESTAR, participle agrees like adjective. Documentos (masculine plural) → firmados."
+    },
+    {
+      "id": 12,
+      "question": "'Es importante que estudies' - Why subjunctive 'estudies'?",
+      "answers": [
+        {
+          "text": "Impersonal expressions of opinion/value require subjunctive",
+          "correct": true
+        },
+        {
+          "text": "Es importante always requires indicative",
+          "correct": false
+        },
+        { "text": "This should be 'estudias' in indicative", "correct": false },
+        { "text": "Random choice", "correct": false }
+      ],
+      "hint": "ES + adjective (opinion/value) + QUE → subjunctive. Es importante que estudies."
+    },
+    {
+      "id": 13,
+      "question": "'Es necesario que vengas' - Why subjunctive 'vengas'?",
+      "answers": [
+        {
+          "text": "Necessity expressions require subjunctive",
+          "correct": true
+        },
+        { "text": "This should be 'vienes' in indicative", "correct": false },
+        { "text": "Es necesario always takes indicative", "correct": false },
+        { "text": "Only for formal speech", "correct": false }
+      ],
+      "hint": "ES NECESARIO QUE (it's necessary that) requires subjunctive: vengas."
+    },
+    {
+      "id": 14,
+      "question": "'Es verdad que estudia' - Why indicative 'estudia'?",
+      "answers": [
+        {
+          "text": "Certainty/fact expressions use indicative",
+          "correct": true
+        },
+        { "text": "This should be 'estudie' in subjunctive", "correct": false },
+        { "text": "Es verdad always requires subjunctive", "correct": false },
+        { "text": "Random variation", "correct": false }
+      ],
+      "hint": "ES VERDAD (it's true - certainty/fact) → indicative. Es verdad que estudia (indicative)."
+    },
+    {
+      "id": 15,
+      "question": "'Es posible que llueva' vs 'Es cierto que llueve' - Why different moods?",
+      "answers": [
+        {
+          "text": "Possibility (es posible) → subjunctive; Certainty (es cierto) → indicative",
+          "correct": true
+        },
+        { "text": "Both should use subjunctive", "correct": false },
+        { "text": "Both should use indicative", "correct": false },
+        { "text": "No pattern, memorize each", "correct": false }
+      ],
+      "hint": "Doubt/possibility → subjunctive (llueva). Certainty/fact → indicative (llueve)."
+    },
+    {
+      "id": 16,
+      "question": "'Se come bien en España' - What does SE express here?",
+      "answers": [
+        {
+          "text": "Impersonal 'one/people/you' (people eat well in Spain)",
+          "correct": true
+        },
+        { "text": "Reflexive action (he eats himself)", "correct": false },
+        { "text": "Passive (food is eaten)", "correct": false },
+        { "text": "Plural subject", "correct": false }
+      ],
+      "hint": "IMPERSONAL SE = one/people in general. Se come = one eats / people eat."
+    },
+    {
+      "id": 17,
+      "question": "'Se trabaja mucho' vs 'Se trabajan mucho' - Which is correct for impersonal?",
+      "answers": [
+        {
+          "text": "Se trabaja (impersonal se always uses singular verb)",
+          "correct": true
+        },
+        { "text": "Se trabajan (impersonal se uses plural)", "correct": false },
+        { "text": "Both are equally correct", "correct": false },
+        { "text": "Depends on number of people working", "correct": false }
+      ],
+      "hint": "IMPERSONAL SE always takes SINGULAR verb. Se trabaja mucho (people work a lot)."
+    },
+    {
+      "id": 18,
+      "question": "'Se estudia mucho' vs 'Se estudian idiomas' - What's the difference?",
+      "answers": [
+        {
+          "text": "First is impersonal (people study); second is passive (languages are studied)",
+          "correct": true
+        },
+        { "text": "No difference, both are passive", "correct": false },
+        { "text": "No difference, both are impersonal", "correct": false },
+        {
+          "text": "First is singular subject, second is plural",
+          "correct": false
+        }
+      ],
+      "hint": "Impersonal (no object) = singular verb. Passive (with object) = verb agrees with object."
+    },
+    {
+      "id": 19,
+      "question": "'Se dice que...' means...",
+      "answers": [
+        {
+          "text": "It is said that... / They say that... (impersonal)",
+          "correct": true
+        },
+        { "text": "He says himself that...", "correct": false },
+        { "text": "Something is said by...", "correct": false },
+        { "text": "I say that...", "correct": false }
+      ],
+      "hint": "Se dice = it is said / they say (impersonal - general wisdom/common knowledge)."
+    },
+    {
+      "id": 20,
+      "question": "'Dicen que va a llover' - Who is 'dicen' referring to?",
+      "answers": [
+        { "text": "People in general / They (unspecified)", "correct": true },
+        { "text": "Specific people mentioned before", "correct": false },
+        { "text": "We (nosotros)", "correct": false },
+        { "text": "You (plural)", "correct": false }
+      ],
+      "hint": "Third person plural without subject = impersonal 'they/people'. Dicen = they say (general)."
+    },
+    {
+      "id": 21,
+      "question": "'Robaron el banco' (without mentioning who) means...",
+      "answers": [
+        {
+          "text": "They robbed the bank (someone/unknown people robbed it)",
+          "correct": true
+        },
+        { "text": "The bank robbed itself", "correct": false },
+        { "text": "We robbed the bank", "correct": false },
+        { "text": "You robbed the bank", "correct": false }
+      ],
+      "hint": "Third person plural without explicit subject = unspecified 'they'. Robaron = they robbed (unknown who)."
+    },
+    {
+      "id": 22,
+      "question": "'Construyeron un edificio nuevo' - Who built it?",
+      "answers": [
+        {
+          "text": "Unspecified people/authorities (impersonal they)",
+          "correct": true
+        },
+        { "text": "We built it (nosotros)", "correct": false },
+        { "text": "You built it (ustedes)", "correct": false },
+        { "text": "Specific people mentioned before", "correct": false }
+      ],
+      "hint": "Third person plural without subject = impersonal construction. Someone/they built (unspecified)."
+    },
+    {
+      "id": 23,
+      "question": "Which expresses 'Spanish is spoken here'?",
+      "answers": [
+        { "text": "Se habla español aquí (passive se)", "correct": true },
+        { "text": "Se hablan español aquí", "correct": false },
+        {
+          "text": "Hablan español aquí (means 'they speak Spanish')",
+          "correct": false
+        },
+        { "text": "Está hablado español aquí", "correct": false }
+      ],
+      "hint": "Passive se: Se habla español (Spanish is spoken - singular verb with singular subject español)."
+    },
+    {
+      "id": 24,
+      "question": "Three ways to say 'Houses were built': Which is most formal/written?",
+      "answers": [
+        {
+          "text": "Las casas fueron construidas (SER passive - formal)",
+          "correct": true
+        },
+        {
+          "text": "Se construyeron casas (SE passive - common)",
+          "correct": false
+        },
+        {
+          "text": "Construyeron casas (3rd person plural - informal)",
+          "correct": false
+        },
+        { "text": "All equally formal", "correct": false }
+      ],
+      "hint": "SER + participle (fueron construidas) is most formal, mainly used in writing/journalism."
+    }
+  ]
+}

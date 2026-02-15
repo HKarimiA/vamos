@@ -1,0 +1,346 @@
+{
+  "topic": {
+    "id": 12,
+    "name": "Subjunctive Mood"
+  },
+  "explanation": {
+    "title": "Spanish Subjunctive Mood: When Doubt, Desire & Emotion Enter",
+    "sections": [
+      {
+        "subtitle": "Formation of Present Subjunctive",
+        "content": "Start with 'yo' form of present indicative, drop -o, add opposite endings. -AR verbs use 'e' endings: -e, -es, -e, -emos, -éis, -en (hablo→hable, hables, hable, hablemos, habléis, hablen). -ER/-IR verbs use 'a' endings: -a, -as, -a, -amos, -áis, -an (como→coma, comas, coma, comamos, comáis, coman; vivo→viva, vivas, viva, vivamos, viváis, vivan). Stem-changing verbs keep their changes (e→ie, o→ue) EXCEPT nosotros/vosotros for -IR verbs: dormir→duerma, duermas, duerma, durmamos, durmáis, duerman (u in nosotros/vosotros)."
+      },
+      {
+        "subtitle": "Irregular Present Subjunctive",
+        "content": "Some verbs have irregular subjunctive forms. Major irregulars: ser (sea, seas, sea, seamos, seáis, sean), estar (esté, estés, esté, estemos, estéis, estén), ir (vaya, vayas, vaya, vayamos, vayáis, vayan), haber (haya, hayas, haya, hayamos, hayáis, hayan), saber (sepa, sepas, sepa, sepamos, sepáis, sepan), dar (dé, des, dé, demos, deis, den). Verbs with irregular 'yo': tener→tenga, venir→venga, decir→diga, hacer→haga, poner→ponga, traer→traiga, salir→salga, ver→vea, conocer→conozca, conducir→conduzca."
+      },
+      {
+        "subtitle": "When to Use Subjunctive: WEIRDO Part 1",
+        "content": "Use subjunctive in dependent clauses after expressions of: W-Wishes/Desires: querer que, esperar que, desear que (Quiero que vengas - I want you to come). E-Emotions: alegrarse de que, temer que, sentir que, es triste que (Me alegro de que estés aquí - I'm glad you're here). I-Impersonal Expressions: es necesario que, es importante que, es posible que, es mejor que, es bueno/malo que (Es importante que estudies - It's important that you study). Remember: subjunctive appears in the 'que' clause, not the main clause."
+      },
+      {
+        "subtitle": "When to Use Subjunctive: WEIRDO Part 2 & Clauses",
+        "content": "R-Requests/Recommendations: pedir que, sugerir que, recomendar que, aconsejar que (Te recomiendo que vayas - I recommend you go). D-Doubt/Denial: dudar que, no creer que, no pensar que, negar que (Dudo que venga - I doubt he'll come). O-Ojalá (I hope/wish): Ojalá que llueva. ADJECTIVE CLAUSES: unknown/nonexistent antecedent (Busco un libro que sea interesante - looking for a book that IS interesting, don't know if it exists). ADVERBIAL CLAUSES: para que (so that), antes de que (before), cuando (when-future), aunque (although-hypothetical)."
+      },
+      {
+        "subtitle": "Imperfect Subjunctive",
+        "content": "Formation: Start with 3rd person plural preterite (ellos/ellas form), drop -ron, add endings: -ra, -ras, -ra, -ramos, -rais, -ran (OR -se, -ses, -se, -semos, -seis, -sen). Example: hablar→hablaron→hablara/hablase. comer→comieron→comiera/comiese. ser/ir→fueron→fuera/fuese. tener→tuvieron→tuviera/tuviese. Uses: (1) Hypothetical 'if' clauses: 'Si tuviera dinero, compraría un coche' (If I had money, I would buy a car). (2) Past subjunctive triggers: 'Quería que vinieras' (I wanted you to come). (3) Sequence of tenses: when main verb is past, use imperfect subjunctive in dependent clause."
+      },
+      {
+        "subtitle": "Perfect Subjunctive",
+        "content": "PRESENT PERFECT SUBJUNCTIVE: haber (present subjunctive: haya, hayas, haya, hayamos, hayáis, hayan) + past participle. Use for past actions in subjunctive contexts connected to present: 'Espero que hayas estudiado' (I hope you have studied), 'Dudo que haya llegado' (I doubt he has arrived). PLUPERFECT SUBJUNCTIVE: haber (imperfect subjunctive: hubiera/hubiese) + past participle. Use for past perfect in subjunctive contexts: 'Si hubiera sabido, habría venido' (If I had known, I would have come). Often in past hypotheticals with conditional perfect."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you form the present subjunctive for -AR verbs?",
+      "answers": [
+        { "text": "yo form minus -o, add -e endings", "correct": true },
+        { "text": "yo form minus -o, add -a endings", "correct": false },
+        { "text": "infinitive plus -e endings", "correct": false },
+        { "text": "stem plus imperfect endings", "correct": false }
+      ],
+      "hint": "-AR verbs use the 'opposite' vowel (e instead of a) in subjunctive."
+    },
+    {
+      "id": 2,
+      "question": "How do you form the present subjunctive for -ER/-IR verbs?",
+      "answers": [
+        { "text": "yo form minus -o, add -a endings", "correct": true },
+        { "text": "yo form minus -o, add -e endings", "correct": false },
+        { "text": "infinitive plus -a endings", "correct": false },
+        { "text": "stem plus future endings", "correct": false }
+      ],
+      "hint": "-ER/-IR verbs use the 'opposite' vowel (a instead of e/i) in subjunctive."
+    },
+    {
+      "id": 3,
+      "question": "What is the present subjunctive 'yo' form of 'hablar'?",
+      "answers": [
+        { "text": "hable", "correct": true },
+        { "text": "habla", "correct": false },
+        { "text": "hablo", "correct": false },
+        { "text": "hablé", "correct": false }
+      ],
+      "hint": "Start with hablo, drop -o, add -e. Result: hable."
+    },
+    {
+      "id": 4,
+      "question": "What is the present subjunctive 'yo' form of 'comer'?",
+      "answers": [
+        { "text": "coma", "correct": true },
+        { "text": "come", "correct": false },
+        { "text": "como", "correct": false },
+        { "text": "comí", "correct": false }
+      ],
+      "hint": "Start with como, drop -o, add -a. Result: coma."
+    },
+    {
+      "id": 5,
+      "question": "What is the irregular present subjunctive 'yo' form of 'ser'?",
+      "answers": [
+        { "text": "sea", "correct": true },
+        { "text": "soy", "correct": false },
+        { "text": "era", "correct": false },
+        { "text": "sería", "correct": false }
+      ],
+      "hint": "Ser is completely irregular. All forms use 'sea' as the stem."
+    },
+    {
+      "id": 6,
+      "question": "What is the irregular present subjunctive 'yo' form of 'ir'?",
+      "answers": [
+        { "text": "vaya", "correct": true },
+        { "text": "voy", "correct": false },
+        { "text": "iba", "correct": false },
+        { "text": "iré", "correct": false }
+      ],
+      "hint": "Ir is completely irregular. All forms use 'vay' as the stem + endings."
+    },
+    {
+      "id": 7,
+      "question": "What is the present subjunctive 'yo' form of 'tener' (has irregular yo: tengo)?",
+      "answers": [
+        { "text": "tenga", "correct": true },
+        { "text": "tena", "correct": false },
+        { "text": "tengo", "correct": false },
+        { "text": "tuve", "correct": false }
+      ],
+      "hint": "Start with irregular yo form 'tengo', drop -o, add -a: tenga."
+    },
+    {
+      "id": 8,
+      "question": "'Quiero que vengas' - Why use subjunctive?",
+      "answers": [
+        { "text": "Expresses desire/wish (WEIRDO - W)", "correct": true },
+        { "text": "States a fact", "correct": false },
+        { "text": "Describes habitual action", "correct": false },
+        { "text": "Completed past action", "correct": false }
+      ],
+      "hint": "'Quiero que' (I want that) expresses a wish/desire, triggering subjunctive."
+    },
+    {
+      "id": 9,
+      "question": "'Me alegro de que estés aquí' - Why use subjunctive?",
+      "answers": [
+        { "text": "Expresses emotion (WEIRDO - E)", "correct": true },
+        { "text": "States a fact", "correct": false },
+        { "text": "Commands someone", "correct": false },
+        { "text": "Describes routine", "correct": false }
+      ],
+      "hint": "'Me alegro de que' (I'm glad that) expresses emotion, triggering subjunctive."
+    },
+    {
+      "id": 10,
+      "question": "'Es importante que estudies' - Why use subjunctive?",
+      "answers": [
+        { "text": "Impersonal expression (WEIRDO - I)", "correct": true },
+        { "text": "States objective fact", "correct": false },
+        { "text": "Past completed action", "correct": false },
+        { "text": "Future certainty", "correct": false }
+      ],
+      "hint": "'Es importante que' is an impersonal expression, triggering subjunctive."
+    },
+    {
+      "id": 11,
+      "question": "'Dudo que venga' - Why use subjunctive?",
+      "answers": [
+        { "text": "Expresses doubt (WEIRDO - D)", "correct": true },
+        { "text": "States certainty", "correct": false },
+        { "text": "Describes reality", "correct": false },
+        { "text": "Past habit", "correct": false }
+      ],
+      "hint": "'Dudo que' (I doubt that) expresses doubt/uncertainty, triggering subjunctive."
+    },
+    {
+      "id": 12,
+      "question": "'Te recomiendo que vayas' - Why use subjunctive?",
+      "answers": [
+        {
+          "text": "Expresses recommendation/request (WEIRDO - R)",
+          "correct": true
+        },
+        { "text": "States what happened", "correct": false },
+        { "text": "Describes current fact", "correct": false },
+        { "text": "Future certainty", "correct": false }
+      ],
+      "hint": "'Recomiendo que' (I recommend that) is a recommendation, triggering subjunctive."
+    },
+    {
+      "id": 13,
+      "question": "'Busco un libro que sea interesante' - Why use subjunctive?",
+      "answers": [
+        {
+          "text": "Unknown/nonexistent antecedent (adjective clause)",
+          "correct": true
+        },
+        { "text": "The book definitely exists", "correct": false },
+        { "text": "Talking about a specific known book", "correct": false },
+        { "text": "Past action", "correct": false }
+      ],
+      "hint": "Don't know if such a book exists. Unknown antecedent triggers subjunctive."
+    },
+    {
+      "id": 14,
+      "question": "'Estudio para que aprendas' means 'I study so that you learn' - Why subjunctive after 'para que'?",
+      "answers": [
+        { "text": "Adverbial clause expressing purpose", "correct": true },
+        { "text": "States a certain fact", "correct": false },
+        { "text": "Past completed action", "correct": false },
+        { "text": "Habitual action", "correct": false }
+      ],
+      "hint": "'Para que' (so that) introduces purpose/goal, triggering subjunctive."
+    },
+    {
+      "id": 15,
+      "question": "How do you form the imperfect subjunctive?",
+      "answers": [
+        {
+          "text": "3rd person plural preterite minus -ron, add -ra endings",
+          "correct": true
+        },
+        { "text": "Infinitive plus -ra endings", "correct": false },
+        { "text": "Present subjunctive plus -ía endings", "correct": false },
+        { "text": "Imperfect indicative minus -ba, add -ra", "correct": false }
+      ],
+      "hint": "Start with the 'ellos' preterite form: hablaron→hablara, comieron→comiera."
+    },
+    {
+      "id": 16,
+      "question": "What is the imperfect subjunctive 'yo' form of 'hablar' (preterite: hablaron)?",
+      "answers": [
+        { "text": "hablara (or hablase)", "correct": true },
+        { "text": "hablaba", "correct": false },
+        { "text": "hable", "correct": false },
+        { "text": "hablaría", "correct": false }
+      ],
+      "hint": "hablaron → habla- → hablara. Two forms exist: -ra or -se endings."
+    },
+    {
+      "id": 17,
+      "question": "What is the imperfect subjunctive 'yo' form of 'ser/ir' (preterite: fueron)?",
+      "answers": [
+        { "text": "fuera (or fuese)", "correct": true },
+        { "text": "era", "correct": false },
+        { "text": "sea", "correct": false },
+        { "text": "sería", "correct": false }
+      ],
+      "hint": "fueron → fue- → fuera. Ser and ir share same imperfect subjunctive forms."
+    },
+    {
+      "id": 18,
+      "question": "'Si tuviera dinero, compraría un coche' - What tenses are used and why?",
+      "answers": [
+        {
+          "text": "Imperfect subjunctive + conditional (hypothetical situation)",
+          "correct": true
+        },
+        { "text": "Imperfect + future (future plan)", "correct": false },
+        {
+          "text": "Present subjunctive + conditional (present wish)",
+          "correct": false
+        },
+        {
+          "text": "Preterite + conditional perfect (past regret)",
+          "correct": false
+        }
+      ],
+      "hint": "'Si' + imperfect subjunctive + conditional = hypothetical present/future."
+    },
+    {
+      "id": 19,
+      "question": "'Quería que vinieras' - Why use imperfect subjunctive?",
+      "answers": [
+        {
+          "text": "Main verb is past (quería), so use imperfect subjunctive",
+          "correct": true
+        },
+        { "text": "Expressing present wish", "correct": false },
+        { "text": "Completed action in past", "correct": false },
+        { "text": "Future plan", "correct": false }
+      ],
+      "hint": "Sequence of tenses: past main verb requires imperfect (not present) subjunctive."
+    },
+    {
+      "id": 20,
+      "question": "How do you form the present perfect subjunctive?",
+      "answers": [
+        {
+          "text": "haber (present subjunctive) + past participle",
+          "correct": true
+        },
+        {
+          "text": "haber (present indicative) + past participle",
+          "correct": false
+        },
+        {
+          "text": "haber (imperfect subjunctive) + past participle",
+          "correct": false
+        },
+        { "text": "estar (present subjunctive) + gerund", "correct": false }
+      ],
+      "hint": "Use haya, hayas, haya, hayamos, hayáis, hayan + past participle."
+    },
+    {
+      "id": 21,
+      "question": "'Espero que hayas estudiado' means...",
+      "answers": [
+        { "text": "I hope you have studied", "correct": true },
+        { "text": "I hope you study", "correct": false },
+        { "text": "I hope you studied", "correct": false },
+        { "text": "I hoped you had studied", "correct": false }
+      ],
+      "hint": "Present perfect subjunctive: past action with present relevance. Hayas = you have."
+    },
+    {
+      "id": 22,
+      "question": "How do you form the pluperfect subjunctive?",
+      "answers": [
+        {
+          "text": "haber (imperfect subjunctive) + past participle",
+          "correct": true
+        },
+        {
+          "text": "haber (present subjunctive) + past participle",
+          "correct": false
+        },
+        { "text": "haber (conditional) + past participle", "correct": false },
+        {
+          "text": "haber (imperfect indicative) + past participle",
+          "correct": false
+        }
+      ],
+      "hint": "Use hubiera/hubiese + past participle. Past perfect in subjunctive contexts."
+    },
+    {
+      "id": 23,
+      "question": "'Si hubiera sabido, habría venido' means...",
+      "answers": [
+        { "text": "If I had known, I would have come", "correct": true },
+        { "text": "If I know, I will come", "correct": false },
+        { "text": "If I knew, I would come", "correct": false },
+        { "text": "When I knew, I came", "correct": false }
+      ],
+      "hint": "Pluperfect subjunctive + conditional perfect = past hypothetical/regret."
+    },
+    {
+      "id": 24,
+      "question": "Which requires subjunctive: 'Sé que viene' or 'Dudo que venga'?",
+      "answers": [
+        {
+          "text": "Dudo que venga (doubt triggers subjunctive)",
+          "correct": true
+        },
+        {
+          "text": "Sé que viene (certainty triggers subjunctive)",
+          "correct": false
+        },
+        { "text": "Both require subjunctive", "correct": false },
+        { "text": "Neither requires subjunctive", "correct": false }
+      ],
+      "hint": "Certainty (sé que) uses indicative. Doubt (dudo que) uses subjunctive."
+    }
+  ]
+}
