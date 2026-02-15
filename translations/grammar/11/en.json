@@ -1,0 +1,294 @@
+{
+  "topic": {
+    "id": 11,
+    "name": "Future & Conditional"
+  },
+  "explanation": {
+    "title": "Spanish Future & Conditional Tenses",
+    "sections": [
+      {
+        "subtitle": "Periphrastic Future (Ir a + Infinitive)",
+        "content": "Used for immediate future plans or intentions. Form: ir (present) + a + infinitive. Conjugation of ir: voy, vas, va, vamos, vais, van. Examples: 'Voy a estudiar' (I'm going to study), 'Vas a comer' (You're going to eat). This is the most common way to express future in everyday Spanish, similar to 'going to' in English. Use for: immediate plans, intentions, predictions based on evidence."
+      },
+      {
+        "subtitle": "Simple Future Tense",
+        "content": "Used for future actions, promises, predictions. Form: infinitive + endings (-é, -ás, -á, -emos, -éis, -án) for ALL verbs. Examples: hablaré, comerás, vivirá. Irregular stems (keep the endings): tener→tendré, hacer→haré, decir→diré, venir→vendré, poner→pondré, salir→saldré, poder→podré, saber→sabré, haber→habré, querer→querré, caber→cabré, valer→valdré. More formal than periphrastic future. Also used for speculation about present: '¿Qué hora será?' (What time could it be?)."
+      },
+      {
+        "subtitle": "Future Perfect",
+        "content": "Used for actions that will be completed by a certain point in future. Form: haber (future: habré, habrás, habrá, habremos, habréis, habrán) + past participle. Example: 'Para mañana habré terminado' (By tomorrow I will have finished). Also used for speculation about the past: 'Habrá llegado ya' (He must have arrived by now / He has probably arrived). Often used with 'para' (by), 'antes de' (before), 'cuando' (when)."
+      },
+      {
+        "subtitle": "Conditional Tense",
+        "content": "Used for hypothetical situations, polite requests, speculation about past. Form: infinitive + imperfect endings (-ía, -ías, -ía, -íamos, -íais, -ían) for ALL verbs. Examples: hablaría, comería, viviría. Uses SAME irregular stems as future: tener→tendría, hacer→haría, decir→diría, venir→vendría, poner→pondría, salir→saldría, poder→podría, saber→sabría, haber→habría, querer→querría. Common uses: polite requests ('¿Podrías ayudarme?' - Could you help me?), hypothetical ('Me gustaría viajar' - I would like to travel), speculation about past ('Serían las 3' - It must have been 3 o'clock)."
+      },
+      {
+        "subtitle": "Conditional Perfect",
+        "content": "Used for actions that would have happened under different circumstances (past hypotheticals). Form: haber (conditional: habría, habrías, habría, habríamos, habríais, habrían) + past participle. Example: 'Habría ido pero estaba enfermo' (I would have gone but I was sick). Often used in 'if' sentences: 'Si hubiera sabido, habría venido' (If I had known, I would have come). Expresses regret, missed opportunities, or past speculation."
+      },
+      {
+        "subtitle": "Future vs Conditional: Key Uses",
+        "content": "FUTURE: definite future actions (Mañana iré), promises (Te llamaré), speculation about PRESENT (¿Dónde estará? - Where could he be?), probability in present (Tendrá 30 años - He must be 30). CONDITIONAL: hypothetical situations (Yo no haría eso - I wouldn't do that), polite requests (¿Podrías abrir? - Could you open?), speculation about PAST (Serían las 5 - It must have been 5), advice (Deberías estudiar - You should study). Both share same irregular stems."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you form the periphrastic future?",
+      "answers": [
+        { "text": "ir (present) + a + infinitive", "correct": true },
+        { "text": "ir (imperfect) + a + infinitive", "correct": false },
+        { "text": "estar (present) + gerund", "correct": false },
+        { "text": "infinitive + future endings", "correct": false }
+      ],
+      "hint": "Use the present tense of ir + a + the infinitive of the main verb."
+    },
+    {
+      "id": 2,
+      "question": "What is 'I am going to study' in Spanish?",
+      "answers": [
+        { "text": "Voy a estudiar", "correct": true },
+        { "text": "Iré a estudiar", "correct": false },
+        { "text": "Estoy estudiando", "correct": false },
+        { "text": "Vaya a estudiar", "correct": false }
+      ],
+      "hint": "Voy (I go) + a + estudiar (study). Periphrastic future is like 'going to'."
+    },
+    {
+      "id": 3,
+      "question": "How do you form the simple future tense?",
+      "answers": [
+        {
+          "text": "infinitive + endings (-é, -ás, -á, -emos, -éis, -án)",
+          "correct": true
+        },
+        { "text": "stem + imperfect endings", "correct": false },
+        { "text": "ir + a + infinitive", "correct": false },
+        { "text": "haber + past participle", "correct": false }
+      ],
+      "hint": "Add future endings directly to the complete infinitive (all verbs use same pattern)."
+    },
+    {
+      "id": 4,
+      "question": "What is the future 'yo' form of 'hablar'?",
+      "answers": [
+        { "text": "hablaré", "correct": true },
+        { "text": "hablaría", "correct": false },
+        { "text": "hablo", "correct": false },
+        { "text": "hablaba", "correct": false }
+      ],
+      "hint": "hablar (infinitive) + é. Don't drop the -ar ending."
+    },
+    {
+      "id": 5,
+      "question": "What is the future 'yo' form of 'comer'?",
+      "answers": [
+        { "text": "comeré", "correct": true },
+        { "text": "comería", "correct": false },
+        { "text": "como", "correct": false },
+        { "text": "comí", "correct": false }
+      ],
+      "hint": "comer (infinitive) + é. Keep the -er ending."
+    },
+    {
+      "id": 6,
+      "question": "What is the irregular future stem of 'tener'?",
+      "answers": [
+        { "text": "tendr-", "correct": true },
+        { "text": "ten-", "correct": false },
+        { "text": "tener-", "correct": false },
+        { "text": "tuv-", "correct": false }
+      ],
+      "hint": "The stem changes to tendr-, then add future endings: tendré, tendrás, etc."
+    },
+    {
+      "id": 7,
+      "question": "What is the irregular future stem of 'hacer'?",
+      "answers": [
+        { "text": "har-", "correct": true },
+        { "text": "hacer-", "correct": false },
+        { "text": "hac-", "correct": false },
+        { "text": "hic-", "correct": false }
+      ],
+      "hint": "The stem shortens to har-, then add future endings: haré, harás, etc."
+    },
+    {
+      "id": 8,
+      "question": "What is 'I will do' in Spanish?",
+      "answers": [
+        { "text": "haré", "correct": true },
+        { "text": "haceré", "correct": false },
+        { "text": "haría", "correct": false },
+        { "text": "hago", "correct": false }
+      ],
+      "hint": "Use the irregular stem har- + é. Don't use the full infinitive."
+    },
+    {
+      "id": 9,
+      "question": "Which verbs share irregular stems in both future and conditional?",
+      "answers": [
+        {
+          "text": "All irregular future verbs (tener, hacer, decir, etc.)",
+          "correct": true
+        },
+        { "text": "Only ser and estar", "correct": false },
+        { "text": "Only -ar verbs", "correct": false },
+        { "text": "No verbs share stems", "correct": false }
+      ],
+      "hint": "Future and conditional use the SAME irregular stems, just different endings."
+    },
+    {
+      "id": 10,
+      "question": "How do you form the future perfect?",
+      "answers": [
+        { "text": "haber (future) + past participle", "correct": true },
+        { "text": "haber (present) + past participle", "correct": false },
+        { "text": "haber (conditional) + past participle", "correct": false },
+        { "text": "ser (future) + past participle", "correct": false }
+      ],
+      "hint": "Use haber in the future tense (habré, habrás...) + past participle."
+    },
+    {
+      "id": 11,
+      "question": "'Para mañana habré terminado' means...",
+      "answers": [
+        { "text": "By tomorrow I will have finished", "correct": true },
+        { "text": "Tomorrow I will finish", "correct": false },
+        { "text": "I have finished for tomorrow", "correct": false },
+        { "text": "I would have finished tomorrow", "correct": false }
+      ],
+      "hint": "Future perfect shows action completed by a future point. 'Para' = by."
+    },
+    {
+      "id": 12,
+      "question": "How do you form the conditional tense?",
+      "answers": [
+        {
+          "text": "infinitive + imperfect endings (-ía, -ías, -ía...)",
+          "correct": true
+        },
+        { "text": "infinitive + future endings", "correct": false },
+        { "text": "imperfect stem + conditional endings", "correct": false },
+        { "text": "haber + past participle", "correct": false }
+      ],
+      "hint": "Like future, but use the imperfect endings (-ía) instead of future endings (-é)."
+    },
+    {
+      "id": 13,
+      "question": "What is the conditional 'yo' form of 'hablar'?",
+      "answers": [
+        { "text": "hablaría", "correct": true },
+        { "text": "hablaré", "correct": false },
+        { "text": "hablaba", "correct": false },
+        { "text": "hablara", "correct": false }
+      ],
+      "hint": "hablar (infinitive) + ía. Keep the full infinitive like in future."
+    },
+    {
+      "id": 14,
+      "question": "What is 'I would do' in Spanish?",
+      "answers": [
+        { "text": "haría", "correct": true },
+        { "text": "haré", "correct": false },
+        { "text": "hacería", "correct": false },
+        { "text": "hiciera", "correct": false }
+      ],
+      "hint": "Use the same irregular stem as future (har-) but with conditional ending (-ía)."
+    },
+    {
+      "id": 15,
+      "question": "'¿Podrías ayudarme?' means...",
+      "answers": [
+        { "text": "Could you help me? (polite request)", "correct": true },
+        { "text": "Can you help me? (present)", "correct": false },
+        { "text": "Will you help me? (future)", "correct": false },
+        { "text": "Did you help me? (past)", "correct": false }
+      ],
+      "hint": "Conditional is used for polite requests. Podrías = you could/would be able to."
+    },
+    {
+      "id": 16,
+      "question": "How do you form the conditional perfect?",
+      "answers": [
+        { "text": "haber (conditional) + past participle", "correct": true },
+        { "text": "haber (future) + past participle", "correct": false },
+        { "text": "haber (imperfect) + past participle", "correct": false },
+        { "text": "estar (conditional) + gerund", "correct": false }
+      ],
+      "hint": "Use haber in the conditional (habría, habrías...) + past participle."
+    },
+    {
+      "id": 17,
+      "question": "'Habría ido pero estaba enfermo' means...",
+      "answers": [
+        { "text": "I would have gone but I was sick", "correct": true },
+        { "text": "I will have gone but I was sick", "correct": false },
+        { "text": "I had gone but I was sick", "correct": false },
+        { "text": "I would go but I was sick", "correct": false }
+      ],
+      "hint": "Conditional perfect expresses what would have happened under different circumstances."
+    },
+    {
+      "id": 18,
+      "question": "What is the irregular conditional 'yo' form of 'tener'?",
+      "answers": [
+        { "text": "tendría", "correct": true },
+        { "text": "tenería", "correct": false },
+        { "text": "tendré", "correct": false },
+        { "text": "tuviera", "correct": false }
+      ],
+      "hint": "Same irregular stem as future (tendr-) + conditional ending (-ía)."
+    },
+    {
+      "id": 19,
+      "question": "'¿Qué hora será?' uses future for...",
+      "answers": [
+        {
+          "text": "Speculation about the present (What time could it be?)",
+          "correct": true
+        },
+        { "text": "Asking about future time", "correct": false },
+        { "text": "Telling definite time", "correct": false },
+        { "text": "Past speculation", "correct": false }
+      ],
+      "hint": "Future tense can express speculation or probability about the PRESENT."
+    },
+    {
+      "id": 20,
+      "question": "'Serían las tres' uses conditional for...",
+      "answers": [
+        {
+          "text": "Speculation about the past (It must have been 3)",
+          "correct": true
+        },
+        { "text": "Hypothetical future time", "correct": false },
+        { "text": "Polite request about time", "correct": false },
+        { "text": "Definite past time", "correct": false }
+      ],
+      "hint": "Conditional tense can express speculation or probability about the PAST."
+    },
+    {
+      "id": 21,
+      "question": "Which is more formal/literary?",
+      "answers": [
+        { "text": "Simple future (Iré mañana)", "correct": true },
+        { "text": "Periphrastic future (Voy a ir mañana)", "correct": false },
+        { "text": "Both are equally formal", "correct": false },
+        { "text": "Neither is formal", "correct": false }
+      ],
+      "hint": "Simple future is more formal/literary; periphrastic (ir a +) is more common in speech."
+    },
+    {
+      "id": 22,
+      "question": "What are the irregular future/conditional stems for 'poder' and 'saber'?",
+      "answers": [
+        { "text": "podr- and sabr-", "correct": true },
+        { "text": "poder- and saber-", "correct": false },
+        { "text": "pud- and sup-", "correct": false },
+        { "text": "pod- and sab-", "correct": false }
+      ],
+      "hint": "Both drop the 'e' from the infinitive and add 'r': pod→podr-, sab→sabr-."
+    }
+  ]
+}
