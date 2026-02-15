@@ -216,6 +216,7 @@ pub fn load_grammar_content(topic_id: u32) -> Result<GrammarContent, String> {
         6 => include_str!("../../translations/grammar/6/en.json"),
         7 => include_str!("../../translations/grammar/7/en.json"),
         8 => include_str!("../../translations/grammar/8/en.json"),
+        9 => include_str!("../../translations/grammar/9/en.json"),
         _ => return Err(format!("Topic {} not yet available", topic_id)),
     };
 

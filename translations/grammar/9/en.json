@@ -1,0 +1,282 @@
+{
+  "topic": {
+    "id": 9,
+    "name": "Ser vs Estar"
+  },
+  "explanation": {
+    "title": "Ser vs Estar: Two Ways to Say 'To Be'",
+    "sections": [
+      {
+        "subtitle": "When to Use SER",
+        "content": "Use SER for permanent or essential characteristics: identity (Soy María), profession (Es profesor), origin (Somos de España), nationality (Son mexicanos), material (Es de madera), time/dates (Son las tres, Es lunes), events/location of events (La fiesta es aquí), possession (Es mi libro), descriptions of inherent qualities (Ella es inteligente, El libro es interesante)."
+      },
+      {
+        "subtitle": "When to Use ESTAR",
+        "content": "Use ESTAR for temporary states and locations: physical location (Estoy en casa, Madrid está en España), temporary conditions (Estoy cansado, Está enfermo), emotions/moods (Estamos felices), progressive tenses (Estoy comiendo), results of actions (La puerta está abierta), ongoing states (El agua está caliente). Location of people and things always uses ESTAR, but events use SER."
+      },
+      {
+        "subtitle": "Adjectives That Change Meaning",
+        "content": "Some adjectives mean different things with SER vs ESTAR: ser listo (to be smart) / estar listo (to be ready), ser rico (to be rich) / estar rico (to be delicious), ser aburrido (to be boring) / estar aburrido (to be bored), ser bueno (to be good person) / estar bueno (to be tasty/attractive), ser malo (to be bad/evil) / estar malo (to be sick/spoiled)."
+      },
+      {
+        "subtitle": "With Past Participles",
+        "content": "With past participles (-ado/-ido forms): SER + past participle = passive voice (action performed by someone): 'El libro fue escrito por Cervantes' (The book was written by Cervantes). ESTAR + past participle = result of an action (state): 'La ventana está rota' (The window is broken - current state). The participle agrees in gender/number with the subject."
+      },
+      {
+        "subtitle": "Progressive Forms with ESTAR",
+        "content": "ESTAR (never SER) is used for progressive tenses to show ongoing actions: Present progressive: estoy hablando (I am talking), Past progressive: estaba comiendo (I was eating), Future progressive: estaré estudiando (I will be studying). Use gerund (-ando/-iendo) with ESTAR to emphasize action in progress."
+      },
+      {
+        "subtitle": "Fixed Expressions & Tips",
+        "content": "Common fixed expressions: estar de acuerdo (to agree), estar de moda (to be in fashion), ser hora de (to be time to), estar por (to be about to), estar para (to be in the mood for). Memory tip: SER for permanent 'essence' (who/what something IS), ESTAR for temporary 'state' (how/where something IS RIGHT NOW). Think: PTO-LEC (Profession-Time-Origin / Location-Emotion-Condition)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb do you use for 'I am a teacher'?",
+      "answers": [
+        { "text": "Soy (SER)", "correct": true },
+        { "text": "Estoy (ESTAR)", "correct": false },
+        { "text": "Both work", "correct": false },
+        { "text": "Neither", "correct": false }
+      ],
+      "hint": "Professions and occupations always use SER."
+    },
+    {
+      "id": 2,
+      "question": "Which verb do you use for 'I am in the house'?",
+      "answers": [
+        { "text": "Estoy (ESTAR)", "correct": true },
+        { "text": "Soy (SER)", "correct": false },
+        { "text": "Both work", "correct": false },
+        { "text": "Neither", "correct": false }
+      ],
+      "hint": "Physical location of people and things always uses ESTAR."
+    },
+    {
+      "id": 3,
+      "question": "'Soy de México' means...",
+      "answers": [
+        { "text": "I am from Mexico (origin)", "correct": true },
+        { "text": "I am in Mexico (location)", "correct": false },
+        { "text": "I am Mexican (temporary)", "correct": false },
+        { "text": "I am going to Mexico", "correct": false }
+      ],
+      "hint": "Origin and nationality use SER. 'De' indicates where you're FROM."
+    },
+    {
+      "id": 4,
+      "question": "'Estoy cansado' means...",
+      "answers": [
+        { "text": "I am tired (temporary condition)", "correct": true },
+        { "text": "I am a tired person (personality)", "correct": false },
+        { "text": "I am at tired", "correct": false },
+        { "text": "I was tired", "correct": false }
+      ],
+      "hint": "Temporary physical or emotional states use ESTAR. Tiredness is temporary."
+    },
+    {
+      "id": 5,
+      "question": "Which is correct for 'She is intelligent' (personality trait)?",
+      "answers": [
+        { "text": "Ella es inteligente", "correct": true },
+        { "text": "Ella está inteligente", "correct": false },
+        { "text": "Both work equally", "correct": false },
+        { "text": "Neither works", "correct": false }
+      ],
+      "hint": "Inherent characteristics and personality traits use SER."
+    },
+    {
+      "id": 6,
+      "question": "Which is correct for 'It is 3 o'clock'?",
+      "answers": [
+        { "text": "Son las tres", "correct": true },
+        { "text": "Están las tres", "correct": false },
+        { "text": "Es las tres", "correct": false },
+        { "text": "Está las tres", "correct": false }
+      ],
+      "hint": "Time and dates always use SER. Use 'son' (plural) for hours except 1:00."
+    },
+    {
+      "id": 7,
+      "question": "Which is correct for 'Today is Monday'?",
+      "answers": [
+        { "text": "Hoy es lunes", "correct": true },
+        { "text": "Hoy está lunes", "correct": false },
+        { "text": "Hoy son lunes", "correct": false },
+        { "text": "Hoy están lunes", "correct": false }
+      ],
+      "hint": "Days of the week and dates use SER."
+    },
+    {
+      "id": 8,
+      "question": "'Es de madera' means...",
+      "answers": [
+        { "text": "It is made of wood (material)", "correct": true },
+        { "text": "It is at the wood", "correct": false },
+        { "text": "It is wooden colored", "correct": false },
+        { "text": "It is from the carpenter", "correct": false }
+      ],
+      "hint": "Material/composition uses SER with 'de'. What something is MADE OF."
+    },
+    {
+      "id": 9,
+      "question": "Which is correct for 'Madrid is in Spain' (location)?",
+      "answers": [
+        { "text": "Madrid está en España", "correct": true },
+        { "text": "Madrid es en España", "correct": false },
+        { "text": "Both work", "correct": false },
+        { "text": "Neither works", "correct": false }
+      ],
+      "hint": "Geographic location uses ESTAR, even for permanent locations like cities."
+    },
+    {
+      "id": 10,
+      "question": "Which is correct for 'The party is here' (event location)?",
+      "answers": [
+        { "text": "La fiesta es aquí", "correct": true },
+        { "text": "La fiesta está aquí", "correct": false },
+        { "text": "Both work", "correct": false },
+        { "text": "Neither works", "correct": false }
+      ],
+      "hint": "Events and their locations use SER, not ESTAR. The party as an event 'is' here."
+    },
+    {
+      "id": 11,
+      "question": "'Es listo' means...",
+      "answers": [
+        { "text": "He/She is smart", "correct": true },
+        { "text": "He/She is ready", "correct": false },
+        { "text": "He/She is on a list", "correct": false },
+        { "text": "He/She is prepared", "correct": false }
+      ],
+      "hint": "With SER, 'listo' means smart/clever (personality trait)."
+    },
+    {
+      "id": 12,
+      "question": "'Está listo' means...",
+      "answers": [
+        { "text": "He/She is ready", "correct": true },
+        { "text": "He/She is smart", "correct": false },
+        { "text": "He/She is a list", "correct": false },
+        { "text": "He/She is clever", "correct": false }
+      ],
+      "hint": "With ESTAR, 'listo' means ready/prepared (temporary state)."
+    },
+    {
+      "id": 13,
+      "question": "'El helado está rico' means...",
+      "answers": [
+        { "text": "The ice cream is delicious/tasty", "correct": true },
+        { "text": "The ice cream is rich/wealthy", "correct": false },
+        { "text": "The ice cream is expensive", "correct": false },
+        { "text": "The ice cream is good quality", "correct": false }
+      ],
+      "hint": "With ESTAR, 'rico' means delicious/tasty when referring to food."
+    },
+    {
+      "id": 14,
+      "question": "'Es rico' means...",
+      "answers": [
+        { "text": "He/She is rich/wealthy", "correct": true },
+        { "text": "He/She is delicious", "correct": false },
+        { "text": "He/She is tasty", "correct": false },
+        { "text": "He/She is ready", "correct": false }
+      ],
+      "hint": "With SER, 'rico' means rich/wealthy (economic status)."
+    },
+    {
+      "id": 15,
+      "question": "'Estoy aburrido' means...",
+      "answers": [
+        { "text": "I am bored", "correct": true },
+        { "text": "I am boring", "correct": false },
+        { "text": "I am always bored", "correct": false },
+        { "text": "I am a boring person", "correct": false }
+      ],
+      "hint": "With ESTAR, 'aburrido' means bored (feeling)."
+    },
+    {
+      "id": 16,
+      "question": "'Es aburrido' means...",
+      "answers": [
+        { "text": "He/It is boring", "correct": true },
+        { "text": "He is bored", "correct": false },
+        { "text": "He is temporarily bored", "correct": false },
+        { "text": "He is at boredom", "correct": false }
+      ],
+      "hint": "With SER, 'aburrido' means boring (characteristic of the person/thing)."
+    },
+    {
+      "id": 17,
+      "question": "Which verb is used for passive voice with past participles?",
+      "answers": [
+        { "text": "SER", "correct": true },
+        { "text": "ESTAR", "correct": false },
+        { "text": "Both work", "correct": false },
+        { "text": "Neither", "correct": false }
+      ],
+      "hint": "SER + past participle = passive voice (action by someone). Example: fue escrito (was written)."
+    },
+    {
+      "id": 18,
+      "question": "'La ventana está rota' means...",
+      "answers": [
+        { "text": "The window is broken (current state)", "correct": true },
+        { "text": "The window is being broken (action)", "correct": false },
+        { "text": "The window was broken by someone", "correct": false },
+        { "text": "Someone broke the window", "correct": false }
+      ],
+      "hint": "ESTAR + past participle shows the RESULT or current STATE."
+    },
+    {
+      "id": 19,
+      "question": "Which verb is used for progressive tenses?",
+      "answers": [
+        { "text": "ESTAR", "correct": true },
+        { "text": "SER", "correct": false },
+        { "text": "Both work", "correct": false },
+        { "text": "Neither", "correct": false }
+      ],
+      "hint": "ESTAR + gerund = progressive. Estoy comiendo (I am eating), never 'soy comiendo'."
+    },
+    {
+      "id": 20,
+      "question": "How do you say 'I am eating' (right now)?",
+      "answers": [
+        { "text": "Estoy comiendo", "correct": true },
+        { "text": "Soy comiendo", "correct": false },
+        { "text": "Es comiendo", "correct": false },
+        { "text": "Está comiendo", "correct": false }
+      ],
+      "hint": "Use ESTAR conjugated + gerund for actions in progress."
+    },
+    {
+      "id": 21,
+      "question": "'Estar de acuerdo' means...",
+      "answers": [
+        { "text": "to agree", "correct": true },
+        {
+          "text": "to be in agreement (permanent personality)",
+          "correct": false
+        },
+        { "text": "to disagree", "correct": false },
+        { "text": "to be an agreement", "correct": false }
+      ],
+      "hint": "This is a fixed expression with ESTAR meaning 'to agree'."
+    },
+    {
+      "id": 22,
+      "question": "Memory trick: SER is for ____, ESTAR is for ____",
+      "answers": [
+        { "text": "essence/what, state/condition", "correct": true },
+        { "text": "state/condition, essence/what", "correct": false },
+        { "text": "location, time", "correct": false },
+        { "text": "emotions, professions", "correct": false }
+      ],
+      "hint": "SER = permanent essence (WHO/WHAT you ARE), ESTAR = temporary state (HOW/WHERE you are NOW)."
+    }
+  ]
+}
