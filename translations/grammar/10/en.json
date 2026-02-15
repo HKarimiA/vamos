@@ -1,0 +1,296 @@
+{
+  "topic": {
+    "id": 10,
+    "name": "Past Tenses"
+  },
+  "explanation": {
+    "title": "Spanish Past Tenses: Preterite, Imperfect & Perfect",
+    "sections": [
+      {
+        "subtitle": "Pretérito Indefinido (Preterite)",
+        "content": "Used for completed actions in the past with a defined beginning or end. Regular -AR: -é, -aste, -ó, -amos, -asteis, -aron (hablé, hablaste, habló, hablamos, hablasteis, hablaron). Regular -ER/-IR: -í, -iste, -ió, -imos, -isteis, -ieron (comí, escribí). Common irregulars: fui (ser/ir), tuve (tener), hice (hacer), estuve (estar). Use for: specific completed actions, sequences of events, actions with clear time frames."
+      },
+      {
+        "subtitle": "Imperfecto (Imperfect)",
+        "content": "Used for ongoing, habitual, or descriptive past actions without focus on completion. Regular -AR: -aba, -abas, -aba, -ábamos, -abais, -aban (hablaba). Regular -ER/-IR: -ía, -ías, -ía, -íamos, -íais, -ían (comía, vivía). Only THREE irregulars: ser (era, eras, era), ir (iba, ibas, iba), ver (veía, veías, veía). Use for: habitual actions (used to), ongoing background actions, descriptions, time/age in past, simultaneous actions."
+      },
+      {
+        "subtitle": "Pretérito Perfecto (Present Perfect)",
+        "content": "Used for actions that occurred in the recent past or have relevance to the present. Form: haber (present) + past participle. Haber: he, has, ha, hemos, habéis, han. Past participles: -AR → -ado (hablado), -ER/-IR → -ido (comido, vivido). Example: 'He comido' (I have eaten). Irregulars: hecho (hacer), escrito (escribir), visto (ver), dicho (decir), puesto (poner), abierto (abrir), muerto (morir), roto (romper). Used with: hoy, esta semana, este año, últimamente, ya, todavía no."
+      },
+      {
+        "subtitle": "Preterite vs Imperfect: Key Differences",
+        "content": "PRETERITE (completed): specific one-time actions, completed events, reactions/interruptions, definite time period. IMPERFECT (ongoing): habitual actions (used to/would), background descriptions, time/weather/age, ongoing actions interrupted by something else. Example: 'Leía cuando sonó el teléfono' (I was reading [imperfect-background] when the phone rang [preterite-interruption]). Trigger words: Preterite (ayer, anoche, el año pasado); Imperfect (siempre, todos los días, mientras, generalmente)."
+      },
+      {
+        "subtitle": "Past Perfect (Pluscuamperfecto)",
+        "content": "Used for actions that occurred before another past action (past of the past). Form: haber (imperfect) + past participle. Haber: había, habías, había, habíamos, habíais, habían. Example: 'Cuando llegué, ya había comido' (When I arrived, he had already eaten). The eating happened BEFORE the arriving. Often used with 'ya' (already), 'todavía no' (not yet), 'nunca' (never), 'cuando' (when)."
+      },
+      {
+        "subtitle": "Past Progressive",
+        "content": "Emphasizes an action that was in progress at a specific moment in the past. Form: estar (imperfect) + gerund. Estaba, estabas, estaba, estábamos, estabais, estaban + -ando/-iendo. Example: 'Estaba comiendo cuando llegaste' (I was eating when you arrived). More emphatic than simple imperfect, focusing on the ongoing nature of the action at that specific moment."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the preterite 'yo' form of 'hablar'?",
+      "answers": [
+        { "text": "hablé", "correct": true },
+        { "text": "hablaba", "correct": false },
+        { "text": "hablo", "correct": false },
+        { "text": "he hablado", "correct": false }
+      ],
+      "hint": "Preterite -AR endings: -é. Add accent to distinguish from present."
+    },
+    {
+      "id": 2,
+      "question": "What is the preterite 'yo' form of 'comer'?",
+      "answers": [
+        { "text": "comí", "correct": true },
+        { "text": "comía", "correct": false },
+        { "text": "como", "correct": false },
+        { "text": "he comido", "correct": false }
+      ],
+      "hint": "Preterite -ER/-IR endings for yo: -í with accent."
+    },
+    {
+      "id": 3,
+      "question": "What is the imperfect 'yo' form of 'hablar'?",
+      "answers": [
+        { "text": "hablaba", "correct": true },
+        { "text": "hablé", "correct": false },
+        { "text": "hablo", "correct": false },
+        { "text": "hablaré", "correct": false }
+      ],
+      "hint": "Imperfect -AR: add -aba. Very regular pattern."
+    },
+    {
+      "id": 4,
+      "question": "What is the imperfect 'yo' form of 'vivir'?",
+      "answers": [
+        { "text": "vivía", "correct": true },
+        { "text": "viví", "correct": false },
+        { "text": "vivo", "correct": false },
+        { "text": "viviré", "correct": false }
+      ],
+      "hint": "Imperfect -ER/-IR: add -ía with accent. Very regular."
+    },
+    {
+      "id": 5,
+      "question": "What is the irregular preterite 'yo' form of 'ser/ir'?",
+      "answers": [
+        { "text": "fui", "correct": true },
+        { "text": "fue", "correct": false },
+        { "text": "era", "correct": false },
+        { "text": "iba", "correct": false }
+      ],
+      "hint": "Ser and ir share the same preterite forms. This is completely irregular."
+    },
+    {
+      "id": 6,
+      "question": "What is the irregular preterite 'yo' form of 'tener'?",
+      "answers": [
+        { "text": "tuve", "correct": true },
+        { "text": "tení", "correct": false },
+        { "text": "tenía", "correct": false },
+        { "text": "tendré", "correct": false }
+      ],
+      "hint": "This is a stem-changing irregular. The stem becomes 'tuv-'."
+    },
+    {
+      "id": 7,
+      "question": "What is the irregular imperfect form of 'ser' ('yo')?",
+      "answers": [
+        { "text": "era", "correct": true },
+        { "text": "fui", "correct": false },
+        { "text": "soy", "correct": false },
+        { "text": "seía", "correct": false }
+      ],
+      "hint": "Ser is one of only THREE irregular verbs in the imperfect tense."
+    },
+    {
+      "id": 8,
+      "question": "What is the irregular imperfect form of 'ir' ('yo')?",
+      "answers": [
+        { "text": "iba", "correct": true },
+        { "text": "fui", "correct": false },
+        { "text": "voy", "correct": false },
+        { "text": "iría", "correct": false }
+      ],
+      "hint": "Ir is irregular in the imperfect. Only THREE verbs are irregular in imperfect."
+    },
+    {
+      "id": 9,
+      "question": "How do you form the present perfect in Spanish?",
+      "answers": [
+        { "text": "haber (present) + past participle", "correct": true },
+        { "text": "ser (present) + past participle", "correct": false },
+        { "text": "estar (present) + gerund", "correct": false },
+        { "text": "tener (present) + infinitive", "correct": false }
+      ],
+      "hint": "Use the auxiliary verb haber in present tense + the past participle."
+    },
+    {
+      "id": 10,
+      "question": "What is the past participle of 'hablar'?",
+      "answers": [
+        { "text": "hablado", "correct": true },
+        { "text": "hablando", "correct": false },
+        { "text": "hablido", "correct": false },
+        { "text": "habló", "correct": false }
+      ],
+      "hint": "-AR verbs form past participles by changing -ar to -ado."
+    },
+    {
+      "id": 11,
+      "question": "What is the past participle of 'comer'?",
+      "answers": [
+        { "text": "comido", "correct": true },
+        { "text": "comido", "correct": false },
+        { "text": "comiendo", "correct": false },
+        { "text": "comió", "correct": false }
+      ],
+      "hint": "-ER verbs form past participles by changing -er to -ido."
+    },
+    {
+      "id": 12,
+      "question": "What is the irregular past participle of 'hacer'?",
+      "answers": [
+        { "text": "hecho", "correct": true },
+        { "text": "hacido", "correct": false },
+        { "text": "hacido", "correct": false },
+        { "text": "hació", "correct": false }
+      ],
+      "hint": "This is a very common irregular past participle. Think 'fact' in English."
+    },
+    {
+      "id": 13,
+      "question": "How do you say 'I have eaten'?",
+      "answers": [
+        { "text": "He comido", "correct": true },
+        { "text": "Comí", "correct": false },
+        { "text": "Estoy comiendo", "correct": false },
+        { "text": "Había comido", "correct": false }
+      ],
+      "hint": "Present perfect: he (haber present) + comido (past participle)."
+    },
+    {
+      "id": 14,
+      "question": "Which tense: 'Ayer fui al cine' (Yesterday I went to the cinema)?",
+      "answers": [
+        { "text": "Preterite", "correct": true },
+        { "text": "Imperfect", "correct": false },
+        { "text": "Present perfect", "correct": false },
+        { "text": "Past progressive", "correct": false }
+      ],
+      "hint": "'Ayer' (yesterday) indicates a specific completed action in the past. Use preterite."
+    },
+    {
+      "id": 15,
+      "question": "Which tense: 'Cuando era niño, jugaba mucho' (When I was a child, I played a lot)?",
+      "answers": [
+        { "text": "Imperfect", "correct": true },
+        { "text": "Preterite", "correct": false },
+        { "text": "Present perfect", "correct": false },
+        { "text": "Future", "correct": false }
+      ],
+      "hint": "Habitual actions in the past (used to) and descriptions use imperfect."
+    },
+    {
+      "id": 16,
+      "question": "'Hoy he comido pizza' - Which tense and why?",
+      "answers": [
+        {
+          "text": "Present perfect - recent past connected to present",
+          "correct": true
+        },
+        { "text": "Preterite - completed action", "correct": false },
+        { "text": "Imperfect - habitual action", "correct": false },
+        { "text": "Past progressive - ongoing action", "correct": false }
+      ],
+      "hint": "'Hoy' (today) connects the past action to the present time frame. Use present perfect."
+    },
+    {
+      "id": 17,
+      "question": "'Leía cuando sonó el teléfono' - Which tenses are used?",
+      "answers": [
+        {
+          "text": "Imperfect (background), Preterite (interruption)",
+          "correct": true
+        },
+        { "text": "Preterite, Imperfect", "correct": false },
+        { "text": "Both imperfect", "correct": false },
+        { "text": "Both preterite", "correct": false }
+      ],
+      "hint": "Background/ongoing action (reading) in imperfect, interrupting action (phone rang) in preterite."
+    },
+    {
+      "id": 18,
+      "question": "How do you form the past perfect (pluscuamperfecto)?",
+      "answers": [
+        { "text": "haber (imperfect) + past participle", "correct": true },
+        { "text": "haber (preterite) + past participle", "correct": false },
+        { "text": "haber (present) + past participle", "correct": false },
+        { "text": "estar (imperfect) + gerund", "correct": false }
+      ],
+      "hint": "Use haber in the imperfect tense (había, habías...) + past participle."
+    },
+    {
+      "id": 19,
+      "question": "'Cuando llegué, ya había comido' - What does this mean?",
+      "answers": [
+        { "text": "When I arrived, he/she had already eaten", "correct": true },
+        { "text": "When I arrived, he/she was eating", "correct": false },
+        { "text": "When I arrived, he/she ate", "correct": false },
+        { "text": "When I arrive, he/she will eat", "correct": false }
+      ],
+      "hint": "Past perfect shows an action (eating) that happened BEFORE another past action (arriving)."
+    },
+    {
+      "id": 20,
+      "question": "How do you form the past progressive?",
+      "answers": [
+        { "text": "estar (imperfect) + gerund", "correct": true },
+        { "text": "estar (preterite) + gerund", "correct": false },
+        { "text": "haber (imperfect) + past participle", "correct": false },
+        { "text": "ser (imperfect) + gerund", "correct": false }
+      ],
+      "hint": "Use estar in the imperfect (estaba, estabas...) + gerund (-ando/-iendo)."
+    },
+    {
+      "id": 21,
+      "question": "'Estaba comiendo cuando llegaste' means...",
+      "answers": [
+        { "text": "I was eating when you arrived", "correct": true },
+        { "text": "I ate when you arrived", "correct": false },
+        { "text": "I had eaten when you arrived", "correct": false },
+        { "text": "I would eat when you arrived", "correct": false }
+      ],
+      "hint": "Past progressive emphasizes the ongoing action at that specific moment in the past."
+    },
+    {
+      "id": 22,
+      "question": "Which trigger words suggest PRETERITE?",
+      "answers": [
+        { "text": "ayer, anoche, el año pasado", "correct": true },
+        { "text": "siempre, todos los días, generalmente", "correct": false },
+        { "text": "hoy, esta semana, recientemente", "correct": false },
+        { "text": "mientras, cuando era niño", "correct": false }
+      ],
+      "hint": "Preterite uses specific completed time markers: yesterday, last night, last year."
+    },
+    {
+      "id": 23,
+      "question": "Which trigger words suggest IMPERFECT?",
+      "answers": [
+        { "text": "siempre, todos los días, mientras", "correct": true },
+        { "text": "ayer, anoche, de repente", "correct": false },
+        { "text": "hoy, ya, todavía no", "correct": false },
+        { "text": "mañana, próximo año", "correct": false }
+      ],
+      "hint": "Imperfect uses habitual/ongoing markers: always, every day, while."
+    }
+  ]
+}
