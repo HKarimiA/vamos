@@ -1,0 +1,257 @@
+{
+  "topic": {
+    "id": 3,
+    "name": "Dates & Time"
+  },
+  "explanation": {
+    "title": "Spanish Dates & Time Expressions",
+    "sections": [
+      {
+        "subtitle": "Telling Time - Hours",
+        "content": "Use 'Es la...' for 1:00 and 'Son las...' for all other hours. Examples: Es la una (It's 1 o'clock), Son las dos (It's 2 o'clock), Son las cinco (It's 5 o'clock). Use 'de la mañana' (AM), 'de la tarde' (PM afternoon), 'de la noche' (PM evening/night)."
+      },
+      {
+        "subtitle": "Telling Time - Minutes",
+        "content": "Add 'y' (and) for minutes past: 'Son las tres y diez' (3:10). Use 'cuarto' for quarter (15 min) and 'media' for half (30 min): 'Son las dos y cuarto' (2:15), 'Son las cinco y media' (5:30). For minutes to the hour, use 'menos': 'Son las seis menos diez' (5:50, literally 6 minus 10)."
+      },
+      {
+        "subtitle": "Parts of the Day",
+        "content": "Key time periods: mañana (morning), mediodía (noon/midday), tarde (afternoon/evening), noche (night), medianoche (midnight), madrugada (early morning/dawn). Use 'por la mañana' (in the morning), 'por la tarde' (in the afternoon), 'por la noche' (at night)."
+      },
+      {
+        "subtitle": "Days & Months",
+        "content": "Days: lunes, martes, miércoles, jueves, viernes, sábado, domingo. Months: enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre. Days and months are NOT capitalized in Spanish unless they start a sentence."
+      },
+      {
+        "subtitle": "Seasons & Dates",
+        "content": "Seasons: primavera (spring), verano (summer), otoño (fall/autumn), invierno (winter). For dates, use: el + number + de + month. Example: 'el 15 de marzo' (March 15th). The first of the month uses 'primero': 'el primero de enero' (January 1st)."
+      },
+      {
+        "subtitle": "Duration & Frequency",
+        "content": "Hace + time = ago: 'Hace dos días' (two days ago). Desde = since/from: 'Desde ayer' (since yesterday). Durante = during/for: 'Durante tres horas' (for three hours). Frequency adverbs: siempre (always), nunca (never), a veces (sometimes), frecuentemente (frequently), raramente (rarely)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you say 'It's 1 o'clock' in Spanish?",
+      "answers": [
+        { "text": "Es la una", "correct": true },
+        { "text": "Son las una", "correct": false },
+        { "text": "Es las uno", "correct": false },
+        { "text": "Son la una", "correct": false }
+      ],
+      "hint": "1 o'clock is singular, so use 'Es la...' not 'Son las...'"
+    },
+    {
+      "id": 2,
+      "question": "How do you say 'It's 3 o'clock' in Spanish?",
+      "answers": [
+        { "text": "Son las tres", "correct": true },
+        { "text": "Es la tres", "correct": false },
+        { "text": "Son los tres", "correct": false },
+        { "text": "Es las tres", "correct": false }
+      ],
+      "hint": "All hours except 1 use 'Son las...' because they're plural."
+    },
+    {
+      "id": 3,
+      "question": "How do you say '2:15' (two fifteen) in Spanish?",
+      "answers": [
+        { "text": "Son las dos y cuarto", "correct": true },
+        { "text": "Son las dos y quince", "correct": false },
+        { "text": "Es las dos y cuarto", "correct": false },
+        { "text": "Son las dos menos cuarto", "correct": false }
+      ],
+      "hint": "In Spanish, 15 minutes is called 'cuarto' (quarter). Use 'y' to add minutes."
+    },
+    {
+      "id": 4,
+      "question": "How do you say '5:30' in Spanish?",
+      "answers": [
+        { "text": "Son las cinco y media", "correct": true },
+        { "text": "Son las cinco y treinta", "correct": false },
+        { "text": "Son las cinco y mitad", "correct": false },
+        { "text": "Es la cinco y media", "correct": false }
+      ],
+      "hint": "30 minutes is 'media' (half). It's 5 o'clock plus half."
+    },
+    {
+      "id": 5,
+      "question": "How do you express '6:50' (ten minutes to seven)?",
+      "answers": [
+        { "text": "Son las siete menos diez", "correct": true },
+        { "text": "Son las seis y cincuenta", "correct": false },
+        { "text": "Son las seis menos diez", "correct": false },
+        { "text": "Son las siete y diez", "correct": false }
+      ],
+      "hint": "For minutes to the hour, use 'menos' (minus). Think '7 minus 10 minutes'."
+    },
+    {
+      "id": 6,
+      "question": "What does 'de la mañana' mean?",
+      "answers": [
+        { "text": "AM / in the morning", "correct": true },
+        { "text": "PM / in the afternoon", "correct": false },
+        { "text": "at night", "correct": false },
+        { "text": "tomorrow", "correct": false }
+      ],
+      "hint": "'Mañana' means morning when used with 'la'. It helps specify AM times."
+    },
+    {
+      "id": 7,
+      "question": "What is 'midnight' in Spanish?",
+      "answers": [
+        { "text": "medianoche", "correct": true },
+        { "text": "mediodía", "correct": false },
+        { "text": "media noche", "correct": false },
+        { "text": "madrugada", "correct": false }
+      ],
+      "hint": "It's one word combining 'media' (half/middle) and 'noche' (night)."
+    },
+    {
+      "id": 8,
+      "question": "What is 'noon' or 'midday' in Spanish?",
+      "answers": [
+        { "text": "mediodía", "correct": true },
+        { "text": "medianoche", "correct": false },
+        { "text": "tarde", "correct": false },
+        { "text": "medio tarde", "correct": false }
+      ],
+      "hint": "It combines 'media' (middle) and 'día' (day)."
+    },
+    {
+      "id": 9,
+      "question": "What is Monday in Spanish?",
+      "answers": [
+        { "text": "lunes", "correct": true },
+        { "text": "lúnes", "correct": false },
+        { "text": "lune", "correct": false },
+        { "text": "lunas", "correct": false }
+      ],
+      "hint": "Days of the week in Spanish are not capitalized. This one comes from 'Luna' (moon)."
+    },
+    {
+      "id": 10,
+      "question": "What is Friday in Spanish?",
+      "answers": [
+        { "text": "viernes", "correct": true },
+        { "text": "veirnes", "correct": false },
+        { "text": "viérnes", "correct": false },
+        { "text": "vierne", "correct": false }
+      ],
+      "hint": "This day is named after Venus. In Spanish, it ends in '-es'."
+    },
+    {
+      "id": 11,
+      "question": "Which month is 'enero'?",
+      "answers": [
+        { "text": "January", "correct": true },
+        { "text": "June", "correct": false },
+        { "text": "March", "correct": false },
+        { "text": "October", "correct": false }
+      ],
+      "hint": "This is the first month of the year. It looks similar to English but starts with 'e'."
+    },
+    {
+      "id": 12,
+      "question": "What is 'August' in Spanish?",
+      "answers": [
+        { "text": "agosto", "correct": true },
+        { "text": "augusto", "correct": false },
+        { "text": "agústo", "correct": false },
+        { "text": "agoste", "correct": false }
+      ],
+      "hint": "Named after the Roman emperor Augustus. In Spanish, it's written with lowercase unless starting a sentence."
+    },
+    {
+      "id": 13,
+      "question": "How do you say 'March 15th' in Spanish?",
+      "answers": [
+        { "text": "el quince de marzo", "correct": true },
+        { "text": "el marzo quince", "correct": false },
+        { "text": "marzo el quince", "correct": false },
+        { "text": "quince marzo", "correct": false }
+      ],
+      "hint": "Format: el + number + de + month. Literally 'the 15 of March'."
+    },
+    {
+      "id": 14,
+      "question": "How do you say 'January 1st' in Spanish?",
+      "answers": [
+        { "text": "el primero de enero", "correct": true },
+        { "text": "el uno de enero", "correct": false },
+        { "text": "enero primero", "correct": false },
+        { "text": "el primer de enero", "correct": false }
+      ],
+      "hint": "For the first day of any month, use 'primero' instead of 'uno'."
+    },
+    {
+      "id": 15,
+      "question": "What is 'summer' in Spanish?",
+      "answers": [
+        { "text": "verano", "correct": true },
+        { "text": "virano", "correct": false },
+        { "text": "veráno", "correct": false },
+        { "text": "verrano", "correct": false }
+      ],
+      "hint": "This season comes from Latin 'veranum tempus'. It's the warmest season."
+    },
+    {
+      "id": 16,
+      "question": "What is 'winter' in Spanish?",
+      "answers": [
+        { "text": "invierno", "correct": true },
+        { "text": "inverno", "correct": false },
+        { "text": "inbierno", "correct": false },
+        { "text": "ivierno", "correct": false }
+      ],
+      "hint": "This is the coldest season. Starts with 'inv-'."
+    },
+    {
+      "id": 17,
+      "question": "How do you say 'two days ago' in Spanish?",
+      "answers": [
+        { "text": "hace dos días", "correct": true },
+        { "text": "dos días hace", "correct": false },
+        { "text": "desde dos días", "correct": false },
+        { "text": "durante dos días", "correct": false }
+      ],
+      "hint": "Use 'hace' + time period to express 'ago'. Hace literally means 'it makes'."
+    },
+    {
+      "id": 18,
+      "question": "What does 'desde ayer' mean?",
+      "answers": [
+        { "text": "since yesterday", "correct": true },
+        { "text": "two days ago", "correct": false },
+        { "text": "for yesterday", "correct": false },
+        { "text": "during yesterday", "correct": false }
+      ],
+      "hint": "'Desde' means 'since' or 'from'. Ayer means 'yesterday'."
+    },
+    {
+      "id": 19,
+      "question": "What word means 'always' in Spanish?",
+      "answers": [
+        { "text": "siempre", "correct": true },
+        { "text": "nunca", "correct": false },
+        { "text": "a veces", "correct": false },
+        { "text": "casi", "correct": false }
+      ],
+      "hint": "This adverb means 100% of the time, every time, without exception."
+    },
+    {
+      "id": 20,
+      "question": "What does 'a veces' mean?",
+      "answers": [
+        { "text": "sometimes", "correct": true },
+        { "text": "always", "correct": false },
+        { "text": "never", "correct": false },
+        { "text": "often", "correct": false }
+      ],
+      "hint": "Literally means 'at times'. It indicates occasional frequency, not always or never."
+    }
+  ]
+}
