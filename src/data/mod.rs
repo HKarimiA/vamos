@@ -1,7 +1,9 @@
 use serde::{Deserialize, Serialize};
 
 pub mod grammar;
-pub use grammar::{get_all_topics, get_difficulty_class};
+pub use grammar::{
+    GrammarContent, GrammarTopic, get_all_topics, get_difficulty_class, load_grammar_content,
+};
 
 /// Represents a single vocabulary card with translations
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq)]

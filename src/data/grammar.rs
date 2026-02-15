@@ -159,3 +159,58 @@ pub fn get_difficulty_class(difficulty: u32) -> &'static str {
         _ => "difficulty-2",
     }
 }
+
+/// Answer option for a quiz question
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct Answer {
+    pub text: String,
+    pub correct: bool,
+}
+
+/// Quiz question with multiple choice answers
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct Question {
+    pub id: u32,
+    pub question: String,
+    pub answers: Vec<Answer>,
+    pub hint: String,
+}
+
+/// Section within a topic explanation
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ExplanationSection {
+    pub subtitle: String,
+    pub content: String,
+}
+
+/// Topic explanation with title and sections
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TopicExplanation {
+    pub title: String,
+    pub sections: Vec<ExplanationSection>,
+}
+
+/// Basic topic info (duplicates GrammarTopic for JSON structure)
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TopicInfo {
+    pub id: u32,
+    pub name: String,
+}
+
+/// Root structure for grammar topic JSON content
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct GrammarContent {
+    pub topic: TopicInfo,
+    pub explanation: TopicExplanation,
+    pub questions: Vec<Question>,
+}
+
+/// Load grammar content for a specific topic
+pub fn load_grammar_content(topic_id: u32) -> Result<GrammarContent, String> {
+    let json = match topic_id {
+        1 => include_str!("../../translations/grammar/1/en.json"),
+        _ => return Err(format!("Topic {} not yet available", topic_id)),
+    };
+
+    serde_json::from_str(json).map_err(|e| format!("Failed to parse grammar content: {}", e))
+}

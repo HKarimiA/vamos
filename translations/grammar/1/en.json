@@ -1,0 +1,127 @@
+{
+  "topic": {
+    "id": 1,
+    "name": "Sounds & Writing"
+  },
+  "explanation": {
+    "title": "Spanish Sounds & Writing System",
+    "sections": [
+      {
+        "subtitle": "The Spanish Alphabet",
+        "content": "Spanish uses the Latin alphabet with 27 letters. It includes all English letters plus 'ñ'. The letters 'k' and 'w' are rare and mostly appear in foreign words."
+      },
+      {
+        "subtitle": "Vowels (a, e, i, o, u)",
+        "content": "Spanish vowels are always pronounced the same way: 'a' like in 'father', 'e' like in 'pet', 'i' like in 'machine', 'o' like in 'go', 'u' like in 'rule'. There are no silent vowels."
+      },
+      {
+        "subtitle": "Key Consonants",
+        "content": "H is always silent. J sounds like a strong 'h'. LL sounds like 'y'. Ñ sounds like 'ny' (as in 'canyon'). V and B sound identical. R is rolled when at the start or doubled (rr). G before e/i sounds like 'h', otherwise like 'g' in 'go'."
+      },
+      {
+        "subtitle": "Accent Marks (´)",
+        "content": "Accent marks show which syllable to stress. Words ending in vowel, n, or s stress the second-to-last syllable by default. Words ending in other consonants stress the last syllable. Accent marks override these rules."
+      },
+      {
+        "subtitle": "Special Sound: Ñ",
+        "content": "The letter ñ (called 'eñe') is unique to Spanish. It represents a 'ny' sound as in 'canyon' or 'onion'. Examples: año (year), niño (child), español (Spanish)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which letter is always silent in Spanish?",
+      "answers": [
+        { "text": "h", "correct": true },
+        { "text": "j", "correct": false },
+        { "text": "v", "correct": false },
+        { "text": "b", "correct": false }
+      ],
+      "hint": "This letter appears in words like 'hola' and 'hacer' but makes no sound at all."
+    },
+    {
+      "id": 2,
+      "question": "How is the letter 'j' pronounced in Spanish?",
+      "answers": [
+        { "text": "Like a strong 'h' sound", "correct": true },
+        { "text": "Like the English 'j' in 'jump'", "correct": false },
+        { "text": "Like the 'y' in 'yes'", "correct": false },
+        { "text": "It's silent", "correct": false }
+      ],
+      "hint": "The Spanish 'j' makes a throaty sound similar to the 'ch' in the Scottish 'loch' or German 'Bach'."
+    },
+    {
+      "id": 3,
+      "question": "Which two letters sound identical in Spanish?",
+      "answers": [
+        { "text": "b and v", "correct": true },
+        { "text": "d and t", "correct": false },
+        { "text": "l and r", "correct": false },
+        { "text": "p and b", "correct": false }
+      ],
+      "hint": "Native Spanish speakers often have trouble distinguishing these letters when spelling aloud."
+    },
+    {
+      "id": 4,
+      "question": "What sound does 'll' make in most Spanish dialects?",
+      "answers": [
+        { "text": "Like 'y' in 'yes'", "correct": true },
+        { "text": "Like 'l' in 'tell'", "correct": false },
+        { "text": "Like 'j' in 'judge'", "correct": false },
+        { "text": "Like 'll' in 'bell'", "correct": false }
+      ],
+      "hint": "In words like 'llamar' (to call) or 'calle' (street), this makes a 'y' sound."
+    },
+    {
+      "id": 5,
+      "question": "How do you pronounce 'ñ'?",
+      "answers": [
+        { "text": "Like 'ny' in 'canyon'", "correct": true },
+        { "text": "Like 'n' in 'no'", "correct": false },
+        { "text": "Like 'ng' in 'sing'", "correct": false },
+        { "text": "Like 'gn' in 'agne'", "correct": false }
+      ],
+      "hint": "Think of English words 'onion' or 'canyon' - that 'ny' sound is what 'ñ' represents."
+    },
+    {
+      "id": 6,
+      "question": "Spanish vowels are...",
+      "answers": [
+        { "text": "Always pronounced the same way", "correct": true },
+        { "text": "Sometimes silent", "correct": false },
+        {
+          "text": "Pronounced differently depending on position",
+          "correct": false
+        },
+        { "text": "The same as English vowels", "correct": false }
+      ],
+      "hint": "Unlike English, Spanish vowels have one consistent sound each. This makes pronunciation predictable."
+    },
+    {
+      "id": 7,
+      "question": "When is the letter 'r' rolled in Spanish?",
+      "answers": [
+        {
+          "text": "At the start of a word or when doubled (rr)",
+          "correct": true
+        },
+        { "text": "Only at the end of words", "correct": false },
+        { "text": "Never - it's always a soft tap", "correct": false },
+        { "text": "In every position", "correct": false }
+      ],
+      "hint": "Compare 'pero' (but) with a soft tap, versus 'perro' (dog) with a strong roll."
+    },
+    {
+      "id": 8,
+      "question": "What do accent marks (´) indicate in Spanish?",
+      "answers": [
+        { "text": "Which syllable to stress", "correct": true },
+        { "text": "A different vowel sound", "correct": false },
+        { "text": "Silent letters", "correct": false },
+        { "text": "Plural forms", "correct": false }
+      ],
+      "hint": "Accent marks help you know WHERE to put emphasis when speaking. Example: 'papá' (dad) vs 'papa' (potato)."
+    }
+  ]
+}
