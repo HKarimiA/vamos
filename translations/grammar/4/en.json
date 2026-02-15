@@ -1,0 +1,263 @@
+{
+  "topic": {
+    "id": 4,
+    "name": "Nouns & Articles"
+  },
+  "explanation": {
+    "title": "Spanish Nouns & Articles",
+    "sections": [
+      {
+        "subtitle": "Noun Gender: Masculine & Feminine",
+        "content": "All Spanish nouns have gender. Generally, nouns ending in -o are masculine (el libro = book), and nouns ending in -a are feminine (la casa = house). However, there are exceptions: el día (day), la mano (hand). Some endings indicate gender: -ción, -sión, -dad, -tad are usually feminine; -ma, -pa, -ta (Greek origin) are often masculine."
+      },
+      {
+        "subtitle": "Singular & Plural Forms",
+        "content": "To form plurals: add -s if the noun ends in a vowel (gato → gatos), add -es if it ends in a consonant (flor → flores). Nouns ending in -z change to -ces (lápiz → lápices). Nouns ending in an accented vowel + -s don't change (el lunes → los lunes)."
+      },
+      {
+        "subtitle": "Definite Articles (The)",
+        "content": "Definite articles specify a particular noun: el (masculine singular), la (feminine singular), los (masculine plural), las (feminine plural). Examples: el perro (the dog), la mesa (the table), los libros (the books), las casas (the houses). Use definite articles with general categories and abstract concepts in Spanish."
+      },
+      {
+        "subtitle": "Indefinite Articles (A/An/Some)",
+        "content": "Indefinite articles refer to non-specific nouns: un (masculine singular), una (feminine singular), unos (masculine plural = some), unas (feminine plural = some). Examples: un perro (a dog), una mesa (a table), unos libros (some books), unas casas (some houses)."
+      },
+      {
+        "subtitle": "Contractions: al & del",
+        "content": "Spanish has two mandatory contractions: a + el = al (to the), de + el = del (of/from the). Examples: Voy al parque (I go to the park), Es el libro del profesor (It's the teacher's book). These contractions do NOT apply to la, los, or las."
+      },
+      {
+        "subtitle": "When to Omit Articles",
+        "content": "Omit articles before: professions after 'ser' (Soy profesor), languages without a verb (Hablo español), days of the week after 'ser' (Hoy es lunes), most cities/countries (but: la Argentina, el Perú), with possession (mi casa, not la mi casa)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which article is used with 'libro' (book)?",
+      "answers": [
+        { "text": "el", "correct": true },
+        { "text": "la", "correct": false },
+        { "text": "los", "correct": false },
+        { "text": "un", "correct": false }
+      ],
+      "hint": "Words ending in -o are usually masculine. Use the masculine singular definite article."
+    },
+    {
+      "id": 2,
+      "question": "Which article is used with 'casa' (house)?",
+      "answers": [
+        { "text": "la", "correct": true },
+        { "text": "el", "correct": false },
+        { "text": "las", "correct": false },
+        { "text": "una", "correct": false }
+      ],
+      "hint": "Words ending in -a are usually feminine. Use the feminine singular definite article."
+    },
+    {
+      "id": 3,
+      "question": "What is the plural of 'el gato' (the cat)?",
+      "answers": [
+        { "text": "los gatos", "correct": true },
+        { "text": "las gatos", "correct": false },
+        { "text": "los gato", "correct": false },
+        { "text": "el gatos", "correct": false }
+      ],
+      "hint": "Add -s to nouns ending in vowels. The article also changes to plural masculine."
+    },
+    {
+      "id": 4,
+      "question": "What is the plural of 'la flor' (the flower)?",
+      "answers": [
+        { "text": "las flores", "correct": true },
+        { "text": "los flores", "correct": false },
+        { "text": "las flors", "correct": false },
+        { "text": "la flores", "correct": false }
+      ],
+      "hint": "Add -es to nouns ending in consonants. The article changes to plural feminine."
+    },
+    {
+      "id": 5,
+      "question": "What is the plural of 'el lápiz' (the pencil)?",
+      "answers": [
+        { "text": "los lápices", "correct": true },
+        { "text": "los lápizs", "correct": false },
+        { "text": "los lápizes", "correct": false },
+        { "text": "las lápices", "correct": false }
+      ],
+      "hint": "Words ending in -z change to -ces in the plural. Remember to change the article too."
+    },
+    {
+      "id": 6,
+      "question": "Which noun is an EXCEPTION to the -o = masculine rule?",
+      "answers": [
+        { "text": "la mano (hand)", "correct": true },
+        { "text": "el gato (cat)", "correct": false },
+        { "text": "el perro (dog)", "correct": false },
+        { "text": "el libro (book)", "correct": false }
+      ],
+      "hint": "This body part ends in -o but is feminine. You say 'la mano', not 'el mano'."
+    },
+    {
+      "id": 7,
+      "question": "Which noun is an EXCEPTION to the -a = feminine rule?",
+      "answers": [
+        { "text": "el día (day)", "correct": true },
+        { "text": "la casa (house)", "correct": false },
+        { "text": "la mesa (table)", "correct": false },
+        { "text": "la sala (room)", "correct": false }
+      ],
+      "hint": "This time word ends in -a but is masculine. You say 'el día', not 'la día'."
+    },
+    {
+      "id": 8,
+      "question": "What is the correct indefinite article for 'perro' (dog)?",
+      "answers": [
+        { "text": "un", "correct": true },
+        { "text": "una", "correct": false },
+        { "text": "unos", "correct": false },
+        { "text": "el", "correct": false }
+      ],
+      "hint": "Use the masculine singular indefinite article (a/an). Perro is masculine."
+    },
+    {
+      "id": 9,
+      "question": "What is the correct indefinite article for 'mesa' (table)?",
+      "answers": [
+        { "text": "una", "correct": true },
+        { "text": "un", "correct": false },
+        { "text": "unas", "correct": false },
+        { "text": "la", "correct": false }
+      ],
+      "hint": "Use the feminine singular indefinite article (a/an). Mesa is feminine."
+    },
+    {
+      "id": 10,
+      "question": "How do you say 'some books' in Spanish?",
+      "answers": [
+        { "text": "unos libros", "correct": true },
+        { "text": "unas libros", "correct": false },
+        { "text": "los libros", "correct": false },
+        { "text": "un libros", "correct": false }
+      ],
+      "hint": "Use the masculine plural indefinite article. Libros is masculine plural."
+    },
+    {
+      "id": 11,
+      "question": "What does 'a + el' contract to?",
+      "answers": [
+        { "text": "al", "correct": true },
+        { "text": "del", "correct": false },
+        { "text": "ael", "correct": false },
+        { "text": "a el (no contraction)", "correct": false }
+      ],
+      "hint": "This contraction means 'to the'. Example: Voy al parque (I go to the park)."
+    },
+    {
+      "id": 12,
+      "question": "What does 'de + el' contract to?",
+      "answers": [
+        { "text": "del", "correct": true },
+        { "text": "al", "correct": false },
+        { "text": "del", "correct": false },
+        { "text": "de el (no contraction)", "correct": false }
+      ],
+      "hint": "This contraction means 'of the' or 'from the'. Example: el libro del profesor."
+    },
+    {
+      "id": 13,
+      "question": "Which is correct: 'I go to the park'?",
+      "answers": [
+        { "text": "Voy al parque", "correct": true },
+        { "text": "Voy a el parque", "correct": false },
+        { "text": "Voy del parque", "correct": false },
+        { "text": "Voy el parque", "correct": false }
+      ],
+      "hint": "Use the contraction 'al' (a + el) for 'to the' with masculine singular nouns."
+    },
+    {
+      "id": 14,
+      "question": "Does 'a + la' form a contraction?",
+      "answers": [
+        { "text": "No, it stays as 'a la'", "correct": true },
+        { "text": "Yes, it becomes 'ala'", "correct": false },
+        { "text": "Yes, it becomes 'al'", "correct": false },
+        { "text": "Yes, it becomes 'ala'", "correct": false }
+      ],
+      "hint": "Contractions only occur with 'el', not with 'la', 'los', or 'las'."
+    },
+    {
+      "id": 15,
+      "question": "Words ending in '-ción' are usually...",
+      "answers": [
+        { "text": "Feminine", "correct": true },
+        { "text": "Masculine", "correct": false },
+        { "text": "Either masculine or feminine", "correct": false },
+        { "text": "Neuter", "correct": false }
+      ],
+      "hint": "Think of 'la estación', 'la canción', 'la nación'. This ending is a strong indicator."
+    },
+    {
+      "id": 16,
+      "question": "Words ending in '-dad' are usually...",
+      "answers": [
+        { "text": "Feminine", "correct": true },
+        { "text": "Masculine", "correct": false },
+        { "text": "Either masculine or feminine", "correct": false },
+        { "text": "Neuter", "correct": false }
+      ],
+      "hint": "Think of 'la ciudad', 'la libertad', 'la universidad'. This ending pattern is reliable."
+    },
+    {
+      "id": 17,
+      "question": "In 'Soy profesor' (I am a teacher), why is there no article?",
+      "answers": [
+        {
+          "text": "Professions after 'ser' don't use articles",
+          "correct": true
+        },
+        {
+          "text": "It's a mistake, should be 'Soy un profesor'",
+          "correct": false
+        },
+        { "text": "Only feminine professions use articles", "correct": false },
+        { "text": "Articles are always optional in Spanish", "correct": false }
+      ],
+      "hint": "When stating professions with the verb 'ser', Spanish omits the indefinite article."
+    },
+    {
+      "id": 18,
+      "question": "How do you say 'I speak Spanish'?",
+      "answers": [
+        { "text": "Hablo español", "correct": true },
+        { "text": "Hablo el español", "correct": false },
+        { "text": "Hablo un español", "correct": false },
+        { "text": "Hablo al español", "correct": false }
+      ],
+      "hint": "Languages don't use articles when they're the direct object of a verb like 'hablar'."
+    },
+    {
+      "id": 19,
+      "question": "Which is correct for 'Today is Monday'?",
+      "answers": [
+        { "text": "Hoy es lunes", "correct": true },
+        { "text": "Hoy es el lunes", "correct": false },
+        { "text": "Hoy es un lunes", "correct": false },
+        { "text": "Hoy son lunes", "correct": false }
+      ],
+      "hint": "When stating what day it is with 'ser', don't use an article before the day."
+    },
+    {
+      "id": 20,
+      "question": "Which is correct for 'my house'?",
+      "answers": [
+        { "text": "mi casa", "correct": true },
+        { "text": "la mi casa", "correct": false },
+        { "text": "mi la casa", "correct": false },
+        { "text": "el mi casa", "correct": false }
+      ],
+      "hint": "Don't use articles with possessive adjectives. It's either 'mi' or 'la', never both."
+    }
+  ]
+}
