@@ -1,0 +1,288 @@
+{
+  "topic": {
+    "id": 7,
+    "name": "Pronouns"
+  },
+  "explanation": {
+    "title": "Spanish Pronouns: Subject, Object, Reflexive & More",
+    "sections": [
+      {
+        "subtitle": "Subject Pronouns & Pro-drop",
+        "content": "Subject pronouns: yo (I), tú (you informal), él (he), ella (she), usted (you formal), nosotros/nosotras (we), vosotros/vosotras (you plural informal - Spain), ellos/ellas (they), ustedes (you plural formal/Latin America). Spanish is 'pro-drop' - subject pronouns are often omitted since verb endings show the subject: 'Hablo español' (I speak Spanish), not 'Yo hablo español' (unless emphasizing)."
+      },
+      {
+        "subtitle": "Direct Object Pronouns",
+        "content": "Direct object pronouns replace the direct object (receives action directly): me (me), te (you), lo (him/it/you formal masc), la (her/it/you formal fem), nos (us), os (you plural - Spain), los (them/you plural masc), las (them/you plural fem). Example: 'Veo el libro' → 'Lo veo' (I see it). They go BEFORE conjugated verbs or attached to infinitives/gerunds/commands."
+      },
+      {
+        "subtitle": "Indirect Object Pronouns",
+        "content": "Indirect object pronouns show TO WHOM/FOR WHOM: me (to me), te (to you), le (to him/her/you formal), nos (to us), os (to you plural - Spain), les (to them/you plural). Example: 'Le doy el libro' (I give the book to him/her). Often used redundantly with the full noun: 'Le doy el libro a María' (I give the book to María)."
+      },
+      {
+        "subtitle": "Combined Object Pronouns",
+        "content": "When using both indirect and direct object pronouns together, INDIRECT comes first. When 'le' or 'les' comes before 'lo/la/los/las', it changes to 'se': 'Le doy el libro' (I give him the book) → 'Se lo doy' (I give it to him). Order: se + lo/la/los/las. Both pronouns must stay together before the verb."
+      },
+      {
+        "subtitle": "Reflexive Pronouns",
+        "content": "Reflexive pronouns show the subject acts on itself: me (myself), te (yourself), se (himself/herself/yourself formal/themselves), nos (ourselves), os (yourselves - Spain). Used with reflexive verbs: 'Me lavo' (I wash myself), 'Se llama Pedro' (He calls himself Pedro/His name is Pedro). The pronoun matches the subject."
+      },
+      {
+        "subtitle": "Other Important Pronouns",
+        "content": "Possessive pronouns: el mío/la mía (mine), el tuyo/la tuya (yours), el suyo/la suya (his/hers/yours formal/theirs), el nuestro/la nuestra (ours). Demonstrative pronouns: éste/ésta (this one), ése/ésa (that one), aquél/aquélla (that one - far). Interrogative: ¿qué? (what?), ¿quién/quiénes? (who?), ¿cuál/cuáles? (which?). Indefinite: alguien (someone), nadie (no one), algo (something), nada (nothing)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the subject pronoun for 'I' in Spanish?",
+      "answers": [
+        { "text": "yo", "correct": true },
+        { "text": "tú", "correct": false },
+        { "text": "él", "correct": false },
+        { "text": "mi", "correct": false }
+      ],
+      "hint": "This is the first person singular subject pronoun, though it's often omitted in Spanish."
+    },
+    {
+      "id": 2,
+      "question": "What is the informal 'you' (singular) in Spanish?",
+      "answers": [
+        { "text": "tú", "correct": true },
+        { "text": "yo", "correct": false },
+        { "text": "usted", "correct": false },
+        { "text": "tu", "correct": false }
+      ],
+      "hint": "This has an accent mark. Don't confuse with 'tu' (your) without accent."
+    },
+    {
+      "id": 3,
+      "question": "What is the formal 'you' (singular) in Spanish?",
+      "answers": [
+        { "text": "usted", "correct": true },
+        { "text": "tú", "correct": false },
+        { "text": "vosotros", "correct": false },
+        { "text": "ustedes", "correct": false }
+      ],
+      "hint": "This is used for formal/respectful situations. Often abbreviated as 'Ud.'"
+    },
+    {
+      "id": 4,
+      "question": "Why can you say 'Hablo español' without 'yo'?",
+      "answers": [
+        {
+          "text": "Spanish is pro-drop - verb endings show the subject",
+          "correct": true
+        },
+        {
+          "text": "It's grammatically incorrect to use 'yo'",
+          "correct": false
+        },
+        { "text": "Subject pronouns don't exist in Spanish", "correct": false },
+        { "text": "You must always omit subject pronouns", "correct": false }
+      ],
+      "hint": "The verb ending '-o' already indicates 'I', so the subject pronoun is optional unless emphasizing."
+    },
+    {
+      "id": 5,
+      "question": "What direct object pronoun replaces 'el libro' (the book)?",
+      "answers": [
+        { "text": "lo", "correct": true },
+        { "text": "la", "correct": false },
+        { "text": "le", "correct": false },
+        { "text": "los", "correct": false }
+      ],
+      "hint": "Libro is masculine singular. Use the masculine singular direct object pronoun."
+    },
+    {
+      "id": 6,
+      "question": "How do you say 'I see it' (referring to 'el libro')?",
+      "answers": [
+        { "text": "Lo veo", "correct": true },
+        { "text": "La veo", "correct": false },
+        { "text": "Le veo", "correct": false },
+        { "text": "Veo lo", "correct": false }
+      ],
+      "hint": "The direct object pronoun goes BEFORE the conjugated verb."
+    },
+    {
+      "id": 7,
+      "question": "What direct object pronoun replaces 'las casas' (the houses)?",
+      "answers": [
+        { "text": "las", "correct": true },
+        { "text": "los", "correct": false },
+        { "text": "la", "correct": false },
+        { "text": "les", "correct": false }
+      ],
+      "hint": "Casas is feminine plural. Use the feminine plural direct object pronoun."
+    },
+    {
+      "id": 8,
+      "question": "What does 'Le doy el libro' mean?",
+      "answers": [
+        { "text": "I give the book to him/her/you (formal)", "correct": true },
+        { "text": "I give him the book (direct object)", "correct": false },
+        { "text": "He gives me the book", "correct": false },
+        { "text": "I see the book", "correct": false }
+      ],
+      "hint": "'Le' is an indirect object pronoun meaning 'to him/her/you formal'."
+    },
+    {
+      "id": 9,
+      "question": "What is the indirect object pronoun for 'to me'?",
+      "answers": [
+        { "text": "me", "correct": true },
+        { "text": "mi", "correct": false },
+        { "text": "yo", "correct": false },
+        { "text": "le", "correct": false }
+      ],
+      "hint": "This is the same form as the direct object pronoun 'me', but functions as indirect."
+    },
+    {
+      "id": 10,
+      "question": "What happens to 'le' when combined with 'lo'?",
+      "answers": [
+        { "text": "It changes to 'se' (se lo)", "correct": true },
+        { "text": "It stays 'le' (le lo)", "correct": false },
+        { "text": "The order reverses (lo le)", "correct": false },
+        { "text": "You can't combine them", "correct": false }
+      ],
+      "hint": "When 'le/les' comes before 'lo/la/los/las', it changes to 'se' to avoid saying two similar sounds."
+    },
+    {
+      "id": 11,
+      "question": "How do you say 'I give it to him' (libro = book)?",
+      "answers": [
+        { "text": "Se lo doy", "correct": true },
+        { "text": "Le lo doy", "correct": false },
+        { "text": "Lo le doy", "correct": false },
+        { "text": "Se le doy", "correct": false }
+      ],
+      "hint": "Le → se before lo. Order: se lo + verb. 'Se' = to him, 'lo' = it (the book)."
+    },
+    {
+      "id": 12,
+      "question": "What does 'Me lavo' mean?",
+      "answers": [
+        { "text": "I wash myself", "correct": true },
+        { "text": "He washes me", "correct": false },
+        { "text": "I wash", "correct": false },
+        { "text": "You wash me", "correct": false }
+      ],
+      "hint": "'Me' is a reflexive pronoun here - the subject (I) acts on itself."
+    },
+    {
+      "id": 13,
+      "question": "What is the reflexive pronoun for 'himself/herself/themselves'?",
+      "answers": [
+        { "text": "se", "correct": true },
+        { "text": "me", "correct": false },
+        { "text": "te", "correct": false },
+        { "text": "le", "correct": false }
+      ],
+      "hint": "This is used for third person reflexive (él se lava, ellos se lavan)."
+    },
+    {
+      "id": 14,
+      "question": "What does 'Se llama Pedro' mean?",
+      "answers": [
+        {
+          "text": "His name is Pedro / He calls himself Pedro",
+          "correct": true
+        },
+        { "text": "He calls Pedro", "correct": false },
+        { "text": "Pedro calls him", "correct": false },
+        { "text": "He is Pedro", "correct": false }
+      ],
+      "hint": "'Llamarse' is a reflexive verb meaning 'to be called/named'."
+    },
+    {
+      "id": 15,
+      "question": "How do you say 'mine' (referring to a masculine object)?",
+      "answers": [
+        { "text": "el mío", "correct": true },
+        { "text": "mi", "correct": false },
+        { "text": "mío", "correct": false },
+        { "text": "lo mío", "correct": false }
+      ],
+      "hint": "Possessive pronouns need an article. Use 'el' for masculine singular objects."
+    },
+    {
+      "id": 16,
+      "question": "What does '¿Quién es?' mean?",
+      "answers": [
+        { "text": "Who is it?", "correct": true },
+        { "text": "What is it?", "correct": false },
+        { "text": "Which one is it?", "correct": false },
+        { "text": "Where is it?", "correct": false }
+      ],
+      "hint": "'¿Quién?' is the interrogative pronoun for 'who?'"
+    },
+    {
+      "id": 17,
+      "question": "What does '¿Qué es?' mean?",
+      "answers": [
+        { "text": "What is it?", "correct": true },
+        { "text": "Who is it?", "correct": false },
+        { "text": "Which is it?", "correct": false },
+        { "text": "How is it?", "correct": false }
+      ],
+      "hint": "'¿Qué?' asks about the nature or identity of something - 'what?'"
+    },
+    {
+      "id": 18,
+      "question": "What does '¿Cuál prefieres?' mean?",
+      "answers": [
+        { "text": "Which one do you prefer?", "correct": true },
+        { "text": "What do you prefer?", "correct": false },
+        { "text": "Who do you prefer?", "correct": false },
+        { "text": "How do you prefer it?", "correct": false }
+      ],
+      "hint": "'¿Cuál?' asks about choice or selection among options - 'which?'"
+    },
+    {
+      "id": 19,
+      "question": "What does 'alguien' mean?",
+      "answers": [
+        { "text": "someone / somebody", "correct": true },
+        { "text": "no one / nobody", "correct": false },
+        { "text": "something", "correct": false },
+        { "text": "nothing", "correct": false }
+      ],
+      "hint": "This is the indefinite pronoun for an unspecified person (positive)."
+    },
+    {
+      "id": 20,
+      "question": "What does 'No veo a nadie' mean?",
+      "answers": [
+        { "text": "I don't see anyone / I see no one", "correct": true },
+        { "text": "I see someone", "correct": false },
+        { "text": "I don't see nothing", "correct": false },
+        { "text": "I see everyone", "correct": false }
+      ],
+      "hint": "Spanish uses double negatives. 'No' + 'nadie' = negative statement (no one)."
+    },
+    {
+      "id": 21,
+      "question": "What does 'algo' mean?",
+      "answers": [
+        { "text": "something", "correct": true },
+        { "text": "nothing", "correct": false },
+        { "text": "someone", "correct": false },
+        { "text": "no one", "correct": false }
+      ],
+      "hint": "This is the indefinite pronoun for an unspecified thing (positive)."
+    },
+    {
+      "id": 22,
+      "question": "What is the plural of 'you' in Latin America?",
+      "answers": [
+        { "text": "ustedes", "correct": true },
+        { "text": "vosotros", "correct": false },
+        { "text": "usted", "correct": false },
+        { "text": "tú", "correct": false }
+      ],
+      "hint": "Latin America uses the same form for both formal and informal plural 'you'."
+    }
+  ]
+}
