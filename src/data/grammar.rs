@@ -205,38 +205,27 @@ pub struct GrammarContent {
     pub questions: Vec<Question>,
 }
 
+/// Macro to dynamically generate match arms for grammar topic loading
+macro_rules! include_grammar_topics {
+    ($topic_id:expr, [$($num:literal),* $(,)?]) => {
+        match $topic_id {
+            $(
+                $num => include_str!(concat!("../../translations/grammar/", stringify!($num), "/en.json")),
+            )*
+            _ => return Err(format!("Topic {} not yet available", $topic_id)),
+        }
+    };
+}
+
 /// Load grammar content for a specific topic
 pub fn load_grammar_content(topic_id: u32) -> Result<GrammarContent, String> {
-    let json = match topic_id {
-        1 => include_str!("../../translations/grammar/1/en.json"),
-        2 => include_str!("../../translations/grammar/2/en.json"),
-        3 => include_str!("../../translations/grammar/3/en.json"),
-        4 => include_str!("../../translations/grammar/4/en.json"),
-        5 => include_str!("../../translations/grammar/5/en.json"),
-        6 => include_str!("../../translations/grammar/6/en.json"),
-        7 => include_str!("../../translations/grammar/7/en.json"),
-        8 => include_str!("../../translations/grammar/8/en.json"),
-        9 => include_str!("../../translations/grammar/9/en.json"),
-        10 => include_str!("../../translations/grammar/10/en.json"),
-        11 => include_str!("../../translations/grammar/11/en.json"),
-        12 => include_str!("../../translations/grammar/12/en.json"),
-        13 => include_str!("../../translations/grammar/13/en.json"),
-        14 => include_str!("../../translations/grammar/14/en.json"),
-        15 => include_str!("../../translations/grammar/15/en.json"),
-        16 => include_str!("../../translations/grammar/16/en.json"),
-        17 => include_str!("../../translations/grammar/17/en.json"),
-        18 => include_str!("../../translations/grammar/18/en.json"),
-        19 => include_str!("../../translations/grammar/19/en.json"),
-        20 => include_str!("../../translations/grammar/20/en.json"),
-        21 => include_str!("../../translations/grammar/21/en.json"),
-        22 => include_str!("../../translations/grammar/22/en.json"),
-        23 => include_str!("../../translations/grammar/23/en.json"),
-        24 => include_str!("../../translations/grammar/24/en.json"),
-        25 => include_str!("../../translations/grammar/25/en.json"),
-        26 => include_str!("../../translations/grammar/26/en.json"),
-        27 => include_str!("../../translations/grammar/27/en.json"),
-        _ => return Err(format!("Topic {} not yet available", topic_id)),
-    };
+    let json = include_grammar_topics!(
+        topic_id,
+        [
+            1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,
+            25, 26, 27
+        ]
+    );
 
     serde_json::from_str(json).map_err(|e| format!("Failed to parse grammar content: {}", e))
 }
