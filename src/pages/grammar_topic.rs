@@ -61,7 +61,6 @@ pub fn GrammarTopic() -> impl IntoView {
 
                     <div class="error-message">
                         <p>"Topic not found"</p>
-                        <A href="/grammar" attr:class="back-button">"Back to Grammar"</A>
                     </div>
                 }
                 .into_any(),

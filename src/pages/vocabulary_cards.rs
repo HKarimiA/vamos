@@ -145,7 +145,6 @@ pub fn VocabularyCards() -> impl IntoView {
                         Err(e) => view! {
                             <div class="error-message">
                                 <p>"Error loading cards: " {e}</p>
-                                <A href="/vocabulary" attr:class="back-button">"❮"</A>
                             </div>
                         }.into_any()
                     }
