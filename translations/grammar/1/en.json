@@ -122,6 +122,144 @@
         { "text": "Plural forms", "correct": false }
       ],
       "hint": "Accent marks help you know WHERE to put emphasis when speaking. Example: 'papá' (dad) vs 'papa' (potato)."
+    },
+    {
+      "id": 9,
+      "question": "How many letters are in the Spanish alphabet?",
+      "answers": [
+        { "text": "27 letters", "correct": true },
+        { "text": "26 letters (same as English)", "correct": false },
+        { "text": "29 letters", "correct": false },
+        { "text": "30 letters", "correct": false }
+      ],
+      "hint": "Spanish has all the English letters plus one special letter: ñ."
+    },
+    {
+      "id": 10,
+      "question": "Which letters are rare in Spanish?",
+      "answers": [
+        { "text": "k and w (mostly in foreign words)", "correct": true },
+        { "text": "x and z", "correct": false },
+        { "text": "q and ñ", "correct": false },
+        { "text": "j and h", "correct": false }
+      ],
+      "hint": "These two letters are uncommon because they mainly appear in borrowed words from other languages."
+    },
+    {
+      "id": 11,
+      "question": "How is the vowel 'a' pronounced in Spanish?",
+      "answers": [
+        { "text": "Like 'a' in 'father'", "correct": true },
+        { "text": "Like 'a' in 'cat'", "correct": false },
+        { "text": "Like 'a' in 'say'", "correct": false },
+        { "text": "It varies by position", "correct": false }
+      ],
+      "hint": "Spanish 'a' has an open sound, similar to the 'a' in the English word 'father'."
+    },
+    {
+      "id": 12,
+      "question": "How is the vowel 'i' pronounced in Spanish?",
+      "answers": [
+        { "text": "Like 'ee' in 'machine'", "correct": true },
+        { "text": "Like 'i' in 'sit'", "correct": false },
+        { "text": "Like 'i' in 'ice'", "correct": false },
+        { "text": "Like 'igh' in 'high'", "correct": false }
+      ],
+      "hint": "Spanish 'i' sounds like the long 'e' sound in English, as in 'see' or 'machine'."
+    },
+    {
+      "id": 13,
+      "question": "How is the vowel 'u' pronounced in Spanish?",
+      "answers": [
+        { "text": "Like 'oo' in 'rule'", "correct": true },
+        { "text": "Like 'u' in 'cut'", "correct": false },
+        { "text": "Like 'u' in 'use'", "correct": false },
+        { "text": "Like 'ough' in 'through'", "correct": false }
+      ],
+      "hint": "Spanish 'u' has the 'oo' sound, like in the English words 'rule' or 'food'."
+    },
+    {
+      "id": 14,
+      "question": "How is 'g' pronounced before 'e' or 'i'?",
+      "answers": [
+        { "text": "Like a strong 'h' sound", "correct": true },
+        { "text": "Like 'g' in 'go'", "correct": false },
+        { "text": "Like 'j' in 'judge'", "correct": false },
+        { "text": "It's silent", "correct": false }
+      ],
+      "hint": "Before 'e' or 'i', 'g' sounds like Spanish 'j' - a throaty 'h'. Example: 'gente' (people)."
+    },
+    {
+      "id": 15,
+      "question": "How is 'g' pronounced before 'a', 'o', or 'u'?",
+      "answers": [
+        { "text": "Like 'g' in 'go'", "correct": true },
+        { "text": "Like a strong 'h' sound", "correct": false },
+        { "text": "Like 'j' in 'judge'", "correct": false },
+        { "text": "It's silent", "correct": false }
+      ],
+      "hint": "Before 'a', 'o', or 'u', 'g' has its hard sound. Example: 'gato' (cat), 'gusto' (pleasure)."
+    },
+    {
+      "id": 16,
+      "question": "Where is stress placed by default in words ending in vowel, 'n', or 's'?",
+      "answers": [
+        { "text": "Second-to-last syllable", "correct": true },
+        { "text": "Last syllable", "correct": false },
+        { "text": "First syllable", "correct": false },
+        { "text": "Third-to-last syllable", "correct": false }
+      ],
+      "hint": "Without an accent mark, words like 'casa', 'hablan', and 'libros' stress the second-to-last syllable."
+    },
+    {
+      "id": 17,
+      "question": "Where is stress placed by default in words ending in consonants (except 'n' or 's')?",
+      "answers": [
+        { "text": "Last syllable", "correct": true },
+        { "text": "Second-to-last syllable", "correct": false },
+        { "text": "First syllable", "correct": false },
+        { "text": "Third-to-last syllable", "correct": false }
+      ],
+      "hint": "Words ending in consonants like 'l', 'd', 'r', 'z' stress the last syllable. Example: 'papel', 'ciudad'."
+    },
+    {
+      "id": 18,
+      "question": "What does an accent mark do to stress rules?",
+      "answers": [
+        { "text": "Overrides the default stress pattern", "correct": true },
+        { "text": "Follows the default pattern", "correct": false },
+        { "text": "Removes all stress", "correct": false },
+        { "text": "Only used for decoration", "correct": false }
+      ],
+      "hint": "Accent marks show exceptions. 'Café' has an accent because it breaks the default rule (should stress 'ca')."
+    },
+    {
+      "id": 19,
+      "question": "Are there ever silent vowels in Spanish?",
+      "answers": [
+        { "text": "No - all vowels are always pronounced", "correct": true },
+        { "text": "Yes - some vowels are silent", "correct": false },
+        { "text": "Only 'u' is sometimes silent", "correct": false },
+        { "text": "Vowels at the end are silent", "correct": false }
+      ],
+      "hint": "Unlike English, every vowel in Spanish is pronounced. No silent vowels exist."
+    },
+    {
+      "id": 20,
+      "question": "What's the difference between 'pero' and 'perro'?",
+      "answers": [
+        {
+          "text": "'pero' has a soft tap 'r', 'perro' has a rolled 'rr'",
+          "correct": true
+        },
+        { "text": "They sound exactly the same", "correct": false },
+        {
+          "text": "'pero' has rolled 'r', 'perro' has soft tap",
+          "correct": false
+        },
+        { "text": "Only the vowels are different", "correct": false }
+      ],
+      "hint": "'pero' (but) = soft tap. 'perro' (dog) = strong rolled sound. The 'r' vs 'rr' changes meaning!"
     }
   ]
 }
