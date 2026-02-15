@@ -1,0 +1,257 @@
+{
+  "topic": {
+    "id": 5,
+    "name": "Adjectives"
+  },
+  "explanation": {
+    "title": "Spanish Adjectives: Agreement, Position & Comparison",
+    "sections": [
+      {
+        "subtitle": "Gender & Number Agreement",
+        "content": "Adjectives must match the noun in gender and number. Most adjectives ending in -o change to -a for feminine (alto/alta), add -s for plural (altos/altas). Adjectives ending in -e or consonants are the same for both genders (grande, fácil), just add -s or -es for plural. Adjectives of nationality ending in consonant add -a for feminine (español/española)."
+      },
+      {
+        "subtitle": "Position of Adjectives",
+        "content": "Most descriptive adjectives come AFTER the noun in Spanish (el coche rojo = the red car). However, adjectives of quantity, demonstratives, and possessives come BEFORE (muchos libros, este perro, mi casa). Some adjectives can go before or after with different meanings: un hombre grande (a big man) vs. un gran hombre (a great man)."
+      },
+      {
+        "subtitle": "Apocopation: Shortened Forms",
+        "content": "Some adjectives drop their final vowel before masculine singular nouns: bueno → buen (buen día), malo → mal (mal tiempo), grande → gran (gran libro), primero → primer (primer lugar), tercero → tercer (tercer piso). This ONLY happens before masculine singular nouns."
+      },
+      {
+        "subtitle": "Comparatives: More & Less",
+        "content": "To compare, use: más + adjective + que (more...than): 'más alto que' (taller than), menos + adjective + que (less...than): 'menos caro que' (less expensive than). For equality, use: tan + adjective + como (as...as): 'tan rápido como' (as fast as). Irregular: mejor (better), peor (worse), mayor (older), menor (younger)."
+      },
+      {
+        "subtitle": "Superlatives: The Most/Least",
+        "content": "Use el/la/los/las + más/menos + adjective + de: 'el más alto de la clase' (the tallest in the class), 'la menos cara de todas' (the least expensive of all). Irregular superlatives: el mejor (the best), el peor (the worst). Absolute superlative adds -ísimo/-ísima: 'altísimo' (extremely tall), 'facilísimo' (extremely easy)."
+      },
+      {
+        "subtitle": "Demonstrative & Possessive Adjectives",
+        "content": "Demonstratives: este/esta/estos/estas (this/these - near), ese/esa/esos/esas (that/those - medium), aquel/aquella/aquellos/aquellas (that/those - far). Possessives: mi/mis (my), tu/tus (your informal), su/sus (his/her/your formal/their), nuestro/nuestra/nuestros/nuestras (our), vuestro/vuestra/vuestros/vuestras (your plural informal)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the feminine form of 'alto' (tall)?",
+      "answers": [
+        { "text": "alta", "correct": true },
+        { "text": "alto", "correct": false },
+        { "text": "alte", "correct": false },
+        { "text": "altos", "correct": false }
+      ],
+      "hint": "Change the -o to -a for feminine adjectives."
+    },
+    {
+      "id": 2,
+      "question": "What is the plural of 'casa grande' (big house)?",
+      "answers": [
+        { "text": "casas grandes", "correct": true },
+        { "text": "casas grande", "correct": false },
+        { "text": "casa grandes", "correct": false },
+        { "text": "casases grandes", "correct": false }
+      ],
+      "hint": "Both the noun and adjective must be plural. Add -s to both words."
+    },
+    {
+      "id": 3,
+      "question": "What is the feminine form of 'español' (Spanish)?",
+      "answers": [
+        { "text": "española", "correct": true },
+        { "text": "español", "correct": false },
+        { "text": "españole", "correct": false },
+        { "text": "españolo", "correct": false }
+      ],
+      "hint": "Nationality adjectives ending in a consonant add -a for feminine."
+    },
+    {
+      "id": 4,
+      "question": "Where do most descriptive adjectives go in Spanish?",
+      "answers": [
+        { "text": "After the noun", "correct": true },
+        { "text": "Before the noun", "correct": false },
+        { "text": "Either before or after", "correct": false },
+        { "text": "Spanish doesn't use adjectives", "correct": false }
+      ],
+      "hint": "Unlike English, Spanish puts most descriptive adjectives after the noun: 'el coche rojo' (the red car)."
+    },
+    {
+      "id": 5,
+      "question": "Which is correct for 'the red car'?",
+      "answers": [
+        { "text": "el coche rojo", "correct": true },
+        { "text": "el rojo coche", "correct": false },
+        { "text": "la coche roja", "correct": false },
+        { "text": "el coche roja", "correct": false }
+      ],
+      "hint": "Descriptive adjectives go after the noun. Coche is masculine, so use 'rojo'."
+    },
+    {
+      "id": 6,
+      "question": "What is the apocopated form of 'bueno' before a masculine noun?",
+      "answers": [
+        { "text": "buen", "correct": true },
+        { "text": "buana", "correct": false },
+        { "text": "bueno", "correct": false },
+        { "text": "bue", "correct": false }
+      ],
+      "hint": "Drop the -o before masculine singular nouns. Example: buen día (good day)."
+    },
+    {
+      "id": 7,
+      "question": "Which is correct for 'a good day'?",
+      "answers": [
+        { "text": "un buen día", "correct": true },
+        { "text": "un bueno día", "correct": false },
+        { "text": "un día bueno", "correct": false },
+        { "text": "una buen día", "correct": false }
+      ],
+      "hint": "Bueno becomes 'buen' before masculine singular nouns and goes before the noun."
+    },
+    {
+      "id": 8,
+      "question": "What does 'grande' become before a singular noun?",
+      "answers": [
+        { "text": "gran", "correct": true },
+        { "text": "grande", "correct": false },
+        { "text": "grand", "correct": false },
+        { "text": "granda", "correct": false }
+      ],
+      "hint": "Grande shortens to 'gran' before any singular noun (masculine or feminine)."
+    },
+    {
+      "id": 9,
+      "question": "'Un gran hombre' means...",
+      "answers": [
+        { "text": "a great man", "correct": true },
+        { "text": "a big man", "correct": false },
+        { "text": "a tall man", "correct": false },
+        { "text": "a fat man", "correct": false }
+      ],
+      "hint": "When 'grande' becomes 'gran' and goes before the noun, it means 'great' (quality), not 'big' (size)."
+    },
+    {
+      "id": 10,
+      "question": "How do you say 'taller than'?",
+      "answers": [
+        { "text": "más alto que", "correct": true },
+        { "text": "más que alto", "correct": false },
+        { "text": "alto más que", "correct": false },
+        { "text": "tan alto como", "correct": false }
+      ],
+      "hint": "Use más + adjective + que for 'more...than' comparisons."
+    },
+    {
+      "id": 11,
+      "question": "How do you say 'less expensive than'?",
+      "answers": [
+        { "text": "menos caro que", "correct": true },
+        { "text": "más caro que", "correct": false },
+        { "text": "tan caro como", "correct": false },
+        { "text": "caro menos que", "correct": false }
+      ],
+      "hint": "Use menos + adjective + que for 'less...than' comparisons."
+    },
+    {
+      "id": 12,
+      "question": "How do you say 'as fast as'?",
+      "answers": [
+        { "text": "tan rápido como", "correct": true },
+        { "text": "más rápido que", "correct": false },
+        { "text": "menos rápido como", "correct": false },
+        { "text": "rápido como tan", "correct": false }
+      ],
+      "hint": "Use tan + adjective + como for equality comparisons (as...as)."
+    },
+    {
+      "id": 13,
+      "question": "What is the irregular comparative for 'good'?",
+      "answers": [
+        { "text": "mejor (better)", "correct": true },
+        { "text": "más bueno", "correct": false },
+        { "text": "buenor", "correct": false },
+        { "text": "muy bueno", "correct": false }
+      ],
+      "hint": "Don't say 'más bueno'. Use the irregular form meaning 'better'."
+    },
+    {
+      "id": 14,
+      "question": "What is the irregular comparative for 'bad'?",
+      "answers": [
+        { "text": "peor (worse)", "correct": true },
+        { "text": "más malo", "correct": false },
+        { "text": "malor", "correct": false },
+        { "text": "muy malo", "correct": false }
+      ],
+      "hint": "Don't say 'más malo'. Use the irregular form meaning 'worse'."
+    },
+    {
+      "id": 15,
+      "question": "How do you say 'the tallest in the class'?",
+      "answers": [
+        { "text": "el más alto de la clase", "correct": true },
+        { "text": "el alto más de la clase", "correct": false },
+        { "text": "más alto de la clase", "correct": false },
+        { "text": "el altísimo de la clase", "correct": false }
+      ],
+      "hint": "Use el/la + más + adjective + de for superlatives (the most...)."
+    },
+    {
+      "id": 16,
+      "question": "What does 'facilísimo' mean?",
+      "answers": [
+        { "text": "extremely easy", "correct": true },
+        { "text": "easier than", "correct": false },
+        { "text": "the easiest", "correct": false },
+        { "text": "as easy as", "correct": false }
+      ],
+      "hint": "The -ísimo ending creates an absolute superlative meaning 'extremely' or 'very very'."
+    },
+    {
+      "id": 17,
+      "question": "Which demonstrative means 'this' (masculine)?",
+      "answers": [
+        { "text": "este", "correct": true },
+        { "text": "ese", "correct": false },
+        { "text": "aquel", "correct": false },
+        { "text": "esta", "correct": false }
+      ],
+      "hint": "This is the nearest demonstrative, masculine singular form."
+    },
+    {
+      "id": 18,
+      "question": "Which demonstrative means 'that' (medium distance, feminine)?",
+      "answers": [
+        { "text": "esa", "correct": true },
+        { "text": "ese", "correct": false },
+        { "text": "esta", "correct": false },
+        { "text": "aquella", "correct": false }
+      ],
+      "hint": "This is the medium-distance demonstrative, feminine singular form."
+    },
+    {
+      "id": 19,
+      "question": "What is the possessive adjective for 'our' (feminine plural)?",
+      "answers": [
+        { "text": "nuestras", "correct": true },
+        { "text": "nuestros", "correct": false },
+        { "text": "nuestra", "correct": false },
+        { "text": "nuestro", "correct": false }
+      ],
+      "hint": "'Our' in Spanish changes form. Use the feminine plural form for feminine plural nouns."
+    },
+    {
+      "id": 20,
+      "question": "Which possessive is 'their/your (formal)' in Spanish?",
+      "answers": [
+        { "text": "su/sus", "correct": true },
+        { "text": "tu/tus", "correct": false },
+        { "text": "mi/mis", "correct": false },
+        { "text": "nuestro/nuestra", "correct": false }
+      ],
+      "hint": "This possessive is ambiguous - it can mean his, her, their, or your (formal). Context clarifies meaning."
+    }
+  ]
+}
