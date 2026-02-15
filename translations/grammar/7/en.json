@@ -8,27 +8,27 @@
     "sections": [
       {
         "subtitle": "Subject Pronouns & Pro-drop",
-        "content": "Subject pronouns: yo (I), tú (you informal), él (he), ella (she), usted (you formal), nosotros/nosotras (we), vosotros/vosotras (you plural informal - Spain), ellos/ellas (they), ustedes (you plural formal/Latin America). Spanish is 'pro-drop' - subject pronouns are often omitted since verb endings show the subject: 'Hablo español' (I speak Spanish), not 'Yo hablo español' (unless emphasizing)."
+        "content": "👥 Subject Pronouns\n\nSingular:\n• yo → I\n• tú → you (informal)\n• él/ella → he/she\n• usted → you (formal)\n\nPlural:\n• nosotros/nosotras → we\n• vosotros/vosotras → you (plural, Spain)\n• ellos/ellas → they\n• ustedes → you (plural formal/Latin America)\n\n💡 'Pro-drop' Language\n\nVerb endings show subject → often omit pronoun:\n• Hablo español (I speak Spanish)\n  ❌ NOT Yo hablo español\n\n✅ Use pronouns for:\n• Emphasis → YO hablo español\n• Clarification → Él habla, ella no"
       },
       {
         "subtitle": "Direct Object Pronouns",
-        "content": "Direct object pronouns replace the direct object (receives action directly): me (me), te (you), lo (him/it/you formal masc), la (her/it/you formal fem), nos (us), os (you plural - Spain), los (them/you plural masc), las (them/you plural fem). Example: 'Veo el libro' → 'Lo veo' (I see it). They go BEFORE conjugated verbs or attached to infinitives/gerunds/commands."
+        "content": "🎯 Direct Object (receives action directly)\n\nPronouns:\n• me → me\n• te → you\n• lo → him/it/you formal (masc)\n• la → her/it/you formal (fem)\n• nos → us\n• os → you plural (Spain)\n• los → them/you plural (masc)\n• las → them/you plural (fem)\n\nExample:\n• Veo el libro → Lo veo\n  (I see the book → I see it)\n\n📍 Placement:\n• BEFORE conjugated verbs\n  → Lo veo\n• Attached to infinitives/gerunds/commands\n  → Quiero verlo (I want to see it)\n  → Viéndolo (seeing it)"
       },
       {
         "subtitle": "Indirect Object Pronouns",
-        "content": "Indirect object pronouns show TO WHOM/FOR WHOM: me (to me), te (to you), le (to him/her/you formal), nos (to us), os (to you plural - Spain), les (to them/you plural). Example: 'Le doy el libro' (I give the book to him/her). Often used redundantly with the full noun: 'Le doy el libro a María' (I give the book to María)."
+        "content": "🎯 Indirect Object (TO WHOM/FOR WHOM)\n\nPronouns:\n• me → to me\n• te → to you\n• le → to him/her/you formal\n• nos → to us\n• os → to you plural (Spain)\n• les → to them/you plural\n\nExamples:\n• Le doy el libro\n  → I give the book to him/her\n• Me compra flores\n  → He buys flowers for me\n\n💡 Redundant use (common!):\n• Le doy el libro a María\n  → I give the book to María\n  (le is redundant but used for clarity)"
       },
       {
         "subtitle": "Combined Object Pronouns",
-        "content": "When using both indirect and direct object pronouns together, INDIRECT comes first. When 'le' or 'les' comes before 'lo/la/los/las', it changes to 'se': 'Le doy el libro' (I give him the book) → 'Se lo doy' (I give it to him). Order: se + lo/la/los/las. Both pronouns must stay together before the verb."
+        "content": "🔗 Using BOTH Pronouns Together\n\nOrder: INDIRECT + DIRECT\n\n⚠️ Special rule:\nle/les + lo/la/los/las → se + lo/la/los/las\n\nExamples:\n• Le doy el libro (I give him the book)\n  → Se lo doy (I give it to him)\n\n• Les mando las cartas (I send them the letters)\n  → Se las mando (I send them to them)\n\n📍 Placement rules:\n• Both BEFORE conjugated verb\n  → Se lo digo\n• Both attached to infinitive/gerund/command\n  → Quiero dárselo\n  → Diciéndoselo\n\n✅ Both pronouns stay together!"
       },
       {
         "subtitle": "Reflexive Pronouns",
-        "content": "Reflexive pronouns show the subject acts on itself: me (myself), te (yourself), se (himself/herself/yourself formal/themselves), nos (ourselves), os (yourselves - Spain). Used with reflexive verbs: 'Me lavo' (I wash myself), 'Se llama Pedro' (He calls himself Pedro/His name is Pedro). The pronoun matches the subject."
+        "content": "🤷 Subject Acts on Itself\n\nPronouns:\n• me → myself\n• te → yourself\n• se → himself/herself/yourself formal/themselves\n• nos → ourselves\n• os → yourselves (Spain)\n\nUsed with reflexive verbs:\n\n• Me lavo → I wash myself\n• Te levantas → You get (yourself) up\n• Se llama Pedro → He calls himself Pedro\n  (His name is Pedro)\n• Nos vestimos → We dress ourselves\n\n✅ Pronoun MUST match subject:\n• yo  → me\n• tú → te\n• él/ella/usted → se\n• nosotros → nos"
       },
       {
         "subtitle": "Other Important Pronouns",
-        "content": "Possessive pronouns: el mío/la mía (mine), el tuyo/la tuya (yours), el suyo/la suya (his/hers/yours formal/theirs), el nuestro/la nuestra (ours). Demonstrative pronouns: éste/ésta (this one), ése/ésa (that one), aquél/aquélla (that one - far). Interrogative: ¿qué? (what?), ¿quién/quiénes? (who?), ¿cuál/cuáles? (which?). Indefinite: alguien (someone), nadie (no one), algo (something), nada (nothing)."
+        "content": "💼 Possessive Pronouns\n\n• el mío/la mía → mine\n• el tuyo/la tuya → yours\n• el suyo/la suya → his/hers/yours/theirs\n• el nuestro/la nuestra → ours\n\n👉 Demonstrative\n\n• éste/ésta → this one\n• ése/ésa → that one\n• aquél/aquélla → that one (far)\n\n❓ Interrogative\n\n• ¿qué? → what?\n• ¿quién/quiénes? → who?\n• ¿cuál/cuáles? → which?\n\n🧑 Indefinite\n\n• alguien → someone\n• nadie → no one\n• algo → something\n• nada → nothing"
       }
     ]
   },

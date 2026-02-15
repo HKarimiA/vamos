@@ -8,27 +8,27 @@
     "sections": [
       {
         "subtitle": "Gender & Number Agreement",
-        "content": "Adjectives must match the noun in gender and number. Most adjectives ending in -o change to -a for feminine (alto/alta), add -s for plural (altos/altas). Adjectives ending in -e or consonants are the same for both genders (grande, fácil), just add -s or -es for plural. Adjectives of nationality ending in consonant add -a for feminine (español/española)."
+        "content": "📋 Adjectives MUST Match Nouns\n\nMost -o adjectives:\n• Masculine → -o\n  → alto (tall)\n• Feminine → -a\n  → alta\n• Masc. plural → -os\n  → altos\n• Fem. plural → -as\n  → altas\n\n✅ Adjectives ending in -e or consonants:\n• Same for both genders\n  → grande, fácil\n• Add -s or -es for plural\n  → grandes, fáciles\n\n⚠️ Nationality adjectives (consonant ending):\n• Add -a for feminine\n  → español/española\n  → inglés/inglesa"
       },
       {
         "subtitle": "Position of Adjectives",
-        "content": "Most descriptive adjectives come AFTER the noun in Spanish (el coche rojo = the red car). However, adjectives of quantity, demonstratives, and possessives come BEFORE (muchos libros, este perro, mi casa). Some adjectives can go before or after with different meanings: un hombre grande (a big man) vs. un gran hombre (a great man)."
+        "content": "📍 Where Adjectives Go\n\nMost descriptive adjectives → AFTER noun:\n• el coche rojo (the red car)\n• la casa grande (the big house)\n• el libro interesante (the interesting book)\n\nAlways BEFORE noun:\n• Quantity → muchos libros\n• Demonstratives → este perro\n• Possessives → mi casa\n\n💡 Meaning changes with position:\n• un hombre grande → a big man (size)\n• un gran hombre → a great man (quality)\n\n• un coche nuevo → a new car (brand new)\n• un nuevo coche → a new car (different car)"
       },
       {
         "subtitle": "Apocopation: Shortened Forms",
-        "content": "Some adjectives drop their final vowel before masculine singular nouns: bueno → buen (buen día), malo → mal (mal tiempo), grande → gran (gran libro), primero → primer (primer lugar), tercero → tercer (tercer piso). This ONLY happens before masculine singular nouns."
+        "content": "✂️ Drop Final Vowel (before masc. singular)\n\nCommon shortened forms:\n• bueno → buen\n  → buen día (good day)\n• malo → mal\n  → mal tiempo (bad weather)\n• grande → gran\n  → gran libro (great book)\n• primero → primer\n  → primer lugar (first place)\n• tercero → tercer\n  → tercer piso (third floor)\n\n⚠️ ONLY before masculine singular nouns!\n• buena casa (good house) - no change\n• buenos días (good days) - no change"
       },
       {
         "subtitle": "Comparatives: More & Less",
-        "content": "To compare, use: más + adjective + que (more...than): 'más alto que' (taller than), menos + adjective + que (less...than): 'menos caro que' (less expensive than). For equality, use: tan + adjective + como (as...as): 'tan rápido como' (as fast as). Irregular: mejor (better), peor (worse), mayor (older), menor (younger)."
+        "content": "⚖️ Comparing Things\n\nMore than:\n• más + adjective + que\n  → más alto que (taller than)\n  → más inteligente que (smarter than)\n\nLess than:\n• menos + adjective + que\n  → menos caro que (less expensive than)\n\nEqual comparison (as...as):\n• tan + adjective + como\n  → tan rápido como (as fast as)\n  → tan grande como (as big as)\n\n⚠️ Irregular comparatives:\n• bueno → mejor (better)\n• malo → peor (worse)\n• grande/viejo → mayor (older/bigger)\n• pequeño/joven → menor (younger/smaller)"
       },
       {
         "subtitle": "Superlatives: The Most/Least",
-        "content": "Use el/la/los/las + más/menos + adjective + de: 'el más alto de la clase' (the tallest in the class), 'la menos cara de todas' (the least expensive of all). Irregular superlatives: el mejor (the best), el peor (the worst). Absolute superlative adds -ísimo/-ísima: 'altísimo' (extremely tall), 'facilísimo' (extremely easy)."
+        "content": "🏆 The Most/Least\n\nPattern: article + más/menos + adjective + de\n\n• el más alto de la clase\n  → the tallest in the class\n• la menos cara de todas\n  → the least expensive of all\n• los más inteligentes del grupo\n  → the smartest in the group\n\n⚠️ Irregular superlatives:\n• el mejor (the best)\n• el peor (the worst)\n\n💯 Absolute superlative (-ísimo):\n• altísimo → extremely tall\n• facilísimo → extremely easy\n• grandísimo → extremely big"
       },
       {
         "subtitle": "Demonstrative & Possessive Adjectives",
-        "content": "Demonstratives: este/esta/estos/estas (this/these - near), ese/esa/esos/esas (that/those - medium), aquel/aquella/aquellos/aquellas (that/those - far). Possessives: mi/mis (my), tu/tus (your informal), su/sus (his/her/your formal/their), nuestro/nuestra/nuestros/nuestras (our), vuestro/vuestra/vuestros/vuestras (your plural informal)."
+        "content": "👉 Demonstratives (proximity)\n\nNear (this/these):\n• este/esta/estos/estas\n\nMedium (that/those):\n• ese/esa/esos/esas\n\nFar (that/those - far):\n• aquel/aquella/aquellos/aquellas\n\n🤝 Possessives\n\n• mi/mis → my\n• tu/tus → your (informal)\n• su/sus → his/her/your (formal)/their\n• nuestro/nuestra/nuestros/nuestras → our\n• vuestro/vuestra/vuestros/vuestras → your (plural, Spain)\n\n✅ They agree in number with possessed item"
       }
     ]
   },

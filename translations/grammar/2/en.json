@@ -8,27 +8,27 @@
     "sections": [
       {
         "subtitle": "Numbers 0-15",
-        "content": "Basic numbers: cero (0), uno (1), dos (2), tres (3), cuatro (4), cinco (5), seis (6), siete (7), ocho (8), nueve (9), diez (10), once (11), doce (12), trece (13), catorce (14), quince (15). These are the foundation - memorize them first!"
+        "content": "🔢 Foundation Numbers - Memorize First!\n\n• 0 → cero\n• 1 → uno\n• 2 → dos\n• 3 → tres\n• 4 → cuatro\n• 5 → cinco\n• 6 → seis\n• 7 → siete\n• 8 → ocho\n• 9 → nueve\n• 10 → diez\n• 11 → once\n• 12 → doce\n• 13 → trece\n• 14 → catorce\n• 15 → quince\n\n✅ Master these before moving forward!"
       },
       {
         "subtitle": "Numbers 16-29",
-        "content": "From 16-19, numbers are written as one word: dieciséis (16), diecisiete (17), dieciocho (18), diecinueve (19). From 21-29: veintiuno (21), veintidós (22), veintitrés (23)... up to veintinueve (29). Note the accents on 22, 23, and 26!"
+        "content": "📝 Written as ONE word\n\n16-19:\n• 16 → dieciséis\n• 17 → diecisiete\n• 18 → dieciocho\n• 19 → diecinueve\n\n21-29:\n• 21 → veintiuno\n• 22 → veintidós\n• 23 → veintitrés\n• 24 → veinticuatro\n• 25 → veinticinco\n• 26 → veintiséis\n• 27 → veintisiete\n• 28 → veintiocho\n• 29 → veintinueve\n\n⚠️ Watch for accents on 22, 23, 26!"
       },
       {
         "subtitle": "Numbers 30-99",
-        "content": "From 30 onwards, use 'y' (and): treinta y uno (31), cuarenta y dos (42), cincuenta y tres (53). The tens are: treinta (30), cuarenta (40), cincuenta (50), sesenta (60), setenta (70), ochenta (80), noventa (90). Each decade follows the same pattern."
+        "content": "🔗 Three words joined with 'y' (and)\n\nThe tens:\n• 30 → treinta\n• 40 → cuarenta\n• 50 → cincuenta\n• 60 → sesenta\n• 70 → setenta\n• 80 → ochenta\n• 90 → noventa\n\nPattern: tens + y + ones\n• 31 → treinta y uno\n• 42 → cuarenta y dos\n• 53 → cincuenta y tres\n• 67 → sesenta y siete\n• 89 → ochenta y nueve\n\n✅ Same pattern for all decades!"
       },
       {
         "subtitle": "Hundreds and Thousands",
-        "content": "Hundreds: cien (100), but ciento when followed by other numbers (ciento uno = 101). 200-900 end in '-cientos': doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos. Mil (1000) never changes. Million is 'un millón'."
+        "content": "💯 Hundreds & Thousands\n\n100 special rules:\n• Alone or before mil/millones → cien\n• Before other numbers (1-99) → ciento\n  → 100 = cien\n  → 101 = ciento uno\n\n200-900 end in '-cientos':\n• 200 → doscientos\n• 300 → trescientos\n• 400 → cuatrocientos\n• 500 → quinientos ⚠️ (irregular!)\n• 600 → seiscientos\n• 700 → setecientos\n• 800 → ochocientos\n• 900 → novecientos\n\nLarge numbers:\n• 1,000 → mil (never changes)\n• 1,000,000 → un millón"
       },
       {
         "subtitle": "Gender Agreement",
-        "content": "When counting feminine nouns, 'uno' becomes 'una' and hundreds ending in '-cientos' become '-cientas': una mesa (one table), doscientas personas (two hundred people). This ONLY affects 'one' and 'hundreds' (200-900)."
+        "content": "👥 Gender Agreement Rules\n\nOnly TWO numbers change with gender:\n\n1️⃣ Uno/Una:\n• uno libro (masculine)\n• una mesa (feminine - one table)\n\n2️⃣ Hundreds (200-900):\n• -cientos (masculine)\n  → doscientos libros\n• -cientas (feminine)\n  → doscientas personas (200 people)\n\n⚠️ All other numbers stay the same!\n→ dos, tres, diez, mil, etc."
       },
       {
         "subtitle": "Ordinal Numbers",
-        "content": "First to tenth: primero/primera (1st), segundo (2nd), tercero (3rd), cuarto (4th), quinto (5th), sexto (6th), séptimo (7th), octavo (8th), noveno (9th), décimo (10th). They agree in gender and number. Primero and tercero drop the 'o' before masculine singular nouns: primer día (first day)."
+        "content": "🏆 Ordinal Numbers (1st-10th)\n\n• 1st → primero/primera\n• 2nd → segundo/segunda\n• 3rd → tercero/tercera\n• 4th → cuarto/cuarta\n• 5th → quinto/quinta\n• 6th → sexto/sexta\n• 7th → séptimo/séptima\n• 8th → octavo/octava\n• 9th → noveno/novena\n• 10th → décimo/décima\n\n✅ They agree in gender & number\n\n⚠️ Special shortening:\n• primero → primer (before masc. singular)\n  → primer día (first day)\n• tercero → tercer (before masc. singular)\n  → tercer lugar (third place)"
       }
     ]
   },

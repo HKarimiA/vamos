@@ -8,27 +8,27 @@
     "sections": [
       {
         "subtitle": "Noun Gender: Masculine & Feminine",
-        "content": "All Spanish nouns have gender. Generally, nouns ending in -o are masculine (el libro = book), and nouns ending in -a are feminine (la casa = house). However, there are exceptions: el día (day), la mano (hand). Some endings indicate gender: -ción, -sión, -dad, -tad are usually feminine; -ma, -pa, -ta (Greek origin) are often masculine."
+        "content": "⚖️ All Nouns Have Gender\n\nGeneral Rules:\n• -o endings → masculine\n  → el libro (book)\n  → el gato (cat)\n• -a endings → feminine\n  → la casa (house)\n  → la mesa (table)\n\n⚠️ Common Exceptions:\n• el día (day) - ends in -a but masculine\n• la mano (hand) - ends in -o but feminine\n\n💡 Helpful Endings:\n\nAlmost always feminine:\n• -ción, -sión → la estación, la visión\n• -dad, -tad → la ciudad, la libertad\n\nOften masculine (Greek origin):\n• -ma, -pa, -ta → el problema, el mapa, el planeta"
       },
       {
         "subtitle": "Singular & Plural Forms",
-        "content": "To form plurals: add -s if the noun ends in a vowel (gato → gatos), add -es if it ends in a consonant (flor → flores). Nouns ending in -z change to -ces (lápiz → lápices). Nouns ending in an accented vowel + -s don't change (el lunes → los lunes)."
+        "content": "🔢 Plural Formation Rules\n\n1️⃣ Ends in vowel → add -s:\n• gato → gatos (cats)\n• casa → casas (houses)\n• estudiante → estudiantes (students)\n\n2️⃣ Ends in consonant → add -es:\n• flor → flores (flowers)\n• papel → papeles (papers)\n• profesor → profesores (teachers)\n\n3️⃣ Ends in -z → change to -ces:\n• lápiz → lápices (pencils)\n• luz → luces (lights)\n• vez → veces (times)\n\n⚠️ Special case:\n• Accented vowel + -s → NO change\n  → el lunes → los lunes\n  → el martes → los martes"
       },
       {
         "subtitle": "Definite Articles (The)",
-        "content": "Definite articles specify a particular noun: el (masculine singular), la (feminine singular), los (masculine plural), las (feminine plural). Examples: el perro (the dog), la mesa (the table), los libros (the books), las casas (the houses). Use definite articles with general categories and abstract concepts in Spanish."
+        "content": "📍 Definite Articles = \"The\"\n\n• el → masculine singular\n  → el perro (the dog)\n• la → feminine singular\n  → la mesa (the table)\n• los → masculine plural\n  → los libros (the books)\n• las → feminine plural\n  → las casas (the houses)\n\n✅ Spanish uses \"the\" MORE than English:\n• With general categories\n  → Me gusta el café (I like coffee)\n• With abstract concepts\n  → La libertad es importante\n    (Freedom is important)"
       },
       {
         "subtitle": "Indefinite Articles (A/An/Some)",
-        "content": "Indefinite articles refer to non-specific nouns: un (masculine singular), una (feminine singular), unos (masculine plural = some), unas (feminine plural = some). Examples: un perro (a dog), una mesa (a table), unos libros (some books), unas casas (some houses)."
+        "content": "📝 Indefinite Articles = \"A/An/Some\"\n\nSingular:\n• un → masculine\n  → un perro (a dog)\n  → un libro (a book)\n• una → feminine\n  → una mesa (a table)\n  → una casa (a house)\n\nPlural (= \"some\"):\n• unos → masculine\n  → unos libros (some books)\n• unas → feminine\n  → unas casas (some houses)"
       },
       {
         "subtitle": "Contractions: al & del",
-        "content": "Spanish has two mandatory contractions: a + el = al (to the), de + el = del (of/from the). Examples: Voy al parque (I go to the park), Es el libro del profesor (It's the teacher's book). These contractions do NOT apply to la, los, or las."
+        "content": "🔗 Two MANDATORY Contractions\n\n1️⃣ a + el = al (to the)\n• Voy al parque\n  → I go to the park\n• Voy al cine\n  → I go to the cinema\n\n2️⃣ de + el = del (of/from the)\n• El libro del profesor\n  → The teacher's book\n• Vengo del trabajo\n  → I come from work\n\n⚠️ ONLY with \"el\"!\n• a + la = a la (no contraction)\n• de + los = de los (no contraction)\n• de + las = de las (no contraction)"
       },
       {
         "subtitle": "When to Omit Articles",
-        "content": "Omit articles before: professions after 'ser' (Soy profesor), languages without a verb (Hablo español), days of the week after 'ser' (Hoy es lunes), most cities/countries (but: la Argentina, el Perú), with possession (mi casa, not la mi casa)."
+        "content": "🚫 When to OMIT Articles\n\n1️⃣ Professions after \"ser\":\n• Soy profesor (I am a teacher)\n• Es médica (She is a doctor)\n\n2️⃣ Languages (direct object):\n• Hablo español (I speak Spanish)\n• Estudio francés (I study French)\n\n3️⃣ Days after \"ser\":\n• Hoy es lunes (Today is Monday)\n• Mañana es martes (Tomorrow is Tuesday)\n\n4️⃣ Most cities/countries:\n• Vivo en México (I live in Mexico)\n⚠️ Exceptions: la Argentina, el Perú\n\n5️⃣ With possessives:\n• mi casa (my house)\n  ❌ NOT la mi casa\n• tu libro (your book)\n  ❌ NOT el tu libro"
       }
     ]
   },

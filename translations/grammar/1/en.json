@@ -8,23 +8,23 @@
     "sections": [
       {
         "subtitle": "The Spanish Alphabet",
-        "content": "Spanish uses the Latin alphabet with 27 letters. It includes all English letters plus 'ñ'. The letters 'k' and 'w' are rare and mostly appear in foreign words."
+        "content": "🔤 Spanish alphabet - 27 letters\n\n• All English letters\n• Plus one special: ñ\n\n⚠️ Rare letters: k and w\n(mostly in foreign words)"
       },
       {
         "subtitle": "Vowels (a, e, i, o, u)",
-        "content": "Spanish vowels are always pronounced the same way: 'a' like in 'father', 'e' like in 'pet', 'i' like in 'machine', 'o' like in 'go', 'u' like in 'rule'. There are no silent vowels."
+        "content": "Spanish vowels - always pronounced the same way:\n\n• a → like 'father'\n• e → like 'pet'\n• i → like 'machine'\n• o → like 'go'\n• u → like 'rule'\n\n✅ No silent vowels in Spanish!"
       },
       {
         "subtitle": "Key Consonants",
-        "content": "H is always silent. J sounds like a strong 'h'. LL sounds like 'y'. Ñ sounds like 'ny' (as in 'canyon'). V and B sound identical. R is rolled when at the start or doubled (rr). G before e/i sounds like 'h', otherwise like 'g' in 'go'."
+        "content": "Important consonant sounds:\n\n• H → always silent\n• J → strong 'h' sound\n• LL → sounds like 'y'\n• Ñ → 'ny' (as in 'canyon')\n• V and B → sound identical\n• R → rolled at start or when doubled (rr)\n• G → before e/i sounds like 'h'\n  → otherwise like 'g' in 'go'"
       },
       {
         "subtitle": "Accent Marks (´)",
-        "content": "Accent marks show which syllable to stress. Words ending in vowel, n, or s stress the second-to-last syllable by default. Words ending in other consonants stress the last syllable. Accent marks override these rules."
+        "content": "📝 Accent marks show which syllable to stress\n\nDefault stress rules:\n\n• Ends in vowel, n, or s\n→ Stress second-to-last syllable\n\n• Ends in other consonants\n→ Stress last syllable\n\n✅ Accent marks override these default rules"
       },
       {
         "subtitle": "Special Sound: Ñ",
-        "content": "The letter ñ (called 'eñe') is unique to Spanish. It represents a 'ny' sound as in 'canyon' or 'onion'. Examples: año (year), niño (child), español (Spanish)."
+        "content": "The letter ñ (called 'eñe')\nUnique to Spanish! 🇪🇸\n\nSound: 'ny' as in 'canyon' or 'onion'\n\nExamples:\n• año → year\n• niño → child\n• español → Spanish"
       }
     ]
   },

@@ -298,7 +298,7 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                                 view! {
                                     <div class="explanation-section">
                                         <h3>{section.subtitle.clone()}</h3>
-                                        <p>{section.content.clone()}</p>
+                                        <p style="white-space: pre-line;">{section.content.clone()}</p>
                                     </div>
                                 }
                             })

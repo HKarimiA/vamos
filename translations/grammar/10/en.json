@@ -8,27 +8,27 @@
     "sections": [
       {
         "subtitle": "Pretérito Indefinido (Preterite)",
-        "content": "Used for completed actions in the past with a defined beginning or end. Regular -AR: -é, -aste, -ó, -amos, -asteis, -aron (hablé, hablaste, habló, hablamos, hablasteis, hablaron). Regular -ER/-IR: -í, -iste, -ió, -imos, -isteis, -ieron (comí, escribí). Common irregulars: fui (ser/ir), tuve (tener), hice (hacer), estuve (estar). Use for: specific completed actions, sequences of events, actions with clear time frames."
+        "content": "✅ Completed Actions with Clear Beginning/End\n\nRegular -AR endings (hablar):\n• yo → -é (hablé)\n• tú → -aste (hablaste)\n• él/ella → -ó (habló)\n• nosotros → -amos (hablamos)\n• vosotros → -asteis (hablasteis)\n• ellos → -aron (hablaron)\n\nRegular -ER/-IR endings:\n• yo → -í (comí, escribí)\n• tú → -iste (comiste, escribiste)\n• él/ella → -ió (comió, escribió)\n• nosotros → -imos (comimos, escribimos)\n• vosotros → -isteis (comisteis, escribisteis)\n• ellos → -ieron (comieron, escribieron)\n\n⚠️ Common irregulars:\n• ser/ir → fui, fuiste, fue\n• tener → tuve, tuviste, tuvo\n• hacer → hice, hiciste, hizo\n• estar → estuve, estuviste, estuvo\n\n📍 When to use:\n• Specific completed actions\n• Sequences of events\n• Actions with clear time frames"
       },
       {
         "subtitle": "Imperfecto (Imperfect)",
-        "content": "Used for ongoing, habitual, or descriptive past actions without focus on completion. Regular -AR: -aba, -abas, -aba, -ábamos, -abais, -aban (hablaba). Regular -ER/-IR: -ía, -ías, -ía, -íamos, -íais, -ían (comía, vivía). Only THREE irregulars: ser (era, eras, era), ir (iba, ibas, iba), ver (veía, veías, veía). Use for: habitual actions (used to), ongoing background actions, descriptions, time/age in past, simultaneous actions."
+        "content": "🔄 Ongoing/Habitual/Descriptive Past\n\nRegular -AR endings (hablaba):\n• yo → -aba\n• tú → -abas\n• él/ella → -aba\n• nosotros → -ábamos\n• vosotros → -abais\n• ellos → -aban\n\nRegular -ER/-IR endings (comía, vivía):\n• yo → -ía\n• tú → -ías\n• él/ella → -ía\n• nosotros → -íamos\n• vosotros → -íais\n• ellos → -ían\n\n⚠️ Only THREE irregulars:\n• ser → era, eras, era\n• ir → iba, ibas, iba\n• ver → veía, veías, veía\n\n📍 When to use:\n• Habitual actions (used to)\n• Ongoing background actions\n• Descriptions in past\n• Time/age in past\n• Simultaneous actions"
       },
       {
         "subtitle": "Pretérito Perfecto (Present Perfect)",
-        "content": "Used for actions that occurred in the recent past or have relevance to the present. Form: haber (present) + past participle. Haber: he, has, ha, hemos, habéis, han. Past participles: -AR → -ado (hablado), -ER/-IR → -ido (comido, vivido). Example: 'He comido' (I have eaten). Irregulars: hecho (hacer), escrito (escribir), visto (ver), dicho (decir), puesto (poner), abierto (abrir), muerto (morir), roto (romper). Used with: hoy, esta semana, este año, últimamente, ya, todavía no."
+        "content": "🕐 Recent Past/Relevance to Present\n\nFormula: HABER (present) + past participle\n\nHABER conjugation:\n• he\n• has\n• ha\n• hemos\n• habéis\n• han\n\nPast participles:\n• -AR → -ado (hablado)\n• -ER → -ido (comido)\n• -IR → -ido (vivido)\n\nExample:\n• He comido → I have eaten\n• Has hablado → You have spoken\n\n⚠️ Irregular participles:\n• hacer → hecho\n• escribir → escrito\n• ver → visto\n• decir → dicho\n• poner → puesto\n• abrir → abierto\n• morir → muerto\n• romper → roto\n\n🕐 Used with:\n• hoy, esta semana, este año\n• últimamente, ya, todavía no"
       },
       {
         "subtitle": "Preterite vs Imperfect: Key Differences",
-        "content": "PRETERITE (completed): specific one-time actions, completed events, reactions/interruptions, definite time period. IMPERFECT (ongoing): habitual actions (used to/would), background descriptions, time/weather/age, ongoing actions interrupted by something else. Example: 'Leía cuando sonó el teléfono' (I was reading [imperfect-background] when the phone rang [preterite-interruption]). Trigger words: Preterite (ayer, anoche, el año pasado); Imperfect (siempre, todos los días, mientras, generalmente)."
+        "content": "⚖️ Choosing the Right Past Tense\n\nPRETERITE (completed):\n• Specific one-time actions\n• Completed events\n• Reactions/interruptions\n• Definite time period\n\n🔑 Trigger words:\n• ayer, anoche\n• el año pasado\n• una vez\n• de repente\n\nIMPERFECT (ongoing):\n• Habitual actions (used to/would)\n• Background descriptions\n• Time/weather/age\n• Ongoing actions interrupted\n\n🔑 Trigger words:\n• siempre, todos los días\n• mientras, generalmente\n• de niño, antes\n\n💡 Example:\nLeía cuando sonó el teléfono\n→ I was reading [imperfect-background]\n   when the phone rang [preterite-interruption]"
       },
       {
         "subtitle": "Past Perfect (Pluscuamperfecto)",
-        "content": "Used for actions that occurred before another past action (past of the past). Form: haber (imperfect) + past participle. Haber: había, habías, había, habíamos, habíais, habían. Example: 'Cuando llegué, ya había comido' (When I arrived, he had already eaten). The eating happened BEFORE the arriving. Often used with 'ya' (already), 'todavía no' (not yet), 'nunca' (never), 'cuando' (when)."
+        "content": "⏮️ Past of the Past\n\nFormula: HABER (imperfect) + past participle\n\nHABER (imperfect):\n• había\n• habías\n• había\n• habíamos\n• habíais\n• habían\n\nExample:\nCuando llegué, ya había comido\n→ When I arrived, he had already eaten\n  (eating happened BEFORE arriving)\n\n📍 When to use:\n• Actions before another past action\n• Past of the past\n• Setting up past context\n\n🔑 Often used with:\n• ya (already)\n• todavía no (not yet)\n• nunca (never)\n• cuando (when)"
       },
       {
         "subtitle": "Past Progressive",
-        "content": "Emphasizes an action that was in progress at a specific moment in the past. Form: estar (imperfect) + gerund. Estaba, estabas, estaba, estábamos, estabais, estaban + -ando/-iendo. Example: 'Estaba comiendo cuando llegaste' (I was eating when you arrived). More emphatic than simple imperfect, focusing on the ongoing nature of the action at that specific moment."
+        "content": "🏃 Emphasizing Ongoing Past Action\n\nFormula: ESTAR (imperfect) + gerund\n\nESTAR (imperfect):\n• estaba\n• estabas\n• estaba\n• estábamos\n• estabais\n• estaban\n\nGerund forms:\n• -AR → -ando (hablando)\n• -ER/-IR → -iendo (comiendo, viviendo)\n\nExamples:\n• Estaba comiendo cuando llegaste\n  → I was eating when you arrived\n• Estaban hablando toda la noche\n  → They were talking all night\n\n💡 MORE emphatic than simple imperfect\n→ Focuses on the ongoing nature\n   at that specific moment"
       }
     ]
   },

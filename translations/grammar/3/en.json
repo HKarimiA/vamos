@@ -8,27 +8,27 @@
     "sections": [
       {
         "subtitle": "Telling Time - Hours",
-        "content": "Use 'Es la...' for 1:00 and 'Son las...' for all other hours. Examples: Es la una (It's 1 o'clock), Son las dos (It's 2 o'clock), Son las cinco (It's 5 o'clock). Use 'de la mañana' (AM), 'de la tarde' (PM afternoon), 'de la noche' (PM evening/night)."
+        "content": "🕐 Basic Hour Format\n\n1:00 is singular:\n• Es la una → It's 1 o'clock\n\nAll other hours are plural:\n• Son las dos → It's 2 o'clock\n• Son las cinco → It's 5 o'clock\n• Son las diez → It's 10 o'clock\n\n⏰ Time of day:\n• de la mañana → AM (morning)\n• de la tarde → PM (afternoon)\n• de la noche → PM (evening/night)"
       },
       {
         "subtitle": "Telling Time - Minutes",
-        "content": "Add 'y' (and) for minutes past: 'Son las tres y diez' (3:10). Use 'cuarto' for quarter (15 min) and 'media' for half (30 min): 'Son las dos y cuarto' (2:15), 'Son las cinco y media' (5:30). For minutes to the hour, use 'menos': 'Son las seis menos diez' (5:50, literally 6 minus 10)."
+        "content": "⏱️ Adding Minutes\n\nMinutes PAST the hour (use 'y'):\n• Son las tres y diez → 3:10\n• Son las cuatro y veinte → 4:20\n\nSpecial terms:\n• cuarto → quarter (15 min)\n  → Son las dos y cuarto (2:15)\n• media → half (30 min)\n  → Son las cinco y media (5:30)\n\nMinutes TO the hour (use 'menos'):\n• Son las seis menos diez → 5:50\n  (literally: 6 minus 10)\n• Son las ocho menos cuarto → 7:45\n  (literally: 8 minus quarter)"
       },
       {
         "subtitle": "Parts of the Day",
-        "content": "Key time periods: mañana (morning), mediodía (noon/midday), tarde (afternoon/evening), noche (night), medianoche (midnight), madrugada (early morning/dawn). Use 'por la mañana' (in the morning), 'por la tarde' (in the afternoon), 'por la noche' (at night)."
+        "content": "🌅 Time Periods\n\n• mañana → morning\n• mediodía → noon/midday\n• tarde → afternoon/evening\n• noche → night\n• medianoche → midnight\n• madrugada → early morning/dawn\n\n📍 Using with 'por':\n• por la mañana → in the morning\n• por la tarde → in the afternoon\n• por la noche → at night"
       },
       {
         "subtitle": "Days & Months",
-        "content": "Days: lunes, martes, miércoles, jueves, viernes, sábado, domingo. Months: enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre. Days and months are NOT capitalized in Spanish unless they start a sentence."
+        "content": "📅 Days of the Week\n\n• lunes → Monday\n• martes → Tuesday\n• miércoles → Wednesday\n• jueves → Thursday\n• viernes → Friday\n• sábado → Saturday\n• domingo → Sunday\n\n📆 Months of the Year\n\n• enero → January\n• febrero → February\n• marzo → March\n• abril → April\n• mayo → May\n• junio → June\n• julio → July\n• agosto → August\n• septiembre → September\n• octubre → October\n• noviembre → November\n• diciembre → December\n\n⚠️ NOT capitalized in Spanish\n(unless starting a sentence)"
       },
       {
         "subtitle": "Seasons & Dates",
-        "content": "Seasons: primavera (spring), verano (summer), otoño (fall/autumn), invierno (winter). For dates, use: el + number + de + month. Example: 'el 15 de marzo' (March 15th). The first of the month uses 'primero': 'el primero de enero' (January 1st)."
+        "content": "🌸 Four Seasons\n\n• primavera → spring\n• verano → summer\n• otoño → fall/autumn\n• invierno → winter\n\n📍 Date Format\n\nPattern: el + number + de + month\n\nExamples:\n• el 15 de marzo → March 15th\n• el 20 de julio → July 20th\n• el 3 de octubre → October 3rd\n\n⚠️ Special case for 1st:\n• el primero de enero → January 1st\n(not \"el uno de enero\")"
       },
       {
         "subtitle": "Duration & Frequency",
-        "content": "Hace + time = ago: 'Hace dos días' (two days ago). Desde = since/from: 'Desde ayer' (since yesterday). Durante = during/for: 'Durante tres horas' (for three hours). Frequency adverbs: siempre (always), nunca (never), a veces (sometimes), frecuentemente (frequently), raramente (rarely)."
+        "content": "⏳ Time Expressions\n\nHace + time = ago:\n• Hace dos días → two days ago\n• Hace una semana → a week ago\n\nDesde = since/from:\n• Desde ayer → since yesterday\n• Desde las dos → since 2 o'clock\n\nDurante = during/for:\n• Durante tres horas → for three hours\n• Durante el verano → during the summer\n\n🔄 Frequency Adverbs\n\n• siempre → always\n• nunca → never\n• a veces → sometimes\n• frecuentemente → frequently\n• raramente → rarely"
       }
     ]
   },
