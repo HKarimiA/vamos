@@ -1,0 +1,282 @@
+{
+  "topic": {
+    "id": 8,
+    "name": "Present Tense"
+  },
+  "explanation": {
+    "title": "Spanish Present Tense: Regular & Irregular Verbs",
+    "sections": [
+      {
+        "subtitle": "Verb Groups & Infinitives",
+        "content": "Spanish verbs are divided into three conjugation groups based on their infinitive endings: -AR verbs (hablar, cantar, bailar), -ER verbs (comer, beber, leer), and -IR verbs (vivir, escribir, abrir). The infinitive is the base form meaning 'to (verb)'. Each group has its own set of endings when conjugated."
+      },
+      {
+        "subtitle": "Regular Present Tense Conjugation",
+        "content": "Remove the infinitive ending and add present tense endings. -AR: -o, -as, -a, -amos, -áis, -an (hablar: hablo, hablas, habla, hablamos, habláis, hablan). -ER: -o, -es, -e, -emos, -éis, -en (comer: como, comes, come, comemos, coméis, comen). -IR: -o, -es, -e, -imos, -ís, -en (vivir: vivo, vives, vive, vivimos, vivís, viven)."
+      },
+      {
+        "subtitle": "Common Irregular Verbs",
+        "content": "Key irregular verbs in present tense: SER (to be): soy, eres, es, somos, sois, son. ESTAR (to be): estoy, estás, está, estamos, estáis, están. IR (to go): voy, vas, va, vamos, vais, van. TENER (to have): tengo, tienes, tiene, tenemos, tenéis, tienen. HACER (to do/make): hago, haces, hace, hacemos, hacéis, hacen."
+      },
+      {
+        "subtitle": "Stem-Changing Verbs",
+        "content": "Some verbs change their stem vowel in all forms EXCEPT nosotros/vosotros: E→IE (pensar: pienso, piensas, piensa, pensamos, pensáis, piensan), O→UE (poder: puedo, puedes, puede, podemos, podéis, pueden), E→I (pedir: pido, pides, pide, pedimos, pedís, piden - mainly -IR verbs). The stem change is in the stressed syllable."
+      },
+      {
+        "subtitle": "First Person Irregulars",
+        "content": "Many verbs are irregular only in the 'yo' form: -GO verbs: tener (tengo), poner (pongo), salir (salgo), venir (vengo), hacer (hago), decir (digo). -ZCO verbs: conocer (conozco), traducir (traduzco), ofrecer (ofrezco). Other yo irregulars: saber (sé), ver (veo), dar (doy)."
+      },
+      {
+        "subtitle": "Present Progressive",
+        "content": "For actions happening right now, use ESTAR + gerund (present participle). Form gerund: -AR verbs add -ando (hablar → hablando), -ER/-IR verbs add -iendo (comer → comiendo, vivir → viviendo). Example: 'Estoy comiendo' (I am eating), 'Están hablando' (They are talking). Use for actions in progress, not habitual actions."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the three Spanish verb groups?",
+      "answers": [
+        { "text": "-AR, -ER, -IR", "correct": true },
+        { "text": "-AR, -OR, -UR", "correct": false },
+        { "text": "-ER, -IR, -UR", "correct": false },
+        { "text": "-AR, -ER, -OR", "correct": false }
+      ],
+      "hint": "Each group is based on the infinitive ending. Think: hablar, comer, vivir."
+    },
+    {
+      "id": 2,
+      "question": "What is the 'yo' form of 'hablar' (to speak)?",
+      "answers": [
+        { "text": "hablo", "correct": true },
+        { "text": "hablas", "correct": false },
+        { "text": "habla", "correct": false },
+        { "text": "hablamos", "correct": false }
+      ],
+      "hint": "Remove -ar and add -o for yo form of -AR verbs."
+    },
+    {
+      "id": 3,
+      "question": "What is the 'nosotros' form of 'comer' (to eat)?",
+      "answers": [
+        { "text": "comemos", "correct": true },
+        { "text": "comamos", "correct": false },
+        { "text": "comimos", "correct": false },
+        { "text": "comen", "correct": false }
+      ],
+      "hint": "Remove -er and add -emos for nosotros form of -ER verbs."
+    },
+    {
+      "id": 4,
+      "question": "What is the 'tú' form of 'vivir' (to live)?",
+      "answers": [
+        { "text": "vives", "correct": true },
+        { "text": "vive", "correct": false },
+        { "text": "vivo", "correct": false },
+        { "text": "vivis", "correct": false }
+      ],
+      "hint": "Remove -ir and add -es for tú form of -IR verbs."
+    },
+    {
+      "id": 5,
+      "question": "What is the 'yo' form of SER (to be)?",
+      "answers": [
+        { "text": "soy", "correct": true },
+        { "text": "estoy", "correct": false },
+        { "text": "eres", "correct": false },
+        { "text": "es", "correct": false }
+      ],
+      "hint": "This is completely irregular. It's one of the most common verbs in Spanish."
+    },
+    {
+      "id": 6,
+      "question": "What is the 'yo' form of ESTAR (to be)?",
+      "answers": [
+        { "text": "estoy", "correct": true },
+        { "text": "soy", "correct": false },
+        { "text": "está", "correct": false },
+        { "text": "estás", "correct": false }
+      ],
+      "hint": "This is the other 'to be' verb. The yo form is completely irregular."
+    },
+    {
+      "id": 7,
+      "question": "What is the 'yo' form of IR (to go)?",
+      "answers": [
+        { "text": "voy", "correct": true },
+        { "text": "vo", "correct": false },
+        { "text": "iro", "correct": false },
+        { "text": "vas", "correct": false }
+      ],
+      "hint": "This is completely irregular and doesn't look like the infinitive at all."
+    },
+    {
+      "id": 8,
+      "question": "What is the 'yo' form of TENER (to have)?",
+      "answers": [
+        { "text": "tengo", "correct": true },
+        { "text": "teno", "correct": false },
+        { "text": "tieno", "correct": false },
+        { "text": "tienes", "correct": false }
+      ],
+      "hint": "This is a -GO verb irregular in the yo form. It also has a stem change in other forms."
+    },
+    {
+      "id": 9,
+      "question": "What is the 'yo' form of HACER (to do/make)?",
+      "answers": [
+        { "text": "hago", "correct": true },
+        { "text": "haco", "correct": false },
+        { "text": "haceo", "correct": false },
+        { "text": "haces", "correct": false }
+      ],
+      "hint": "This is a -GO verb. The yo form ends in -go."
+    },
+    {
+      "id": 10,
+      "question": "What happens to 'pensar' (e→ie) in the 'yo' form?",
+      "answers": [
+        { "text": "pienso", "correct": true },
+        { "text": "penso", "correct": false },
+        { "text": "pienzo", "correct": false },
+        { "text": "penseo", "correct": false }
+      ],
+      "hint": "The 'e' in the stem changes to 'ie' when stressed. Add -o for yo form."
+    },
+    {
+      "id": 11,
+      "question": "What happens to 'poder' (o→ue) in the 'tú' form?",
+      "answers": [
+        { "text": "puedes", "correct": true },
+        { "text": "podes", "correct": false },
+        { "text": "podues", "correct": false },
+        { "text": "poedes", "correct": false }
+      ],
+      "hint": "The 'o' in the stem changes to 'ue' when stressed. Add -es for tú form."
+    },
+    {
+      "id": 12,
+      "question": "Does 'pensar' have a stem change in the 'nosotros' form?",
+      "answers": [
+        { "text": "No, it stays 'pensamos'", "correct": true },
+        { "text": "Yes, it becomes 'piensamos'", "correct": false },
+        { "text": "Yes, it becomes 'pensemos'", "correct": false },
+        { "text": "Yes, it becomes 'piensemos'", "correct": false }
+      ],
+      "hint": "Nosotros and vosotros forms do NOT have stem changes. The stress is not on the stem."
+    },
+    {
+      "id": 13,
+      "question": "What is the 'yo' form of 'pedir' (e→i)?",
+      "answers": [
+        { "text": "pido", "correct": true },
+        { "text": "pedo", "correct": false },
+        { "text": "piedo", "correct": false },
+        { "text": "peido", "correct": false }
+      ],
+      "hint": "E→I stem changes are mainly in -IR verbs. The 'e' changes to 'i' when stressed."
+    },
+    {
+      "id": 14,
+      "question": "What is the 'yo' form of 'poner' (to put)?",
+      "answers": [
+        { "text": "pongo", "correct": true },
+        { "text": "pono", "correct": false },
+        { "text": "peno", "correct": false },
+        { "text": "pones", "correct": false }
+      ],
+      "hint": "This is a -GO verb, irregular only in the yo form."
+    },
+    {
+      "id": 15,
+      "question": "What is the 'yo' form of 'salir' (to leave/go out)?",
+      "answers": [
+        { "text": "salgo", "correct": true },
+        { "text": "salo", "correct": false },
+        { "text": "saliro", "correct": false },
+        { "text": "sales", "correct": false }
+      ],
+      "hint": "Another -GO verb. The yo form ends in -go."
+    },
+    {
+      "id": 16,
+      "question": "What is the 'yo' form of 'conocer' (to know)?",
+      "answers": [
+        { "text": "conozco", "correct": true },
+        { "text": "conoco", "correct": false },
+        { "text": "conocio", "correct": false },
+        { "text": "conoce", "correct": false }
+      ],
+      "hint": "This is a -ZCO verb. The yo form adds 'zc' before the -o ending."
+    },
+    {
+      "id": 17,
+      "question": "What is the 'yo' form of 'saber' (to know)?",
+      "answers": [
+        { "text": "sé", "correct": true },
+        { "text": "sabo", "correct": false },
+        { "text": "sepo", "correct": false },
+        { "text": "sabes", "correct": false }
+      ],
+      "hint": "This is completely irregular in the yo form. It's very short!"
+    },
+    {
+      "id": 18,
+      "question": "How do you form the gerund of -AR verbs?",
+      "answers": [
+        { "text": "Remove -ar, add -ando", "correct": true },
+        { "text": "Remove -ar, add -iendo", "correct": false },
+        { "text": "Remove -ar, add -endo", "correct": false },
+        { "text": "Remove -ar, add -ado", "correct": false }
+      ],
+      "hint": "Hablar → hablando. The gerund for -AR verbs ends in -ando."
+    },
+    {
+      "id": 19,
+      "question": "How do you form the gerund of -ER and -IR verbs?",
+      "answers": [
+        { "text": "Remove -er/-ir, add -iendo", "correct": true },
+        { "text": "Remove -er/-ir, add -ando", "correct": false },
+        { "text": "Remove -er/-ir, add -endo", "correct": false },
+        { "text": "Remove -er/-ir, add -ido", "correct": false }
+      ],
+      "hint": "Comer → comiendo, vivir → viviendo. Both -ER and -IR use -iendo."
+    },
+    {
+      "id": 20,
+      "question": "How do you say 'I am eating' (right now)?",
+      "answers": [
+        { "text": "Estoy comiendo", "correct": true },
+        { "text": "Soy comiendo", "correct": false },
+        { "text": "Como", "correct": false },
+        { "text": "Estoy comer", "correct": false }
+      ],
+      "hint": "Use estar + gerund for the present progressive. Conjugate estar, then add the gerund of comer."
+    },
+    {
+      "id": 21,
+      "question": "What does 'Están hablando' mean?",
+      "answers": [
+        { "text": "They are talking (right now)", "correct": true },
+        { "text": "They talk (habitually)", "correct": false },
+        { "text": "They were talking", "correct": false },
+        { "text": "They will talk", "correct": false }
+      ],
+      "hint": "Estar + gerund indicates an action in progress right now."
+    },
+    {
+      "id": 22,
+      "question": "When do you use present progressive vs simple present?",
+      "answers": [
+        {
+          "text": "Progressive for actions happening now, simple for habits",
+          "correct": true
+        },
+        { "text": "They're interchangeable", "correct": false },
+        { "text": "Progressive for habits, simple for now", "correct": false },
+        { "text": "Progressive is more formal", "correct": false }
+      ],
+      "hint": "Use 'estoy comiendo' for eating RIGHT NOW. Use 'como' for 'I eat' (in general/habitually)."
+    }
+  ]
+}
