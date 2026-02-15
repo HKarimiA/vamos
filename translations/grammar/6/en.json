@@ -1,0 +1,257 @@
+{
+  "topic": {
+    "id": 6,
+    "name": "Determiners"
+  },
+  "explanation": {
+    "title": "Spanish Determiners: Specifying & Quantifying Nouns",
+    "sections": [
+      {
+        "subtitle": "Demonstrative Determiners",
+        "content": "Demonstratives indicate proximity to the speaker. Near: este/esta/estos/estas (this/these). Medium: ese/esa/esos/esas (that/those - near listener). Far: aquel/aquella/aquellos/aquellas (that/those - far from both). They agree in gender and number with the noun: este libro (this book), esa casa (that house), aquellos días (those days)."
+      },
+      {
+        "subtitle": "Possessive Determiners",
+        "content": "Possessives show ownership and go before the noun: mi/mis (my), tu/tus (your informal), su/sus (his/her/your formal/their), nuestro/nuestra/nuestros/nuestras (our), vuestro/vuestra/vuestros/vuestras (your plural Spain). They agree in number with the possessed item, not the possessor: mi libro (my book), mis libros (my books), nuestra casa (our house), nuestras casas (our houses)."
+      },
+      {
+        "subtitle": "Quantifiers: Expressing Amount",
+        "content": "Quantifiers express how much or how many: mucho/mucha/muchos/muchas (much/many), poco/poca/pocos/pocas (little/few), varios/varias (several), demasiado/demasiada/demasiados/demasiadas (too much/many), bastante/bastantes (enough/quite a lot). They agree with the noun: mucho dinero (much money), muchas personas (many people), pocos libros (few books)."
+      },
+      {
+        "subtitle": "Indefinite Determiners",
+        "content": "Indefinite determiners refer to non-specific items: algún/alguna/algunos/algunas (some/any - positive contexts), ningún/ninguna (no/none/any - negative contexts), cualquier/cualesquiera (any - choice). Algún and ningún shorten before masculine singular nouns. Note: Spanish uses double negatives - 'No tengo ningún libro' (I don't have any book)."
+      },
+      {
+        "subtitle": "Distributive Determiners",
+        "content": "Each/every/all determiners: cada (each/every - invariable, used with singular nouns), todo/toda/todos/todas (all/every/whole). 'Todo' can mean different things: todo el día (all day long), toda la casa (the whole house), todos los días (every day), todas las personas (all people). Ambos/ambas (both) is always plural: ambos libros (both books)."
+      },
+      {
+        "subtitle": "Key Differences & Usage",
+        "content": "Unlike articles, determiners are more specific. You can't use possessives with articles in Spanish (*la mi casa is wrong - just 'mi casa'). Demonstratives can become pronouns when the noun is omitted: 'este libro' (this book) vs 'este' (this one). Quantifiers can also work as pronouns: 'muchos libros' (many books) vs 'muchos' (many)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which demonstrative means 'this' (masculine singular)?",
+      "answers": [
+        { "text": "este", "correct": true },
+        { "text": "ese", "correct": false },
+        { "text": "aquel", "correct": false },
+        { "text": "esta", "correct": false }
+      ],
+      "hint": "This is the nearest demonstrative for masculine singular nouns."
+    },
+    {
+      "id": 2,
+      "question": "Which demonstrative means 'these' (feminine)?",
+      "answers": [
+        { "text": "estas", "correct": true },
+        { "text": "estos", "correct": false },
+        { "text": "esas", "correct": false },
+        { "text": "esta", "correct": false }
+      ],
+      "hint": "Plural form of 'esta' (this). Used for nearby feminine plural nouns."
+    },
+    {
+      "id": 3,
+      "question": "Which demonstrative indicates medium distance (masculine)?",
+      "answers": [
+        { "text": "ese", "correct": true },
+        { "text": "este", "correct": false },
+        { "text": "aquel", "correct": false },
+        { "text": "eso", "correct": false }
+      ],
+      "hint": "This means 'that' for items near the listener but not the speaker."
+    },
+    {
+      "id": 4,
+      "question": "Which demonstrative indicates far distance (feminine plural)?",
+      "answers": [
+        { "text": "aquellas", "correct": true },
+        { "text": "esas", "correct": false },
+        { "text": "estas", "correct": false },
+        { "text": "aquella", "correct": false }
+      ],
+      "hint": "This means 'those' for items far from both speaker and listener (feminine)."
+    },
+    {
+      "id": 5,
+      "question": "What is the possessive determiner for 'my' (plural)?",
+      "answers": [
+        { "text": "mis", "correct": true },
+        { "text": "mi", "correct": false },
+        { "text": "mís", "correct": false },
+        { "text": "mes", "correct": false }
+      ],
+      "hint": "Add -s to 'mi' when the possessed item is plural: mis libros (my books)."
+    },
+    {
+      "id": 6,
+      "question": "What is the possessive for 'our' with a masculine singular noun?",
+      "answers": [
+        { "text": "nuestro", "correct": true },
+        { "text": "nuestra", "correct": false },
+        { "text": "nuestros", "correct": false },
+        { "text": "su", "correct": false }
+      ],
+      "hint": "'Our' in Spanish changes form. Use the masculine singular form here."
+    },
+    {
+      "id": 7,
+      "question": "Which possessive is ambiguous (can mean his/her/their/your formal)?",
+      "answers": [
+        { "text": "su/sus", "correct": true },
+        { "text": "tu/tus", "correct": false },
+        { "text": "mi/mis", "correct": false },
+        { "text": "nuestro/nuestra", "correct": false }
+      ],
+      "hint": "This possessive has multiple meanings - context determines which one."
+    },
+    {
+      "id": 8,
+      "question": "How do you say 'many books' in Spanish?",
+      "answers": [
+        { "text": "muchos libros", "correct": true },
+        { "text": "mucho libros", "correct": false },
+        { "text": "muchas libros", "correct": false },
+        { "text": "muches libros", "correct": false }
+      ],
+      "hint": "Libros is masculine plural, so use the masculine plural form of 'mucho'."
+    },
+    {
+      "id": 9,
+      "question": "How do you say 'much money' in Spanish?",
+      "answers": [
+        { "text": "mucho dinero", "correct": true },
+        { "text": "muchos dinero", "correct": false },
+        { "text": "mucha dinero", "correct": false },
+        { "text": "muchas dinero", "correct": false }
+      ],
+      "hint": "Dinero is masculine singular, so use the masculine singular form of 'mucho'."
+    },
+    {
+      "id": 10,
+      "question": "What does 'pocos libros' mean?",
+      "answers": [
+        { "text": "few books", "correct": true },
+        { "text": "many books", "correct": false },
+        { "text": "some books", "correct": false },
+        { "text": "too many books", "correct": false }
+      ],
+      "hint": "'Poco' means 'little' or 'few' - the opposite of 'mucho'."
+    },
+    {
+      "id": 11,
+      "question": "What does 'varias personas' mean?",
+      "answers": [
+        { "text": "several people", "correct": true },
+        { "text": "few people", "correct": false },
+        { "text": "many people", "correct": false },
+        { "text": "all people", "correct": false }
+      ],
+      "hint": "'Varios/varias' means 'several' or 'various'. Personas is feminine plural."
+    },
+    {
+      "id": 12,
+      "question": "What does 'demasiado dinero' mean?",
+      "answers": [
+        { "text": "too much money", "correct": true },
+        { "text": "much money", "correct": false },
+        { "text": "little money", "correct": false },
+        { "text": "enough money", "correct": false }
+      ],
+      "hint": "'Demasiado' means 'too much' or 'too many' - excessive amount."
+    },
+    {
+      "id": 13,
+      "question": "What is the shortened form of 'alguno' before a masculine singular noun?",
+      "answers": [
+        { "text": "algún", "correct": true },
+        { "text": "algun", "correct": false },
+        { "text": "alguno", "correct": false },
+        { "text": "algu", "correct": false }
+      ],
+      "hint": "Drop the -o and add an accent. Example: algún día (some day)."
+    },
+    {
+      "id": 14,
+      "question": "What is the shortened form of 'ninguno' before a masculine singular noun?",
+      "answers": [
+        { "text": "ningún", "correct": true },
+        { "text": "ningun", "correct": false },
+        { "text": "ninguno", "correct": false },
+        { "text": "ningu", "correct": false }
+      ],
+      "hint": "Drop the -o and add an accent. Example: ningún problema (no problem)."
+    },
+    {
+      "id": 15,
+      "question": "What does 'No tengo ningún libro' mean?",
+      "answers": [
+        { "text": "I don't have any book", "correct": true },
+        { "text": "I have some book", "correct": false },
+        { "text": "I have many books", "correct": false },
+        { "text": "I have every book", "correct": false }
+      ],
+      "hint": "Spanish uses double negative. 'No' + 'ningún' = negative statement."
+    },
+    {
+      "id": 16,
+      "question": "What does 'cada día' mean?",
+      "answers": [
+        { "text": "each day / every day", "correct": true },
+        { "text": "some days", "correct": false },
+        { "text": "many days", "correct": false },
+        { "text": "few days", "correct": false }
+      ],
+      "hint": "'Cada' means 'each' or 'every' and is invariable (doesn't change form)."
+    },
+    {
+      "id": 17,
+      "question": "What does 'todo el día' mean?",
+      "answers": [
+        { "text": "all day long / the whole day", "correct": true },
+        { "text": "each day", "correct": false },
+        { "text": "some day", "correct": false },
+        { "text": "many days", "correct": false }
+      ],
+      "hint": "'Todo' + article + singular noun means 'the whole' or 'all of'."
+    },
+    {
+      "id": 18,
+      "question": "What does 'todos los días' mean?",
+      "answers": [
+        { "text": "every day", "correct": true },
+        { "text": "all the days", "correct": false },
+        { "text": "some days", "correct": false },
+        { "text": "whole day", "correct": false }
+      ],
+      "hint": "'Todos' + article + plural noun means 'every' (habitual action)."
+    },
+    {
+      "id": 19,
+      "question": "What does 'ambos libros' mean?",
+      "answers": [
+        { "text": "both books", "correct": true },
+        { "text": "all books", "correct": false },
+        { "text": "some books", "correct": false },
+        { "text": "many books", "correct": false }
+      ],
+      "hint": "'Ambos/ambas' means 'both' and is always plural."
+    },
+    {
+      "id": 20,
+      "question": "Which is INCORRECT in Spanish?",
+      "answers": [
+        { "text": "la mi casa", "correct": true },
+        { "text": "mi casa", "correct": false },
+        { "text": "la casa", "correct": false },
+        { "text": "esta casa", "correct": false }
+      ],
+      "hint": "You cannot combine articles with possessive determiners in Spanish. Use one or the other, not both."
+    }
+  ]
+}
