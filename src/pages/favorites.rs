@@ -29,6 +29,17 @@ pub fn Favorites() -> impl IntoView {
     // State management
     let (card_index, set_card_index) = signal(0usize);
 
+    // State for showing example and translation - persist at parent level
+    let show_example = RwSignal::new(false);
+    let show_translation = RwSignal::new(false);
+
+    // Reset example/translation visibility when card changes
+    Effect::new(move |_| {
+        let _ = card_index.get();
+        show_example.set(false);
+        show_translation.set(false);
+    });
+
     // Get filtered list of valid favorites, sorted by card_id
     let favorite_cards = move || {
         let all = favorites_ctx.get_all();
@@ -125,6 +136,8 @@ pub fn Favorites() -> impl IntoView {
                                             card_count={favorite_cards().len()}
                                             is_favorite={true}
                                             direction={direction()}
+                                            show_example={show_example}
+                                            show_translation={show_translation}
                                             stage=stage
                                             on_toggle_favorite=move || toggle_favorite(())
                                         />

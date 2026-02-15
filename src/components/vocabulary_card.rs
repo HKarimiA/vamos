@@ -12,23 +12,14 @@ pub fn VocabularyCard<F>(
     card_count: usize,
     is_favorite: bool,
     direction: LearningDirection,
+    show_example: RwSignal<bool>,
+    show_translation: RwSignal<bool>,
     #[prop(optional)] stage: Option<u32>,
     on_toggle_favorite: F,
 ) -> impl IntoView
 where
     F: Fn() + 'static,
 {
-    // State management
-    let (show_example, set_show_example) = signal(false);
-    let (show_translation, set_show_translation) = signal(false);
-
-    // Reset state when card changes
-    Effect::new(move |_| {
-        let _ = card_index;
-        set_show_example.set(false);
-        set_show_translation.set(false);
-    });
-
     // Speak word using Web Speech API
     #[allow(unused_variables)]
     let speak = move |text: String, lang: &str| {
@@ -97,7 +88,7 @@ where
             {move || (!show_example.get()).then(|| view! {
                 <button
                     class="reveal-button"
-                    on:click=move |_| set_show_example.set(true)
+                    on:click=move |_| show_example.set(true)
                 >
                     "Show Example"
                 </button>
@@ -121,7 +112,7 @@ where
             {move || (!show_translation.get()).then(|| view! {
                 <button
                     class="reveal-button translation-button"
-                    on:click=move |_| set_show_translation.set(true)
+                    on:click=move |_| show_translation.set(true)
                 >
                     "Show Translation"
                 </button>

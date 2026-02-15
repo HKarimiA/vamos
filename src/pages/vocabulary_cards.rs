@@ -39,6 +39,10 @@ pub fn VocabularyCards() -> impl IntoView {
     let (card_index, set_card_index) = signal(0usize);
     let (card_count, set_card_count) = signal(0usize);
 
+    // State for showing example and translation - persist at parent level
+    let show_example = RwSignal::new(false);
+    let show_translation = RwSignal::new(false);
+
     // Initialize card count when stage changes
     Effect::new(move |_| {
         let current_stage = stage();
@@ -46,6 +50,13 @@ pub fn VocabularyCards() -> impl IntoView {
             set_card_count.set(count);
             set_card_index.set(0);
         }
+    });
+
+    // Reset example/translation visibility when card changes
+    Effect::new(move |_| {
+        let _ = card_index.get();
+        show_example.set(false);
+        show_translation.set(false);
     });
 
     // Get current card
@@ -107,6 +118,8 @@ pub fn VocabularyCards() -> impl IntoView {
                                         card_count={card_count.get()}
                                         is_favorite={is_favorite()}
                                         direction={direction()}
+                                        show_example={show_example}
+                                        show_translation={show_translation}
                                         on_toggle_favorite=move || toggle_favorite(())
                                     />
 
