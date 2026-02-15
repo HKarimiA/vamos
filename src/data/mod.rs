@@ -1,5 +1,8 @@
 use serde::{Deserialize, Serialize};
 
+pub mod grammar;
+pub use grammar::{get_all_topics, get_difficulty_class};
+
 /// Represents a single vocabulary card with translations
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq)]
 pub struct VocabularyCard {

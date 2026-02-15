@@ -10,7 +10,7 @@ mod data;
 mod pages;
 
 use core::FavoritesContext;
-use pages::{Favorites, Grammar, Home, Vocabulary, VocabularyCards};
+use pages::{Favorites, Grammar, GrammarTopic, Home, Vocabulary, VocabularyCards};
 
 fn main() {
     leptos::mount::mount_to_body(|| view! { <App/> })
@@ -28,6 +28,7 @@ fn App() -> impl IntoView {
                 <Route path=path!("/vocabulary/favorites") view=Favorites/>
                 <Route path=path!("/vocabulary/:stage") view=VocabularyCards/>
                 <Route path=path!("/grammar") view=Grammar/>
+                <Route path=path!("/grammar/:id") view=GrammarTopic/>
             </Routes>
         </Router>
     }

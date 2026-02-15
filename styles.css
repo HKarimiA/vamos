@@ -460,3 +460,65 @@ body {
   font-size: 1.125rem;
   margin-bottom: 1rem;
 }
+
+/* Grammar Topics Styles */
+.grammar-topics-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1rem;
+}
+
+.grammar-topic-row {
+  display: flex;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  min-height: 56px;
+  touch-action: manipulation;
+}
+
+.grammar-topic-row:active {
+  transform: scale(0.98);
+}
+
+.topic-number {
+  font-size: 1.25rem;
+  font-weight: 700;
+  min-width: 2.5rem;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.topic-name {
+  flex: 1;
+  font-size: 1rem;
+  padding-left: 1rem;
+}
+
+.topic-arrow {
+  font-size: 1.5rem;
+  opacity: 0.7;
+}
+
+/* Difficulty color levels - Blue-Purple gradient from light to dark */
+.difficulty-1 {
+  background: linear-gradient(135deg, #a8b7ff 0%, #b8a8ff 100%);
+}
+
+.difficulty-2 {
+  background: linear-gradient(135deg, #7e8fff 0%, #9d7eff 100%);
+}
+
+.difficulty-3 {
+  background: linear-gradient(135deg, #667eea 0%, #8764ba 100%);
+}
+
+.difficulty-4 {
+  background: linear-gradient(135deg, #5568d3 0%, #764ba2 100%);
+}
