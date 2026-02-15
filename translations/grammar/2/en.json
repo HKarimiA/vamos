@@ -1,0 +1,260 @@
+{
+  "topic": {
+    "id": 2,
+    "name": "Numbers"
+  },
+  "explanation": {
+    "title": "Spanish Numbers: Cardinal & Ordinal",
+    "sections": [
+      {
+        "subtitle": "Numbers 0-15",
+        "content": "Basic numbers: cero (0), uno (1), dos (2), tres (3), cuatro (4), cinco (5), seis (6), siete (7), ocho (8), nueve (9), diez (10), once (11), doce (12), trece (13), catorce (14), quince (15). These are the foundation - memorize them first!"
+      },
+      {
+        "subtitle": "Numbers 16-29",
+        "content": "From 16-19, numbers are written as one word: dieciséis (16), diecisiete (17), dieciocho (18), diecinueve (19). From 21-29: veintiuno (21), veintidós (22), veintitrés (23)... up to veintinueve (29). Note the accents on 22, 23, and 26!"
+      },
+      {
+        "subtitle": "Numbers 30-99",
+        "content": "From 30 onwards, use 'y' (and): treinta y uno (31), cuarenta y dos (42), cincuenta y tres (53). The tens are: treinta (30), cuarenta (40), cincuenta (50), sesenta (60), setenta (70), ochenta (80), noventa (90). Each decade follows the same pattern."
+      },
+      {
+        "subtitle": "Hundreds and Thousands",
+        "content": "Hundreds: cien (100), but ciento when followed by other numbers (ciento uno = 101). 200-900 end in '-cientos': doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos. Mil (1000) never changes. Million is 'un millón'."
+      },
+      {
+        "subtitle": "Gender Agreement",
+        "content": "When counting feminine nouns, 'uno' becomes 'una' and hundreds ending in '-cientos' become '-cientas': una mesa (one table), doscientas personas (two hundred people). This ONLY affects 'one' and 'hundreds' (200-900)."
+      },
+      {
+        "subtitle": "Ordinal Numbers",
+        "content": "First to tenth: primero/primera (1st), segundo (2nd), tercero (3rd), cuarto (4th), quinto (5th), sexto (6th), séptimo (7th), octavo (8th), noveno (9th), décimo (10th). They agree in gender and number. Primero and tercero drop the 'o' before masculine singular nouns: primer día (first day)."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you say '15' in Spanish?",
+      "answers": [
+        { "text": "quince", "correct": true },
+        { "text": "quinze", "correct": false },
+        { "text": "diez y cinco", "correct": false },
+        { "text": "cincuenta", "correct": false }
+      ],
+      "hint": "This number is written as one word and starts with 'qui-'."
+    },
+    {
+      "id": 2,
+      "question": "Which number is written as one word in Spanish?",
+      "answers": [
+        { "text": "dieciséis (16)", "correct": true },
+        { "text": "treinta y uno (31)", "correct": false },
+        { "text": "cuarenta y dos (42)", "correct": false },
+        { "text": "cincuenta y tres (53)", "correct": false }
+      ],
+      "hint": "Numbers 16-19 and 21-29 are special - they're written as single words."
+    },
+    {
+      "id": 3,
+      "question": "What is the correct way to say '22' in Spanish?",
+      "answers": [
+        { "text": "veintidós", "correct": true },
+        { "text": "vientidós", "correct": false },
+        { "text": "veinte y dos", "correct": false },
+        { "text": "veintidos", "correct": false }
+      ],
+      "hint": "Remember the accent mark! This number is in the 20s and written as one word."
+    },
+    {
+      "id": 4,
+      "question": "How do you say '31' in Spanish?",
+      "answers": [
+        { "text": "treinta y uno", "correct": true },
+        { "text": "treintayuno", "correct": false },
+        { "text": "treinta uno", "correct": false },
+        { "text": "trenta y uno", "correct": false }
+      ],
+      "hint": "From 30 onwards, numbers are written as three separate words using 'y' (and)."
+    },
+    {
+      "id": 5,
+      "question": "What is '100' in Spanish?",
+      "answers": [
+        { "text": "cien", "correct": true },
+        { "text": "ciento", "correct": false },
+        { "text": "cieno", "correct": false },
+        { "text": "cientro", "correct": false }
+      ],
+      "hint": "When 100 stands alone or before mil/millones, use this shorter form."
+    },
+    {
+      "id": 6,
+      "question": "Which is correct for '101'?",
+      "answers": [
+        { "text": "ciento uno", "correct": true },
+        { "text": "cien uno", "correct": false },
+        { "text": "cien y uno", "correct": false },
+        { "text": "cieno uno", "correct": false }
+      ],
+      "hint": "When 100 is followed by other numbers (1-99), it takes a longer form."
+    },
+    {
+      "id": 7,
+      "question": "How do you say '200' in Spanish?",
+      "answers": [
+        { "text": "doscientos", "correct": true },
+        { "text": "dos cientos", "correct": false },
+        { "text": "doscientas", "correct": false },
+        { "text": "docientos", "correct": false }
+      ],
+      "hint": "The masculine form ends in '-cientos'. It means literally 'two hundreds'."
+    },
+    {
+      "id": 8,
+      "question": "If you're counting feminine nouns, which changes?",
+      "answers": [
+        { "text": "doscientos becomes doscientas", "correct": true },
+        { "text": "treinta becomes treinte", "correct": false },
+        { "text": "mil becomes mila", "correct": false },
+        { "text": "diez becomes dieza", "correct": false }
+      ],
+      "hint": "Only the hundreds (200-900) and 'one' change with gender. Hundreds change from '-cientos' to '-cientas'."
+    },
+    {
+      "id": 9,
+      "question": "What is 'una mesa' in English?",
+      "answers": [
+        { "text": "one table", "correct": true },
+        { "text": "a hundred tables", "correct": false },
+        { "text": "the table", "correct": false },
+        { "text": "some tables", "correct": false }
+      ],
+      "hint": "'Uno' becomes 'una' before feminine nouns. Mesa is feminine."
+    },
+    {
+      "id": 10,
+      "question": "How do you say 'first' in Spanish (masculine)?",
+      "answers": [
+        { "text": "primero", "correct": true },
+        { "text": "uno", "correct": false },
+        { "text": "principal", "correct": false },
+        { "text": "inicial", "correct": false }
+      ],
+      "hint": "This ordinal number comes from Latin 'primus'. Before masculine singular nouns, it becomes 'primer'."
+    },
+    {
+      "id": 11,
+      "question": "What is the ordinal number for 'second' in Spanish?",
+      "answers": [
+        { "text": "segundo", "correct": true },
+        { "text": "secundo", "correct": false },
+        { "text": "dos", "correct": false },
+        { "text": "seguido", "correct": false }
+      ],
+      "hint": "This word looks similar to 'second' in English and also means '60 seconds'."
+    },
+    {
+      "id": 12,
+      "question": "Which ordinal number is 'third' in Spanish?",
+      "answers": [
+        { "text": "tercero", "correct": true },
+        { "text": "tres", "correct": false },
+        { "text": "tercio", "correct": false },
+        { "text": "tresero", "correct": false }
+      ],
+      "hint": "Like 'primero', this also shortens before masculine singular nouns (tercer día = third day)."
+    },
+    {
+      "id": 13,
+      "question": "What is the Spanish ordinal for 'fifth'?",
+      "answers": [
+        { "text": "quinto", "correct": true },
+        { "text": "cinco", "correct": false },
+        { "text": "cincavo", "correct": false },
+        { "text": "quintero", "correct": false }
+      ],
+      "hint": "Think of 'quintuplets' (five babies) or 'quintessence' in English."
+    },
+    {
+      "id": 14,
+      "question": "How do you say 'tenth' in Spanish?",
+      "answers": [
+        { "text": "décimo", "correct": true },
+        { "text": "diez", "correct": false },
+        { "text": "deceno", "correct": false },
+        { "text": "diesimo", "correct": false }
+      ],
+      "hint": "Think of 'decimal' - related to ten. It has an accent on the first 'e'."
+    },
+    {
+      "id": 15,
+      "question": "Do ordinal numbers agree in gender with the noun?",
+      "answers": [
+        { "text": "Yes, they change ending", "correct": true },
+        { "text": "No, they never change", "correct": false },
+        { "text": "Only for 'first' and 'second'", "correct": false },
+        { "text": "Only for numbers over ten", "correct": false }
+      ],
+      "hint": "All ordinal numbers in Spanish agree in both gender and number with the noun they modify."
+    },
+    {
+      "id": 16,
+      "question": "What happens to 'primero' before a masculine singular noun?",
+      "answers": [
+        { "text": "It becomes 'primer'", "correct": true },
+        { "text": "It stays 'primero'", "correct": false },
+        { "text": "It becomes 'primera'", "correct": false },
+        { "text": "It becomes 'primen'", "correct": false }
+      ],
+      "hint": "This is called apocopation - the 'o' drops. Example: primer día (first day)."
+    },
+    {
+      "id": 17,
+      "question": "How do you say 'one thousand' in Spanish?",
+      "answers": [
+        { "text": "mil", "correct": true },
+        { "text": "un mil", "correct": false },
+        { "text": "milles", "correct": false },
+        { "text": "mila", "correct": false }
+      ],
+      "hint": "'Mil' never changes form and doesn't need 'un' before it (unlike 'un millón')."
+    },
+    {
+      "id": 18,
+      "question": "Which number pattern is correct?",
+      "answers": [
+        { "text": "veintiuno, veintidós, veintitrés", "correct": true },
+        {
+          "text": "veinte y uno, veinte y dos, veinte y tres",
+          "correct": false
+        },
+        { "text": "veintuno, veintidos, veintitres", "correct": false },
+        { "text": "viente uno, viente dos, viente tres", "correct": false }
+      ],
+      "hint": "Numbers 21-29 are written as single words with accents on 22, 23, and 26."
+    },
+    {
+      "id": 19,
+      "question": "What is '500' in Spanish?",
+      "answers": [
+        { "text": "quinientos", "correct": true },
+        { "text": "cincocientos", "correct": false },
+        { "text": "cincientos", "correct": false },
+        { "text": "quientocientos", "correct": false }
+      ],
+      "hint": "This one is irregular. It doesn't follow the pattern of adding '-cientos' to 'cinco'. It starts with 'qui-'."
+    },
+    {
+      "id": 20,
+      "question": "When counting 'doscientas personas' (200 people), why use 'doscientas'?",
+      "answers": [
+        { "text": "Because 'personas' is feminine", "correct": true },
+        { "text": "Because there are many people", "correct": false },
+        { "text": "Because it's more than 100", "correct": false },
+        { "text": "It's optional, both forms work", "correct": false }
+      ],
+      "hint": "Hundreds (200-900) must agree in gender with the noun being counted. Personas is feminine."
+    }
+  ]
+}
