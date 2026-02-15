@@ -262,26 +262,6 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                         // Feedback and next button
                         <Show when=move || show_feedback.get()>
                             <div class="feedback-container">
-                                {move || {
-                                    selected_answer.get().map(|display_idx| {
-                                        let q_idx = current_question_idx.get();
-                                        let indices = shuffled_answer_indices.get();
-                                        let questions = &content.get_value().questions;
-
-                                        if let Some(&original_idx) = indices.get(display_idx) {
-                                            let is_correct = questions[q_idx].answers[original_idx].correct;
-
-                                            if is_correct {
-                                                view! { <p class="feedback correct">"✓ Correct!"</p> }.into_any()
-                                            } else {
-                                                view! { <p class="feedback incorrect">"✗ Incorrect"</p> }.into_any()
-                                            }
-                                        } else {
-                                            view! { <p></p> }.into_any()
-                                        }
-                                    }).unwrap_or_else(|| view! { <p></p> }.into_any())
-                                }}
-
                                 <button class="next-button" on:click=next_question>
                                     {move || {
                                         if current_question_idx.get() + 1 < total_questions {
