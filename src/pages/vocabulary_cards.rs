@@ -67,13 +67,13 @@ pub fn VocabularyCards() -> impl IntoView {
     };
 
     // Navigation handlers
-    let go_next = move |_| {
+    let go_next_card = move || {
         if card_index.get() < card_count.get() - 1 {
             set_card_index.update(|i| *i += 1);
         }
     };
 
-    let go_prev = move |_| {
+    let go_prev_card = move || {
         if card_index.get() > 0 {
             set_card_index.update(|i| *i -= 1);
         }
@@ -121,24 +121,9 @@ pub fn VocabularyCards() -> impl IntoView {
                                         show_example={show_example}
                                         show_translation={show_translation}
                                         on_toggle_favorite=move || toggle_favorite(())
+                                        on_prev=move || go_prev_card()
+                                        on_next=move || go_next_card()
                                     />
-
-                                    <div class="card-navigation">
-                                        <button
-                                            class="nav-btn"
-                                            on:click=go_prev
-                                            disabled={move || card_index.get() == 0}
-                                        >
-                                            "← Previous"
-                                        </button>
-                                        <button
-                                            class="nav-btn"
-                                            on:click=go_next
-                                            disabled={move || card_index.get() >= card_count.get() - 1}
-                                        >
-                                            "Next →"
-                                        </button>
-                                    </div>
                                 </div>
                             }.into_any()
                         }

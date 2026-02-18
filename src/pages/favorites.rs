@@ -76,14 +76,14 @@ pub fn Favorites() -> impl IntoView {
     };
 
     // Navigation handlers
-    let go_next = move |_| {
+    let go_next_card = move || {
         let cards = favorite_cards();
         if card_index.get() < cards.len() - 1 {
             set_card_index.update(|i| *i += 1);
         }
     };
 
-    let go_prev = move |_| {
+    let go_prev_card = move || {
         if card_index.get() > 0 {
             set_card_index.update(|i| *i -= 1);
         }
@@ -140,24 +140,9 @@ pub fn Favorites() -> impl IntoView {
                                             show_translation={show_translation}
                                             stage=stage
                                             on_toggle_favorite=move || toggle_favorite(())
+                                            on_prev=move || go_prev_card()
+                                            on_next=move || go_next_card()
                                         />
-
-                                        <div class="card-navigation">
-                                            <button
-                                                class="nav-btn"
-                                                on:click=go_prev
-                                                disabled={move || card_index.get() == 0}
-                                            >
-                                                "← Previous"
-                                            </button>
-                                            <button
-                                                class="nav-btn"
-                                                on:click=go_next
-                                                disabled={move || card_index.get() >= favorite_cards().len() - 1}
-                                            >
-                                                "Next →"
-                                            </button>
-                                        </div>
                                     </div>
                                 }.into_any()
                             }
