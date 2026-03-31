@@ -11,7 +11,6 @@ pub struct UiStrings {
     pub stage_prefix: String,
     pub language_label: String,
     pub content_coming_soon: String,
-    pub topic_not_found: String,
     pub question_of: String,
     pub hint_label: String,
     pub hint_title: String,
