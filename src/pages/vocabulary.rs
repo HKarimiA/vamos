@@ -1,4 +1,4 @@
-use crate::core::LanguageContext;
+use crate::core::{Language, LanguageContext};
 use crate::data::get_ui_strings;
 use leptos::prelude::*;
 use leptos_router::components::A;
@@ -42,10 +42,14 @@ pub fn Vocabulary() -> impl IntoView {
                     on:click=toggle_direction
                 >
                     {move || {
+                        let native_flag = match lang_ctx.language.get() {
+                            Language::German => "🇩🇪",
+                            _ => "🇬🇧",
+                        };
                         if direction.get() == "es-to-en" {
-                            "🇪🇸 → 🇬🇧"
+                            format!("🇪🇸 → {}", native_flag)
                         } else {
-                            "🇬🇧 → 🇪🇸"
+                            format!("{} → 🇪🇸", native_flag)
                         }
                     }}
                 </button>

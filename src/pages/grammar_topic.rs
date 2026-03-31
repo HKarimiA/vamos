@@ -1,5 +1,5 @@
 use crate::core::{Language, LanguageContext};
-use crate::data::{GrammarContent, get_all_topics, get_ui_strings, load_grammar_content};
+use crate::data::{GrammarContent, get_ui_strings, load_grammar_content};
 use leptos::prelude::*;
 use leptos_router::{components::A, hooks::use_params_map};
 use rand::SeedableRng;
@@ -13,22 +13,7 @@ pub fn GrammarTopic() -> impl IntoView {
     let lang_ctx = expect_context::<LanguageContext>();
     let ui = move || get_ui_strings(lang_ctx.language.get());
 
-    // Get topic metadata
-    let topic = move || {
-        params
-            .read()
-            .get("id")
-            .and_then(|id| id.parse::<u32>().ok())
-            .and_then(|id| {
-                let lang = match lang_ctx.language.get() {
-                    Language::German => "de",
-                    _ => "en",
-                };
-                get_all_topics(lang).into_iter().find(|t| t.id == id)
-            })
-    };
-
-    // Load grammar content
+    // Load grammar content (includes topic name from JSON)
     let content = move || -> Result<GrammarContent, String> {
         let lang = match lang_ctx.language.get() {
             Language::German => "de",
@@ -44,15 +29,15 @@ pub fn GrammarTopic() -> impl IntoView {
 
     view! {
         <div class="page-container">
-            {move || match (topic(), content()) {
-                (Some(t), Ok(c)) => view! {
-                    <QuizInterface topic=t content=c/>
+            {move || match content() {
+                Ok(c) => view! {
+                    <QuizInterface content=c/>
                 }
                 .into_any(),
-                (Some(t), Err(e)) => view! {
+                Err(e) => view! {
                     <header class="page-header">
                         <A href="/grammar" attr:class="back-button">"❮"</A>
-                        <h1>{format!("{}. {}", t.id, t.name)}</h1>
+                        <h1>{move || ui().grammar}</h1>
                     </header>
 
                     <div class="content" style="padding: 2rem 1.5rem;">
@@ -66,17 +51,6 @@ pub fn GrammarTopic() -> impl IntoView {
                     </div>
                 }
                 .into_any(),
-                _ => view! {
-                    <header class="page-header">
-                        <A href="/grammar" attr:class="back-button">"❮"</A>
-                        <h1>{move || ui().grammar}</h1>
-                    </header>
-
-                    <div class="error-message">
-                        <p>{move || ui().topic_not_found}</p>
-                    </div>
-                }
-                .into_any(),
             }}
         </div>
     }
@@ -84,13 +58,12 @@ pub fn GrammarTopic() -> impl IntoView {
 
 /// Quiz interface component with questions and answers
 #[component]
-fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> impl IntoView {
+fn QuizInterface(content: GrammarContent) -> impl IntoView {
     let lang_ctx = expect_context::<LanguageContext>();
     let ui = move || get_ui_strings(lang_ctx.language.get());
 
-    // Store content and topic for use in closures
+    // Store content for use in closures
     let content = StoredValue::new(content);
-    let topic = StoredValue::new(topic);
     let total_questions = content.get_value().questions.len();
 
     // Quiz state
@@ -170,7 +143,8 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                 fallback=move || {
                     view! {
                         <ResultsScreen
-                            topic=topic.get_value()
+                            topic_id=content.get_value().topic.id
+                            topic_name=content.get_value().topic.name.clone()
                             score=score.get()
                             total=total_questions as u32
                             on_restart=restart_quiz
@@ -181,7 +155,7 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
 
                 <header class="page-header">
                     <A href="/grammar" attr:class="back-button">"❮"</A>
-                    <h1>{move || format!("{}. {}", topic.get_value().id, topic.get_value().name)}</h1>
+                    <h1>{move || format!("{}. {}", content.get_value().topic.id, content.get_value().topic.name)}</h1>
                     <button
                         class="hint-button-header"
                         on:click=move |_| show_topic_explanation.set(true)
@@ -349,7 +323,8 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
 /// Results screen shown after completing the quiz
 #[component]
 fn ResultsScreen<F>(
-    topic: crate::data::GrammarTopic,
+    topic_id: u32,
+    topic_name: String,
     score: u32,
     total: u32,
     on_restart: F,
@@ -374,7 +349,7 @@ where
     view! {
         <header class="page-header">
             <A href="/grammar" attr:class="back-button">"❮"</A>
-            <h1>{format!("{}. {}", topic.id, topic.name)}</h1>
+            <h1>{format!("{}. {}", topic_id, topic_name)}</h1>
         </header>
 
         <div class="results-container">
