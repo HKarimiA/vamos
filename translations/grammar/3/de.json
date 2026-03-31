@@ -1,0 +1,238 @@
+{
+  "topic": { "id": 3, "name": "Datum & Uhrzeit" },
+  "explanation": {
+    "title": "Spanisches Datum & Uhrzeitausdrücke",
+    "sections": [
+      {
+        "subtitle": "Uhrzeit – Volle Stunden",
+        "content": "🕐 Grundformat der Uhrzeit\n\n1:00 ist Singular:\n• Es la una → Es ist 1 Uhr\n\nAlle anderen Stunden sind Plural:\n• Son las dos → Es ist 2 Uhr\n• Son las cinco → Es ist 5 Uhr\n• Son las diez → Es ist 10 Uhr\n\n⏰ Tageszeiten:\n• de la mañana → morgens (AM)\n• de la tarde → nachmittags (PM)\n• de la noche → abends/nachts (PM)"
+      },
+      {
+        "subtitle": "Uhrzeit – Minuten",
+        "content": "⏱️ Minuten hinzufügen\n\nMinuten nach der vollen Stunde (mit 'y'):\n• Son las tres y diez → 3:10\n• Son las cuatro y veinte → 4:20\n\nBesondere Ausdrücke:\n• cuarto → Viertel (15 Min.)\n  → Son las dos y cuarto (2:15)\n• media → halb (30 Min.)\n  → Son las cinco y media (5:30)\n\nMinuten vor der vollen Stunde (mit 'menos'):\n• Son las seis menos diez → 5:50\n  (wörtlich: 6 minus 10)\n• Son las ocho menos cuarto → 7:45\n  (wörtlich: 8 minus Viertel)"
+      },
+      {
+        "subtitle": "Tagesabschnitte",
+        "content": "🌅 Tageszeiten\n\n• mañana → Morgen\n• mediodía → Mittag\n• tarde → Nachmittag/Abend\n• noche → Nacht\n• medianoche → Mitternacht\n• madrugada → früher Morgen/Morgendämmerung\n\n📍 Verwendung mit 'por':\n• por la mañana → morgens\n• por la tarde → nachmittags\n• por la noche → nachts/abends"
+      },
+      {
+        "subtitle": "Wochentage & Monate",
+        "content": "📅 Wochentage\n\n• lunes → Montag\n• martes → Dienstag\n• miércoles → Mittwoch\n• jueves → Donnerstag\n• viernes → Freitag\n• sábado → Samstag\n• domingo → Sonntag\n\n📆 Monate des Jahres\n\n• enero → Januar\n• febrero → Februar\n• marzo → März\n• abril → April\n• mayo → Mai\n• junio → Juni\n• julio → Juli\n• agosto → August\n• septiembre → September\n• octubre → Oktober\n• noviembre → November\n• diciembre → Dezember\n\n⚠️ Im Spanischen NICHT großgeschrieben\n(außer am Satzanfang)"
+      },
+      {
+        "subtitle": "Jahreszeiten & Datumsangaben",
+        "content": "🌸 Vier Jahreszeiten\n\n• primavera → Frühling\n• verano → Sommer\n• otoño → Herbst\n• invierno → Winter\n\n📍 Datumsformat\n\nMuster: el + Zahl + de + Monat\n\nBeispiele:\n• el 15 de marzo → 15. März\n• el 20 de julio → 20. Juli\n• el 3 de octubre → 3. Oktober\n\n⚠️ Sonderfall für den 1.:\n• el primero de enero → 1. Januar\n(nicht \"el uno de enero\")"
+      },
+      {
+        "subtitle": "Zeitdauer & Häufigkeit",
+        "content": "⏳ Zeitausdrücke\n\nHace + Zeit = vor:\n• Hace dos días → vor zwei Tagen\n• Hace una semana → vor einer Woche\n\nDesde = seit:\n• Desde ayer → seit gestern\n• Desde las dos → seit 2 Uhr\n\nDurante = während/für:\n• Durante tres horas → für drei Stunden\n• Durante el verano → während des Sommers\n\n🔄 Häufigkeitsadverbien\n\n• siempre → immer\n• nunca → nie\n• a veces → manchmal\n• frecuentemente → häufig\n• raramente → selten"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ergänze: '___ la una.' (Es ist 1 Uhr)",
+      "answers": [
+        { "text": "Es", "correct": true },
+        { "text": "Son", "correct": false },
+        { "text": "Está", "correct": false },
+        { "text": "Están", "correct": false }
+      ],
+      "hint": "1 Uhr ist Singular → 'Es la una'. Alle anderen Stunden verwenden 'Son las'."
+    },
+    {
+      "id": 2,
+      "question": "Wie sagt man '3:15' auf Spanisch?",
+      "answers": [
+        { "text": "Son las tres y cuarto", "correct": true },
+        { "text": "Son las tres y quince", "correct": false },
+        { "text": "Son las tres menos cuarto", "correct": false },
+        { "text": "Es la tres y cuarto", "correct": false }
+      ],
+      "hint": "15 Minuten = 'cuarto' (Viertel). 'y' bedeutet 'nach'."
+    },
+    {
+      "id": 3,
+      "question": "Wie sagt man '7:45' auf Spanisch?",
+      "answers": [
+        { "text": "Son las ocho menos cuarto", "correct": true },
+        { "text": "Son las siete y cuarenta y cinco", "correct": false },
+        { "text": "Son las siete menos cuarto", "correct": false },
+        { "text": "Son las ocho y cuarto", "correct": false }
+      ],
+      "hint": "7:45 = 15 Minuten vor 8. Auf Spanisch: '8 minus Viertel'."
+    },
+    {
+      "id": 4,
+      "question": "Ergänze: 'Son las cinco ___.' (5:30)",
+      "answers": [
+        { "text": "y media", "correct": true },
+        { "text": "y mitad", "correct": false },
+        { "text": "y treinta", "correct": false },
+        { "text": "menos media", "correct": false }
+      ],
+      "hint": "30 Minuten = 'media' (halb). 'y media' = und halb."
+    },
+    {
+      "id": 5,
+      "question": "Was bedeutet 'de la madrugada'?",
+      "answers": [
+        {
+          "text": "In den frühen Morgenstunden (z.B. 2–5 Uhr)",
+          "correct": true
+        },
+        { "text": "Nachmittags", "correct": false },
+        { "text": "Morgens (nach 6 Uhr)", "correct": false },
+        { "text": "Mitternacht", "correct": false }
+      ],
+      "hint": "'madrugada' bezeichnet die Stunden zwischen Mitternacht und dem frühen Morgen."
+    },
+    {
+      "id": 6,
+      "question": "Wie heißt 'Mittwoch' auf Spanisch?",
+      "answers": [
+        { "text": "miércoles", "correct": true },
+        { "text": "martes", "correct": false },
+        { "text": "jueves", "correct": false },
+        { "text": "viernes", "correct": false }
+      ],
+      "hint": "Dieser Wochentag ist nach dem Planeten Merkur benannt und hat einen Akzent."
+    },
+    {
+      "id": 7,
+      "question": "Wie heißt 'Oktober' auf Spanisch?",
+      "answers": [
+        { "text": "octubre", "correct": true },
+        { "text": "agosto", "correct": false },
+        { "text": "novembre", "correct": false },
+        { "text": "diciembre", "correct": false }
+      ],
+      "hint": "Dieser Monat klingt ähnlich wie sein deutsches Äquivalent. Im Spanischen kleingeschrieben."
+    },
+    {
+      "id": 8,
+      "question": "Wie schreibt man das Datum '15. März' auf Spanisch?",
+      "answers": [
+        { "text": "el quince de marzo", "correct": true },
+        { "text": "el marzo quince", "correct": false },
+        { "text": "quince de el marzo", "correct": false },
+        { "text": "el 15 marzo", "correct": false }
+      ],
+      "hint": "Muster: el + Zahl + de + Monat."
+    },
+    {
+      "id": 9,
+      "question": "Wie sagt man '1. Januar' auf Spanisch?",
+      "answers": [
+        { "text": "el primero de enero", "correct": true },
+        { "text": "el uno de enero", "correct": false },
+        { "text": "el primer de enero", "correct": false },
+        { "text": "enero primero", "correct": false }
+      ],
+      "hint": "Für den ersten Tag eines Monats verwendet man 'primero', nicht 'uno'."
+    },
+    {
+      "id": 10,
+      "question": "Wie heißt 'Herbst' auf Spanisch?",
+      "answers": [
+        { "text": "otoño", "correct": true },
+        { "text": "verano", "correct": false },
+        { "text": "primavera", "correct": false },
+        { "text": "invierno", "correct": false }
+      ],
+      "hint": "Diese Jahreszeit kommt nach dem Sommer. Das Wort enthält ein ñ."
+    },
+    {
+      "id": 11,
+      "question": "Ergänze: 'Hace dos ___ que no te veo.' (Wochen)",
+      "answers": [
+        { "text": "semanas", "correct": true },
+        { "text": "semana", "correct": false },
+        { "text": "días", "correct": false },
+        { "text": "horas", "correct": false }
+      ],
+      "hint": "'semana' = Woche. Nach 'dos' steht die Pluralform."
+    },
+    {
+      "id": 12,
+      "question": "Was bedeutet 'Son las nueve de la mañana'?",
+      "answers": [
+        { "text": "Es ist 9 Uhr morgens", "correct": true },
+        { "text": "Es ist 9 Uhr abends", "correct": false },
+        { "text": "Es ist 9 Uhr nachts", "correct": false },
+        { "text": "Es ist 19 Uhr", "correct": false }
+      ],
+      "hint": "'de la mañana' = morgens (AM). 'Son las nueve' = es ist 9 Uhr."
+    },
+    {
+      "id": 13,
+      "question": "Wie sagt man 'seit gestern' auf Spanisch?",
+      "answers": [
+        { "text": "desde ayer", "correct": true },
+        { "text": "hace ayer", "correct": false },
+        { "text": "durante ayer", "correct": false },
+        { "text": "por ayer", "correct": false }
+      ],
+      "hint": "'Desde' = seit/von. 'ayer' = gestern."
+    },
+    {
+      "id": 14,
+      "question": "Welches Häufigkeitsadverb bedeutet 'manchmal'?",
+      "answers": [
+        { "text": "a veces", "correct": true },
+        { "text": "siempre", "correct": false },
+        { "text": "nunca", "correct": false },
+        { "text": "raramente", "correct": false }
+      ],
+      "hint": "Dieses Adverb besteht aus zwei Wörtern und bedeutet wörtlich 'zu Zeiten'."
+    },
+    {
+      "id": 15,
+      "question": "Wie heißt 'Februar' auf Spanisch?",
+      "answers": [
+        { "text": "febrero", "correct": true },
+        { "text": "enero", "correct": false },
+        { "text": "marzo", "correct": false },
+        { "text": "abril", "correct": false }
+      ],
+      "hint": "Der zweite Monat des Jahres. Im Deutschen ähnlich."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: 'Estudio español ___ tres horas.' (für/während drei Stunden)",
+      "answers": [
+        { "text": "durante", "correct": true },
+        { "text": "desde", "correct": false },
+        { "text": "hace", "correct": false },
+        { "text": "por", "correct": false }
+      ],
+      "hint": "'durante' = während/für (eine bestimmte Zeitdauer)."
+    },
+    {
+      "id": 17,
+      "question": "Wie sagt man '6:50' (zehn Minuten vor 7) auf Spanisch?",
+      "answers": [
+        { "text": "Son las siete menos diez", "correct": true },
+        { "text": "Son las seis y cincuenta", "correct": false },
+        { "text": "Son las seis menos diez", "correct": false },
+        { "text": "Son las siete y diez", "correct": false }
+      ],
+      "hint": "Minuten vor der Stunde → 'menos'. Man denkt an die nächste Stunde minus Minuten."
+    },
+    {
+      "id": 18,
+      "question": "Wochentage und Monate werden im Spanischen...",
+      "answers": [
+        { "text": "kleingeschrieben (außer am Satzanfang)", "correct": true },
+        { "text": "immer großgeschrieben", "correct": false },
+        {
+          "text": "nur bei offiziellen Texten großgeschrieben",
+          "correct": false
+        },
+        { "text": "wie im Deutschen behandelt", "correct": false }
+      ],
+      "hint": "Im Gegensatz zum Deutschen werden Wochentage und Monate im Spanischen nicht großgeschrieben."
+    }
+  ]
+}

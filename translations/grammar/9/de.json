@@ -1,0 +1,235 @@
+{
+  "topic": { "id": 9, "name": "Ser vs Estar" },
+  "explanation": {
+    "title": "Ser vs Estar: Zwei Arten, 'sein' zu sagen",
+    "sections": [
+      {
+        "subtitle": "Wann man SER verwendet",
+        "content": "✨ SER = Dauerhafte/wesenhafte Eigenschaften\n\n1️⃣ Identität:\n• Soy María (Ich bin María)\n\n2️⃣ Beruf:\n• Es profesor (Er ist Lehrer)\n\n3️⃣ Herkunft:\n• Somos de España (Wir kommen aus Spanien)\n\n4️⃣ Nationalität:\n• Son mexicanos (Sie sind Mexikaner)\n\n5️⃣ Material:\n• Es de madera (Es ist aus Holz)\n\n6️⃣ Zeit/Datum:\n• Son las tres (Es ist 3 Uhr)\n• Es lunes (Es ist Montag)\n\n7️⃣ Veranstaltungsort:\n• La fiesta es aquí (Die Party ist hier)\n\n8️⃣ Besitz:\n• Es mi libro (Es ist mein Buch)\n\n9️⃣ Wesenhafte Eigenschaften:\n• Ella es inteligente (Sie ist intelligent)\n• El libro es interesante (Das Buch ist interessant)"
+      },
+      {
+        "subtitle": "Wann man ESTAR verwendet",
+        "content": "📍 ESTAR = Vorübergehende Zustände & Ort\n\n1️⃣ Physischer Ort (Personen/Dinge):\n• Estoy en casa (Ich bin zu Hause)\n• Madrid está en España (Madrid ist in Spanien)\n\n2️⃣ Vorübergehende Zustände:\n• Estoy cansado (Ich bin müde)\n• Está enfermo (Er ist krank)\n\n3️⃣ Gefühle/Stimmungen:\n• Estamos felices (Wir sind glücklich)\n\n4️⃣ Verlaufsform:\n• Estoy comiendo (Ich esse gerade)\n\n5️⃣ Ergebnisse von Handlungen:\n• La puerta está abierta (Die Tür ist offen)\n\n6️⃣ Andauernde Zustände:\n• El agua está caliente (Das Wasser ist heiß)\n\n⚠️ Wichtiger Unterschied:\n• Ort von Personen/Dingen → ESTAR\n• Ort von Veranstaltungen → SER"
+      },
+      {
+        "subtitle": "Adjektive mit unterschiedlicher Bedeutung",
+        "content": "🔄 Gleiche Adjektive, verschiedene Bedeutung\n\nser listo vs estar listo:\n• Es listo → Er ist klug\n• Está listo → Er ist fertig\n\nser rico vs estar rico:\n• Es rico → Er ist reich (Geld)\n• Está rico → Es ist lecker\n\nser aburrido vs estar aburrido:\n• Es aburrido → Er ist langweilig (Charakter)\n• Está aburrido → Er ist gelangweilt (Gefühl)\n\nser bueno vs estar bueno:\n• Es bueno → Er ist ein guter Mensch\n• Está bueno → Es ist lecker / Er ist attraktiv\n\nser malo vs estar malo:\n• Es malo → Er ist böse/schlecht\n• Está malo → Er ist krank / Es ist verdorben\n\n💡 SER = wesenhafte Eigenschaft\nESTAR = aktueller Zustand"
+      },
+      {
+        "subtitle": "Mit Partizipien",
+        "content": "📝 Partizipien (-ado/-ido-Formen)\n\nSER + Partizip = PASSIV\n(Handlung von jemandem ausgeführt):\n• El libro fue escrito por Cervantes\n  → Das Buch wurde von Cervantes geschrieben\n• La casa fue construida en 1950\n  → Das Haus wurde 1950 gebaut\n\nESTAR + Partizip = ERGEBNIS\n(aktueller Zustand nach einer Handlung):\n• La ventana está rota\n  → Das Fenster ist kaputt (jetzt)\n• La puerta está cerrada\n  → Die Tür ist geschlossen (aktueller Zustand)\n\n✅ Partizip stimmt in Genus/Numerus überein:\n• Los libros están escritos\n• Las ventanas están rotas"
+      },
+      {
+        "subtitle": "Verlaufsform mit ESTAR",
+        "content": "🏃 ESTAR für die Verlaufsform (NICHT SER)\n\nPräsens Progressiv:\n• Estoy hablando → Ich rede gerade\n• Estás comiendo → Du isst gerade\n\nImperfekt Progressiv:\n• Estaba comiendo → Ich aß gerade\n• Estaban estudiando → Sie lernten gerade\n\nFutur Progressiv:\n• Estaré estudiando → Ich werde gerade lernen\n\n💡 Formel: ESTAR + Gerundium (-ando/-iendo)\n\n⚠️ NIEMALS SER für die Verlaufsform!\n❌ NICHT Soy hablando\n✅ Estoy hablando"
+      },
+      {
+        "subtitle": "Feste Ausdrücke & Tipps",
+        "content": "📚 Häufige feste Ausdrücke\n\nMit ESTAR:\n• estar de acuerdo → einverstanden sein\n• estar de moda → in Mode sein\n• estar por → im Begriff sein\n• estar para → Lust haben auf\n\nMit SER:\n• ser hora de → Zeit sein für\n\n💡 Merkhilfe:\n\nSER = Dauerhaftes WESEN\n→ WER/WAS etwas IST\n\nESTAR = Vorübergehender ZUSTAND\n→ WIE/WO etwas GERADE IST\n\n🎯 PTO-LEC Eselsbrücke:\n\nSER:\n• Profession (Beruf)\n• Time (Zeit)\n• Origin (Herkunft)\n\nESTAR:\n• Location (Ort)\n• Emotion (Gefühl)\n• Condition (Zustand)"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ergänze: 'El cielo ___ azul.' (Der Himmel ist blau – dauerhaft)",
+      "answers": [
+        { "text": "es", "correct": true },
+        { "text": "está", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "eres", "correct": false }
+      ],
+      "hint": "Blaue Farbe des Himmels ist eine wesenhafte Eigenschaft → SER (es)."
+    },
+    {
+      "id": 2,
+      "question": "Ergänze: 'Yo ___ en casa ahora.' (Ich bin jetzt zu Hause – Ort)",
+      "answers": [
+        { "text": "estoy", "correct": true },
+        { "text": "soy", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "eres", "correct": false }
+      ],
+      "hint": "Physischer Aufenthaltsort von Personen → ESTAR (estoy)."
+    },
+    {
+      "id": 3,
+      "question": "Ergänze: 'María ___ médica.' (María ist Ärztin – Beruf)",
+      "answers": [
+        { "text": "es", "correct": true },
+        { "text": "está", "correct": false },
+        { "text": "son", "correct": false },
+        { "text": "estamos", "correct": false }
+      ],
+      "hint": "Berufe verwenden immer SER. ella-Form von ser = es."
+    },
+    {
+      "id": 4,
+      "question": "Ergänze: 'El agua ___ muy caliente.' (Das Wasser ist sehr heiß – vorübergehend)",
+      "answers": [
+        { "text": "está", "correct": true },
+        { "text": "es", "correct": false },
+        { "text": "estamos", "correct": false },
+        { "text": "están", "correct": false }
+      ],
+      "hint": "Temperatur des Wassers ist ein vorübergehender Zustand → ESTAR."
+    },
+    {
+      "id": 5,
+      "question": "Was bedeutet 'Está listo' (im Gegensatz zu 'Es listo')?",
+      "answers": [
+        { "text": "Er/sie ist fertig (aktueller Zustand)", "correct": true },
+        { "text": "Er/sie ist klug (Charakter)", "correct": false },
+        { "text": "Er/sie ist bereit geboren", "correct": false },
+        { "text": "Er/sie ist auf der Liste", "correct": false }
+      ],
+      "hint": "Mit ESTAR bedeutet 'listo' = fertig/bereit (vorübergehend). Mit SER = klug (Charakter)."
+    },
+    {
+      "id": 6,
+      "question": "Ergänze: 'Nosotros ___ de Alemania.' (Wir kommen aus Deutschland – Herkunft)",
+      "answers": [
+        { "text": "somos", "correct": true },
+        { "text": "estamos", "correct": false },
+        { "text": "soís", "correct": false },
+        { "text": "son", "correct": false }
+      ],
+      "hint": "Herkunft → SER. nosotros-Form von ser = somos."
+    },
+    {
+      "id": 7,
+      "question": "Ergänze: 'La ventana ___ rota.' (Das Fenster ist kaputt – Ergebnis)",
+      "answers": [
+        { "text": "está", "correct": true },
+        { "text": "es", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "eran", "correct": false }
+      ],
+      "hint": "ESTAR + Partizip = Ergebnis/aktueller Zustand. Die Scheibe ist kaputt (jetzt)."
+    },
+    {
+      "id": 8,
+      "question": "Ergänze: 'El helado ___ rico.' (Das Eis ist lecker)",
+      "answers": [
+        { "text": "está", "correct": true },
+        { "text": "es", "correct": false },
+        { "text": "estamos", "correct": false },
+        { "text": "son", "correct": false }
+      ],
+      "hint": "Mit ESTAR bedeutet 'rico' = lecker/köstlich. Mit SER = reich (Geld)."
+    },
+    {
+      "id": 9,
+      "question": "Ergänze: 'Hoy ___ lunes.' (Heute ist Montag – Tag/Datum)",
+      "answers": [
+        { "text": "es", "correct": true },
+        { "text": "está", "correct": false },
+        { "text": "son", "correct": false },
+        { "text": "están", "correct": false }
+      ],
+      "hint": "Wochentage und Daten → SER. Singular → es."
+    },
+    {
+      "id": 10,
+      "question": "Ergänze: 'Pablo ___ aburrido en la clase.' (Pablo ist gelangweilt – Gefühl)",
+      "answers": [
+        { "text": "está", "correct": true },
+        { "text": "es", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "soy", "correct": false }
+      ],
+      "hint": "Gefühle und vorübergehende Zustände → ESTAR. Gelangweilt sein ist vorübergehend."
+    },
+    {
+      "id": 11,
+      "question": "Ergänze: 'La mesa ___ de madera.' (Der Tisch ist aus Holz – Material)",
+      "answers": [
+        { "text": "es", "correct": true },
+        { "text": "está", "correct": false },
+        { "text": "estamos", "correct": false },
+        { "text": "son", "correct": false }
+      ],
+      "hint": "Material/Zusammensetzung → SER mit 'de'. Was etwas IST (besteht aus)."
+    },
+    {
+      "id": 12,
+      "question": "Ergänze: 'Ellos ___ hablando.' (Sie reden gerade – Verlaufsform)",
+      "answers": [
+        { "text": "están", "correct": true },
+        { "text": "son", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "están siendo", "correct": false }
+      ],
+      "hint": "Verlaufsform: ESTAR + Gerundium. ellos → están."
+    },
+    {
+      "id": 13,
+      "question": "Welcher Satz drückt Herkunft aus?",
+      "answers": [
+        { "text": "Soy de México.", "correct": true },
+        { "text": "Estoy en México.", "correct": false },
+        { "text": "Vivo en México.", "correct": false },
+        { "text": "Estoy de México.", "correct": false }
+      ],
+      "hint": "Herkunft = ser + de + Ort. 'Estoy en México' = aktueller Aufenthaltsort."
+    },
+    {
+      "id": 14,
+      "question": "Ergänze: 'La fiesta ___ en el parque.' (Die Party ist im Park – Veranstaltungsort)",
+      "answers": [
+        { "text": "es", "correct": true },
+        { "text": "está", "correct": false },
+        { "text": "son", "correct": false },
+        { "text": "estamos", "correct": false }
+      ],
+      "hint": "Ort von Veranstaltungen (Parties, Events) → SER (nicht ESTAR!). Das ist die Ausnahme."
+    },
+    {
+      "id": 15,
+      "question": "Was bedeutet 'Es aburrido' (im Gegensatz zu 'Está aburrido')?",
+      "answers": [
+        {
+          "text": "Er ist langweilig (Charakter/Persönlichkeit)",
+          "correct": true
+        },
+        { "text": "Er ist gelangweilt (Gefühl)", "correct": false },
+        { "text": "Er war gelangweilt", "correct": false },
+        { "text": "Er wird sich langweilen", "correct": false }
+      ],
+      "hint": "SER + aburrido = langweilig als Charaktereigenschaft. ESTAR + aburrido = aktuell gelangweilt."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: 'Son ___ cinco.' (Es ist 5 Uhr)",
+      "answers": [
+        { "text": "las", "correct": true },
+        { "text": "los", "correct": false },
+        { "text": "la", "correct": false },
+        { "text": "el", "correct": false }
+      ],
+      "hint": "Uhrzeiten: SER + las (feminin Plural, weil 'horas' = Stunden feminin ist). Nur 1 Uhr = 'Es la una'."
+    },
+    {
+      "id": 17,
+      "question": "Ergänze: 'Estamos ___ de acuerdo.' (Wir sind einverstanden – fester Ausdruck)",
+      "answers": [
+        { "text": "(kein Wort – der Satz ist vollständig)", "correct": true },
+        { "text": "muy", "correct": false },
+        { "text": "bien", "correct": false },
+        { "text": "todos", "correct": false }
+      ],
+      "hint": "'estar de acuerdo' ist ein fester Ausdruck ohne weitere Ergänzung: 'Estamos de acuerdo' = Wir sind einverstanden."
+    },
+    {
+      "id": 18,
+      "question": "Ergänze: 'El libro ___ escrito por Cervantes.' (Passiv – Das Buch wurde von Cervantes geschrieben)",
+      "answers": [
+        { "text": "fue", "correct": true },
+        { "text": "estaba", "correct": false },
+        { "text": "era", "correct": false },
+        { "text": "estuvo", "correct": false }
+      ],
+      "hint": "Passivkonstruktion: SER + Partizip. Vergangenheit von ser (él) = fue."
+    }
+  ]
+}

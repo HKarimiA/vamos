@@ -1,0 +1,221 @@
+{
+  "topic": { "id": 4, "name": "Nomen & Artikel" },
+  "explanation": {
+    "title": "Spanische Nomen & Artikel",
+    "sections": [
+      {
+        "subtitle": "Genus: Maskulinum & Femininum",
+        "content": "⚖️ Alle Nomen haben ein Genus\n\nAllgemeine Regeln:\n• Endung -o → maskulin\n  → el libro (Buch)\n  → el gato (Kater)\n• Endung -a → feminin\n  → la casa (Haus)\n  → la mesa (Tisch)\n\n⚠️ Häufige Ausnahmen:\n• el día (Tag) – endet auf -a, ist aber maskulin\n• la mano (Hand) – endet auf -o, ist aber feminin\n\n💡 Hilfreiche Endungen:\n\nFast immer feminin:\n• -ción, -sión → la estación, la visión\n• -dad, -tad → la ciudad, la libertad\n\nHäufig maskulin (griechische Herkunft):\n• -ma, -pa, -ta → el problema, el mapa, el planeta"
+      },
+      {
+        "subtitle": "Singular & Pluralformen",
+        "content": "🔢 Pluralbildung\n\n1️⃣ Endet auf Vokal → -s anhängen:\n• gato → gatos (Katzen)\n• casa → casas (Häuser)\n• estudiante → estudiantes (Studenten)\n\n2️⃣ Endet auf Konsonant → -es anhängen:\n• flor → flores (Blumen)\n• papel → papeles (Papiere)\n• profesor → profesores (Lehrer)\n\n3️⃣ Endet auf -z → zu -ces ändern:\n• lápiz → lápices (Stifte)\n• luz → luces (Lichter)\n• vez → veces (Male)\n\n⚠️ Sonderfall:\n• Akzentuierter Vokal + -s → KEINE Änderung\n  → el lunes → los lunes\n  → el martes → los martes"
+      },
+      {
+        "subtitle": "Bestimmte Artikel (der/die/das)",
+        "content": "📍 Bestimmte Artikel = Der/Die/Das\n\n• el → maskulin Singular\n  → el perro (der Hund)\n• la → feminin Singular\n  → la mesa (der Tisch)\n• los → maskulin Plural\n  → los libros (die Bücher)\n• las → feminin Plural\n  → las casas (die Häuser)\n\n✅ Spanisch verwendet den Artikel häufiger als Deutsch:\n• Bei allgemeinen Kategorien\n  → Me gusta el café (Ich mag Kaffee)\n• Bei abstrakten Konzepten\n  → La libertad es importante\n    (Freiheit ist wichtig)"
+      },
+      {
+        "subtitle": "Unbestimmte Artikel (ein/eine)",
+        "content": "📝 Unbestimmte Artikel = Ein/Eine/Einige\n\nSingular:\n• un → maskulin\n  → un perro (ein Hund)\n  → un libro (ein Buch)\n• una → feminin\n  → una mesa (ein Tisch)\n  → una casa (ein Haus)\n\nPlural (= 'einige'):\n• unos → maskulin\n  → unos libros (einige Bücher)\n• unas → feminin\n  → unas casas (einige Häuser)"
+      },
+      {
+        "subtitle": "Kontraktionen: al & del",
+        "content": "🔗 Zwei OBLIGATORISCHE Kontraktionen\n\n1️⃣ a + el = al (zu dem/zur)\n• Voy al parque\n  → Ich gehe in den Park\n• Voy al cine\n  → Ich gehe ins Kino\n\n2️⃣ de + el = del (von dem/vom)\n• El libro del profesor\n  → Das Buch des Lehrers\n• Vengo del trabajo\n  → Ich komme von der Arbeit\n\n⚠️ NUR mit 'el'!\n• a + la = a la (keine Kontraktion)\n• de + los = de los (keine Kontraktion)\n• de + las = de las (keine Kontraktion)"
+      },
+      {
+        "subtitle": "Wann Artikel weggelassen werden",
+        "content": "🚫 Wann der Artikel ENTFÄLLT\n\n1️⃣ Berufe nach 'ser':\n• Soy profesor (Ich bin Lehrer)\n• Es médica (Sie ist Ärztin)\n\n2️⃣ Sprachen (direktes Objekt):\n• Hablo español (Ich spreche Spanisch)\n• Estudio francés (Ich lerne Französisch)\n\n3️⃣ Wochentage nach 'ser':\n• Hoy es lunes (Heute ist Montag)\n• Mañana es martes (Morgen ist Dienstag)\n\n4️⃣ Die meisten Städte/Länder:\n• Vivo en México (Ich lebe in Mexiko)\n⚠️ Ausnahmen: la Argentina, el Perú\n\n5️⃣ Mit Possessivpronomen:\n• mi casa (mein Haus)\n  ❌ NICHT la mi casa\n• tu libro (dein Buch)\n  ❌ NICHT el tu libro"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Welchen Artikel bekommt 'problema' (Problem)?",
+      "answers": [
+        { "text": "el", "correct": true },
+        { "text": "la", "correct": false },
+        { "text": "los", "correct": false },
+        { "text": "las", "correct": false }
+      ],
+      "hint": "Wörter auf -ma griechischer Herkunft sind maskulin: el problema, el tema, el sistema."
+    },
+    {
+      "id": 2,
+      "question": "Ergänze: 'Voy ___ supermercado.' (zum Supermarkt)",
+      "answers": [
+        { "text": "al", "correct": true },
+        { "text": "a el", "correct": false },
+        { "text": "del", "correct": false },
+        { "text": "a la", "correct": false }
+      ],
+      "hint": "a + el muss zu 'al' kontrahiert werden. 'supermercado' ist maskulin."
+    },
+    {
+      "id": 3,
+      "question": "Wie lautet der Plural von 'la ciudad' (die Stadt)?",
+      "answers": [
+        { "text": "las ciudades", "correct": true },
+        { "text": "los ciudades", "correct": false },
+        { "text": "las ciudads", "correct": false },
+        { "text": "la ciudades", "correct": false }
+      ],
+      "hint": "'ciudad' endet auf Konsonant → Plural mit -es. Endung -dad ist feminin."
+    },
+    {
+      "id": 4,
+      "question": "Welches Genus hat 'la mano' (die Hand)?",
+      "answers": [
+        { "text": "Feminin (Ausnahme!)", "correct": true },
+        { "text": "Maskulin (Regel: -o = maskulin)", "correct": false },
+        { "text": "Neutrum", "correct": false },
+        { "text": "Maskulin und feminin je nach Kontext", "correct": false }
+      ],
+      "hint": "'mano' endet auf -o, ist aber eine bekannte Ausnahme: es ist feminin."
+    },
+    {
+      "id": 5,
+      "question": "Ergänze: 'Es ___ libro ___ profesor.' (das Buch des Lehrers)",
+      "answers": [
+        { "text": "el / del", "correct": true },
+        { "text": "el / de el", "correct": false },
+        { "text": "un / del", "correct": false },
+        { "text": "el / al", "correct": false }
+      ],
+      "hint": "de + el → 'del'. Diese Kontraktion ist obligatorisch."
+    },
+    {
+      "id": 6,
+      "question": "Wie lautet der Plural von 'el lápiz' (der Bleistift)?",
+      "answers": [
+        { "text": "los lápices", "correct": true },
+        { "text": "los lápizs", "correct": false },
+        { "text": "los lápizes", "correct": false },
+        { "text": "las lápices", "correct": false }
+      ],
+      "hint": "Wörter auf -z ändern im Plural zu -ces: lápiz → lápices."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Satz ist korrekt? (Ich bin Lehrer.)",
+      "answers": [
+        { "text": "Soy profesor.", "correct": true },
+        { "text": "Soy un profesor.", "correct": false },
+        { "text": "Soy el profesor.", "correct": false },
+        { "text": "Estoy profesor.", "correct": false }
+      ],
+      "hint": "Nach 'ser' entfällt der Artikel bei Berufen."
+    },
+    {
+      "id": 8,
+      "question": "Welchen unbestimmten Artikel bekommt 'mesa' (Tisch)?",
+      "answers": [
+        { "text": "una", "correct": true },
+        { "text": "un", "correct": false },
+        { "text": "unas", "correct": false },
+        { "text": "la", "correct": false }
+      ],
+      "hint": "'mesa' endet auf -a → feminin → unbestimmter Artikel feminin Singular = 'una'."
+    },
+    {
+      "id": 9,
+      "question": "Welche Endungen deuten fast immer auf ein feminines Nomen hin?",
+      "answers": [
+        { "text": "-ción, -sión, -dad, -tad", "correct": true },
+        { "text": "-o, -ma, -pa", "correct": false },
+        { "text": "-ón, -or, -al", "correct": false },
+        { "text": "-e, -nte, -ista", "correct": false }
+      ],
+      "hint": "Denke an: la estación, la visión, la ciudad, la libertad."
+    },
+    {
+      "id": 10,
+      "question": "Ergänze: 'Hablo ___ español.' (Ich spreche Spanisch.)",
+      "answers": [
+        { "text": "(kein Artikel)", "correct": true },
+        { "text": "el", "correct": false },
+        { "text": "un", "correct": false },
+        { "text": "lo", "correct": false }
+      ],
+      "hint": "Bei Sprachen als direktem Objekt entfällt der Artikel."
+    },
+    {
+      "id": 11,
+      "question": "Wie heißt 'einige Häuser' auf Spanisch?",
+      "answers": [
+        { "text": "unas casas", "correct": true },
+        { "text": "unos casas", "correct": false },
+        { "text": "las casas", "correct": false },
+        { "text": "una casas", "correct": false }
+      ],
+      "hint": "'casa' ist feminin. Plural des unbestimmten Artikels feminin = 'unas'."
+    },
+    {
+      "id": 12,
+      "question": "Welcher Satz ist grammatikalisch FALSCH?",
+      "answers": [
+        { "text": "Vivo en la mi casa.", "correct": true },
+        { "text": "Vivo en mi casa.", "correct": false },
+        { "text": "Mi casa es grande.", "correct": false },
+        { "text": "Esta es mi casa.", "correct": false }
+      ],
+      "hint": "Bestimmter Artikel und Possessivpronomen können nicht gleichzeitig stehen."
+    },
+    {
+      "id": 13,
+      "question": "Wie lautet der Plural von 'el martes' (der Dienstag)?",
+      "answers": [
+        { "text": "los martes", "correct": true },
+        { "text": "los marteses", "correct": false },
+        { "text": "los martes's", "correct": false },
+        { "text": "las martes", "correct": false }
+      ],
+      "hint": "Wörter mit betontem Vokal vor -s ändern sich im Plural nicht. Nur der Artikel ändert sich."
+    },
+    {
+      "id": 14,
+      "question": "Ergänze: 'Vengo ___ trabajo.' (Ich komme von der Arbeit.)",
+      "answers": [
+        { "text": "del", "correct": true },
+        { "text": "de el", "correct": false },
+        { "text": "al", "correct": false },
+        { "text": "de la", "correct": false }
+      ],
+      "hint": "de + el → 'del'. 'trabajo' ist maskulin."
+    },
+    {
+      "id": 15,
+      "question": "Welches Genus hat 'el día' (der Tag)?",
+      "answers": [
+        { "text": "Maskulin (Ausnahme!)", "correct": true },
+        { "text": "Feminin (Regel: -a = feminin)", "correct": false },
+        { "text": "Neutrum", "correct": false },
+        { "text": "Variiert je nach Bedeutung", "correct": false }
+      ],
+      "hint": "'día' endet auf -a, ist aber eine bekannte Ausnahme: es ist maskulin."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: 'Me gusta ___ café.' (Ich mag Kaffee.)",
+      "answers": [
+        { "text": "el", "correct": true },
+        { "text": "un", "correct": false },
+        { "text": "(kein Artikel)", "correct": false },
+        { "text": "la", "correct": false }
+      ],
+      "hint": "Bei allgemeinen Kategorien verwendet Spanisch den bestimmten Artikel – auch wenn Deutsch keinen hat."
+    },
+    {
+      "id": 17,
+      "question": "Wie lautet die Kontraktion von 'a + el'?",
+      "answers": [
+        { "text": "al", "correct": true },
+        { "text": "del", "correct": false },
+        { "text": "ael", "correct": false },
+        { "text": "a'l", "correct": false }
+      ],
+      "hint": "a + el = al. Diese Kontraktion bedeutet 'zu dem' und ist immer obligatorisch."
+    }
+  ]
+}

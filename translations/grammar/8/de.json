@@ -1,0 +1,221 @@
+{
+  "topic": { "id": 8, "name": "Präsens" },
+  "explanation": {
+    "title": "Spanisches Präsens: Regelmäßige & unregelmäßige Verben",
+    "sections": [
+      {
+        "subtitle": "Verbgruppen & Infinitive",
+        "content": "📚 Drei Konjugationsgruppen\n\n1️⃣ -AR-Verben:\n• hablar (sprechen)\n• cantar (singen)\n• bailar (tanzen)\n\n2️⃣ -ER-Verben:\n• comer (essen)\n• beber (trinken)\n• leer (lesen)\n\n3️⃣ -IR-Verben:\n• vivir (wohnen/leben)\n• escribir (schreiben)\n• abrir (öffnen)\n\n💡 Infinitiv = Grundform\n= '(zu) + Verb'\n\n✅ Jede Gruppe hat eigene Endungen"
+      },
+      {
+        "subtitle": "Regelmäßige Präsenskonjugation",
+        "content": "🔧 Endung entfernen + neue Endung hinzufügen\n\n-AR-Endungen (hablar):\n• yo → -o (hablo)\n• tú → -as (hablas)\n• él/ella/usted → -a (habla)\n• nosotros → -amos (hablamos)\n• vosotros → -áis (habláis)\n• ellos/ustedes → -an (hablan)\n\n-ER-Endungen (comer):\n• yo → -o (como)\n• tú → -es (comes)\n• él/ella/usted → -e (come)\n• nosotros → -emos (comemos)\n• vosotros → -éis (coméis)\n• ellos/ustedes → -en (comen)\n\n-IR-Endungen (vivir):\n• yo → -o (vivo)\n• tú → -es (vives)\n• él/ella/usted → -e (vive)\n• nosotros → -imos (vivimos)\n• vosotros → -ís (vivís)\n• ellos/ustedes → -en (viven)"
+      },
+      {
+        "subtitle": "Häufige unregelmäßige Verben",
+        "content": "⚠️ Wichtige unregelmäßige Verben\n\nSER (sein – dauerhaft):\n• soy, eres, es, somos, sois, son\n\nESTAR (sein – vorübergehend):\n• estoy, estás, está, estamos, estáis, están\n\nIR (gehen):\n• voy, vas, va, vamos, vais, van\n\nTENER (haben):\n• tengo, tienes, tiene, tenemos, tenéis, tienen\n\nHACER (tun/machen):\n• hago, haces, hace, hacemos, hacéis, hacen\n\n💡 Diese sind völlig unregelmäßig\n→ Jede Form muss auswendig gelernt werden!"
+      },
+      {
+        "subtitle": "Stammvokalwechsel",
+        "content": "🔄 Vokalwechsel im Stamm\n\n⚠️ Alle Formen AUSSER nosotros/vosotros\n\n1️⃣ E → IE:\n• pensar (denken)\n  → pienso, piensas, piensa\n  → pensamos (✅ kein Wechsel)\n  → piensan\n\n2️⃣ O → UE:\n• poder (können)\n  → puedo, puedes, puede\n  → podemos (✅ kein Wechsel)\n  → pueden\n\n3️⃣ E → I (hauptsächlich -IR-Verben):\n• pedir (bitten/bestellen)\n  → pido, pides, pide\n  → pedimos (✅ kein Wechsel)\n  → piden\n\n💡 Wechsel passiert bei betonter Silbe"
+      },
+      {
+        "subtitle": "Erste-Person-Unregelmäßigkeiten",
+        "content": "🔥 Unregelmäßig nur in der YO-Form\n\n-GO-Verben:\n• tener → tengo\n• poner → pongo\n• salir → salgo\n• venir → vengo\n• hacer → hago\n• decir → digo\n\n-ZCO-Verben:\n• conocer → conozco\n• traducir → traduzco\n• ofrecer → ofrezco\n\nAndere:\n• saber → sé\n• ver → veo\n• dar → doy\n\n✅ Alle anderen Formen sind regelmäßig!"
+      },
+      {
+        "subtitle": "Verlaufsform (Presente Progresivo)",
+        "content": "🏃 Handlungen die GERADE passieren\n\nFormel: ESTAR + Gerundium\n\nGerundium bilden:\n• -AR-Verben → -ando\n  → hablar → hablando\n• -ER/-IR-Verben → -iendo\n  → comer → comiendo\n  → vivir → viviendo\n\nBeispiele:\n• Estoy comiendo → Ich esse gerade\n• Están hablando → Sie reden gerade\n• Estamos estudiando → Wir lernen gerade\n\n⚠️ Nur für laufende Handlungen\n❌ NICHT für gewohnheitsmäßige Handlungen\n• Como pan → Ich esse Brot (Gewohnheit)\n• Estoy comiendo pan → Ich esse gerade Brot (jetzt)"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ergänze: 'Yo ___ en Madrid.' (wohnen – vivir)",
+      "answers": [
+        { "text": "vivo", "correct": true },
+        { "text": "vives", "correct": false },
+        { "text": "vivir", "correct": false },
+        { "text": "viva", "correct": false }
+      ],
+      "hint": "-IR-Verb: Endung für yo = -o. viv- + o = vivo."
+    },
+    {
+      "id": 2,
+      "question": "Ergänze: 'Ella ___ mucho.' (essen – comer, 3. Person Singular)",
+      "answers": [
+        { "text": "come", "correct": true },
+        { "text": "comer", "correct": false },
+        { "text": "comes", "correct": false },
+        { "text": "comen", "correct": false }
+      ],
+      "hint": "-ER-Verb: Endung für él/ella/usted = -e. com- + e = come."
+    },
+    {
+      "id": 3,
+      "question": "Ergänze: 'Nosotros ___ español en la escuela.' (sprechen – hablar)",
+      "answers": [
+        { "text": "hablamos", "correct": true },
+        { "text": "hablan", "correct": false },
+        { "text": "hablais", "correct": false },
+        { "text": "hablámos", "correct": false }
+      ],
+      "hint": "-AR-Verb: Endung für nosotros = -amos. habl- + amos = hablamos."
+    },
+    {
+      "id": 4,
+      "question": "Ergänze: 'Yo ___ muchos amigos.' (haben – tener, unregelmäßig)",
+      "answers": [
+        { "text": "tengo", "correct": true },
+        { "text": "teno", "correct": false },
+        { "text": "tieno", "correct": false },
+        { "text": "tenio", "correct": false }
+      ],
+      "hint": "'tener' ist ein -GO-Verb: die yo-Form ist 'tengo', nicht 'teno'."
+    },
+    {
+      "id": 5,
+      "question": "Ergänze: '¿Adónde ___ tú?' (gehen – ir)",
+      "answers": [
+        { "text": "vas", "correct": true },
+        { "text": "voy", "correct": false },
+        { "text": "va", "correct": false },
+        { "text": "iras", "correct": false }
+      ],
+      "hint": "'ir' ist völlig unregelmäßig. Die tú-Form ist 'vas'."
+    },
+    {
+      "id": 6,
+      "question": "Ergänze: 'Ellos ___ la televisión.' (sehen/schauen – ver)",
+      "answers": [
+        { "text": "ven", "correct": true },
+        { "text": "veen", "correct": false },
+        { "text": "ves", "correct": false },
+        { "text": "veo", "correct": false }
+      ],
+      "hint": "'ver' ist unregelmäßig in yo-Form (veo), aber die ellos-Form folgt der Regel: ven."
+    },
+    {
+      "id": 7,
+      "question": "Ergänze: 'Yo ___ la verdad.' (wissen – saber, unregelmäßig yo-Form)",
+      "answers": [
+        { "text": "sé", "correct": true },
+        { "text": "sabo", "correct": false },
+        { "text": "sabes", "correct": false },
+        { "text": "sebro", "correct": false }
+      ],
+      "hint": "'saber' hat eine besondere yo-Form: 'sé' (einsilbig, mit Akzent)."
+    },
+    {
+      "id": 8,
+      "question": "Ergänze: 'Yo ___ de casa a las ocho.' (weggehen – salir)",
+      "answers": [
+        { "text": "salgo", "correct": true },
+        { "text": "salo", "correct": false },
+        { "text": "salir", "correct": false },
+        { "text": "sales", "correct": false }
+      ],
+      "hint": "'salir' ist ein -GO-Verb: yo-Form = salgo."
+    },
+    {
+      "id": 9,
+      "question": "Ergänze: '¿Tú ___ hablar alemán?' (können – poder, Stammvokalwechsel o→ue)",
+      "answers": [
+        { "text": "puedes", "correct": true },
+        { "text": "podes", "correct": false },
+        { "text": "podues", "correct": false },
+        { "text": "puede", "correct": false }
+      ],
+      "hint": "'poder' wechselt o→ue bei betonter Silbe. tú-Form: pu-edes."
+    },
+    {
+      "id": 10,
+      "question": "Ergänze: 'Yo ___ en el examen.' (denken – pensar, Stammvokalwechsel e→ie)",
+      "answers": [
+        { "text": "pienso", "correct": true },
+        { "text": "penso", "correct": false },
+        { "text": "penseo", "correct": false },
+        { "text": "piensas", "correct": false }
+      ],
+      "hint": "'pensar' wechselt e→ie bei Betonung. yo-Form: pienso."
+    },
+    {
+      "id": 11,
+      "question": "Hat 'pensar' einen Stammvokalwechsel in der nosotros-Form?",
+      "answers": [
+        { "text": "Nein, es bleibt 'pensamos'", "correct": true },
+        { "text": "Ja, es wird 'piensamos'", "correct": false },
+        { "text": "Ja, es wird 'pensemos'", "correct": false },
+        { "text": "Ja, es wird 'piensemos'", "correct": false }
+      ],
+      "hint": "nosotros und vosotros haben keinen Stammvokalwechsel – die Betonung liegt nicht auf dem Stamm."
+    },
+    {
+      "id": 12,
+      "question": "Ergänze: 'Ahora ___ comiendo.' (ich – estar + Gerundium)",
+      "answers": [
+        { "text": "estoy", "correct": true },
+        { "text": "soy", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "es", "correct": false }
+      ],
+      "hint": "Die Verlaufsform verwendet ESTAR (nicht ser) + Gerundium. yo → estoy."
+    },
+    {
+      "id": 13,
+      "question": "Wie lautet das Gerundium von 'hablar'?",
+      "answers": [
+        { "text": "hablando", "correct": true },
+        { "text": "habliendo", "correct": false },
+        { "text": "hablar", "correct": false },
+        { "text": "hablado", "correct": false }
+      ],
+      "hint": "-AR-Verben bilden das Gerundium mit -ando: habl- + ando = hablando."
+    },
+    {
+      "id": 14,
+      "question": "Ergänze: 'Yo ___ a mis amigos.' (kennen – conocer, -ZCO-Verb)",
+      "answers": [
+        { "text": "conozco", "correct": true },
+        { "text": "conoco", "correct": false },
+        { "text": "conozgo", "correct": false },
+        { "text": "conoces", "correct": false }
+      ],
+      "hint": "'conocer' ist ein -ZCO-Verb: yo-Form = conozco."
+    },
+    {
+      "id": 15,
+      "question": "Ergänze: '¿Vosotros ___ mucho?' (arbeiten – trabajar)",
+      "answers": [
+        { "text": "trabajáis", "correct": true },
+        { "text": "trabajan", "correct": false },
+        { "text": "trabajais", "correct": false },
+        { "text": "trabajamos", "correct": false }
+      ],
+      "hint": "-AR-Verb, vosotros-Endung = -áis (mit Akzent): trabajáis."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: 'Yo ___ la carta.' (schreiben – escribir)",
+      "answers": [
+        { "text": "escribo", "correct": true },
+        { "text": "escribes", "correct": false },
+        { "text": "escribe", "correct": false },
+        { "text": "escribimos", "correct": false }
+      ],
+      "hint": "-IR-Verb, yo-Endung = -o: escrib- + o = escribo."
+    },
+    {
+      "id": 17,
+      "question": "Ergänze: 'Ellos ___ en casa.' (sein/sich befinden – estar)",
+      "answers": [
+        { "text": "están", "correct": true },
+        { "text": "son", "correct": false },
+        { "text": "estás", "correct": false },
+        { "text": "estamos", "correct": false }
+      ],
+      "hint": "'estar' ist unregelmäßig. ellos/ellas/ustedes → están."
+    }
+  ]
+}

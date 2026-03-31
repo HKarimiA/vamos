@@ -1,0 +1,226 @@
+{
+  "topic": { "id": 1, "name": "Laute & Schreibsystem" },
+  "explanation": {
+    "title": "Spanische Laute & Schreibsystem",
+    "sections": [
+      {
+        "subtitle": "Das Alphabet",
+        "content": "🔤 27 Buchstaben\n\nDas spanische Alphabet hat 27 Buchstaben:\n→ wie das deutsche Alphabet plus den Buchstaben ñ\n\nBesondere Buchstaben:\n• ñ → klingt wie 'nj' (señor, mañana)\n• Früher galten auch 'ch' und 'll' als eigene Buchstaben"
+      },
+      {
+        "subtitle": "Vokale",
+        "content": "🗣️ Vokale – immer gleich ausgesprochen\n\nIm Spanischen wird jeder Vokal immer gleich ausgesprochen:\n• a → wie in 'Vater'\n• e → wie in 'See'\n• i → wie in 'mit'\n• o → wie in 'hoch'\n• u → wie in 'gut'\n\n✅ Keine langen/kurzen Vokalunterschiede wie im Deutschen\n✅ Kein 'stummes e' am Wortende"
+      },
+      {
+        "subtitle": "Wichtige Konsonanten",
+        "content": "📢 Besondere Konsonanten\n\n• h → immer stumm!\n  → hotel klingt wie 'otel'\n\n• j → klingt wie deutsches 'ch' (ach)\n  → jardín = 'chardín'\n\n• ll → klingt wie 'j' (meist)\n  → llama = 'jama'\n\n• ñ → klingt wie 'nj'\n  → España = 'Espan-ja'\n\n• b und v → klingen gleich (wie weiches 'b')\n\n• r → gerollt am Wortanfang\n• rr → stark gerollt\n\n• g vor e/i → klingt wie 'ch' (ach)\n  → general = 'cheneral'"
+      },
+      {
+        "subtitle": "Betonungszeichen",
+        "content": "´ Akzentzeichen\n\nSpanisch verwendet den Akut-Akzent (´):\n• Zeigt die betonte Silbe an\n  → café, fácil, médico\n\n• Unterscheidet gleichgeschriebene Wörter:\n  → tú (du) vs. tu (dein)\n  → él (er) vs. el (der)\n  → sí (ja) vs. si (wenn)\n\n⚠️ Ohne Akzent gelten folgende Regeln:\n• Endet das Wort auf Vokal, n oder s → letzte Silbe vor der letzten betont\n• Endet es auf Konsonant → letzte Silbe betont"
+      },
+      {
+        "subtitle": "Das besondere Ñ",
+        "content": "🌟 Der Buchstabe Ñ\n\nÑ ist ein eigenständiger Buchstabe im Spanischen:\n• España → Spanien\n• señor → Herr\n• mañana → morgen / Morgen\n• año → Jahr\n• niño → Kind (männlich)\n• baño → Bad\n\n💡 Merkhilfe: Das ~ über dem n nennt sich 'Tilde'\n→ Ñ klingt wie 'nj' im Deutschen"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Wie viele Buchstaben hat das spanische Alphabet?",
+      "answers": [
+        { "text": "27", "correct": true },
+        { "text": "26", "correct": false },
+        { "text": "28", "correct": false },
+        { "text": "29", "correct": false }
+      ],
+      "hint": "Das spanische Alphabet hat einen Buchstaben mehr als das englische: das ñ."
+    },
+    {
+      "id": 2,
+      "question": "Wie wird der Buchstabe 'h' im Spanischen ausgesprochen?",
+      "answers": [
+        { "text": "Er ist stumm", "correct": true },
+        { "text": "Wie deutsches 'h'", "correct": false },
+        { "text": "Wie deutsches 'ch'", "correct": false },
+        { "text": "Wie englisches 'h'", "correct": false }
+      ],
+      "hint": "Das 'h' im Spanischen wird nie ausgesprochen. 'Hotel' klingt also wie 'otel'."
+    },
+    {
+      "id": 3,
+      "question": "Wie wird 'j' im Spanischen ausgesprochen? (z.B. in 'jardín')",
+      "answers": [
+        { "text": "Wie deutsches 'ch' (ach-Laut)", "correct": true },
+        { "text": "Wie deutsches 'j'", "correct": false },
+        { "text": "Wie englisches 'j'", "correct": false },
+        { "text": "Stumm", "correct": false }
+      ],
+      "hint": "Das spanische 'j' klingt wie der deutsche Ach-Laut, z.B. in 'jardín' (Garten)."
+    },
+    {
+      "id": 4,
+      "question": "Welches spanische Wort enthält den Buchstaben ñ?",
+      "answers": [
+        { "text": "mañana", "correct": true },
+        { "text": "manana", "correct": false },
+        { "text": "mahana", "correct": false },
+        { "text": "mannana", "correct": false }
+      ],
+      "hint": "Das Wort bedeutet 'morgen' oder 'Morgen'. Das ñ klingt wie 'nj'."
+    },
+    {
+      "id": 5,
+      "question": "Wie werden die Buchstaben 'b' und 'v' im Spanischen ausgesprochen?",
+      "answers": [
+        { "text": "Beide klingen gleich wie ein weiches 'b'", "correct": true },
+        { "text": "'b' wie Deutsch, 'v' wie 'f'", "correct": false },
+        { "text": "'v' wie Deutsch, 'b' wie 'p'", "correct": false },
+        { "text": "Beide stumm", "correct": false }
+      ],
+      "hint": "Im Spanischen gibt es keinen Unterschied zwischen 'b' und 'v'. Beide klingen wie ein weiches 'b'."
+    },
+    {
+      "id": 6,
+      "question": "Ergänze: 'Yo ___ María.' (heißen / llamarse, ich-Form)",
+      "answers": [
+        { "text": "me llamo", "correct": true },
+        { "text": "llamo", "correct": false },
+        { "text": "me llama", "correct": false },
+        { "text": "soy llamo", "correct": false }
+      ],
+      "hint": "'Llamarse' ist ein reflexives Verb. Die yo-Form ist 'me llamo'."
+    },
+    {
+      "id": 7,
+      "question": "Was bedeutet der Akzent in 'tú'?",
+      "answers": [
+        { "text": "Es bedeutet 'du' (Personalpronomen)", "correct": true },
+        { "text": "Es bedeutet 'dein' (Possessivpronomen)", "correct": false },
+        { "text": "Es zeigt eine lange Aussprache an", "correct": false },
+        { "text": "Es hat keine Bedeutung", "correct": false }
+      ],
+      "hint": "'tú' mit Akzent = du (Pronomen); 'tu' ohne Akzent = dein (Possessivum)."
+    },
+    {
+      "id": 8,
+      "question": "Wie wird 'll' im Spanischen (z.B. in 'llama') ausgesprochen?",
+      "answers": [
+        { "text": "Wie deutsches 'j'", "correct": true },
+        { "text": "Wie 'll' in 'Ball'", "correct": false },
+        { "text": "Wie 'ly'", "correct": false },
+        { "text": "Wie 'l' + 'l' separat", "correct": false }
+      ],
+      "hint": "Im modernen Spanisch wird 'll' meist wie 'j' ausgesprochen. 'llama' klingt wie 'jama'."
+    },
+    {
+      "id": 9,
+      "question": "Wo liegt die Betonung in 'fácil' (einfach)?",
+      "answers": [
+        { "text": "Auf der ersten Silbe: FÁ-cil", "correct": true },
+        { "text": "Auf der letzten Silbe: fa-CIL", "correct": false },
+        { "text": "Beide Silben gleich betont", "correct": false },
+        { "text": "Das Akzentzeichen ändert nichts", "correct": false }
+      ],
+      "hint": "Das Akzentzeichen (´) zeigt immer die betonte Silbe an."
+    },
+    {
+      "id": 10,
+      "question": "Wie wird 'g' in 'general' ausgesprochen?",
+      "answers": [
+        { "text": "Wie deutsches 'ch' (ach-Laut)", "correct": true },
+        { "text": "Wie deutsches 'g'", "correct": false },
+        { "text": "Wie englisches 'g'", "correct": false },
+        { "text": "Stumm", "correct": false }
+      ],
+      "hint": "Vor 'e' und 'i' wird 'g' im Spanischen wie der Ach-Laut ausgesprochen."
+    },
+    {
+      "id": 11,
+      "question": "Welche Aussage über spanische Vokale ist korrekt?",
+      "answers": [
+        {
+          "text": "Jeder Vokal wird immer gleich ausgesprochen",
+          "correct": true
+        },
+        { "text": "Vokale können lang oder kurz sein", "correct": false },
+        { "text": "Das 'e' am Wortende ist stumm", "correct": false },
+        { "text": "Spanisch hat 6 Vokale", "correct": false }
+      ],
+      "hint": "Im Spanischen hat jeder Vokal nur einen Lautwert – anders als im Deutschen oder Englischen."
+    },
+    {
+      "id": 12,
+      "question": "Was bedeutet 'España'?",
+      "answers": [
+        { "text": "Spanien", "correct": true },
+        { "text": "Spanier", "correct": false },
+        { "text": "Spanisch (Sprache)", "correct": false },
+        { "text": "Spanisch (Adjektiv)", "correct": false }
+      ],
+      "hint": "Das Wort enthält den Buchstaben ñ. Es ist der spanische Name des Landes."
+    },
+    {
+      "id": 13,
+      "question": "Wie wird 'rr' im Spanischen ausgesprochen (z.B. in 'perro')?",
+      "answers": [
+        { "text": "Stark gerollt", "correct": true },
+        { "text": "Stumm", "correct": false },
+        { "text": "Wie deutsches 'r'", "correct": false },
+        { "text": "Wie 'r' + 'r' separat", "correct": false }
+      ],
+      "hint": "'rr' steht für ein stark gerolltes 'r'. 'perro' (Hund) klingt anders als 'pero' (aber)."
+    },
+    {
+      "id": 14,
+      "question": "Was is die Bedeutung von 'año'?",
+      "answers": [
+        { "text": "Jahr", "correct": true },
+        { "text": "Anus", "correct": false },
+        { "text": "Morgen", "correct": false },
+        { "text": "Bad", "correct": false }
+      ],
+      "hint": "Ohne ñ würde das Wort 'ano' ganz anders bedeuten! Das ñ ist sehr wichtig."
+    },
+    {
+      "id": 15,
+      "question": "Welcher Satz enthält eine korrekte spanische Aussprache-Regel?",
+      "answers": [
+        { "text": "'h' ist immer stumm: 'hola' = 'ola'", "correct": true },
+        {
+          "text": "'v' klingt wie deutsches 'f': 'vino' = 'fino'",
+          "correct": false
+        },
+        {
+          "text": "'j' klingt wie deutsches 'j': 'jamón' = 'jamon'",
+          "correct": false
+        },
+        { "text": "'ll' ist immer still: 'llama' = 'ama'", "correct": false }
+      ],
+      "hint": "Das 'h' im Spanischen wird niemals ausgesprochen. 'hola' klingt wie 'ola'."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze den Satz: '___ se llama Pedro.' (Er / Subjektpronomen)",
+      "answers": [
+        { "text": "Él", "correct": true },
+        { "text": "El", "correct": false },
+        { "text": "Ella", "correct": false },
+        { "text": "Yo", "correct": false }
+      ],
+      "hint": "'Él' mit Akzent = er (Pronomen); 'el' ohne Akzent = der (Artikel)."
+    },
+    {
+      "id": 17,
+      "question": "Was bedeutet das Tilde (~) über dem 'n' bei 'ñ'?",
+      "answers": [
+        { "text": "Es ändert den Laut zu 'nj'", "correct": true },
+        { "text": "Es macht das 'n' stumm", "correct": false },
+        { "text": "Es zeigt einen betonten Vokal an", "correct": false },
+        { "text": "Es ist nur dekorativ", "correct": false }
+      ],
+      "hint": "Das Tilde (~) über dem n verwandelt 'n' in den Laut 'ñ', der wie 'nj' klingt."
+    }
+  ]
+}

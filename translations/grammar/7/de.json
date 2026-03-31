@@ -1,0 +1,245 @@
+{
+  "topic": { "id": 7, "name": "Pronomen" },
+  "explanation": {
+    "title": "Spanische Pronomen: Subjekt, Objekt, Reflexiv & mehr",
+    "sections": [
+      {
+        "subtitle": "Subjektpronomen & Pro-drop",
+        "content": "👥 Subjektpronomen\n\nSingular:\n• yo → ich\n• tú → du (informell)\n• él/ella → er/sie\n• usted → Sie (formal)\n\nPlural:\n• nosotros/nosotras → wir\n• vosotros/vosotras → ihr (Plural, Spanien)\n• ellos/ellas → sie (Plural)\n• ustedes → Sie/ihr (Plural formal / Lateinamerika)\n\n💡 'Pro-drop'-Sprache\n\nVerbendungen zeigen das Subjekt → Pronomen oft weglassen:\n• Hablo español (Ich spreche Spanisch)\n  ❌ NICHT zwingend: Yo hablo español\n\n✅ Pronomen verwenden bei:\n• Betonung → YO hablo español\n• Verdeutlichung → Él habla, ella no"
+      },
+      {
+        "subtitle": "Direkte Objektpronomen",
+        "content": "🎯 Direktes Objekt (empfängt Handlung direkt)\n\nPronomen:\n• me → mich\n• te → dich\n• lo → ihn/es/Sie formal (mask.)\n• la → sie/es/Sie formal (fem.)\n• nos → uns\n• os → euch (Spanien)\n• los → sie (Plural mask.)\n• las → sie (Plural fem.)\n\nBeispiel:\n• Veo el libro → Lo veo\n  (Ich sehe das Buch → Ich sehe es)\n\n📍 Stellung:\n• VOR konjugierten Verben\n  → Lo veo\n• Angehängt an Infinitiv/Gerundium/Imperativ\n  → Quiero verlo (Ich möchte es sehen)\n  → Viéndolo (es sehend)"
+      },
+      {
+        "subtitle": "Indirekte Objektpronomen",
+        "content": "🎯 Indirektes Objekt (AN WEN/FÜR WEN)\n\nPronomen:\n• me → mir\n• te → dir\n• le → ihm/ihr/Ihnen\n• nos → uns\n• os → euch (Spanien)\n• les → ihnen/Ihnen\n\nBeispiele:\n• Le doy el libro\n  → Ich gebe ihm/ihr das Buch\n• Me compra flores\n  → Er kauft mir Blumen\n\n💡 Redundante Verwendung (häufig!):\n• Le doy el libro a María\n  → Ich gebe María das Buch\n  ('le' ist redundant, aber üblich zur Verdeutlichung)"
+      },
+      {
+        "subtitle": "Kombinierte Objektpronomen",
+        "content": "🔗 BEIDE Pronomen zusammen verwenden\n\nReihenfolge: INDIREKTES + DIREKTES\n\n⚠️ Besondere Regel:\nle/les + lo/la/los/las → se + lo/la/los/las\n\nBeispiele:\n• Le doy el libro (Ich gebe ihm das Buch)\n  → Se lo doy (Ich gebe es ihm)\n\n• Les mando las cartas (Ich schicke ihnen die Briefe)\n  → Se las mando (Ich schicke sie ihnen)\n\n📍 Stellungsregeln:\n• Beide VOR dem konjugierten Verb\n  → Se lo digo\n• Beide angehängt an Infinitiv/Gerundium/Imperativ\n  → Quiero dárselo\n  → Diciéndoselo\n\n✅ Beide Pronomen bleiben zusammen!"
+      },
+      {
+        "subtitle": "Reflexive Pronomen",
+        "content": "🤷 Subjekt handelt an sich selbst\n\nPronomen:\n• me → mich selbst\n• te → dich selbst\n• se → sich selbst (er/sie/Sie/sie Pl.)\n• nos → uns selbst\n• os → euch selbst (Spanien)\n\nVerwendung mit reflexiven Verben:\n\n• Me lavo → Ich wasche mich\n• Te levantas → Du stehst auf\n• Se llama Pedro → Er heißt Pedro\n  (wörtlich: Er nennt sich Pedro)\n• Nos vestimos → Wir ziehen uns an\n\n✅ Pronomen MUSS mit dem Subjekt übereinstimmen:\n• yo  → me\n• tú → te\n• él/ella/usted → se\n• nosotros → nos"
+      },
+      {
+        "subtitle": "Weitere wichtige Pronomen",
+        "content": "💼 Possessivpronomen\n\n• el mío/la mía → meiner/meine\n• el tuyo/la tuya → deiner/deine\n• el suyo/la suya → seiner/ihrer/Ihrer/ihrer\n• el nuestro/la nuestra → unserer/unsere\n\n👉 Demonstrativ\n\n• éste/ésta → dieser hier\n• ése/ésa → jener dort\n• aquél/aquélla → jener da drüben\n\n❓ Interrogativ\n\n• ¿qué? → was?\n• ¿quién/quiénes? → wer?\n• ¿cuál/cuáles? → welcher/welche?\n\n🧑 Indefinit\n\n• alguien → jemand\n• nadie → niemand\n• algo → etwas\n• nada → nichts"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ergänze: '___ hablo español.' (Ich – betonte Aussage)",
+      "answers": [
+        { "text": "Yo", "correct": true },
+        { "text": "Tú", "correct": false },
+        { "text": "Él", "correct": false },
+        { "text": "Mi", "correct": false }
+      ],
+      "hint": "'Yo' = ich (Subjektpronomen). Im Spanischen kann man es weglassen, aber hier wird es für Betonung verwendet."
+    },
+    {
+      "id": 2,
+      "question": "Warum kann man im Spanischen sagen 'Hablo español' ohne 'yo'?",
+      "answers": [
+        {
+          "text": "Spanisch ist eine Pro-drop-Sprache – Verbendungen zeigen das Subjekt",
+          "correct": true
+        },
+        {
+          "text": "Es ist grammatikalisch falsch, 'yo' zu verwenden",
+          "correct": false
+        },
+        { "text": "Es gibt kein 'yo' im Spanischen", "correct": false },
+        {
+          "text": "Nur im informellen Spanisch lässt man 'yo' weg",
+          "correct": false
+        }
+      ],
+      "hint": "Die Verbendung '-o' zeigt bereits an, dass das Subjekt 'ich' ist."
+    },
+    {
+      "id": 3,
+      "question": "Ergänze: '¿___ libro ves?' – 'Lo veo.' (direktes Objektpronomen)",
+      "answers": [
+        { "text": "Lo", "correct": true },
+        { "text": "La", "correct": false },
+        { "text": "Le", "correct": false },
+        { "text": "Los", "correct": false }
+      ],
+      "hint": "'libro' ist maskulin Singular → direktes Objektpronomen = 'lo'."
+    },
+    {
+      "id": 4,
+      "question": "Ergänze: 'Veo las casas.' → '___ veo.'",
+      "answers": [
+        { "text": "Las", "correct": true },
+        { "text": "Los", "correct": false },
+        { "text": "La", "correct": false },
+        { "text": "Les", "correct": false }
+      ],
+      "hint": "'casas' ist feminin Plural → direktes Objektpronomen = 'las'."
+    },
+    {
+      "id": 5,
+      "question": "Was bedeutet 'Le compro flores a mi madre'?",
+      "answers": [
+        { "text": "Ich kaufe meiner Mutter Blumen", "correct": true },
+        { "text": "Meine Mutter kauft mir Blumen", "correct": false },
+        { "text": "Ich sehe meine Mutter mit Blumen", "correct": false },
+        { "text": "Meine Mutter kauft Blumen", "correct": false }
+      ],
+      "hint": "'Le' ist indirektes Objektpronomen (ihr/ihm). 'a mi madre' verdeutlicht, wem."
+    },
+    {
+      "id": 6,
+      "question": "Was passiert, wenn 'le' vor 'lo' steht?",
+      "answers": [
+        { "text": "'le' wird zu 'se': se lo", "correct": true },
+        { "text": "'le' bleibt: le lo", "correct": false },
+        { "text": "Die Reihenfolge dreht sich: lo le", "correct": false },
+        { "text": "Man kann nicht beide zusammen verwenden", "correct": false }
+      ],
+      "hint": "Wenn le/les vor lo/la/los/las steht, ändert es sich zu 'se', um Missklang zu vermeiden."
+    },
+    {
+      "id": 7,
+      "question": "Ergänze: 'Quiero darte el libro.' → 'Quiero ___.' (es dir geben)",
+      "answers": [
+        { "text": "dártelo", "correct": true },
+        { "text": "te lo dar", "correct": false },
+        { "text": "lo te dar", "correct": false },
+        { "text": "dartelo", "correct": false }
+      ],
+      "hint": "An Infinitive werden beide Pronomen angehängt: dar + te + lo = dártelo (mit Akzent)."
+    },
+    {
+      "id": 8,
+      "question": "Ergänze das reflexive Verb: 'Ella ___ levanta a las siete.' (aufstehen)",
+      "answers": [
+        { "text": "se", "correct": true },
+        { "text": "me", "correct": false },
+        { "text": "te", "correct": false },
+        { "text": "le", "correct": false }
+      ],
+      "hint": "'ella' = sie → reflexives Pronomen der 3. Person = 'se'."
+    },
+    {
+      "id": 9,
+      "question": "Was bedeutet 'Nos vemos mañana'?",
+      "answers": [
+        { "text": "Wir sehen uns morgen", "correct": true },
+        { "text": "Wir sehen euch morgen", "correct": false },
+        { "text": "Ihr seht uns morgen", "correct": false },
+        { "text": "Sie sehen uns morgen", "correct": false }
+      ],
+      "hint": "'nos' = uns (reflexiv). 'ver' = sehen. 'Nos vemos' = wir sehen uns."
+    },
+    {
+      "id": 10,
+      "question": "Wie sagt man 'Ich gebe es ihnen' auf Spanisch? (el libro an ellos)",
+      "answers": [
+        { "text": "Se lo doy", "correct": true },
+        { "text": "Les lo doy", "correct": false },
+        { "text": "Lo les doy", "correct": false },
+        { "text": "Se los doy", "correct": false }
+      ],
+      "hint": "les + lo → se lo. Reihenfolge: indirektes + direktes Pronomen vor dem Verb."
+    },
+    {
+      "id": 11,
+      "question": "Was ist der Unterschied zwischen 'tú' und 'tu' im Spanischen?",
+      "answers": [
+        {
+          "text": "'tú' (mit Akzent) = du; 'tu' (ohne Akzent) = dein",
+          "correct": true
+        },
+        { "text": "Kein Unterschied, beide bedeuten 'du'", "correct": false },
+        { "text": "'tu' = du; 'tú' = dein", "correct": false },
+        {
+          "text": "'tú' = formelles 'du'; 'tu' = informelles 'du'",
+          "correct": false
+        }
+      ],
+      "hint": "Akzent unterscheidet Homographen: tú (Pronomen) vs. tu (Possessivum)."
+    },
+    {
+      "id": 12,
+      "question": "Ergänze: '___ llamo Ana.' (Ich heiße Ana – reflexiv)",
+      "answers": [
+        { "text": "Me", "correct": true },
+        { "text": "Se", "correct": false },
+        { "text": "Te", "correct": false },
+        { "text": "Mi", "correct": false }
+      ],
+      "hint": "'llamarse' ist reflexiv. Für 'yo' ist das reflexive Pronomen 'me'."
+    },
+    {
+      "id": 13,
+      "question": "Was bedeutet 'alguien'?",
+      "answers": [
+        { "text": "jemand", "correct": true },
+        { "text": "niemand", "correct": false },
+        { "text": "etwas", "correct": false },
+        { "text": "nichts", "correct": false }
+      ],
+      "hint": "Das Gegenteil ist 'nadie' (niemand)."
+    },
+    {
+      "id": 14,
+      "question": "Ergänze: 'No veo ___.' (Ich sehe niemanden.)",
+      "answers": [
+        { "text": "a nadie", "correct": true },
+        { "text": "nadie", "correct": false },
+        { "text": "a alguien", "correct": false },
+        { "text": "nada", "correct": false }
+      ],
+      "hint": "Bei Personenpronomen als direktes Objekt verwendet man 'a' + Pronomen."
+    },
+    {
+      "id": 15,
+      "question": "Was bedeutet das formelle 'usted' und wird es wie welche Person konjugiert?",
+      "answers": [
+        {
+          "text": "'Sie' (formal singular) – konjugiert wie 3. Person Singular (él/ella)",
+          "correct": true
+        },
+        {
+          "text": "'Sie' (formal singular) – konjugiert wie 2. Person Singular (tú)",
+          "correct": false
+        },
+        {
+          "text": "'Sie' (formal plural) – konjugiert wie 3. Person Plural",
+          "correct": false
+        },
+        { "text": "'ihr' (plural) – konjugiert wie vosotros", "correct": false }
+      ],
+      "hint": "'usted' ist grammatikalisch 3. Person, aber sozial 'Sie' (formal)."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: 'Él ___ lava las manos.' (Er wäscht sich die Hände – reflexiv)",
+      "answers": [
+        { "text": "se", "correct": true },
+        { "text": "me", "correct": false },
+        { "text": "te", "correct": false },
+        { "text": "le", "correct": false }
+      ],
+      "hint": "Für él/ella/usted ist das reflexive Pronomen 'se'."
+    },
+    {
+      "id": 17,
+      "question": "Wo stehen Objektpronomen in Bezug auf das konjugierte Verb?",
+      "answers": [
+        { "text": "Davor (vor dem konjugierten Verb)", "correct": true },
+        { "text": "Dahinter (nach dem konjugierten Verb)", "correct": false },
+        { "text": "Am Satzanfang", "correct": false },
+        { "text": "Am Satzende", "correct": false }
+      ],
+      "hint": "Bei konjugierten Verben kommen Objektpronomen davor: 'Lo veo', nicht 'veo lo'."
+    }
+  ]
+}

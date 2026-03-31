@@ -1,0 +1,210 @@
+{
+  "topic": { "id": 13, "name": "Imperativ (Befehle)" },
+  "explanation": {
+    "title": "Der spanische Imperativ: Befehle & Anweisungen geben",
+    "sections": [
+      {
+        "subtitle": "Informative Aufforderungen (Tú) – Bejaht",
+        "content": "📋 Einfachste Befehlsform!\n\n✅ Bildung:\n• 3. Person Singular (él/ella) Präsens Indikativ verwenden\n\n💡 Regelmäßige Beispiele:\n→ habla (sprich) – él habla\n→ come (iss) – él come\n→ escribe (schreib) – él escribe\n\n⚠️ Häufige Unregelmäßigkeiten (8 insgesamt):\n• decir → di\n• hacer → haz\n• ir → ve\n• poner → pon\n• salir → sal\n• ser → sé\n• tener → ten\n• venir → ven\n\n💡 Verwendungsbeispiele:\n→ ¡Habla más despacio! (Sprich langsamer!)\n→ ¡Come la comida! (Iss das Essen!)\n→ ¡Haz tu tarea! (Mach deine Hausaufgaben!)\n\n🎯 Häufigste Befehlsform im alltäglichen Spanisch"
+      },
+      {
+        "subtitle": "Informative Verneinungen (Tú) – Verneint",
+        "content": "📋 Verneinte tú-Befehle\n\n✅ Bildung:\n• no + Presente de Subjuntivo (tú-Form)\n\n💡 Regelmäßige Beispiele:\n→ no hables (sprich nicht)\n→ no comas (iss nicht)\n→ no escribas (schreib nicht)\n\n⚠️ Unregelmäßige folgen dem Konjunktiv:\n→ no seas (sei nicht)\n→ no vayas (geh nicht)\n→ no hagas (tu nicht)\n→ no digas (sag nicht)\n→ no tengas (hab nicht)\n\n💡 Verwendungsbeispiele:\n→ ¡No hables! (Sprich nicht!)\n→ ¡No comas eso! (Iss das nicht!)\n→ ¡No vayas! (Geh nicht!)\n\n⚡ Wichtige Regel:\nVerneinte Befehle verwenden IMMER den Konjunktiv für alle Personen"
+      },
+      {
+        "subtitle": "Formelle Befehle (Usted/Ustedes)",
+        "content": "📋 Formelle Befehle\n\n✅ Bildung:\n• IMMER Presente de Subjuntivo verwenden (bejahend UND verneinend)\n\n💡 Usted-Befehle:\n→ hable (sprechen Sie)\n→ coma (essen Sie)\n→ escriba (schreiben Sie)\n→ sea (seien Sie)\n→ vaya (gehen Sie)\n→ haga (tun Sie)\n\n💡 Ustedes-Befehle:\n→ hablen (sprechen Sie)\n→ coman (essen Sie)\n→ escriban (schreiben Sie)\n→ sean (seien Sie)\n→ vayan (gehen Sie)\n→ hagan (tun Sie)\n\n⚠️ Verneinung: Einfach 'no' hinzufügen:\n→ no hable, no hablen\n\n💡 Beispiele:\n→ ¡Hable más despacio! (Sprechen Sie langsamer! – formell)\n→ ¡No hablen aquí! (Sprechen Sie hier nicht! – formell Plural)\n\n📍 Ustedes in Lateinamerika:\nFür ALLE Plural-Formen 'ihr' verwendet (formell UND informell)"
+      },
+      {
+        "subtitle": "Vosotros-Befehle (Spanien)",
+        "content": "📋 Vosotros-Befehle (nur Spanien)\n\n✅ Bildung BEJAHT:\n• Letztes 'r' des Infinitivs durch 'd' ersetzen\n• Keine Unregelmäßigkeiten!\n\n💡 Beispiele:\n→ hablar → hablad (Sprecht! – ihr alle)\n→ comer → comed (Esst! – ihr alle)\n→ vivir → vivid (Lebt! – ihr alle)\n\n⚠️ Bildung VERNEINT:\n• Presente de Subjuntivo (vosotros-Form) verwenden\n\n💡 Beispiele:\n→ no habléis (Sprecht nicht! – ihr alle)\n→ no comáis (Esst nicht! – ihr alle)\n→ no viváis (Lebt nicht! – ihr alle)\n→ no seáis (Seid nicht! – ihr alle)\n→ no vayáis (Geht nicht! – ihr alle)\n\n📍 Regionaler Hinweis:\nVosotros wird hauptsächlich in Spanien verwendet\nLateinamerika verwendet ustedes für Plural-'ihr'"
+      },
+      {
+        "subtitle": "Pronomenstellung bei Befehlen",
+        "content": "📋 Regeln zur Pronomenstellung\n\n✅ Bejahende Befehle:\n• Pronomen ans ENDE anhängen (ein Wort)\n• Akzentzeichen zur Stresserhaltung hinzufügen\n\n💡 Beispiele:\n→ ¡Hazlo! (Tu es!)\n→ ¡Dámelo! (Gib es mir!)\n→ ¡Siéntate! (Setz dich!)\n→ ¡Levántate! (Steh auf!)\n\n⚠️ Verneinende Befehle:\n• Pronomen stehen VOR dem Verb (getrennte Wörter)\n\n💡 Beispiele:\n→ ¡No lo hagas! (Tu es nicht!)\n→ ¡No me lo des! (Gib es mir nicht!)\n→ ¡No te sientes! (Setz dich nicht!)\n\n📋 Mit zwei Pronomen:\n• Reihenfolge: indirektes vor direktem\n→ me lo, te la, se los\n\n🎯 Reflexive Verben:\n→ Bejahend: siéntate, levántate\n→ Verneinend: no te sientes, no te levantes"
+      },
+      {
+        "subtitle": "Nosotros-Befehle (Lasst uns...)",
+        "content": "📋 Nosotros-Befehle (Lass uns...)\n\n✅ Bildung:\n• Presente de Subjuntivo (nosotros-Form) verwenden\n\n💡 Bejahende Beispiele:\n→ hablemos (lass uns sprechen)\n→ comamos (lass uns essen)\n→ seamos (lass uns sein)\n\n⚠️ Sonderfall – IR:\n• Bejahend: vamos verwenden (NICHT vayamos)\n→ ¡Vamos! (Lass uns gehen!)\n\n• Verneinend: vayamos verwenden\n→ No vayamos (Lass uns nicht gehen)\n\n💡 Verneinende Beispiele:\n→ no hablemos (lass uns nicht sprechen)\n→ no comamos (lass uns nicht essen)\n→ no seamos (lass uns nicht sein)\n\n📋 Mit Pronomen:\n\nBejahend (anhängen, letztes 's' vor 'nos' weglassen):\n→ sentémonos (lass uns setzen)\n→ levantémonos (lass uns aufstehen)\n\nVerneinend (Pronomen vorher):\n→ no nos sentemos (lass uns nicht setzen)"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Wähle den richtigen bejahenden tú-Befehl: '___! ¡La cena está lista!' (comer)",
+      "answers": [
+        { "text": "¡Come!", "correct": true },
+        { "text": "¡Coma!", "correct": false },
+        { "text": "¡Comes!", "correct": false },
+        { "text": "¡Comed!", "correct": false }
+      ],
+      "hint": "Bejahender tú-Befehl = él/ella-Form. él come → ¡Come!"
+    },
+    {
+      "id": 2,
+      "question": "Ergänze den unregelmäßigen Befehl: '¡___ (hacer) los deberes ahora mismo!'",
+      "answers": [
+        { "text": "Haz", "correct": true },
+        { "text": "Hace", "correct": false },
+        { "text": "Haga", "correct": false },
+        { "text": "Hacer", "correct": false }
+      ],
+      "hint": "'hacer' gehört zu den 8 unregelmäßigen tú-Befehlen. Memorieren: haz."
+    },
+    {
+      "id": 3,
+      "question": "Wähle den richtigen verneinten tú-Befehl: '¡No ___ (ir) a esa fiesta!'",
+      "answers": [
+        { "text": "vayas", "correct": true },
+        { "text": "ve", "correct": false },
+        { "text": "vas", "correct": false },
+        { "text": "vaya", "correct": false }
+      ],
+      "hint": "Verneinende Befehle verwenden den Konjunktiv. Konjunktiv von 'ir': vaya, vayas, vaya..."
+    },
+    {
+      "id": 4,
+      "question": "Ergänze den formellen Usted-Befehl: '¡___ (hablar) más despacio, por favor!'",
+      "answers": [
+        { "text": "Hable", "correct": true },
+        { "text": "Habla", "correct": false },
+        { "text": "Hablas", "correct": false },
+        { "text": "Hablad", "correct": false }
+      ],
+      "hint": "Formelle Befehle (Usted) verwenden immer den Konjunktiv: hable."
+    },
+    {
+      "id": 5,
+      "question": "Wähle den Ustedes-Befehl: '¡___ (sentarse) todos, por favor!'",
+      "answers": [
+        { "text": "Siéntense", "correct": true },
+        { "text": "Siéntate", "correct": false },
+        { "text": "Sentad", "correct": false },
+        { "text": "Sentaos", "correct": false }
+      ],
+      "hint": "Ustedes → Konjunktiv (sienten) + reflexives Pronomen se anhängen: siéntense."
+    },
+    {
+      "id": 6,
+      "question": "Ergänze den vosotros-Befehl: '¡___ (escuchar) con atención!'",
+      "answers": [
+        { "text": "Escuchad", "correct": true },
+        { "text": "Escuchéis", "correct": false },
+        { "text": "Escuchen", "correct": false },
+        { "text": "Escucha", "correct": false }
+      ],
+      "hint": "Bejahender vosotros-Befehl: Infinitiv-r durch -d ersetzen: escuchar → escuchad."
+    },
+    {
+      "id": 7,
+      "question": "Wähle: '¡___ (vosotros/no hablar) en clase!'",
+      "answers": [
+        { "text": "no habléis", "correct": true },
+        { "text": "no hablad", "correct": false },
+        { "text": "no hablan", "correct": false },
+        { "text": "no habláis", "correct": false }
+      ],
+      "hint": "Verneinender vosotros-Befehl → Konjunktiv vosotros-Form: no habléis."
+    },
+    {
+      "id": 8,
+      "question": "Wo steht das Pronomen im bejahenden Befehl? '¡___ (dar + me + lo)!'",
+      "answers": [
+        { "text": "¡Dámelo!", "correct": true },
+        { "text": "¡Me lo da!", "correct": false },
+        { "text": "¡Lo me da!", "correct": false },
+        { "text": "¡Da me lo!", "correct": false }
+      ],
+      "hint": "Bei bejahenden Befehlen werden Pronomen angehängt: da + me + lo → dámelo (Akzent!)"
+    },
+    {
+      "id": 9,
+      "question": "Wo steht das Pronomen im verneinenden Befehl? '¡No ___ (tú/hacerlo)!'",
+      "answers": [
+        { "text": "¡No lo hagas!", "correct": true },
+        { "text": "¡No hagas lo!", "correct": false },
+        { "text": "¡No hazlo!", "correct": false },
+        { "text": "¡No lo haz!", "correct": false }
+      ],
+      "hint": "Bei verneinenden Befehlen stehen Pronomen VOR dem Verb: no lo hagas."
+    },
+    {
+      "id": 10,
+      "question": "Ergänze den Nosotros-Befehl: '¡___ a la playa!'",
+      "answers": [
+        { "text": "Vamos", "correct": true },
+        { "text": "Vayamos", "correct": false },
+        { "text": "Vamos a ir", "correct": false },
+        { "text": "Iremos", "correct": false }
+      ],
+      "hint": "Sonderfall: 'ir' im bejahenden nosotros-Befehl → Vamos (NICHT vayamos)."
+    },
+    {
+      "id": 11,
+      "question": "Wähle den richtigen unregelmäßigen tú-Befehl: '¡___ (venir) aquí!'",
+      "answers": [
+        { "text": "Ven", "correct": true },
+        { "text": "Viene", "correct": false },
+        { "text": "Venga", "correct": false },
+        { "text": "Venir", "correct": false }
+      ],
+      "hint": "'venir' ist einer der 8 unregelmäßigen tú-Befehle: ven."
+    },
+    {
+      "id": 12,
+      "question": "Ergänze: '¡No ___ (tú/ser) tan impaciente!'",
+      "answers": [
+        { "text": "seas", "correct": true },
+        { "text": "sé", "correct": false },
+        { "text": "eres", "correct": false },
+        { "text": "sea", "correct": false }
+      ],
+      "hint": "Verneinender Befehl → Konjunktiv von 'ser' (tú): seas."
+    },
+    {
+      "id": 13,
+      "question": "Wähle: '¡___ (ustedes/tener) cuidado en la calle!'",
+      "answers": [
+        { "text": "Tengan", "correct": true },
+        { "text": "Tenéis", "correct": false },
+        { "text": "Tened", "correct": false },
+        { "text": "Tienen", "correct": false }
+      ],
+      "hint": "Ustedes Befehl → Konjunktiv. 'tener': tengo → tenga + n = tengan."
+    },
+    {
+      "id": 14,
+      "question": "Ergänze den reflexiven Befehl: '¡___ (tú/levantarse)! ¡Ya son las 9!'",
+      "answers": [
+        { "text": "Levántate", "correct": true },
+        { "text": "Te levanta", "correct": false },
+        { "text": "Levanta te", "correct": false },
+        { "text": "Levantate", "correct": false }
+      ],
+      "hint": "Bejahender Befehl + reflexives Pronomen anhängen: levanta + te → levántate (Akzent!)."
+    },
+    {
+      "id": 15,
+      "question": "Wähle: '¡No ___ (nosotros/ir) por ese camino!'",
+      "answers": [
+        { "text": "vayamos", "correct": true },
+        { "text": "vamos", "correct": false },
+        { "text": "vayáis", "correct": false },
+        { "text": "iremos", "correct": false }
+      ],
+      "hint": "Verneinender nosotros-Befehl → Konjunktiv: no vayamos (bei 'ir' ist es der Konjunktiv, nicht 'vamos')."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: '¡___ (usted/decir) la verdad!'",
+      "answers": [
+        { "text": "Diga", "correct": true },
+        { "text": "Di", "correct": false },
+        { "text": "Dice", "correct": false },
+        { "text": "Digas", "correct": false }
+      ],
+      "hint": "Usted-Befehl → Konjunktiv. 'decir': digo → diga."
+    }
+  ]
+}

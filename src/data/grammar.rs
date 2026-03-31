@@ -9,46 +9,62 @@ pub struct GrammarTopic {
 }
 
 /// Get all grammar topics with their metadata
-pub fn get_all_topics() -> Vec<GrammarTopic> {
+pub fn get_all_topics(lang: &str) -> Vec<GrammarTopic> {
+    let de = lang == "de";
     vec![
         GrammarTopic {
             id: 1,
-            name: "Sounds & Writing".to_string(),
+            name: if de {
+                "Laute & Schreibsystem"
+            } else {
+                "Sounds & Writing"
+            }
+            .to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 2,
-            name: "Numbers".to_string(),
+            name: if de { "Zahlen" } else { "Numbers" }.to_string(),
             difficulty: 1,
         },
         GrammarTopic {
             id: 3,
-            name: "Dates & Time".to_string(),
+            name: if de {
+                "Datum & Uhrzeit"
+            } else {
+                "Dates & Time"
+            }
+            .to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 4,
-            name: "Nouns & Articles".to_string(),
+            name: if de {
+                "Nomen & Artikel"
+            } else {
+                "Nouns & Articles"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 5,
-            name: "Adjectives".to_string(),
+            name: if de { "Adjektive" } else { "Adjectives" }.to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 6,
-            name: "Determiners".to_string(),
+            name: if de { "Determinatoren" } else { "Determiners" }.to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 7,
-            name: "Pronouns".to_string(),
+            name: if de { "Pronomen" } else { "Pronouns" }.to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 8,
-            name: "Present Tense".to_string(),
+            name: if de { "Präsens" } else { "Present Tense" }.to_string(),
             difficulty: 1,
         },
         GrammarTopic {
@@ -58,92 +74,162 @@ pub fn get_all_topics() -> Vec<GrammarTopic> {
         },
         GrammarTopic {
             id: 10,
-            name: "Past Tenses".to_string(),
+            name: if de {
+                "Vergangenheitstempora"
+            } else {
+                "Past Tenses"
+            }
+            .to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 11,
-            name: "Future & Conditional".to_string(),
+            name: if de {
+                "Futur & Konditional"
+            } else {
+                "Future & Conditional"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 12,
-            name: "Subjunctive".to_string(),
+            name: if de { "Konjunktiv" } else { "Subjunctive" }.to_string(),
             difficulty: 4,
         },
         GrammarTopic {
             id: 13,
-            name: "Commands".to_string(),
+            name: if de {
+                "Imperativ (Befehle)"
+            } else {
+                "Commands"
+            }
+            .to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 14,
-            name: "Infinitive & Participles".to_string(),
+            name: if de {
+                "Infinite Verbformen"
+            } else {
+                "Infinitive & Participles"
+            }
+            .to_string(),
             difficulty: 1,
         },
         GrammarTopic {
             id: 15,
-            name: "Verb Combinations".to_string(),
+            name: if de {
+                "Periphrastische & Aspektuelle Konstruktionen"
+            } else {
+                "Verb Combinations"
+            }
+            .to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 16,
-            name: "Reflexive Verbs".to_string(),
+            name: if de {
+                "Reflexive & Pronominale Verben"
+            } else {
+                "Reflexive Verbs"
+            }
+            .to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 17,
-            name: "Special Verbs".to_string(),
+            name: if de {
+                "Besondere Verbmuster"
+            } else {
+                "Special Verbs"
+            }
+            .to_string(),
             difficulty: 1,
         },
         GrammarTopic {
             id: 18,
-            name: "Adverbs".to_string(),
+            name: if de { "Adverbien" } else { "Adverbs" }.to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 19,
-            name: "Prepositions".to_string(),
+            name: if de { "Präpositionen" } else { "Prepositions" }.to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 20,
-            name: "Conjunctions".to_string(),
+            name: if de {
+                "Konjunktionen & Konnektoren"
+            } else {
+                "Conjunctions"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 21,
-            name: "Sentence Structure".to_string(),
+            name: if de {
+                "Satzbau & Syntax"
+            } else {
+                "Sentence Structure"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 22,
-            name: "Conditionals".to_string(),
+            name: if de {
+                "Konditionalsätze"
+            } else {
+                "Conditionals"
+            }
+            .to_string(),
             difficulty: 4,
         },
         GrammarTopic {
             id: 23,
-            name: "Reported Speech".to_string(),
+            name: if de {
+                "Indirekte Rede"
+            } else {
+                "Reported Speech"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 24,
-            name: "Agreement".to_string(),
+            name: if de {
+                "Kongruenz & Übereinstimmung"
+            } else {
+                "Agreement"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 25,
-            name: "Passive Voice".to_string(),
+            name: if de {
+                "Passiv & Unpersönliche Konstruktionen"
+            } else {
+                "Passive Voice"
+            }
+            .to_string(),
             difficulty: 3,
         },
         GrammarTopic {
             id: 26,
-            name: "Negation".to_string(),
+            name: if de { "Verneinung" } else { "Negation" }.to_string(),
             difficulty: 2,
         },
         GrammarTopic {
             id: 27,
-            name: "Formal vs Informal".to_string(),
+            name: if de {
+                "Register & Sprachebene"
+            } else {
+                "Formal vs Informal"
+            }
+            .to_string(),
             difficulty: 3,
         },
     ]
@@ -207,20 +293,30 @@ pub struct GrammarContent {
 
 /// Macro to dynamically generate match arms for grammar topic loading
 macro_rules! include_grammar_topics {
-    ($topic_id:expr, [$($num:literal),* $(,)?]) => {
-        match $topic_id {
-            $(
-                $num => include_str!(concat!("../../translations/grammar/", stringify!($num), "/en.json")),
-            )*
-            _ => return Err(format!("Topic {} not yet available", $topic_id)),
+    ($topic_id:expr, $lang:expr, [$($num:literal),* $(,)?]) => {
+        if $lang == "de" {
+            match $topic_id {
+                $(
+                    $num => include_str!(concat!("../../translations/grammar/", stringify!($num), "/de.json")),
+                )*
+                _ => return Err(format!("Topic {} not yet available", $topic_id)),
+            }
+        } else {
+            match $topic_id {
+                $(
+                    $num => include_str!(concat!("../../translations/grammar/", stringify!($num), "/en.json")),
+                )*
+                _ => return Err(format!("Topic {} not yet available", $topic_id)),
+            }
         }
     };
 }
 
 /// Load grammar content for a specific topic
-pub fn load_grammar_content(topic_id: u32) -> Result<GrammarContent, String> {
+pub fn load_grammar_content(topic_id: u32, lang: &str) -> Result<GrammarContent, String> {
     let json = include_grammar_topics!(
         topic_id,
+        lang,
         [
             1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,
             25, 26, 27

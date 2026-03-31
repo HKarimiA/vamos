@@ -3,6 +3,13 @@
     "New-Item": true,
     "Out-Null": true,
     "2..21": true,
-    "ForEach-Object": true
+    "ForEach-Object": true,
+    "1..27": true,
+    "ConvertFrom-Json": true,
+    "1..9": true,
+    "3..9": true,
+    "10..27": true,
+    "19..27": true,
+    "Test-Path": true
   }
 }

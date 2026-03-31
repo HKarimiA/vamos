@@ -8,7 +8,13 @@ use leptos_router::components::A;
 pub fn Grammar() -> impl IntoView {
     let lang_ctx = expect_context::<LanguageContext>();
     let ui = move || get_ui_strings(lang_ctx.language.get());
-    let topics = get_all_topics();
+    let topics = move || {
+        let lang = match lang_ctx.language.get() {
+            crate::core::Language::German => "de",
+            _ => "en",
+        };
+        get_all_topics(lang)
+    };
 
     view! {
         <div class="page-container">
@@ -18,7 +24,7 @@ pub fn Grammar() -> impl IntoView {
             </header>
 
             <div class="grammar-topics-container">
-                {topics.into_iter().map(|topic| {
+                {move || topics().into_iter().map(|topic| {
                     let difficulty_class = get_difficulty_class(topic.difficulty);
                     view! {
                         <A

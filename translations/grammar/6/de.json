@@ -1,0 +1,230 @@
+{
+  "topic": { "id": 6, "name": "Determinatoren" },
+  "explanation": {
+    "title": "Spanische Determinatoren: Nomen spezifizieren & quantifizieren",
+    "sections": [
+      {
+        "subtitle": "Demonstrative Determinatoren",
+        "content": "👉 Naheverhältnis ausdrücken\n\nNah beim Sprecher (dieser/diese/dieses):\n• este/esta/estos/estas\n  → este libro (dieses Buch)\n  → estas casas (diese Häuser)\n\nMittlere Distanz (jener):\n• ese/esa/esos/esas\n  → esa casa (jenes Haus)\n  → esos días (jene Tage)\n\nWeit von beiden (jener da drüben):\n• aquel/aquella/aquellos/aquellas\n  → aquellos días (jene fernen Tage)\n  → aquella montaña (jener ferne Berg)\n\n✅ Stimmen in Genus & Numerus mit dem Nomen überein"
+      },
+      {
+        "subtitle": "Possessive Determinatoren",
+        "content": "🤝 Besitz ausdrücken\n\nImmer VOR dem Nomen:\n\n• mi/mis → mein/meine\n• tu/tus → dein/deine (informell)\n• su/sus → sein/ihr/Ihr/ihr (Plural)\n• nuestro/nuestra/nuestros/nuestras → unser/unsere\n• vuestro/vuestra/vuestros/vuestras → euer/eure (Plural, Spanien)\n\nBeispiele:\n• mi libro (mein Buch)\n• mis libros (meine Bücher)\n• nuestra casa (unser Haus)\n• nuestras casas (unsere Häuser)\n\n⚠️ Stimmt mit dem BESESSENEN OBJEKT überein, nicht mit dem Besitzer"
+      },
+      {
+        "subtitle": "Quantifikatoren: Mengen ausdrücken",
+        "content": "🔢 Wie viel/Wie viele\n\nViel/Viele:\n• mucho/mucha/muchos/muchas\n  → mucho dinero (viel Geld)\n  → muchas personas (viele Personen)\n\nWenig:\n• poco/poca/pocos/pocas\n  → poco tiempo (wenig Zeit)\n  → pocos libros (wenige Bücher)\n\nMehrere:\n• varios/varias\n  → varias opciones (mehrere Optionen)\n\nZu viel/Zu viele:\n• demasiado/demasiada/demasiados/demasiadas\n  → demasiado trabajo (zu viel Arbeit)\n\nGenug/Ziemlich viel:\n• bastante/bastantes\n  → bastante comida (genug Essen)\n\n✅ Alle stimmen mit dem Nomen überein"
+      },
+      {
+        "subtitle": "Indefinite Determinatoren",
+        "content": "❓ Unspezifische Objekte\n\nIrgendein/Einige (positiv):\n• algún/alguna/algunos/algunas\n  → algún día (irgendein Tag)\n  → algunas personas (einige Personen)\n\nKein/Nichts (negativ):\n• ningún/ninguna\n  → ningún problema (kein Problem)\n  → ninguna razón (kein Grund)\n\nIrgendein (Wahl):\n• cualquier/cualesquiera\n  → cualquier día (irgendein Tag)\n\n⚠️ Apokoption vor maskulin Singular:\n• alguno → algún\n• ninguno → ningún\n\n💡 Doppelte Verneinung im Spanischen:\n• No tengo ningún libro\n  → Ich habe kein Buch"
+      },
+      {
+        "subtitle": "Distributive Determinatoren",
+        "content": "📊 Jeder/Ganz/All\n\nJeder/Jede (unveränderlich):\n• cada + Singular-Nomen\n  → cada día (jeden Tag)\n  → cada persona (jede Person)\n\nAll/Jeder/Ganz:\n• todo/toda/todos/todas\n\nVerschiedene Bedeutungen:\n• todo el día → den ganzen Tag (Dauer)\n• toda la casa → das ganze Haus\n• todos los días → jeden Tag (Gewohnheit)\n• todas las personas → alle Personen\n\nBeide (immer plural):\n• ambos/ambas\n  → ambos libros (beide Bücher)\n  → ambas manos (beide Hände)"
+      },
+      {
+        "subtitle": "Wichtige Unterschiede & Verwendung",
+        "content": "💡 Wichtige Regeln\n\n❌ KEINE Artikel mit Possessiven:\n• mi casa ✅\n• la mi casa ❌\n• tu libro ✅\n• el tu libro ❌\n\n🔄 Determinatoren → Pronomen:\n\nDemonstrative:\n• este libro (dieses Buch) → este (dieses hier)\n• esa casa (jenes Haus) → esa (jenes dort)\n\nQuantifikatoren:\n• muchos libros (viele Bücher) → muchos (viele)\n• pocos estudiantes (wenige Studenten) → pocos (wenige)\n\n✅ Determinatoren sind spezifischer als Artikel\n→ Sie geben mehr Information über das Nomen"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ergänze: '___ libro es muy interesante.' (dieses Buch – nah, maskulin Singular)",
+      "answers": [
+        { "text": "Este", "correct": true },
+        { "text": "Esta", "correct": false },
+        { "text": "Ese", "correct": false },
+        { "text": "Aquel", "correct": false }
+      ],
+      "hint": "Nähe + maskulin + Singular → este."
+    },
+    {
+      "id": 2,
+      "question": "Ergänze: '___ casas están lejos.' (jene fernen Häuser – weit, feminin Plural)",
+      "answers": [
+        { "text": "Aquellas", "correct": true },
+        { "text": "Esas", "correct": false },
+        { "text": "Estas", "correct": false },
+        { "text": "Aquellos", "correct": false }
+      ],
+      "hint": "Große Distanz + feminin + Plural → aquellas."
+    },
+    {
+      "id": 3,
+      "question": "Ergänze: 'No tengo ___ problema.' (kein Problem – negativ)",
+      "answers": [
+        { "text": "ningún", "correct": true },
+        { "text": "ninguno", "correct": false },
+        { "text": "algún", "correct": false },
+        { "text": "ningun", "correct": false }
+      ],
+      "hint": "'ninguno' wird zu 'ningún' vor maskulinen Singularnomen. Beachte den Akzent!"
+    },
+    {
+      "id": 4,
+      "question": "Ergänze: 'Tengo ___ libros.' (viele Bücher)",
+      "answers": [
+        { "text": "muchos", "correct": true },
+        { "text": "mucho", "correct": false },
+        { "text": "muchas", "correct": false },
+        { "text": "muches", "correct": false }
+      ],
+      "hint": "'libros' ist maskulin Plural → 'muchos'."
+    },
+    {
+      "id": 5,
+      "question": "Wie sagt man 'zu viel Arbeit' auf Spanisch?",
+      "answers": [
+        { "text": "demasiado trabajo", "correct": true },
+        { "text": "demasiada trabajo", "correct": false },
+        { "text": "mucho trabajo", "correct": false },
+        { "text": "bastante trabajo", "correct": false }
+      ],
+      "hint": "'trabajo' ist maskulin → 'demasiado'. Die Bedeutung ist 'zu viel', nicht 'viel'."
+    },
+    {
+      "id": 6,
+      "question": "Ergänze: 'Estudio ___ día.' (jeden Tag)",
+      "answers": [
+        { "text": "cada", "correct": true },
+        { "text": "todo", "correct": false },
+        { "text": "todos los", "correct": false },
+        { "text": "ambos", "correct": false }
+      ],
+      "hint": "'cada' + Singular = jeden/jede/jedes. Unveränderlich."
+    },
+    {
+      "id": 7,
+      "question": "Was ist der Unterschied zwischen 'todo el día' und 'todos los días'?",
+      "answers": [
+        {
+          "text": "'todo el día' = den ganzen Tag; 'todos los días' = jeden Tag",
+          "correct": true
+        },
+        { "text": "Beide bedeuten dasselbe", "correct": false },
+        {
+          "text": "'todos los días' = den ganzen Tag; 'todo el día' = jeden Tag",
+          "correct": false
+        },
+        {
+          "text": "'todo el día' = jeden Tag; 'todos los días' = die ganzen Tage",
+          "correct": false
+        }
+      ],
+      "hint": "'todo el día' = die gesamte Dauer eines Tages; 'todos los días' = habituell, täglich."
+    },
+    {
+      "id": 8,
+      "question": "Ergänze: 'Tengo ___ tiempo.' (wenig Zeit)",
+      "answers": [
+        { "text": "poco", "correct": true },
+        { "text": "poca", "correct": false },
+        { "text": "pocos", "correct": false },
+        { "text": "pocas", "correct": false }
+      ],
+      "hint": "'tiempo' ist maskulin Singular → 'poco'."
+    },
+    {
+      "id": 9,
+      "question": "Ergänze: '___ manos son importantes.' (beide Hände)",
+      "answers": [
+        { "text": "Ambas", "correct": true },
+        { "text": "Ambos", "correct": false },
+        { "text": "Todas las", "correct": false },
+        { "text": "Las dos", "correct": false }
+      ],
+      "hint": "'mano' ist feminin (Ausnahme!) → 'ambas'."
+    },
+    {
+      "id": 10,
+      "question": "Welcher Satz ist grammatikalisch FALSCH?",
+      "answers": [
+        { "text": "la mi casa", "correct": true },
+        { "text": "mi casa", "correct": false },
+        { "text": "esta casa", "correct": false },
+        { "text": "nuestra casa", "correct": false }
+      ],
+      "hint": "Bestimmter Artikel und Possessivdeterminator können nicht zusammen stehen."
+    },
+    {
+      "id": 11,
+      "question": "Ergänze: 'Hay ___ personas en la sala.' (mehrere Personen)",
+      "answers": [
+        { "text": "varias", "correct": true },
+        { "text": "varios", "correct": false },
+        { "text": "muchas", "correct": false },
+        { "text": "algunas", "correct": false }
+      ],
+      "hint": "'personas' ist feminin Plural → 'varias' (mehrere)."
+    },
+    {
+      "id": 12,
+      "question": "Welche Possessivform steht für 'eure Bücher' (Plural, Spanien)?",
+      "answers": [
+        { "text": "vuestros libros", "correct": true },
+        { "text": "vuestra libros", "correct": false },
+        { "text": "sus libros", "correct": false },
+        { "text": "vuestras libros", "correct": false }
+      ],
+      "hint": "'libros' ist maskulin Plural → 'vuestros'. 'Vuestro/a/os/as' ist die ihr-Form in Spanien."
+    },
+    {
+      "id": 13,
+      "question": "Ergänze: 'Hay ___ comida para todos.' (genug Essen)",
+      "answers": [
+        { "text": "bastante", "correct": true },
+        { "text": "bastantes", "correct": false },
+        { "text": "demasiada", "correct": false },
+        { "text": "poca", "correct": false }
+      ],
+      "hint": "'comida' ist feminin Singular, 'bastante' ist für Singular unveränderlich."
+    },
+    {
+      "id": 14,
+      "question": "Wie wird 'alguno' vor einem maskulinen Singularnomen ausgesprochen?",
+      "answers": [
+        { "text": "algún (mit Akzent)", "correct": true },
+        { "text": "algun (ohne Akzent)", "correct": false },
+        { "text": "alguno (keine Änderung)", "correct": false },
+        { "text": "algu", "correct": false }
+      ],
+      "hint": "Apokoption: Die Endung fällt weg und ein Akzent wird hinzugefügt: algún."
+    },
+    {
+      "id": 15,
+      "question": "Was bedeutet 'No tengo ninguna razón'?",
+      "answers": [
+        { "text": "Ich habe keinen Grund", "correct": true },
+        { "text": "Ich habe einen Grund", "correct": false },
+        { "text": "Ich habe mehrere Gründe", "correct": false },
+        { "text": "Ich habe irgendwelche Gründe", "correct": false }
+      ],
+      "hint": "'ninguna' = kein/keine (negativ). Spanisch verwendet die doppelte Verneinung."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: '___ día vendré a visitarte.' (irgendwann/einmal)",
+      "answers": [
+        { "text": "Algún", "correct": true },
+        { "text": "Alguno", "correct": false },
+        { "text": "Cualquier", "correct": false },
+        { "text": "Ningun", "correct": false }
+      ],
+      "hint": "'algún' vor maskulinem Singularnomen: apokooptiert aus 'alguno'."
+    },
+    {
+      "id": 17,
+      "question": "Ergänze: 'Tengo ___ opciones.' (mehrere/verschiedene Optionen)",
+      "answers": [
+        { "text": "varias", "correct": true },
+        { "text": "varios", "correct": false },
+        { "text": "todas", "correct": false },
+        { "text": "algunas", "correct": false }
+      ],
+      "hint": "'opciones' ist feminin Plural → 'varias'."
+    }
+  ]
+}

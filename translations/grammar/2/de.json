@@ -1,0 +1,221 @@
+{
+  "topic": { "id": 2, "name": "Zahlen" },
+  "explanation": {
+    "title": "Spanische Zahlen: Grundzahlen & Ordinalzahlen",
+    "sections": [
+      {
+        "subtitle": "Zahlen 0–15",
+        "content": "🔢 Grundzahlen 0–15\n\n• cero → 0\n• uno → 1\n• dos → 2\n• tres → 3\n• cuatro → 4\n• cinco → 5\n• seis → 6\n• siete → 7\n• ocho → 8\n• nueve → 9\n• diez → 10\n• once → 11\n• doce → 12\n• trece → 13\n• catorce → 14\n• quince → 15\n\n⚠️ Diese Zahlen müssen auswendig gelernt werden!"
+      },
+      {
+        "subtitle": "Zahlen 16–29 (ein Wort)",
+        "content": "📝 16–29: Zusammengeschrieben\n\n• dieciséis → 16\n• diecisiete → 17\n• dieciocho → 18\n• diecinueve → 19\n• veinte → 20\n• veintiuno → 21\n• veintidós → 22\n• veintitrés → 23\n• veinticuatro → 24\n• veinticinco → 25\n• veintiséis → 26\n• veintisiete → 27\n• veintiocho → 28\n• veintinueve → 29\n\n💡 16–19: 'dieci-' + Zahl\n💡 21–29: 'veinti-' + Zahl"
+      },
+      {
+        "subtitle": "Zahlen 30–99 (y-Muster)",
+        "content": "🔢 30–99: Zehner + y + Einer\n\nZehner:\n• treinta → 30\n• cuarenta → 40\n• cincuenta → 50\n• sesenta → 60\n• setenta → 70\n• ochenta → 80\n• noventa → 90\n\nMuster: Zehner + y + Einer\n→ treinta y uno (31)\n→ cuarenta y cinco (45)\n→ setenta y tres (73)\n\n⚠️ Anders als 16–29: getrennt geschrieben mit 'y'"
+      },
+      {
+        "subtitle": "Hunderte & Tausende",
+        "content": "💯 Große Zahlen\n\nHunderte:\n• cien → 100 (genau 100)\n• ciento + Zahl → 101–199\n  → ciento uno (101)\n• doscientos → 200\n• trescientos → 300\n• cuatrocientos → 400\n• quinientos → 500\n• seiscientos → 600\n• setecientos → 700\n• ochocientos → 800\n• novecientos → 900\n\nTausende:\n• mil → 1.000\n• dos mil → 2.000\n• un millón → 1.000.000\n\n⚠️ 'cien' wird 'ciento' vor weiteren Zahlen"
+      },
+      {
+        "subtitle": "Genus-Übereinstimmung",
+        "content": "⚖️ Zahlen mit Genus\n\nNur 'uno' und Hunderte passen sich an:\n\nuno:\n• un libro (ein Buch – männlich)\n• una casa (ein Haus – weiblich)\n• veintiún años (21 Jahre)\n• veintiuna personas (21 Personen)\n\nHunderte:\n• doscientos libros (200 Bücher – männlich)\n• doscientas personas (200 Personen – weiblich)\n• quinientos euros vs. quinientas pesetas\n\n✅ Alle anderen Zahlen sind unveränderlich"
+      },
+      {
+        "subtitle": "Ordinalzahlen 1.–10.",
+        "content": "🥇 Ordinalzahlen\n\n• primero/a → 1.\n• segundo/a → 2.\n• tercero/a → 3.\n• cuarto/a → 4.\n• quinto/a → 5.\n• sexto/a → 6.\n• séptimo/a → 7.\n• octavo/a → 8.\n• noveno/a → 9.\n• décimo/a → 10.\n\n✂️ Kürzung vor männlichen Nomen:\n• primero → primer\n  → el primer piso (die erste Etage)\n• tercero → tercer\n  → el tercer lugar (der dritte Platz)\n\n✅ Ordinalzahlen stimmen in Genus und Numerus überein"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Wie heißt die Zahl 15 auf Spanisch?",
+      "answers": [
+        { "text": "quince", "correct": true },
+        { "text": "quinze", "correct": false },
+        { "text": "quínce", "correct": false },
+        { "text": "qince", "correct": false }
+      ],
+      "hint": "Diese Zahl muss auswendig gelernt werden. Sie endet auf -ce."
+    },
+    {
+      "id": 2,
+      "question": "Wie heißt die Zahl 16 auf Spanisch?",
+      "answers": [
+        { "text": "dieciséis", "correct": true },
+        { "text": "diez y seis", "correct": false },
+        { "text": "dieciseis", "correct": false },
+        { "text": "dieciséis", "correct": true }
+      ],
+      "hint": "16–19 werden als ein Wort geschrieben: 'dieci-' + Zahl. Achte auf den Akzent."
+    },
+    {
+      "id": 3,
+      "question": "Wie heißt '31' auf Spanisch?",
+      "answers": [
+        { "text": "treinta y uno", "correct": true },
+        { "text": "treintiuno", "correct": false },
+        { "text": "treinta uno", "correct": false },
+        { "text": "trentauno", "correct": false }
+      ],
+      "hint": "Ab 31 werden Zahlen mit 'y' verbunden: Zehner + y + Einer. Getrennt geschrieben!"
+    },
+    {
+      "id": 4,
+      "question": "Was ist der Unterschied zwischen 'cien' und 'ciento'?",
+      "answers": [
+        { "text": "'cien' = genau 100; 'ciento' = 101–199", "correct": true },
+        { "text": "'ciento' = genau 100; 'cien' = 101–199", "correct": false },
+        { "text": "Kein Unterschied, beide bedeuten 100", "correct": false },
+        { "text": "'cien' = 100, 'ciento' = 1000", "correct": false }
+      ],
+      "hint": "'cien' steht allein für genau 100. Vor weiteren Zahlen wird es zu 'ciento'."
+    },
+    {
+      "id": 5,
+      "question": "Ergänze: 'Tengo ___ años.' (21 Jahre)",
+      "answers": [
+        { "text": "veintiún", "correct": true },
+        { "text": "veintiuno", "correct": false },
+        { "text": "veinte y uno", "correct": false },
+        { "text": "veintún", "correct": false }
+      ],
+      "hint": "'Veintiuno' wird zu 'veintiún' vor männlichen Nomen wie 'años'."
+    },
+    {
+      "id": 6,
+      "question": "Wie heißt '500' auf Spanisch?",
+      "answers": [
+        { "text": "quinientos", "correct": true },
+        { "text": "cinquecientos", "correct": false },
+        { "text": "cincuenta cien", "correct": false },
+        { "text": "cincocientos", "correct": false }
+      ],
+      "hint": "Die Hunderterzahlen sind unregelmäßig. 500 beginnt nicht mit 'cinc-'."
+    },
+    {
+      "id": 7,
+      "question": "Wie heißt '200 Personen' (Personen = weiblich) auf Spanisch?",
+      "answers": [
+        { "text": "doscientas personas", "correct": true },
+        { "text": "doscientos personas", "correct": false },
+        { "text": "dos cientos personas", "correct": false },
+        { "text": "docientas personas", "correct": false }
+      ],
+      "hint": "Hunderterzahlen stimmen in Genus überein. 'personas' ist weiblich → -as."
+    },
+    {
+      "id": 8,
+      "question": "Was bedeutet 'el primer piso'?",
+      "answers": [
+        { "text": "Die erste Etage", "correct": true },
+        { "text": "Die dritte Etage", "correct": false },
+        { "text": "Das erste Gebäude", "correct": false },
+        { "text": "Die erste Wohnung", "correct": false }
+      ],
+      "hint": "'primero' wird zu 'primer' vor männlichen Nomen im Singular."
+    },
+    {
+      "id": 9,
+      "question": "Wie heißt '7.' (siebte/r/s) auf Spanisch?",
+      "answers": [
+        { "text": "séptimo/a", "correct": true },
+        { "text": "setmo/a", "correct": false },
+        { "text": "septimo/a", "correct": false },
+        { "text": "sietimo/a", "correct": false }
+      ],
+      "hint": "Diese Ordinalzahl hat einen Akzent auf dem é: séptimo."
+    },
+    {
+      "id": 10,
+      "question": "Wie heißt '45' auf Spanisch?",
+      "answers": [
+        { "text": "cuarenta y cinco", "correct": true },
+        { "text": "cuarenta cinco", "correct": false },
+        { "text": "cuarentacinco", "correct": false },
+        { "text": "cuatro y cinco", "correct": false }
+      ],
+      "hint": "Zehner + y + Einer. '40' = cuarenta, '5' = cinco."
+    },
+    {
+      "id": 11,
+      "question": "Wie heißt '1.000' auf Spanisch?",
+      "answers": [
+        { "text": "mil", "correct": true },
+        { "text": "un mil", "correct": false },
+        { "text": "milo", "correct": false },
+        { "text": "millar", "correct": false }
+      ],
+      "hint": "1.000 heißt einfach 'mil' – ohne Artikel davor."
+    },
+    {
+      "id": 12,
+      "question": "Ergänze: 'la ___ vez' (das dritte Mal)",
+      "answers": [
+        { "text": "tercera", "correct": true },
+        { "text": "tercer", "correct": false },
+        { "text": "tercero", "correct": false },
+        { "text": "tres", "correct": false }
+      ],
+      "hint": "'vez' ist weiblich → die Ordinalzahl bekommt die feminine Endung -a."
+    },
+    {
+      "id": 13,
+      "question": "Wie heißt '22' auf Spanisch?",
+      "answers": [
+        { "text": "veintidós", "correct": true },
+        { "text": "veintidos", "correct": false },
+        { "text": "veinte y dos", "correct": false },
+        { "text": "veinteydós", "correct": false }
+      ],
+      "hint": "21–29 werden als ein Wort geschrieben. Achte auf den Akzent bei 22."
+    },
+    {
+      "id": 14,
+      "question": "Wie heißt '700' auf Spanisch?",
+      "answers": [
+        { "text": "setecientos", "correct": true },
+        { "text": "sietecientos", "correct": false },
+        { "text": "septecientos", "correct": false },
+        { "text": "sitecientos", "correct": false }
+      ],
+      "hint": "700 ist unregelmäßig und beginnt mit 'sete-', nicht 'siete-'."
+    },
+    {
+      "id": 15,
+      "question": "Ergänze: 'Hay ___ estudiantes en la clase.' (30 Schüler)",
+      "answers": [
+        { "text": "treinta", "correct": true },
+        { "text": "trenta", "correct": false },
+        { "text": "trentina", "correct": false },
+        { "text": "treínta", "correct": false }
+      ],
+      "hint": "30 = treinta. Dieser Zehner hat keinen Akzent."
+    },
+    {
+      "id": 16,
+      "question": "Welche Zahl ist die spanische 'quince'?",
+      "answers": [
+        { "text": "15", "correct": true },
+        { "text": "5", "correct": false },
+        { "text": "50", "correct": false },
+        { "text": "25", "correct": false }
+      ],
+      "hint": "Diese Zahl liegt zwischen 14 (catorce) und 16 (dieciséis)."
+    },
+    {
+      "id": 17,
+      "question": "Wie lautet die korrekte Ausdrucksweise für 'ein Buch' auf Spanisch?",
+      "answers": [
+        { "text": "un libro", "correct": true },
+        { "text": "uno libro", "correct": false },
+        { "text": "una libro", "correct": false },
+        { "text": "un libra", "correct": false }
+      ],
+      "hint": "'uno' wird zu 'un' vor männlichen Nomen. 'libro' ist männlich."
+    }
+  ]
+}

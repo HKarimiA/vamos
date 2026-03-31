@@ -1,0 +1,233 @@
+{
+  "topic": { "id": 5, "name": "Adjektive" },
+  "explanation": {
+    "title": "Spanische Adjektive: Kongruenz, Stellung & Vergleich",
+    "sections": [
+      {
+        "subtitle": "Genus- und Numeruskongruenz",
+        "content": "📋 Adjektive MÜSSEN mit dem Nomen übereinstimmen\n\nAdjektive auf -o:\n• Maskulin → -o\n  → alto (groß/hoch)\n• Feminin → -a\n  → alta\n• Mask. Plural → -os\n  → altos\n• Fem. Plural → -as\n  → altas\n\n✅ Adjektive auf -e oder Konsonant:\n• Gleich für beide Genera\n  → grande, fácil\n• Plural mit -s oder -es\n  → grandes, fáciles\n\n⚠️ Nationalitäts-Adjektive (Konsonantendung):\n• Feminine Form + -a\n  → español/española\n  → inglés/inglesa"
+      },
+      {
+        "subtitle": "Stellung der Adjektive",
+        "content": "📍 Wo stehen Adjektive?\n\nDie meisten beschreibenden Adjektive → NACH dem Nomen:\n• el coche rojo (das rote Auto)\n• la casa grande (das große Haus)\n• el libro interesante (das interessante Buch)\n\nImmer VOR dem Nomen:\n• Mengenangaben → muchos libros\n• Demonstrative → este perro\n• Possessive → mi casa\n\n💡 Bedeutungsänderung je nach Stellung:\n• un hombre grande → ein großer Mann (Größe)\n• un gran hombre → ein großer/bedeutender Mann (Qualität)\n\n• un coche nuevo → ein neues Auto (fabrikneu)\n• un nuevo coche → ein neues Auto (anderes Auto)"
+      },
+      {
+        "subtitle": "Apokoption: Verkürzte Formen",
+        "content": "✂️ Endvokal weglassen (vor mask. Singular)\n\nHäufige verkürzte Formen:\n• bueno → buen\n  → buen día (guten Tag)\n• malo → mal\n  → mal tiempo (schlechtes Wetter)\n• grande → gran\n  → gran libro (großartiges Buch)\n• primero → primer\n  → primer lugar (erster Platz)\n• tercero → tercer\n  → tercer piso (dritte Etage)\n\n⚠️ NUR vor maskulinen Singularnomen!\n• buena casa (gutes Haus) – keine Änderung\n• buenos días (guten Morgen) – keine Änderung"
+      },
+      {
+        "subtitle": "Komparativ: Mehr & Weniger",
+        "content": "⚖️ Vergleiche ausdrücken\n\nMehr als:\n• más + Adjektiv + que\n  → más alto que (größer als)\n  → más inteligente que (intelligenter als)\n\nWeniger als:\n• menos + Adjektiv + que\n  → menos caro que (weniger teuer als)\n\nGleicher Vergleich (so...wie):\n• tan + Adjektiv + como\n  → tan rápido como (so schnell wie)\n  → tan grande como (so groß wie)\n\n⚠️ Unregelmäßige Komparative:\n• bueno → mejor (besser)\n• malo → peor (schlechter)\n• grande/viejo → mayor (älter/größer)\n• pequeño/joven → menor (jünger/kleiner)"
+      },
+      {
+        "subtitle": "Superlativ: Der/Die/Das Meiste",
+        "content": "🏆 Der höchste Grad\n\nMuster: Artikel + más/menos + Adjektiv + de\n\n• el más alto de la clase\n  → der Größte der Klasse\n• la menos cara de todas\n  → die Günstigste von allen\n• los más inteligentes del grupo\n  → die Intelligentesten der Gruppe\n\n⚠️ Unregelmäßige Superlative:\n• el mejor (der Beste)\n• el peor (der Schlechteste)\n\n💯 Absoluter Superlativ (-ísimo):\n• altísimo → extrem groß\n• facilísimo → extrem einfach\n• grandísimo → extrem groß"
+      },
+      {
+        "subtitle": "Demonstrative & Possessiv-Adjektive",
+        "content": "👉 Demonstrative (Nähe)\n\nNah (dieser/diese/dieses):\n• este/esta/estos/estas\n\nMittlere Distanz (jener):\n• ese/esa/esos/esas\n\nWeit (jener da drüben):\n• aquel/aquella/aquellos/aquellas\n\n🤝 Possessive\n\n• mi/mis → mein/meine\n• tu/tus → dein/deine (informell)\n• su/sus → sein/ihr/Ihr/ihr (Plural)\n• nuestro/nuestra/nuestros/nuestras → unser/unsere\n• vuestro/vuestra/vuestros/vuestras → euer/eure (Spanien)\n\n✅ Stimmen in Numerus mit dem besessenen Objekt überein"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ergänze: 'La casa es muy ___.' (groß – feminin)",
+      "answers": [
+        { "text": "grande", "correct": true },
+        { "text": "gran", "correct": false },
+        { "text": "granda", "correct": false },
+        { "text": "grandes", "correct": false }
+      ],
+      "hint": "'Grande' hat keine Genusänderung. Vor Nomen wird es zu 'gran', sonst bleibt es 'grande'."
+    },
+    {
+      "id": 2,
+      "question": "Ergänze: 'Los coches son ___.' (rot – maskulin Plural)",
+      "answers": [
+        { "text": "rojos", "correct": true },
+        { "text": "rojo", "correct": false },
+        { "text": "rojas", "correct": false },
+        { "text": "roje", "correct": false }
+      ],
+      "hint": "Das Adjektiv muss mit dem Nomen übereinstimmen: maskulin Plural → -os."
+    },
+    {
+      "id": 3,
+      "question": "Wie lautet die feminine Form von 'inglés' (englisch)?",
+      "answers": [
+        { "text": "inglesa", "correct": true },
+        { "text": "inglés", "correct": false },
+        { "text": "inglése", "correct": false },
+        { "text": "inglesa", "correct": true }
+      ],
+      "hint": "Nationalitäts-Adjektive auf Konsonant bilden das Femininum mit -a."
+    },
+    {
+      "id": 4,
+      "question": "Ergänze: 'Es un ___ día.' (guter Tag – Apokoption)",
+      "answers": [
+        { "text": "buen", "correct": true },
+        { "text": "bueno", "correct": false },
+        { "text": "buena", "correct": false },
+        { "text": "buene", "correct": false }
+      ],
+      "hint": "'bueno' wird zu 'buen' vor maskulinen Singularnomen."
+    },
+    {
+      "id": 5,
+      "question": "Was bedeutet 'un gran hombre' (im Gegensatz zu 'un hombre grande')?",
+      "answers": [
+        {
+          "text": "Ein bedeutender/großartiger Mann (Qualität)",
+          "correct": true
+        },
+        { "text": "Ein körperlich großer Mann", "correct": false },
+        { "text": "Ein alter Mann", "correct": false },
+        {
+          "text": "Ein wichtiger Mann (identisch mit 'grande' nach dem Nomen)",
+          "correct": false
+        }
+      ],
+      "hint": "'gran' vor dem Nomen → Bedeutung im übertragenen Sinn (großartig/bedeutend)."
+    },
+    {
+      "id": 6,
+      "question": "Ergänze: 'María es ___ que Ana.' (intelligenter als)",
+      "answers": [
+        { "text": "más inteligente que", "correct": true },
+        { "text": "más que inteligente", "correct": false },
+        { "text": "tan inteligente como", "correct": false },
+        { "text": "inteligente más que", "correct": false }
+      ],
+      "hint": "Komparativ: más + Adjektiv + que."
+    },
+    {
+      "id": 7,
+      "question": "Wie sagt man 'so schnell wie' auf Spanisch?",
+      "answers": [
+        { "text": "tan rápido como", "correct": true },
+        { "text": "más rápido que", "correct": false },
+        { "text": "menos rápido que", "correct": false },
+        { "text": "rápido como tan", "correct": false }
+      ],
+      "hint": "Gleichheitskomparativ: tan + Adjektiv + como."
+    },
+    {
+      "id": 8,
+      "question": "Wie lautet der unregelmäßige Komparativ von 'malo'?",
+      "answers": [
+        { "text": "peor", "correct": true },
+        { "text": "más malo", "correct": false },
+        { "text": "malor", "correct": false },
+        { "text": "meor", "correct": false }
+      ],
+      "hint": "Die unregelmäßige Form von 'schlecht' im Komparativ heißt 'peor' (schlechter)."
+    },
+    {
+      "id": 9,
+      "question": "Ergänze: 'Es el ___ alumno de la clase.' (Bester)",
+      "answers": [
+        { "text": "mejor", "correct": true },
+        { "text": "el más bueno", "correct": false },
+        { "text": "más bueno", "correct": false },
+        { "text": "buenísimo", "correct": false }
+      ],
+      "hint": "'mejor' ist der unregelmäßige Superlativ von 'bueno'. Man sagt nicht 'más bueno'."
+    },
+    {
+      "id": 10,
+      "question": "Ergänze: 'Este es ___ piso.' (der erste Stock – Apokoption)",
+      "answers": [
+        { "text": "el primer", "correct": true },
+        { "text": "el primero", "correct": false },
+        { "text": "el prime", "correct": false },
+        { "text": "el uno", "correct": false }
+      ],
+      "hint": "'primero' → 'primer' vor maskulinen Singularnomen."
+    },
+    {
+      "id": 11,
+      "question": "Welche Demonstrativform steht für 'diese' (feminin Plural, nah)?",
+      "answers": [
+        { "text": "estas", "correct": true },
+        { "text": "estos", "correct": false },
+        { "text": "esas", "correct": false },
+        { "text": "esta", "correct": false }
+      ],
+      "hint": "Nähe + feminin + Plural → estas."
+    },
+    {
+      "id": 12,
+      "question": "Ergänze: 'Las flores son muy ___.' (schön – feminin Plural)",
+      "answers": [
+        { "text": "bonitas", "correct": true },
+        { "text": "bonitos", "correct": false },
+        { "text": "bonito", "correct": false },
+        { "text": "bonite", "correct": false }
+      ],
+      "hint": "'bonito' → feminin Plural = 'bonitas'. Das Adjektiv stimmt mit 'las flores' überein."
+    },
+    {
+      "id": 13,
+      "question": "Was bedeutet 'altísimo'?",
+      "answers": [
+        { "text": "Extrem groß/hoch (absoluter Superlativ)", "correct": true },
+        { "text": "Der Größte (relativer Superlativ)", "correct": false },
+        { "text": "Größer als (Komparativ)", "correct": false },
+        { "text": "Etwas groß", "correct": false }
+      ],
+      "hint": "Das Suffix -ísimo bildet den absoluten Superlativ: extrem/sehr sehr."
+    },
+    {
+      "id": 14,
+      "question": "Ergänze: '___ libros son muy interesantes.' (These Bücher – nah, maskulin)",
+      "answers": [
+        { "text": "Estos", "correct": true },
+        { "text": "Estas", "correct": false },
+        { "text": "Esos", "correct": false },
+        { "text": "Aquellos", "correct": false }
+      ],
+      "hint": "Nähe + maskulin + Plural → estos."
+    },
+    {
+      "id": 15,
+      "question": "Wie lautet die korrekte Stellung für 'el libro interesante'?",
+      "answers": [
+        {
+          "text": "el libro interesante (Adjektiv nach dem Nomen)",
+          "correct": true
+        },
+        {
+          "text": "el interesante libro (Adjektiv vor dem Nomen)",
+          "correct": false
+        },
+        { "text": "interesante el libro", "correct": false },
+        { "text": "Beide Stellungen sind identisch", "correct": false }
+      ],
+      "hint": "Beschreibende Adjektive stehen im Spanischen normalerweise nach dem Nomen."
+    },
+    {
+      "id": 16,
+      "question": "Ergänze: 'Ella es ___ que su hermana.' (jünger als)",
+      "answers": [
+        { "text": "menor", "correct": true },
+        { "text": "más joven que", "correct": false },
+        { "text": "menos mayor que", "correct": false },
+        { "text": "más pequeña que", "correct": false }
+      ],
+      "hint": "'menor' ist der unregelmäßige Komparativ für Alter: jünger."
+    },
+    {
+      "id": 17,
+      "question": "Welche Possessivform verwendet man für 'unser Haus' (maskulin singular)?",
+      "answers": [
+        { "text": "nuestro", "correct": true },
+        { "text": "nuestra", "correct": false },
+        { "text": "nuestros", "correct": false },
+        { "text": "su", "correct": false }
+      ],
+      "hint": "'nuestro' = unser (maskulin singular). Das Possessivum stimmt mit dem Besitz überein."
+    }
+  ]
+}

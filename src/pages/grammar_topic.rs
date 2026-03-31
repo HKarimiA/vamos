@@ -1,4 +1,4 @@
-use crate::core::LanguageContext;
+use crate::core::{Language, LanguageContext};
 use crate::data::{GrammarContent, get_all_topics, get_ui_strings, load_grammar_content};
 use leptos::prelude::*;
 use leptos_router::{components::A, hooks::use_params_map};
@@ -19,17 +19,27 @@ pub fn GrammarTopic() -> impl IntoView {
             .read()
             .get("id")
             .and_then(|id| id.parse::<u32>().ok())
-            .and_then(|id| get_all_topics().into_iter().find(|t| t.id == id))
+            .and_then(|id| {
+                let lang = match lang_ctx.language.get() {
+                    Language::German => "de",
+                    _ => "en",
+                };
+                get_all_topics(lang).into_iter().find(|t| t.id == id)
+            })
     };
 
     // Load grammar content
     let content = move || -> Result<GrammarContent, String> {
+        let lang = match lang_ctx.language.get() {
+            Language::German => "de",
+            _ => "en",
+        };
         params
             .read()
             .get("id")
             .and_then(|id| id.parse::<u32>().ok())
             .ok_or_else(|| "Invalid topic ID".to_string())
-            .and_then(load_grammar_content)
+            .and_then(|id| load_grammar_content(id, lang))
     };
 
     view! {
