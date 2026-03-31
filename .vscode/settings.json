@@ -1,6 +1,8 @@
 {
   "chat.tools.terminal.autoApprove": {
     "New-Item": true,
-    "Out-Null": true
+    "Out-Null": true,
+    "2..21": true,
+    "ForEach-Object": true
   }
 }

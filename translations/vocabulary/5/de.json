@@ -1,0 +1,102 @@
+[
+  {
+    "id": 81,
+    "word": "die Zeit",
+    "example": "Ich habe jetzt keine Zeit"
+  },
+  {
+    "id": 82,
+    "word": "die Stunde",
+    "example": "Wie viel Uhr ist es?"
+  },
+  {
+    "id": 83,
+    "word": "die Minute",
+    "example": "Warte bitte eine Minute"
+  },
+  {
+    "id": 84,
+    "word": "der Morgen / der Vormittag",
+    "example": "Ich stehe früh am Morgen auf"
+  },
+  {
+    "id": 85,
+    "word": "der Nachmittag",
+    "example": "Ich arbeite bis zum Nachmittag"
+  },
+  {
+    "id": 86,
+    "word": "das Jahr",
+    "example": "Dieses Jahr werde ich reisen"
+  },
+  {
+    "id": 87,
+    "word": "der Monat",
+    "example": "Nächsten Monat ist Juli"
+  },
+  {
+    "id": 88,
+    "word": "heute",
+    "example": "Heute ist das Wetter schön"
+  },
+  {
+    "id": 89,
+    "word": "morgen",
+    "example": "Morgen gehe ich zum Arzt"
+  },
+  {
+    "id": 90,
+    "word": "gestern",
+    "example": "Gestern war ich im Kino"
+  },
+  {
+    "id": 91,
+    "word": "jetzt",
+    "example": "Jetzt bin ich beschäftigt"
+  },
+  {
+    "id": 92,
+    "word": "danach / später",
+    "example": "Wir sprechen nach dem Meeting"
+  },
+  {
+    "id": 93,
+    "word": "vorher / bevor",
+    "example": "Ich bin vor dir angekommen"
+  },
+  {
+    "id": 94,
+    "word": "immer",
+    "example": "Ich trinke immer Kaffee zum Frühstück"
+  },
+  {
+    "id": 95,
+    "word": "nie / niemals",
+    "example": "Ich war noch nie in Paris"
+  },
+  {
+    "id": 96,
+    "word": "warten",
+    "example": "Ich werde hier warten"
+  },
+  {
+    "id": 97,
+    "word": "anfangen / beginnen",
+    "example": "Der Unterricht beginnt um neun"
+  },
+  {
+    "id": 98,
+    "word": "beenden / aufhören",
+    "example": "Ich höre um sechs mit der Arbeit auf"
+  },
+  {
+    "id": 99,
+    "word": "schnell",
+    "example": "Dieser Zug ist sehr schnell"
+  },
+  {
+    "id": 100,
+    "word": "langsam",
+    "example": "Der Bus ist zu langsam"
+  }
+]

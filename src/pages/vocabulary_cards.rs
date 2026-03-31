@@ -1,5 +1,5 @@
 use crate::components::VocabularyCard;
-use crate::core::{FavoritesContext, LanguageContext};
+use crate::core::{FavoritesContext, Language, LanguageContext};
 use crate::data::{LearningDirection, get_card_pair, get_stage_card_count, get_ui_strings};
 use leptos::prelude::*;
 use leptos_router::{components::A, hooks::use_params_map, hooks::use_query_map};
@@ -12,6 +12,10 @@ pub fn VocabularyCards() -> impl IntoView {
     let favorites_ctx = expect_context::<FavoritesContext>();
     let lang_ctx = expect_context::<LanguageContext>();
     let ui = move || get_ui_strings(lang_ctx.language.get());
+    let ui_lang = move || match lang_ctx.language.get() {
+        Language::German => "de",
+        _ => "en",
+    };
 
     // Extract stage from URL params
     let stage = move || {
@@ -65,7 +69,7 @@ pub fn VocabularyCards() -> impl IntoView {
     let current_card = move || {
         let current_stage = stage();
         let index = card_index.get();
-        get_card_pair(current_stage, index, direction())
+        get_card_pair(current_stage, index, direction(), ui_lang())
     };
 
     // Navigation handlers

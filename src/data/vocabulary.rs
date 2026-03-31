@@ -22,6 +22,7 @@ macro_rules! include_vocabulary_stages {
             $(
                 ($num, "es") => include_str!(concat!("../../translations/vocabulary/", stringify!($num), "/es.json")),
                 ($num, "en") => include_str!(concat!("../../translations/vocabulary/", stringify!($num), "/en.json")),
+                ($num, "de") => include_str!(concat!("../../translations/vocabulary/", stringify!($num), "/de.json")),
             )*
             _ => {
                 return Err(format!(
@@ -47,26 +48,28 @@ pub fn load_vocabulary_stage(stage: u32, language: &str) -> Result<Vec<Vocabular
         .map_err(|e| format!("Failed to parse JSON for stage {}: {}", stage, e))
 }
 
-/// Get a pair of cards (source and target language) for a specific stage and card index
+/// Get a pair of cards (source and target language) for a specific stage and card index.
+/// `ui_lang` selects the non-Spanish side: "en" for English, "de" for German.
 pub fn get_card_pair(
     stage: u32,
     card_index: usize,
     direction: LearningDirection,
+    ui_lang: &str,
 ) -> Result<(VocabularyCard, VocabularyCard), String> {
     let spanish_cards = load_vocabulary_stage(stage, "es")?;
-    let english_cards = load_vocabulary_stage(stage, "en")?;
+    let native_cards = load_vocabulary_stage(stage, ui_lang)?;
 
-    if card_index >= spanish_cards.len() || card_index >= english_cards.len() {
+    if card_index >= spanish_cards.len() || card_index >= native_cards.len() {
         return Err("Card index out of bounds".to_string());
     }
 
     match direction {
         LearningDirection::SpanishToEnglish => Ok((
             spanish_cards[card_index].clone(),
-            english_cards[card_index].clone(),
+            native_cards[card_index].clone(),
         )),
         LearningDirection::EnglishToSpanish => Ok((
-            english_cards[card_index].clone(),
+            native_cards[card_index].clone(),
             spanish_cards[card_index].clone(),
         )),
     }

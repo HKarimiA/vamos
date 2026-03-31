@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "word": "das Wasser",
+    "example": "Ich möchte das kalte Wasser trinken"
+  },
+  {
+    "id": 2,
+    "word": "das Haus",
+    "example": "Das Haus liegt nah am Park"
+  },
+  {
+    "id": 3,
+    "word": "die Zeit",
+    "example": "Ich habe heute nicht viel Zeit"
+  },
+  {
+    "id": 4,
+    "word": "der Tag",
+    "example": "Heute ist ein besonderer Tag"
+  },
+  {
+    "id": 5,
+    "word": "die Nacht",
+    "example": "Die Nacht ist sehr dunkel"
+  },
+  {
+    "id": 6,
+    "word": "der Freund / die Freundin",
+    "example": "Mein Freund wohnt in Madrid"
+  },
+  {
+    "id": 7,
+    "word": "das Essen",
+    "example": "Das spanische Essen ist köstlich"
+  },
+  {
+    "id": 8,
+    "word": "das Getränk",
+    "example": "Ich möchte ein kaltes Getränk"
+  },
+  {
+    "id": 9,
+    "word": "der Ort",
+    "example": "Das ist ein ruhiger Ort"
+  },
+  {
+    "id": 10,
+    "word": "die Person",
+    "example": "Diese Person ist sehr freundlich"
+  },
+  {
+    "id": 11,
+    "word": "essen",
+    "example": "Ich esse gerne frisches Obst"
+  },
+  {
+    "id": 12,
+    "word": "trinken",
+    "example": "Ich werde einen Kaffee trinken"
+  },
+  {
+    "id": 13,
+    "word": "gehen",
+    "example": "Ich werde auf den Markt gehen"
+  },
+  {
+    "id": 14,
+    "word": "kommen",
+    "example": "Kannst du morgen kommen?"
+  },
+  {
+    "id": 15,
+    "word": "ankommen",
+    "example": "Ich werde spät ankommen"
+  },
+  {
+    "id": 16,
+    "word": "weggehen",
+    "example": "Ich gehe um acht Uhr von zu Hause weg"
+  },
+  {
+    "id": 17,
+    "word": "gut",
+    "example": "Das ist eine gute Idee"
+  },
+  {
+    "id": 18,
+    "word": "schlecht",
+    "example": "Das Wetter ist heute schlecht"
+  },
+  {
+    "id": 19,
+    "word": "viel / viele",
+    "example": "Hier sind viele Menschen"
+  },
+  {
+    "id": 20,
+    "word": "wenig / wenige",
+    "example": "Ich habe wenig Erfahrung"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 181,
+    "word": "eins / ein",
+    "example": "Ich habe einen Bruder"
+  },
+  {
+    "id": 182,
+    "word": "zwei",
+    "example": "Ich möchte bitte zwei Kaffee"
+  },
+  {
+    "id": 183,
+    "word": "drei",
+    "example": "Ich arbeite drei Tage pro Woche"
+  },
+  {
+    "id": 184,
+    "word": "alles / alle",
+    "example": "Alles ist jetzt gut"
+  },
+  {
+    "id": 185,
+    "word": "nichts",
+    "example": "Ich möchte nichts, danke"
+  },
+  {
+    "id": 186,
+    "word": "etwas",
+    "example": "Ich möchte etwas essen"
+  },
+  {
+    "id": 187,
+    "word": "jemand",
+    "example": "Es ist jemand an der Tür"
+  },
+  {
+    "id": 188,
+    "word": "niemand / keiner",
+    "example": "Es ist niemand zu Hause"
+  },
+  {
+    "id": 189,
+    "word": "jede/r/s",
+    "example": "Jeden Tag lerne ich etwas Neues"
+  },
+  {
+    "id": 190,
+    "word": "andere/s / noch ein",
+    "example": "Gib mir noch eine Chance"
+  },
+  {
+    "id": 191,
+    "word": "gleich / selbe",
+    "example": "Wir haben das gleiche Problem"
+  },
+  {
+    "id": 192,
+    "word": "mehr",
+    "example": "Ich brauche mehr Zeit"
+  },
+  {
+    "id": 193,
+    "word": "weniger",
+    "example": "Ich brauche weniger Arbeit"
+  },
+  {
+    "id": 194,
+    "word": "sehr",
+    "example": "Ich bin sehr müde"
+  },
+  {
+    "id": 195,
+    "word": "auch / ebenfalls",
+    "example": "Ich möchte auch mitkommen"
+  },
+  {
+    "id": 196,
+    "word": "auch nicht / weder",
+    "example": "Ich kenne die Antwort auch nicht"
+  },
+  {
+    "id": 197,
+    "word": "vielleicht",
+    "example": "Vielleicht gehe ich morgen"
+  },
+  {
+    "id": 198,
+    "word": "natürlich / sicher",
+    "example": "Natürlich, gerne"
+  },
+  {
+    "id": 199,
+    "word": "okay / in Ordnung",
+    "example": "Okay, bis später"
+  },
+  {
+    "id": 200,
+    "word": "noch / immer noch",
+    "example": "Ich bin noch nicht fertig"
+  }
+]

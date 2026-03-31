@@ -1,0 +1,102 @@
+[
+  {
+    "id": 301,
+    "word": "das Wetter",
+    "example": "Wie ist das Wetter heute?"
+  },
+  {
+    "id": 302,
+    "word": "das Klima",
+    "example": "Das Klima ist hier angenehm"
+  },
+  {
+    "id": 303,
+    "word": "die Sonne",
+    "example": "Die Sonne scheint sehr stark"
+  },
+  {
+    "id": 304,
+    "word": "der Regen",
+    "example": "Der Regen ist heftig"
+  },
+  {
+    "id": 305,
+    "word": "der Schnee",
+    "example": "Der Schnee bedeckt die Berge"
+  },
+  {
+    "id": 306,
+    "word": "der Wind",
+    "example": "Der Wind weht sehr stark"
+  },
+  {
+    "id": 307,
+    "word": "die Wolke",
+    "example": "Die Wolken sind grau"
+  },
+  {
+    "id": 308,
+    "word": "der Sturm",
+    "example": "Ein großer Sturm kommt"
+  },
+  {
+    "id": 309,
+    "word": "die Temperatur",
+    "example": "Die Temperatur ist hoch"
+  },
+  {
+    "id": 310,
+    "word": "die Jahreszeit",
+    "example": "Meine Lieblingsjahreszeit ist der Herbst"
+  },
+  {
+    "id": 311,
+    "word": "der Frühling",
+    "example": "Der Frühling beginnt im März"
+  },
+  {
+    "id": 312,
+    "word": "der Sommer",
+    "example": "Der Sommer ist sehr heiß"
+  },
+  {
+    "id": 313,
+    "word": "der Herbst",
+    "example": "Im Herbst fallen die Blätter"
+  },
+  {
+    "id": 314,
+    "word": "der Winter",
+    "example": "Der Winter ist sehr kalt"
+  },
+  {
+    "id": 315,
+    "word": "regnen",
+    "example": "Heute Nachmittag wird es regnen"
+  },
+  {
+    "id": 316,
+    "word": "schneien",
+    "example": "Es schneit sehr stark"
+  },
+  {
+    "id": 317,
+    "word": "heiß",
+    "example": "Der Kaffee ist sehr heiß"
+  },
+  {
+    "id": 318,
+    "word": "kühl / frisch",
+    "example": "Die Nacht ist kühl"
+  },
+  {
+    "id": 319,
+    "word": "feucht / schwül",
+    "example": "Die Luft ist sehr feucht"
+  },
+  {
+    "id": 320,
+    "word": "trocken",
+    "example": "Das Klima ist hier trocken"
+  }
+]

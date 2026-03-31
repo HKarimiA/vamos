@@ -47,7 +47,7 @@ pub struct LanguageContext {
 impl LanguageContext {
     pub fn new() -> Self {
         Self {
-            language: RwSignal::new(Language::English),
+            language: RwSignal::new(Language::German),
         }
     }
 

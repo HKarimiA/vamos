@@ -1,0 +1,102 @@
+[
+  {
+    "id": 221,
+    "word": "das Zimmer / das Schlafzimmer",
+    "example": "Mein Zimmer ist klein"
+  },
+  {
+    "id": 222,
+    "word": "die Küche",
+    "example": "Die Küche ist sauber"
+  },
+  {
+    "id": 223,
+    "word": "das Badezimmer",
+    "example": "Das Badezimmer ist besetzt"
+  },
+  {
+    "id": 224,
+    "word": "das Wohnzimmer",
+    "example": "Wir sitzen im Wohnzimmer und schauen TV"
+  },
+  {
+    "id": 225,
+    "word": "die Tür",
+    "example": "Schließ bitte die Tür"
+  },
+  {
+    "id": 226,
+    "word": "das Fenster",
+    "example": "Öffne das Fenster, es ist heiß"
+  },
+  {
+    "id": 227,
+    "word": "der Tisch",
+    "example": "Der Tisch steht im Esszimmer"
+  },
+  {
+    "id": 228,
+    "word": "der Stuhl",
+    "example": "Setz dich auf diesen Stuhl"
+  },
+  {
+    "id": 229,
+    "word": "das Bett",
+    "example": "Mein Bett ist sehr bequem"
+  },
+  {
+    "id": 230,
+    "word": "das Sofa",
+    "example": "Das Sofa ist groß"
+  },
+  {
+    "id": 231,
+    "word": "das Licht",
+    "example": "Mach bitte das Licht an"
+  },
+  {
+    "id": 232,
+    "word": "der Boden",
+    "example": "Der Boden ist nass"
+  },
+  {
+    "id": 233,
+    "word": "die Wand",
+    "example": "Die Wände sind weiß"
+  },
+  {
+    "id": 234,
+    "word": "putzen / reinigen",
+    "example": "Ich werde das Haus putzen"
+  },
+  {
+    "id": 235,
+    "word": "öffnen / aufmachen",
+    "example": "Mach die Tür auf"
+  },
+  {
+    "id": 236,
+    "word": "schließen / zumachen",
+    "example": "Mach das Fenster zu"
+  },
+  {
+    "id": 237,
+    "word": "anschalten / einschalten",
+    "example": "Schalte das Licht ein"
+  },
+  {
+    "id": 238,
+    "word": "ausschalten",
+    "example": "Schalte den Fernseher aus"
+  },
+  {
+    "id": 239,
+    "word": "sich hinsetzen",
+    "example": "Setz dich bitte hin"
+  },
+  {
+    "id": 240,
+    "word": "aufstehen",
+    "example": "Ich stehe um sieben Uhr auf"
+  }
+]

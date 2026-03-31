@@ -1,0 +1,102 @@
+[
+  {
+    "id": 21,
+    "word": "die Familie",
+    "example": "Meine Familie ist sehr wichtig"
+  },
+  {
+    "id": 22,
+    "word": "die Mutter",
+    "example": "Meine Mutter kocht sehr gut"
+  },
+  {
+    "id": 23,
+    "word": "der Vater",
+    "example": "Mein Vater arbeitet in einem Büro"
+  },
+  {
+    "id": 24,
+    "word": "der Bruder / die Schwester",
+    "example": "Ich habe einen älteren Bruder"
+  },
+  {
+    "id": 25,
+    "word": "der Sohn / die Tochter",
+    "example": "Sein Sohn ist zehn Jahre alt"
+  },
+  {
+    "id": 26,
+    "word": "der Großvater / die Großmutter",
+    "example": "Meine Großmutter ist achtzig Jahre alt"
+  },
+  {
+    "id": 27,
+    "word": "die Welt",
+    "example": "Ich möchte die ganze Welt bereisen"
+  },
+  {
+    "id": 28,
+    "word": "das Leben",
+    "example": "Das Leben ist schön"
+  },
+  {
+    "id": 29,
+    "word": "die Arbeit",
+    "example": "Meine Arbeit ist sehr interessant"
+  },
+  {
+    "id": 30,
+    "word": "die Woche",
+    "example": "Nächste Woche habe ich Urlaub"
+  },
+  {
+    "id": 31,
+    "word": "machen / tun",
+    "example": "Was wirst du morgen machen?"
+  },
+  {
+    "id": 32,
+    "word": "haben",
+    "example": "Ich habe zwei Katzen zu Hause"
+  },
+  {
+    "id": 33,
+    "word": "sein (Eigenschaft)",
+    "example": "Sie ist sehr intelligent"
+  },
+  {
+    "id": 34,
+    "word": "sein (Ort)",
+    "example": "Ich bin jetzt im Park"
+  },
+  {
+    "id": 35,
+    "word": "können",
+    "example": "Ich kann heute nicht kommen"
+  },
+  {
+    "id": 36,
+    "word": "wollen",
+    "example": "Ich will Spanisch lernen"
+  },
+  {
+    "id": 37,
+    "word": "groß",
+    "example": "Diese Stadt ist sehr groß"
+  },
+  {
+    "id": 38,
+    "word": "klein",
+    "example": "Das ist eine kleine Wohnung"
+  },
+  {
+    "id": 39,
+    "word": "neu",
+    "example": "Ich habe ein neues Auto gekauft"
+  },
+  {
+    "id": 40,
+    "word": "alt",
+    "example": "Das ist ein sehr altes Buch"
+  }
+]

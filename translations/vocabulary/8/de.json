@@ -1,0 +1,102 @@
+[
+  {
+    "id": 141,
+    "word": "das Auto",
+    "example": "Mein Auto ist rot"
+  },
+  {
+    "id": 142,
+    "word": "der Zug",
+    "example": "Der Zug kommt um drei an"
+  },
+  {
+    "id": 143,
+    "word": "der Bus",
+    "example": "Ich fahre jeden Tag mit dem Bus"
+  },
+  {
+    "id": 144,
+    "word": "das Flugzeug",
+    "example": "Das Flugzeug fliegt sehr hoch"
+  },
+  {
+    "id": 145,
+    "word": "das Fahrrad",
+    "example": "Ich fahre mit dem Fahrrad zur Arbeit"
+  },
+  {
+    "id": 146,
+    "word": "der Bahnhof",
+    "example": "Der Bahnhof ist in der Nähe"
+  },
+  {
+    "id": 147,
+    "word": "der Flughafen",
+    "example": "Morgen fahre ich zum Flughafen"
+  },
+  {
+    "id": 148,
+    "word": "das Ticket / die Fahrkarte",
+    "example": "Ich muss ein Ticket kaufen"
+  },
+  {
+    "id": 149,
+    "word": "die Reise",
+    "example": "Die Reise war sehr lang"
+  },
+  {
+    "id": 150,
+    "word": "der Koffer",
+    "example": "Mein Koffer ist sehr schwer"
+  },
+  {
+    "id": 151,
+    "word": "reisen",
+    "example": "Ich reise gerne in andere Länder"
+  },
+  {
+    "id": 152,
+    "word": "fahren / Auto fahren",
+    "example": "Ich fahre seit meinem achtzehnten Lebensjahr Auto"
+  },
+  {
+    "id": 153,
+    "word": "einsteigen",
+    "example": "Lass uns in den Zug einsteigen"
+  },
+  {
+    "id": 154,
+    "word": "aussteigen",
+    "example": "Wir müssen an der nächsten Haltestelle aussteigen"
+  },
+  {
+    "id": 155,
+    "word": "fliegen",
+    "example": "Vögel fliegen am Himmel"
+  },
+  {
+    "id": 156,
+    "word": "anhalten / stoppen",
+    "example": "Der Bus hält hier"
+  },
+  {
+    "id": 157,
+    "word": "nah / in der Nähe",
+    "example": "Das Geschäft ist ganz nah"
+  },
+  {
+    "id": 158,
+    "word": "weit / fern",
+    "example": "Das Krankenhaus ist weit von hier"
+  },
+  {
+    "id": 159,
+    "word": "schnell",
+    "example": "Das Flugzeug ist schneller als der Zug"
+  },
+  {
+    "id": 160,
+    "word": "lang",
+    "example": "Das ist eine sehr lange Reise"
+  }
+]

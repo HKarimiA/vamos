@@ -1,3 +1,4 @@
+use crate::core::{Language, LanguageContext};
 use crate::data::LearningDirection;
 use leptos::prelude::*;
 use std::rc::Rc;
@@ -47,13 +48,21 @@ where
         }
     };
 
-    let source_lang = match direction {
-        LearningDirection::SpanishToEnglish => "es-ES",
-        LearningDirection::EnglishToSpanish => "en-US",
+    let lang_ctx = expect_context::<LanguageContext>();
+
+    // BCP47 tag for the non-Spanish side, reactive to language setting
+    let native_bcp47 = move || match lang_ctx.language.get() {
+        Language::German => "de-DE",
+        _ => "en-GB",
     };
 
-    let target_lang = match direction {
-        LearningDirection::SpanishToEnglish => "en-US",
+    let source_lang = move || match direction {
+        LearningDirection::SpanishToEnglish => "es-ES",
+        LearningDirection::EnglishToSpanish => native_bcp47(),
+    };
+
+    let target_lang = move || match direction {
+        LearningDirection::SpanishToEnglish => native_bcp47(),
         LearningDirection::EnglishToSpanish => "es-ES",
     };
 
@@ -207,7 +216,7 @@ where
                     <button
                         class="audio-button"
                         style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
-                        on:click=move |_| speak(source_word_clone.clone(), source_lang)
+                        on:click=move |_| speak(source_word_clone.clone(), source_lang())
                     >
                         "🔊"
                     </button>
@@ -240,7 +249,7 @@ where
                         <p style="margin: 0; flex: 1;">{source_example.clone()}</p>
                         <button
                             class="audio-button-small"
-                            on:click=move |_| speak(example_audio.clone(), source_lang)
+                            on:click=move |_| speak(example_audio.clone(), source_lang())
                         >
                             "🔉"
                         </button>
@@ -266,7 +275,7 @@ where
                             <p class="translation-word" style="margin: 0; flex: 1;">{target_word.clone()}</p>
                             <button
                                 class="audio-button-small"
-                                on:click=move |_| speak(word_audio.clone(), target_lang)
+                                on:click=move |_| speak(word_audio.clone(), target_lang())
                             >
                                 "🔉"
                             </button>
@@ -275,7 +284,7 @@ where
                             <p class="translation-example" style="margin: 0; flex: 1;">{target_example.clone()}</p>
                             <button
                                 class="audio-button-small"
-                                on:click=move |_| speak(example_audio.clone(), target_lang)
+                                on:click=move |_| speak(example_audio.clone(), target_lang())
                             >
                                 "🔉"
                             </button>
