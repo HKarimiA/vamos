@@ -9,8 +9,8 @@ mod core;
 mod data;
 mod pages;
 
-use core::FavoritesContext;
-use pages::{Favorites, Grammar, GrammarTopic, Home, Vocabulary, VocabularyCards};
+use core::{FavoritesContext, LanguageContext};
+use pages::{Favorites, Grammar, GrammarTopic, Home, Settings, Vocabulary, VocabularyCards};
 
 fn main() {
     leptos::mount::mount_to_body(|| view! { <App/> })
@@ -19,11 +19,13 @@ fn main() {
 #[component]
 fn App() -> impl IntoView {
     provide_context(FavoritesContext::new());
+    provide_context(LanguageContext::new());
 
     view! {
         <Router>
             <Routes fallback=|| "Page not found">
                 <Route path=path!("/") view=Home/>
+                <Route path=path!("/settings") view=Settings/>
                 <Route path=path!("/vocabulary") view=Vocabulary/>
                 <Route path=path!("/vocabulary/favorites") view=Favorites/>
                 <Route path=path!("/vocabulary/:stage") view=VocabularyCards/>

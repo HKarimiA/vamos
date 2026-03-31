@@ -1,6 +1,6 @@
 use crate::components::VocabularyCard;
-use crate::core::FavoritesContext;
-use crate::data::{LearningDirection, get_card_pair, get_stage_card_count};
+use crate::core::{FavoritesContext, LanguageContext};
+use crate::data::{LearningDirection, get_card_pair, get_stage_card_count, get_ui_strings};
 use leptos::prelude::*;
 use leptos_router::{components::A, hooks::use_params_map, hooks::use_query_map};
 
@@ -10,6 +10,8 @@ pub fn VocabularyCards() -> impl IntoView {
     let params = use_params_map();
     let query = use_query_map();
     let favorites_ctx = expect_context::<FavoritesContext>();
+    let lang_ctx = expect_context::<LanguageContext>();
+    let ui = move || get_ui_strings(lang_ctx.language.get());
 
     // Extract stage from URL params
     let stage = move || {
@@ -100,7 +102,7 @@ pub fn VocabularyCards() -> impl IntoView {
         <div class="page-container">
             <header class="page-header">
                 <A href={move || format!("/vocabulary?dir={}", if direction() == LearningDirection::EnglishToSpanish { "en-to-es" } else { "es-to-en" })} attr:class="back-button">"❮"</A>
-                <h1>"Stage " {move || stage()}</h1>
+                <h1>{move || format!("{} {}", ui().stage_prefix, stage())}</h1>
             </header>
 
             <div class="card-learning-container">
@@ -129,7 +131,7 @@ pub fn VocabularyCards() -> impl IntoView {
                         }
                         Err(e) => view! {
                             <div class="error-message">
-                                <p>"Error loading cards: " {e}</p>
+                                <p>{move || ui().error_loading_cards.clone()} {e}</p>
                             </div>
                         }.into_any()
                     }

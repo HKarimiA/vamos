@@ -1,6 +1,6 @@
 use crate::components::VocabularyCard;
-use crate::core::FavoritesContext;
-use crate::data::{LearningDirection, get_card_pair};
+use crate::core::{FavoritesContext, LanguageContext};
+use crate::data::{LearningDirection, get_card_pair, get_ui_strings};
 use leptos::prelude::*;
 use leptos_router::components::A;
 use leptos_router::hooks::use_query_map;
@@ -9,6 +9,8 @@ use leptos_router::hooks::use_query_map;
 #[component]
 pub fn Favorites() -> impl IntoView {
     let favorites_ctx = expect_context::<FavoritesContext>();
+    let lang_ctx = expect_context::<LanguageContext>();
+    let ui = move || get_ui_strings(lang_ctx.language.get());
     let query = use_query_map();
 
     // Extract direction from query params
@@ -108,7 +110,7 @@ pub fn Favorites() -> impl IntoView {
         <div class="page-container">
             <header class="page-header">
                 <A href={move || format!("/vocabulary?dir={}", if direction() == LearningDirection::EnglishToSpanish { "en-to-es" } else { "es-to-en" })} attr:class="back-button">"❮"</A>
-                <h1>"Favorites"</h1>
+                <h1>{move || ui().favorites}</h1>
             </header>
 
             <div class="card-learning-container">
@@ -118,8 +120,8 @@ pub fn Favorites() -> impl IntoView {
                     if cards.is_empty() {
                         view! {
                             <div class="error-message">
-                                <p>"No favorites yet!"</p>
-                                <p style="color: #666; font-size: 1rem;">"Add cards to favorites by clicking the ☆ icon"</p>
+                                <p>{move || ui().no_favorites}</p>
+                                <p style="color: #666; font-size: 1rem;">{move || ui().add_favorites_hint}</p>
                             </div>
                         }.into_any()
                     } else {

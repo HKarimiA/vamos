@@ -1,10 +1,11 @@
+use leptos::prelude::*;
+
 /// Represents available languages for learning or UI
-#[allow(dead_code)]
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
 pub enum Language {
     Spanish,
     English,
-    // Future: French, German, Italian, Portuguese, etc.
+    German,
 }
 
 #[allow(dead_code)]
@@ -14,6 +15,7 @@ impl Language {
         match self {
             Language::Spanish => "Spanish",
             Language::English => "English",
+            Language::German => "German",
         }
     }
 
@@ -22,6 +24,7 @@ impl Language {
         match self {
             Language::Spanish => "Español",
             Language::English => "English",
+            Language::German => "Deutsch",
         }
     }
 
@@ -29,18 +32,32 @@ impl Language {
     pub fn flag_emoji(&self) -> &'static str {
         match self {
             Language::Spanish => "🇪🇸",
-            Language::English => "🇺🇸",
+            Language::English => "🇬🇧",
+            Language::German => "🇩🇪",
         }
     }
 }
 
-// === CONFIGURATION ===
-// Change these constants to switch languages globally
+/// Global context for the current UI language
+#[derive(Clone, Copy)]
+pub struct LanguageContext {
+    pub language: RwSignal<Language>,
+}
 
-/// The language being learned by the user
+impl LanguageContext {
+    pub fn new() -> Self {
+        Self {
+            language: RwSignal::new(Language::English),
+        }
+    }
+
+    pub fn set_language(&self, lang: Language) {
+        self.language.set(lang);
+    }
+}
+
+// === CONFIGURATION ===
+
+/// The language being learned by the user (always Spanish)
 #[allow(dead_code)]
 pub const LEARNING_LANGUAGE: Language = Language::Spanish;
-
-/// The language used for UI and instructions
-#[allow(dead_code)]
-pub const UI_LANGUAGE: Language = Language::English;

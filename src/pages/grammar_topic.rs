@@ -1,4 +1,5 @@
-use crate::data::{GrammarContent, get_all_topics, load_grammar_content};
+use crate::core::LanguageContext;
+use crate::data::{GrammarContent, get_all_topics, get_ui_strings, load_grammar_content};
 use leptos::prelude::*;
 use leptos_router::{components::A, hooks::use_params_map};
 use rand::SeedableRng;
@@ -9,6 +10,8 @@ use rand::seq::SliceRandom;
 #[component]
 pub fn GrammarTopic() -> impl IntoView {
     let params = use_params_map();
+    let lang_ctx = expect_context::<LanguageContext>();
+    let ui = move || get_ui_strings(lang_ctx.language.get());
 
     // Get topic metadata
     let topic = move || {
@@ -46,7 +49,7 @@ pub fn GrammarTopic() -> impl IntoView {
                         <div style="text-align: center; padding: 3rem 1rem;">
                             <p style="font-size: 3rem; margin-bottom: 1rem;">"📚"</p>
                             <p style="font-size: 1.25rem; color: #666; margin-bottom: 0.5rem;">
-                                "Content coming soon!"
+                                {move || ui().content_coming_soon}
                             </p>
                             <p style="color: #999;">{e}</p>
                         </div>
@@ -56,11 +59,11 @@ pub fn GrammarTopic() -> impl IntoView {
                 _ => view! {
                     <header class="page-header">
                         <A href="/grammar" attr:class="back-button">"❮"</A>
-                        <h1>"Grammar"</h1>
+                        <h1>{move || ui().grammar}</h1>
                     </header>
 
                     <div class="error-message">
-                        <p>"Topic not found"</p>
+                        <p>{move || ui().topic_not_found}</p>
                     </div>
                 }
                 .into_any(),
@@ -72,6 +75,9 @@ pub fn GrammarTopic() -> impl IntoView {
 /// Quiz interface component with questions and answers
 #[component]
 fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> impl IntoView {
+    let lang_ctx = expect_context::<LanguageContext>();
+    let ui = move || get_ui_strings(lang_ctx.language.get());
+
     // Store content and topic for use in closures
     let content = StoredValue::new(content);
     let topic = StoredValue::new(topic);
@@ -179,8 +185,7 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                     <div class="quiz-progress">
                         <div class="progress-text">
                             {move || {
-                                format!(
-                                    "Question {} of {}",
+                                ui().format_question_of(
                                     current_question_idx.get() + 1,
                                     total_questions,
                                 )
@@ -255,7 +260,7 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                             class="hint-button-question"
                             on:click=move |_| show_question_hint.set(true)
                         >
-                            "💡 Hint"
+                            {move || ui().hint_label}
                         </button>
 
                         // Feedback and next button
@@ -264,9 +269,9 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                                 <button class="next-button" on:click=next_question>
                                     {move || {
                                         if current_question_idx.get() + 1 < total_questions {
-                                            "Next Question →"
+                                            ui().next_question
                                         } else {
-                                            "See Results →"
+                                            ui().see_results
                                         }
                                     }}
                                 </button>
@@ -317,7 +322,7 @@ fn QuizInterface(topic: crate::data::GrammarTopic, content: GrammarContent) -> i
                         >
                             "×"
                         </button>
-                        <h2>"Hint"</h2>
+                        <h2>{move || ui().hint_title}</h2>
                         <p class="hint-text">
                             {move || {
                                 content.get_value().questions[current_question_idx.get()].hint.clone()
@@ -342,6 +347,9 @@ fn ResultsScreen<F>(
 where
     F: Fn(leptos::ev::MouseEvent) + 'static,
 {
+    let lang_ctx = expect_context::<LanguageContext>();
+    let ui = move || get_ui_strings(lang_ctx.language.get());
+
     let percentage = (score as f32 / total as f32 * 100.0) as u32;
     let emoji = if percentage >= 90 {
         "🎉"
@@ -362,7 +370,7 @@ where
         <div class="results-container">
             <div class="results-card">
                 <p class="results-emoji">{emoji}</p>
-                <h2>"Quiz Complete!"</h2>
+                <h2>{move || ui().quiz_complete}</h2>
                 <div class="results-score">
                     <span class="score-large">
                         {score}
@@ -374,23 +382,23 @@ where
                 <p class="results-message">
                     {move || {
                         if percentage >= 90 {
-                            "Excellent work! You've mastered this topic."
+                            ui().excellent_work
                         } else if percentage >= 70 {
-                            "Good job! You understand most of the material."
+                            ui().good_job
                         } else if percentage >= 50 {
-                            "Not bad! Review the explanations and try again."
+                            ui().not_bad
                         } else {
-                            "Keep practicing! Review the topic explanation."
+                            ui().keep_practicing
                         }
                     }}
 
                 </p>
                 <div class="results-buttons">
                     <button class="restart-button" on:click=on_restart>
-                        "Try Again"
+                        {move || ui().try_again}
                     </button>
                     <A href="/grammar" attr:class="back-to-topics-button">
-                        "Back to Topics"
+                        {move || ui().back_to_topics}
                     </A>
                 </div>
             </div>

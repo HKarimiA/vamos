@@ -1,3 +1,5 @@
+use crate::core::LanguageContext;
+use crate::data::get_ui_strings;
 use leptos::prelude::*;
 use leptos_router::components::A;
 use leptos_router::hooks::{use_navigate, use_query_map};
@@ -5,6 +7,8 @@ use leptos_router::hooks::{use_navigate, use_query_map};
 /// Vocabulary learning page - Shows stage selection grid
 #[component]
 pub fn Vocabulary() -> impl IntoView {
+    let lang_ctx = expect_context::<LanguageContext>();
+    let ui = move || get_ui_strings(lang_ctx.language.get());
     let query = use_query_map();
     let navigate = use_navigate();
 
@@ -32,7 +36,7 @@ pub fn Vocabulary() -> impl IntoView {
         <div class="page-container">
             <header class="page-header">
                 <A href="/" attr:class="back-button">"❮"</A>
-                <h1>"Vocabulary"</h1>
+                <h1>{move || ui().vocabulary}</h1>
                 <button
                     class="direction-toggle"
                     on:click=toggle_direction

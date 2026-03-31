@@ -8,3 +8,6 @@ pub mod vocabulary;
 pub use vocabulary::{
     LearningDirection, VocabularyCard, get_card_pair, get_stage_card_count, load_vocabulary_stage,
 };
+
+pub mod ui_translations;
+pub use ui_translations::get_ui_strings;
