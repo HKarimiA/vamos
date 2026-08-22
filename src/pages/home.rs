@@ -12,7 +12,7 @@ pub fn Home() -> impl IntoView {
     view! {
         <div class="home-container">
             <header class="home-header">
-                <img src="/vamos-icon.png" alt="Vamos!" style="max-width: 320px; height: auto;" />
+                <img src="/vamos-icon.png" alt="Vamos!" style="max-width: 220px; height: auto;" />
             </header>
 
             <A href="/settings" attr:class="settings-button">"⚙️"</A>
@@ -31,6 +31,11 @@ pub fn Home() -> impl IntoView {
                 <A href="/grammar" attr:class="nav-button">
                     <div class="button-icon">"✏️"</div>
                     <div class="button-text">{move || ui().grammar}</div>
+                </A>
+
+                <A href="/quiz" attr:class="nav-button">
+                    <div class="button-icon">"🧩"</div>
+                    <div class="button-text">{move || ui().quiz}</div>
                 </A>
             </div>
         </div>

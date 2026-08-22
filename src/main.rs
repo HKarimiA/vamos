@@ -11,8 +11,8 @@ mod pages;
 
 use core::{FavoritesContext, LanguageContext};
 use pages::{
-    ExpressionCards, Expressions, Favorites, Grammar, GrammarTopic, Home, Settings, Vocabulary,
-    VocabularyCards,
+    ExpressionCards, Expressions, Favorites, Grammar, GrammarTopic, Home, Quiz, Settings,
+    Vocabulary, VocabularyCards,
 };
 
 fn main() {
@@ -36,6 +36,7 @@ fn App() -> impl IntoView {
                 <Route path=path!("/grammar/:id") view=GrammarTopic/>
                 <Route path=path!("/expressions") view=Expressions/>
                 <Route path=path!("/expressions/:unit") view=ExpressionCards/>
+                <Route path=path!("/quiz") view=Quiz/>
             </Routes>
         </Router>
     }

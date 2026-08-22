@@ -23,5 +23,16 @@
   "add_favorites_hint": "Add cards to favorites by clicking the ☆ icon",
   "error_loading_cards": "Error loading cards: ",
   "expressions": "Expressions",
-  "unit_prefix": "Unit"
+  "unit_prefix": "Unit",
+  "quiz": "Quiz",
+  "start_quiz": "Start Quiz",
+  "quiz_start_subtitle": "20 mixed questions from Vocabulary, Expressions & Grammar",
+  "quiz_vocab_label": "📚 Vocabulary",
+  "quiz_expression_label": "💬 Expression",
+  "quiz_grammar_label": "✏️ Grammar",
+  "quiz_translate_prompt": "What does this word mean?",
+  "quiz_complete_phrase": "Complete the Spanish phrase:",
+  "check_answer": "Check",
+  "type_your_answer": "Type here...",
+  "correct_answer_label": "Correct answer:"
 }

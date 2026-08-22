@@ -23,5 +23,16 @@
   "add_favorites_hint": "Füge Karten zu Favoriten hinzu, indem du auf das ☆ Symbol tippst",
   "error_loading_cards": "Fehler beim Laden der Karten: ",
   "expressions": "Sätze",
-  "unit_prefix": "Einheit"
+  "unit_prefix": "Einheit",
+  "quiz": "Quiz",
+  "start_quiz": "Quiz starten",
+  "quiz_start_subtitle": "20 gemischte Fragen aus Vokabeln, Sätzen & Grammatik",
+  "quiz_vocab_label": "📚 Vokabeln",
+  "quiz_expression_label": "💬 Satz",
+  "quiz_grammar_label": "✏️ Grammatik",
+  "quiz_translate_prompt": "Was bedeutet dieses Wort?",
+  "quiz_complete_phrase": "Vervollständige den spanischen Satz:",
+  "check_answer": "Prüfen",
+  "type_your_answer": "Hier eingeben...",
+  "correct_answer_label": "Richtige Antwort:"
 }

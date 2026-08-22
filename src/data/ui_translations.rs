@@ -28,6 +28,17 @@ pub struct UiStrings {
     pub error_loading_cards: String,
     pub expressions: String,
     pub unit_prefix: String,
+    pub quiz: String,
+    pub start_quiz: String,
+    pub quiz_start_subtitle: String,
+    pub quiz_vocab_label: String,
+    pub quiz_expression_label: String,
+    pub quiz_grammar_label: String,
+    pub quiz_translate_prompt: String,
+    pub quiz_complete_phrase: String,
+    pub check_answer: String,
+    pub type_your_answer: String,
+    pub correct_answer_label: String,
 }
 
 impl UiStrings {

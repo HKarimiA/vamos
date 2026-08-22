@@ -15,3 +15,6 @@ pub use vocabulary::{
 
 pub mod ui_translations;
 pub use ui_translations::get_ui_strings;
+
+pub mod quiz;
+pub use quiz::{QuizQuestion, QuizSource, build_quiz_session, normalize_answer};
