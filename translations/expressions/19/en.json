@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Goodbye" },
+  { "id": 2, "phrase": "See you later" },
+  { "id": 3, "phrase": "See you tomorrow" },
+  { "id": 4, "phrase": "See you" },
+  { "id": 5, "phrase": "Take care" },
+  { "id": 6, "phrase": "Have a good day" },
+  { "id": 7, "phrase": "Sleep well" },
+  { "id": 8, "phrase": "It was a pleasure to see you" },
+  { "id": 9, "phrase": "Let's stay in touch" },
+  { "id": 10, "phrase": "Until next time" },
+  { "id": 11, "phrase": "I hope things go well for you" },
+  { "id": 12, "phrase": "Have a good trip" },
+  { "id": 13, "phrase": "Say hi to your family" },
+  { "id": 14, "phrase": "See you soon" },
+  { "id": 15, "phrase": "I'm going to miss you" },
+  { "id": 16, "phrase": "Take good care of yourself" },
+  { "id": 17, "phrase": "It was very nice" },
+  { "id": 18, "phrase": "We'll write to each other" },
+  { "id": 19, "phrase": "I hope to see you soon" },
+  { "id": 20, "phrase": "Bye" }
+]

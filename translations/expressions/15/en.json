@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I have a reservation" },
+  { "id": 2, "phrase": "What time is check-in?" },
+  { "id": 3, "phrase": "I would like a double room" },
+  { "id": 4, "phrase": "Is breakfast included?" },
+  { "id": 5, "phrase": "Do you have free wifi?" },
+  { "id": 6, "phrase": "I need another towel" },
+  { "id": 7, "phrase": "The room is very comfortable" },
+  { "id": 8, "phrase": "What time is check-out?" },
+  { "id": 9, "phrase": "Can you call a taxi?" },
+  { "id": 10, "phrase": "The air conditioning doesn't work" },
+  { "id": 11, "phrase": "Where is the elevator?" },
+  { "id": 12, "phrase": "I would like to change rooms" },
+  { "id": 13, "phrase": "Can I leave my luggage here?" },
+  { "id": 14, "phrase": "The view is spectacular" },
+  { "id": 15, "phrase": "Do you have room service?" },
+  { "id": 16, "phrase": "I lost my room key" },
+  { "id": 17, "phrase": "Could you bring up my suitcase?" },
+  { "id": 18, "phrase": "How much is it per night?" },
+  { "id": 19, "phrase": "The staff is very friendly" },
+  { "id": 20, "phrase": "It was a very pleasant stay" }
+]

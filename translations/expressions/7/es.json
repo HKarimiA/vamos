@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿A qué hora nos vemos?" },
+  { "id": 2, "phrase": "Llego en diez minutos" },
+  { "id": 3, "phrase": "Llegué tarde" },
+  { "id": 4, "phrase": "Llegué temprano" },
+  { "id": 5, "phrase": "¿Tienes tiempo hoy?" },
+  { "id": 6, "phrase": "Estoy ocupado ahora" },
+  { "id": 7, "phrase": "Quedamos a las cinco" },
+  { "id": 8, "phrase": "¿Podemos cambiar la hora?" },
+  { "id": 9, "phrase": "Tengo una cita mañana" },
+  { "id": 10, "phrase": "Se me hizo tarde" },
+  { "id": 11, "phrase": "Nos vemos la semana que viene" },
+  { "id": 12, "phrase": "Todavía tengo tiempo" },
+  { "id": 13, "phrase": "Se acabó el tiempo" },
+  { "id": 14, "phrase": "¿Cuánto tiempo tarda?" },
+  { "id": 15, "phrase": "De momento estoy libre" },
+  { "id": 16, "phrase": "Vamos justos de tiempo" },
+  { "id": 17, "phrase": "Todo a su debido tiempo" },
+  { "id": 18, "phrase": "Nos vemos pronto" },
+  { "id": 19, "phrase": "Hoy en día" },
+  { "id": 20, "phrase": "De vez en cuando" }
+]

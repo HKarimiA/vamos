@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I'm happy" },
+  { "id": 2, "phrase": "I'm sad" },
+  { "id": 3, "phrase": "I'm tired" },
+  { "id": 4, "phrase": "I'm nervous" },
+  { "id": 5, "phrase": "I'm angry" },
+  { "id": 6, "phrase": "I'm scared" },
+  { "id": 7, "phrase": "I'm excited" },
+  { "id": 8, "phrase": "I feel relieved" },
+  { "id": 9, "phrase": "I'm worried" },
+  { "id": 10, "phrase": "I'm proud of you" },
+  { "id": 11, "phrase": "It makes me very happy" },
+  { "id": 12, "phrase": "I'm exhausted" },
+  { "id": 13, "phrase": "I feel lonely" },
+  { "id": 14, "phrase": "I'm bored" },
+  { "id": 15, "phrase": "I'm grateful" },
+  { "id": 16, "phrase": "It makes me nervous" },
+  { "id": 17, "phrase": "I'm in love" },
+  { "id": 18, "phrase": "I feel better" },
+  { "id": 19, "phrase": "Don't worry about me" },
+  { "id": 20, "phrase": "Everything is going to be fine" }
+]

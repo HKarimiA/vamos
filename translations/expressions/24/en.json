@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I like playing soccer" },
+  { "id": 2, "phrase": "I go to the gym every day" },
+  { "id": 3, "phrase": "Do you play any sport?" },
+  { "id": 4, "phrase": "I love swimming" },
+  { "id": 5, "phrase": "I go running in the mornings" },
+  { "id": 6, "phrase": "Who won the game?" },
+  { "id": 7, "phrase": "I play tennis on weekends" },
+  { "id": 8, "phrase": "My favorite hobby is painting" },
+  { "id": 9, "phrase": "I like reading in my free time" },
+  { "id": 10, "phrase": "Let's watch the game together" },
+  { "id": 11, "phrase": "I've played guitar since I was a kid" },
+  { "id": 12, "phrase": "I'm learning to dance" },
+  { "id": 13, "phrase": "I go hiking on Sundays" },
+  { "id": 14, "phrase": "I collect old coins" },
+  { "id": 15, "phrase": "I joined a basketball team" },
+  { "id": 16, "phrase": "We go out cycling" },
+  { "id": 17, "phrase": "We won the game by a little" },
+  { "id": 18, "phrase": "Fishing relaxes me a lot" },
+  { "id": 19, "phrase": "I train three times a week" },
+  { "id": 20, "phrase": "He's a big soccer fan" }
+]

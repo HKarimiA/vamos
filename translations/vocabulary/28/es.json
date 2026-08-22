@@ -1,0 +1,22 @@
+[
+  { "id": 541, "word": "el barrio", "example": "Vivo en un barrio tranquilo" },
+  { "id": 542, "word": "la acera", "example": "Camina por la acera, no por la calle" },
+  { "id": 543, "word": "el semáforo", "example": "Espera a que el semáforo esté verde" },
+  { "id": 544, "word": "la plaza", "example": "Nos vemos en la plaza principal" },
+  { "id": 545, "word": "el edificio", "example": "Ese edificio tiene veinte pisos" },
+  { "id": 546, "word": "el rascacielos", "example": "Hay muchos rascacielos en esa ciudad" },
+  { "id": 547, "word": "el ayuntamiento", "example": "El ayuntamiento está en el centro" },
+  { "id": 548, "word": "el atasco", "example": "Hubo un atasco enorme esta mañana" },
+  { "id": 549, "word": "el transporte público", "example": "Prefiero usar el transporte público" },
+  { "id": 550, "word": "la contaminación", "example": "La contaminación afecta a la ciudad" },
+  { "id": 551, "word": "el/la peatón/a", "example": "Los peatones tienen prioridad aquí" },
+  { "id": 552, "word": "mudarse", "example": "Vamos a mudarnos el próximo mes" },
+  { "id": 553, "word": "construir", "example": "Van a construir un parque nuevo" },
+  { "id": 554, "word": "la multa", "example": "Me pusieron una multa por aparcar mal" },
+  { "id": 555, "word": "el aparcamiento", "example": "No hay aparcamiento cerca de aquí" },
+  { "id": 556, "word": "la alcantarilla", "example": "La alcantarilla estaba bloqueada" },
+  { "id": 557, "word": "urbano/a", "example": "Es una zona muy urbana" },
+  { "id": 558, "word": "ruidoso/a", "example": "Esta calle es muy ruidosa" },
+  { "id": 559, "word": "concurrido/a", "example": "El mercado está muy concurrido los sábados" },
+  { "id": 560, "word": "el vecindario", "example": "Todos se conocen en el vecindario" }
+]

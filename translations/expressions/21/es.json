@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Qué tal tu día?" },
+  { "id": 2, "phrase": "Estoy en camino" },
+  { "id": 3, "phrase": "Ya casi llego" },
+  { "id": 4, "phrase": "No te olvides" },
+  { "id": 5, "phrase": "Voy a hacer la compra" },
+  { "id": 6, "phrase": "Tengo que hacer un recado" },
+  { "id": 7, "phrase": "Voy a echarme una siesta" },
+  { "id": 8, "phrase": "Se me hace agua la boca" },
+  { "id": 9, "phrase": "Voy a dar un paseo" },
+  { "id": 10, "phrase": "Estoy limpiando la casa" },
+  { "id": 11, "phrase": "Se me pasó por completo" },
+  { "id": 12, "phrase": "Estoy a punto de salir" },
+  { "id": 13, "phrase": "Voy a preparar la cena" },
+  { "id": 14, "phrase": "Se me hizo costumbre" },
+  { "id": 15, "phrase": "Estoy haciendo ejercicio" },
+  { "id": 16, "phrase": "Voy a darme una ducha" },
+  { "id": 17, "phrase": "Tengo que sacar al perro" },
+  { "id": 18, "phrase": "Se me antoja un helado" },
+  { "id": 19, "phrase": "Estoy a dieta" },
+  { "id": 20, "phrase": "Así es la vida" }
+]

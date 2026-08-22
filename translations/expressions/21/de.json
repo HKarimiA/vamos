@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Wie war dein Tag?" },
+  { "id": 2, "phrase": "Ich bin unterwegs" },
+  { "id": 3, "phrase": "Ich bin fast da" },
+  { "id": 4, "phrase": "Vergiss es nicht" },
+  { "id": 5, "phrase": "Ich gehe einkaufen" },
+  { "id": 6, "phrase": "Ich muss einen Botengang machen" },
+  { "id": 7, "phrase": "Ich mache ein Nickerchen" },
+  { "id": 8, "phrase": "Mir läuft das Wasser im Mund zusammen" },
+  { "id": 9, "phrase": "Ich gehe spazieren" },
+  { "id": 10, "phrase": "Ich putze das Haus" },
+  { "id": 11, "phrase": "Es ist mir völlig entfallen" },
+  { "id": 12, "phrase": "Ich bin gerade dabei zu gehen" },
+  { "id": 13, "phrase": "Ich mache das Abendessen" },
+  { "id": 14, "phrase": "Es wurde für mich zur Gewohnheit" },
+  { "id": 15, "phrase": "Ich mache Sport" },
+  { "id": 16, "phrase": "Ich gehe duschen" },
+  { "id": 17, "phrase": "Ich muss den Hund ausführen" },
+  { "id": 18, "phrase": "Ich habe Lust auf Eis" },
+  { "id": 19, "phrase": "Ich mache eine Diät" },
+  { "id": 20, "phrase": "So ist das Leben" }
+]

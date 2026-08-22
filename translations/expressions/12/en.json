@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "This is my family" },
+  { "id": 2, "phrase": "I have two siblings" },
+  { "id": 3, "phrase": "My parents live here" },
+  { "id": 4, "phrase": "She's my older sister" },
+  { "id": 5, "phrase": "He's my best friend" },
+  { "id": 6, "phrase": "We are married" },
+  { "id": 7, "phrase": "I have a son and a daughter" },
+  { "id": 8, "phrase": "My grandparents are from Mexico" },
+  { "id": 9, "phrase": "We get along very well" },
+  { "id": 10, "phrase": "We are a close-knit family" },
+  { "id": 11, "phrase": "She is my partner" },
+  { "id": 12, "phrase": "We're going to visit family" },
+  { "id": 13, "phrase": "We met in college" },
+  { "id": 14, "phrase": "He's like family" },
+  { "id": 15, "phrase": "We take good care of the kids" },
+  { "id": 16, "phrase": "We have a close relationship" },
+  { "id": 17, "phrase": "My cousin lives in another country" },
+  { "id": 18, "phrase": "We are very different" },
+  { "id": 19, "phrase": "I trust her a lot" },
+  { "id": 20, "phrase": "Family comes first" }
+]

@@ -54,7 +54,7 @@ pub fn Favorites() -> impl IntoView {
             .filter(|(stage, card_id)| {
                 // Stage 1: IDs 1-20, Stage 2: IDs 21-40, Stage 3: IDs 41-60, etc.
                 match stage {
-                    i if (1..=21).contains(i) => {
+                    i if (1..=33).contains(i) => {
                         let start_id = (i - 1) * 20 + 1;
                         let end_id = i * 20;
                         *card_id >= start_id && *card_id <= end_id
@@ -75,7 +75,7 @@ pub fn Favorites() -> impl IntoView {
         }
         let (stage, card_id) = cards[card_index.get()];
         let card_idx = match stage {
-            i if (1..=21).contains(&i) => (card_id - ((i - 1) * 20 + 1)) as usize,
+            i if (1..=33).contains(&i) => (card_id - ((i - 1) * 20 + 1)) as usize,
             _ => return Err("Invalid stage".to_string()),
         };
         get_card_pair(stage, card_idx, direction(), ui_lang())

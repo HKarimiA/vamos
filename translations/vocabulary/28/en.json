@@ -1,0 +1,22 @@
+[
+  { "id": 541, "word": "the neighborhood", "example": "I live in a quiet neighborhood" },
+  { "id": 542, "word": "the sidewalk", "example": "Walk on the sidewalk, not on the street" },
+  { "id": 543, "word": "the traffic light", "example": "Wait until the traffic light is green" },
+  { "id": 544, "word": "the square", "example": "Let's meet in the main square" },
+  { "id": 545, "word": "the building", "example": "That building has twenty floors" },
+  { "id": 546, "word": "the skyscraper", "example": "There are many skyscrapers in that city" },
+  { "id": 547, "word": "the city hall", "example": "City hall is downtown" },
+  { "id": 548, "word": "the traffic jam", "example": "There was a huge traffic jam this morning" },
+  { "id": 549, "word": "the public transportation", "example": "I prefer to use public transportation" },
+  { "id": 550, "word": "the pollution", "example": "Pollution affects the city" },
+  { "id": 551, "word": "the pedestrian", "example": "Pedestrians have priority here" },
+  { "id": 552, "word": "to move (house)", "example": "We're going to move next month" },
+  { "id": 553, "word": "to build", "example": "They're going to build a new park" },
+  { "id": 554, "word": "the fine", "example": "I got a fine for parking badly" },
+  { "id": 555, "word": "the parking lot", "example": "There's no parking near here" },
+  { "id": 556, "word": "the sewer/drain", "example": "The drain was blocked" },
+  { "id": 557, "word": "urban", "example": "It's a very urban area" },
+  { "id": 558, "word": "noisy", "example": "This street is very noisy" },
+  { "id": 559, "word": "crowded", "example": "The market is very crowded on Saturdays" },
+  { "id": 560, "word": "the neighborhood/vicinity", "example": "Everyone knows each other in the neighborhood" }
+]

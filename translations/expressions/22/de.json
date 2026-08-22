@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Ich habe Kopfschmerzen" },
+  { "id": 2, "phrase": "Mir geht es schlecht" },
+  { "id": 3, "phrase": "Ich habe Fieber" },
+  { "id": 4, "phrase": "Ich muss einen Arzt aufsuchen" },
+  { "id": 5, "phrase": "Wo ist die Apotheke?" },
+  { "id": 6, "phrase": "Mein Magen tut weh" },
+  { "id": 7, "phrase": "Ich bin erkältet" },
+  { "id": 8, "phrase": "Ich brauche einen Termin" },
+  { "id": 9, "phrase": "Ich bin dagegen allergisch" },
+  { "id": 10, "phrase": "Hast du etwas gegen Schmerzen?" },
+  { "id": 11, "phrase": "Ich habe mir den Knöchel verstaucht" },
+  { "id": 12, "phrase": "Mir geht es schon besser" },
+  { "id": 13, "phrase": "Ich muss dieses Medikament nehmen" },
+  { "id": 14, "phrase": "Mir ist schwindelig" },
+  { "id": 15, "phrase": "Ich habe nicht gut geschlafen" },
+  { "id": 16, "phrase": "Ich habe einen Termin beim Zahnarzt" },
+  { "id": 17, "phrase": "Es ist nur ein Kratzer" },
+  { "id": 18, "phrase": "Pass gut auf dich auf" },
+  { "id": 19, "phrase": "Ich hoffe, du wirst bald gesund" },
+  { "id": 20, "phrase": "Gesundheit" }
+]

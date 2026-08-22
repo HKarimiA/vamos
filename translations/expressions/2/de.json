@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Bitte" },
+  { "id": 2, "phrase": "Danke" },
+  { "id": 3, "phrase": "Gern geschehen" },
+  { "id": 4, "phrase": "Entschuldigung" },
+  { "id": 5, "phrase": "Entschuldigen Sie" },
+  { "id": 6, "phrase": "Entschuldigung, darf ich vorbei?" },
+  { "id": 7, "phrase": "Kein Problem" },
+  { "id": 8, "phrase": "Es tut mir sehr leid" },
+  { "id": 9, "phrase": "Nach Ihnen" },
+  { "id": 10, "phrase": "Kann ich dir helfen?" },
+  { "id": 11, "phrase": "Vielen Dank für alles" },
+  { "id": 12, "phrase": "Es ist mir ein Vergnügen" },
+  { "id": 13, "phrase": "Wie nett von dir" },
+  { "id": 14, "phrase": "Wie läuft dein Tag?" },
+  { "id": 15, "phrase": "Alles gut, danke" },
+  { "id": 16, "phrase": "Erzähl mir etwas" },
+  { "id": 17, "phrase": "Was für eine gute Idee" },
+  { "id": 18, "phrase": "Mach dir keine Sorgen" },
+  { "id": 19, "phrase": "Prost" },
+  { "id": 20, "phrase": "Guten Appetit" }
+]

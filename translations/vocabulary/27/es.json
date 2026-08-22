@@ -1,0 +1,22 @@
+[
+  { "id": 521, "word": "el presupuesto", "example": "Necesitamos hacer un presupuesto mensual" },
+  { "id": 522, "word": "la cuenta bancaria", "example": "Abrí una cuenta bancaria nueva" },
+  { "id": 523, "word": "el ahorro", "example": "Uso mis ahorros para el viaje" },
+  { "id": 524, "word": "la inversión", "example": "Es una buena inversión a largo plazo" },
+  { "id": 525, "word": "el préstamo", "example": "Pedí un préstamo para el coche" },
+  { "id": 526, "word": "la deuda", "example": "Quiero pagar mi deuda pronto" },
+  { "id": 527, "word": "el impuesto", "example": "Pagamos impuestos cada año" },
+  { "id": 528, "word": "la factura", "example": "Recibí la factura de la luz" },
+  { "id": 529, "word": "el ingreso", "example": "Mis ingresos aumentaron este mes" },
+  { "id": 530, "word": "el gasto", "example": "Reduje mis gastos innecesarios" },
+  { "id": 531, "word": "invertir", "example": "Voy a invertir en bolsa" },
+  { "id": 532, "word": "pedir prestado", "example": "Tuve que pedir prestado dinero" },
+  { "id": 533, "word": "prestar", "example": "¿Me puedes prestar diez euros?" },
+  { "id": 534, "word": "financiar", "example": "El banco va a financiar el proyecto" },
+  { "id": 535, "word": "la tarjeta de crédito", "example": "Pago con la tarjeta de crédito" },
+  { "id": 536, "word": "el cajero automático", "example": "Saqué dinero del cajero automático" },
+  { "id": 537, "word": "la moneda", "example": "El euro es la moneda de España" },
+  { "id": 538, "word": "el billete", "example": "Tengo un billete de veinte euros" },
+  { "id": 539, "word": "rentable", "example": "Este negocio es muy rentable" },
+  { "id": 540, "word": "quebrar", "example": "La empresa quebró el año pasado" }
+]

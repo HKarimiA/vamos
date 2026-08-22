@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Voy a viajar a España" },
+  { "id": 2, "phrase": "Reservé un vuelo" },
+  { "id": 3, "phrase": "¿Dónde está el aeropuerto?" },
+  { "id": 4, "phrase": "Perdí mi maleta" },
+  { "id": 5, "phrase": "El vuelo se retrasó" },
+  { "id": 6, "phrase": "¿Dónde recojo el equipaje?" },
+  { "id": 7, "phrase": "Necesito mi pasaporte" },
+  { "id": 8, "phrase": "Voy de vacaciones" },
+  { "id": 9, "phrase": "Este lugar es precioso" },
+  { "id": 10, "phrase": "¿Cómo llego al centro?" },
+  { "id": 11, "phrase": "Quiero conocer más de la cultura" },
+  { "id": 12, "phrase": "Estamos de viaje" },
+  { "id": 13, "phrase": "Hice una reserva en el hotel" },
+  { "id": 14, "phrase": "Voy a hacer las maletas" },
+  { "id": 15, "phrase": "¿Hay visitas guiadas?" },
+  { "id": 16, "phrase": "Necesito cambiar dinero" },
+  { "id": 17, "phrase": "Es mi primer viaje aquí" },
+  { "id": 18, "phrase": "Volvemos mañana" },
+  { "id": 19, "phrase": "Extraño mi país" },
+  { "id": 20, "phrase": "Fue un viaje inolvidable" }
+]

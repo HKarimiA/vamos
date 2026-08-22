@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "How much is it?" },
+  { "id": 2, "phrase": "Do you have this in another size?" },
+  { "id": 3, "phrase": "I'm just looking" },
+  { "id": 4, "phrase": "Can I try it on?" },
+  { "id": 5, "phrase": "I'll take it" },
+  { "id": 6, "phrase": "Do you accept credit cards?" },
+  { "id": 7, "phrase": "Is there a discount?" },
+  { "id": 8, "phrase": "It's too expensive" },
+  { "id": 9, "phrase": "Where is the checkout?" },
+  { "id": 10, "phrase": "I need a bag" },
+  { "id": 11, "phrase": "Can I return this?" },
+  { "id": 12, "phrase": "Do you have the receipt?" },
+  { "id": 13, "phrase": "I'm looking for a gift" },
+  { "id": 14, "phrase": "Is it on sale?" },
+  { "id": 15, "phrase": "I prefer this color" },
+  { "id": 16, "phrase": "What is your size?" },
+  { "id": 17, "phrase": "I'll come back later" },
+  { "id": 18, "phrase": "Do you have this in stock?" },
+  { "id": 19, "phrase": "It's just what I was looking for" },
+  { "id": 20, "phrase": "Thank you for your help" }
+]

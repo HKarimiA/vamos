@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I'm going to travel to Spain" },
+  { "id": 2, "phrase": "I booked a flight" },
+  { "id": 3, "phrase": "Where is the airport?" },
+  { "id": 4, "phrase": "I lost my suitcase" },
+  { "id": 5, "phrase": "The flight was delayed" },
+  { "id": 6, "phrase": "Where do I pick up my luggage?" },
+  { "id": 7, "phrase": "I need my passport" },
+  { "id": 8, "phrase": "I'm going on vacation" },
+  { "id": 9, "phrase": "This place is beautiful" },
+  { "id": 10, "phrase": "How do I get downtown?" },
+  { "id": 11, "phrase": "I want to learn more about the culture" },
+  { "id": 12, "phrase": "We are traveling" },
+  { "id": 13, "phrase": "I made a reservation at the hotel" },
+  { "id": 14, "phrase": "I'm going to pack my bags" },
+  { "id": 15, "phrase": "Are there guided tours?" },
+  { "id": 16, "phrase": "I need to exchange money" },
+  { "id": 17, "phrase": "It's my first trip here" },
+  { "id": 18, "phrase": "We're coming back tomorrow" },
+  { "id": 19, "phrase": "I miss my country" },
+  { "id": 20, "phrase": "It was an unforgettable trip" }
+]

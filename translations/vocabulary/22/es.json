@@ -1,0 +1,22 @@
+[
+  { "id": 421, "word": "el abogado/la abogada", "example": "Mi hermana es abogada y trabaja en un bufete importante" },
+  { "id": 422, "word": "el ingeniero/la ingeniera", "example": "El ingeniero diseñó el nuevo puente" },
+  { "id": 423, "word": "el/la periodista", "example": "La periodista escribió un artículo excelente" },
+  { "id": 424, "word": "el/la arquitecto/a", "example": "El arquitecto diseñó una casa moderna" },
+  { "id": 425, "word": "el/la contable", "example": "El contable revisa las facturas cada mes" },
+  { "id": 426, "word": "el/la enfermero/a", "example": "La enfermera cuida a los pacientes con mucho cariño" },
+  { "id": 427, "word": "el/la electricista", "example": "Llamé al electricista para arreglar la luz" },
+  { "id": 428, "word": "el/la fontanero/a", "example": "El fontanero reparó la tubería rota" },
+  { "id": 429, "word": "el/la cocinero/a", "example": "El cocinero prepara platos deliciosos" },
+  { "id": 430, "word": "el/la camarero/a", "example": "La camarera nos trajo la carta" },
+  { "id": 431, "word": "el/la piloto", "example": "El piloto aterrizó el avión con mucha calma" },
+  { "id": 432, "word": "el/la agricultor/a", "example": "El agricultor cultiva trigo y maíz" },
+  { "id": 433, "word": "el/la carpintero/a", "example": "El carpintero hizo esta mesa de madera" },
+  { "id": 434, "word": "el/la vendedor/a", "example": "El vendedor me ayudó a elegir un regalo" },
+  { "id": 435, "word": "la profesión", "example": "¿Cuál es tu profesión?" },
+  { "id": 436, "word": "el sueldo", "example": "Mi sueldo subió este año" },
+  { "id": 437, "word": "jubilarse", "example": "Mi padre se jubiló el año pasado" },
+  { "id": 438, "word": "contratar", "example": "La empresa va a contratar a más personal" },
+  { "id": 439, "word": "despedir", "example": "No quieren despedir a nadie este año" },
+  { "id": 440, "word": "renunciar", "example": "Decidió renunciar a su trabajo" }
+]

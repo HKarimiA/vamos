@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "How do I get to the station?" },
+  { "id": 2, "phrase": "Go straight ahead" },
+  { "id": 3, "phrase": "Turn right" },
+  { "id": 4, "phrase": "Turn left" },
+  { "id": 5, "phrase": "It's very close to here" },
+  { "id": 6, "phrase": "It's far away" },
+  { "id": 7, "phrase": "Is it nearby?" },
+  { "id": 8, "phrase": "Take the second street" },
+  { "id": 9, "phrase": "Cross the square" },
+  { "id": 10, "phrase": "I'm lost" },
+  { "id": 11, "phrase": "Can you show me the way?" },
+  { "id": 12, "phrase": "It's in front of the bank" },
+  { "id": 13, "phrase": "It's next to the pharmacy" },
+  { "id": 14, "phrase": "It's behind the park" },
+  { "id": 15, "phrase": "Follow the signs" },
+  { "id": 16, "phrase": "How long does it take on foot?" },
+  { "id": 17, "phrase": "Take bus number three" },
+  { "id": 18, "phrase": "Get off at the next stop" },
+  { "id": 19, "phrase": "Can you show me on the map?" },
+  { "id": 20, "phrase": "We're almost there" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Voy a publicar una foto" },
+  { "id": 2, "phrase": "¿Viste mi historia?" },
+  { "id": 3, "phrase": "Me etiquetaron en una publicación" },
+  { "id": 4, "phrase": "Sígueme en redes sociales" },
+  { "id": 5, "phrase": "Dale me gusta a esto" },
+  { "id": 6, "phrase": "Voy a compartir esto" },
+  { "id": 7, "phrase": "Se hizo viral" },
+  { "id": 8, "phrase": "No tengo buena señal" },
+  { "id": 9, "phrase": "Estoy revisando mis notificaciones" },
+  { "id": 10, "phrase": "Comenta si te gusta" },
+  { "id": 11, "phrase": "Bloqueé a esa cuenta" },
+  { "id": 12, "phrase": "Voy a subir un video" },
+  { "id": 13, "phrase": "Perdí muchos seguidores" },
+  { "id": 14, "phrase": "Estoy navegando por internet" },
+  { "id": 15, "phrase": "Cambié mi foto de perfil" },
+  { "id": 16, "phrase": "No leí el mensaje todavía" },
+  { "id": 17, "phrase": "Está desconectado ahora mismo" },
+  { "id": 18, "phrase": "Voy a crear una cuenta nueva" },
+  { "id": 19, "phrase": "Se me olvidó la contraseña" },
+  { "id": 20, "phrase": "Paso mucho tiempo en el móvil" }
+]

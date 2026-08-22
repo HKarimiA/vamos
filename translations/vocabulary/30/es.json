@@ -1,0 +1,22 @@
+[
+  { "id": 581, "word": "la nube (informática)", "example": "Guardo mis archivos en la nube" },
+  { "id": 582, "word": "el servidor", "example": "El servidor está caído ahora mismo" },
+  { "id": 583, "word": "la red social", "example": "Paso mucho tiempo en las redes sociales" },
+  { "id": 584, "word": "el navegador", "example": "¿Qué navegador usas normalmente?" },
+  { "id": 585, "word": "el correo electrónico", "example": "Te envié un correo electrónico ayer" },
+  { "id": 586, "word": "el enlace", "example": "Haz clic en este enlace" },
+  { "id": 587, "word": "la base de datos", "example": "Los datos están en esta base de datos" },
+  { "id": 588, "word": "el virus informático", "example": "Mi ordenador tiene un virus informático" },
+  { "id": 589, "word": "la copia de seguridad", "example": "Haz una copia de seguridad cada semana" },
+  { "id": 590, "word": "actualizar", "example": "Necesito actualizar el programa" },
+  { "id": 591, "word": "instalar", "example": "Voy a instalar esta aplicación" },
+  { "id": 592, "word": "programar", "example": "Aprendí a programar el año pasado" },
+  { "id": 593, "word": "hackear", "example": "Alguien intentó hackear mi cuenta" },
+  { "id": 594, "word": "el software", "example": "Este software es muy útil" },
+  { "id": 595, "word": "el hardware", "example": "El hardware es muy potente" },
+  { "id": 596, "word": "la impresora", "example": "La impresora no tiene tinta" },
+  { "id": 597, "word": "el router / enrutador", "example": "El router no funciona bien" },
+  { "id": 598, "word": "la wifi / el wifi", "example": "No hay wifi en este lugar" },
+  { "id": 599, "word": "en línea", "example": "Hice el curso en línea" },
+  { "id": 600, "word": "desconectado/a", "example": "Estuve desconectado todo el día" }
+]

@@ -1,3 +1,5 @@
+pub mod expression_cards;
+pub mod expressions;
 pub mod favorites;
 pub mod grammar;
 pub mod grammar_topic;
@@ -6,6 +8,8 @@ pub mod settings;
 pub mod vocabulary;
 pub mod vocabulary_cards;
 
+pub use expression_cards::ExpressionCards;
+pub use expressions::Expressions;
 pub use favorites::Favorites;
 pub use grammar::Grammar;
 pub use grammar_topic::GrammarTopic;

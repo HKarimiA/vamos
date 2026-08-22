@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Es ist heute heiß" },
+  { "id": 2, "phrase": "Es ist kalt" },
+  { "id": 3, "phrase": "Es regnet" },
+  { "id": 4, "phrase": "Es schneit" },
+  { "id": 5, "phrase": "Es ist sehr windig" },
+  { "id": 6, "phrase": "Es ist bewölkt" },
+  { "id": 7, "phrase": "Es ist sonnig" },
+  { "id": 8, "phrase": "Wie ist das Wetter?" },
+  { "id": 9, "phrase": "Es wird morgen regnen" },
+  { "id": 10, "phrase": "Es ist ein wunderschöner Tag" },
+  { "id": 11, "phrase": "Ich nehme vorsichtshalber einen Regenschirm mit" },
+  { "id": 12, "phrase": "Es gibt ein Gewitter" },
+  { "id": 13, "phrase": "Die Vorhersage sagt, dass es regnen wird" },
+  { "id": 14, "phrase": "Es friert" },
+  { "id": 15, "phrase": "Es ist schwül" },
+  { "id": 16, "phrase": "Der Himmel ist klar" },
+  { "id": 17, "phrase": "Es ist neblig" },
+  { "id": 18, "phrase": "Die Temperatur ist gesunken" },
+  { "id": 19, "phrase": "Ich liebe dieses Wetter" },
+  { "id": 20, "phrase": "Zieh dich warm an" }
+]

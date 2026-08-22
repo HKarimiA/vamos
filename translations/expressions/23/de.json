@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Ich muss das Geschirr spülen" },
+  { "id": 2, "phrase": "Ich werde das Bett machen" },
+  { "id": 3, "phrase": "Ich muss staubsaugen" },
+  { "id": 4, "phrase": "Die Wäsche ist in der Waschmaschine" },
+  { "id": 5, "phrase": "Ich werde den Müll rausbringen" },
+  { "id": 6, "phrase": "Kannst du mir beim Aufräumen helfen?" },
+  { "id": 7, "phrase": "Das Haus ist sehr unordentlich" },
+  { "id": 8, "phrase": "Ich werde die Pflanzen gießen" },
+  { "id": 9, "phrase": "Der Wasserhahn ist kaputt" },
+  { "id": 10, "phrase": "Ich muss neue Glühbirnen kaufen" },
+  { "id": 11, "phrase": "Ich werde das reparieren" },
+  { "id": 12, "phrase": "Der Kühlschrank ist leer" },
+  { "id": 13, "phrase": "Die Wände müssen gestrichen werden" },
+  { "id": 14, "phrase": "Ich werde die Wäsche falten" },
+  { "id": 15, "phrase": "Der Nachbar macht viel Lärm" },
+  { "id": 16, "phrase": "Der Strom ist ausgefallen" },
+  { "id": 17, "phrase": "Ich muss die Bettwäsche wechseln" },
+  { "id": 18, "phrase": "Das Haus sieht blitzsauber aus" },
+  { "id": 19, "phrase": "Ich wohne in einer kleinen Wohnung" },
+  { "id": 20, "phrase": "Ich mag es, wenn alles an seinem Platz ist" }
+]

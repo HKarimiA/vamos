@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Cómo llego a la estación?" },
+  { "id": 2, "phrase": "Siga todo recto" },
+  { "id": 3, "phrase": "Gire a la derecha" },
+  { "id": 4, "phrase": "Gire a la izquierda" },
+  { "id": 5, "phrase": "Está muy cerca de aquí" },
+  { "id": 6, "phrase": "Está lejos" },
+  { "id": 7, "phrase": "¿Está por aquí cerca?" },
+  { "id": 8, "phrase": "Tome la segunda calle" },
+  { "id": 9, "phrase": "Cruce la plaza" },
+  { "id": 10, "phrase": "Estoy perdido" },
+  { "id": 11, "phrase": "¿Puede indicarme el camino?" },
+  { "id": 12, "phrase": "Está enfrente del banco" },
+  { "id": 13, "phrase": "Está al lado de la farmacia" },
+  { "id": 14, "phrase": "Está detrás del parque" },
+  { "id": 15, "phrase": "Siga las señales" },
+  { "id": 16, "phrase": "¿Cuánto se tarda a pie?" },
+  { "id": 17, "phrase": "Tome el autobús número tres" },
+  { "id": 18, "phrase": "Baje en la próxima parada" },
+  { "id": 19, "phrase": "¿Me puede mostrar en el mapa?" },
+  { "id": 20, "phrase": "Ya casi llegamos" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 581, "word": "the cloud (computing)", "example": "I store my files in the cloud" },
+  { "id": 582, "word": "the server", "example": "The server is down right now" },
+  { "id": 583, "word": "the social network", "example": "I spend a lot of time on social networks" },
+  { "id": 584, "word": "the browser", "example": "Which browser do you normally use?" },
+  { "id": 585, "word": "the email", "example": "I sent you an email yesterday" },
+  { "id": 586, "word": "the link", "example": "Click on this link" },
+  { "id": 587, "word": "the database", "example": "The data is in this database" },
+  { "id": 588, "word": "the computer virus", "example": "My computer has a virus" },
+  { "id": 589, "word": "the backup", "example": "Make a backup every week" },
+  { "id": 590, "word": "to update", "example": "I need to update the program" },
+  { "id": 591, "word": "to install", "example": "I'm going to install this application" },
+  { "id": 592, "word": "to program/code", "example": "I learned to code last year" },
+  { "id": 593, "word": "to hack", "example": "Someone tried to hack my account" },
+  { "id": 594, "word": "the software", "example": "This software is very useful" },
+  { "id": 595, "word": "the hardware", "example": "The hardware is very powerful" },
+  { "id": 596, "word": "the printer", "example": "The printer has no ink" },
+  { "id": 597, "word": "the router", "example": "The router isn't working well" },
+  { "id": 598, "word": "the wifi", "example": "There's no wifi in this place" },
+  { "id": 599, "word": "online", "example": "I took the course online" },
+  { "id": 600, "word": "offline", "example": "I was offline all day" }
+]

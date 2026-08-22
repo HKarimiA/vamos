@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "What time shall we meet?" },
+  { "id": 2, "phrase": "I'll be there in ten minutes" },
+  { "id": 3, "phrase": "I arrived late" },
+  { "id": 4, "phrase": "I arrived early" },
+  { "id": 5, "phrase": "Do you have time today?" },
+  { "id": 6, "phrase": "I'm busy right now" },
+  { "id": 7, "phrase": "Let's meet at five" },
+  { "id": 8, "phrase": "Can we change the time?" },
+  { "id": 9, "phrase": "I have an appointment tomorrow" },
+  { "id": 10, "phrase": "I ran late" },
+  { "id": 11, "phrase": "See you next week" },
+  { "id": 12, "phrase": "I still have time" },
+  { "id": 13, "phrase": "Time's up" },
+  { "id": 14, "phrase": "How long does it take?" },
+  { "id": 15, "phrase": "I'm free at the moment" },
+  { "id": 16, "phrase": "We're running short on time" },
+  { "id": 17, "phrase": "Everything in due time" },
+  { "id": 18, "phrase": "See you soon" },
+  { "id": 19, "phrase": "Nowadays" },
+  { "id": 20, "phrase": "From time to time" }
+]

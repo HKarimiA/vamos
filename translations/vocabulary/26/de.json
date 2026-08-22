@@ -1,0 +1,22 @@
+[
+  { "id": 501, "word": "die Pfanne", "example": "Brate das Ei in der Pfanne" },
+  { "id": 502, "word": "der Topf", "example": "Stell den Topf auf den Herd" },
+  { "id": 503, "word": "das Messer", "example": "Schneide das Brot mit diesem Messer" },
+  { "id": 504, "word": "die Gabel", "example": "Ich brauche eine saubere Gabel" },
+  { "id": 505, "word": "der Löffel", "example": "Rühre es mit einem Löffel um" },
+  { "id": 506, "word": "der Teller", "example": "Gib das Essen auf den Teller" },
+  { "id": 507, "word": "das Glas", "example": "Füll das Glas mit Wasser" },
+  { "id": 508, "word": "die Tasse", "example": "Ich trinke Tee aus dieser Tasse" },
+  { "id": 509, "word": "der Ofen", "example": "Der Kuchen ist im Ofen" },
+  { "id": 510, "word": "der Kühlschrank", "example": "Bewahre die Milch im Kühlschrank auf" },
+  { "id": 511, "word": "die Mikrowelle", "example": "Erhitze die Suppe in der Mikrowelle" },
+  { "id": 512, "word": "das Schneidebrett", "example": "Schneide das Gemüse auf dem Schneidebrett" },
+  { "id": 513, "word": "das Sieb", "example": "Lass die Nudeln durch das Sieb abtropfen" },
+  { "id": 514, "word": "schlagen", "example": "Schlag zuerst die Eier" },
+  { "id": 515, "word": "mischen", "example": "Misch die Zutaten gut" },
+  { "id": 516, "word": "backen", "example": "Wir werden einen Kuchen backen" },
+  { "id": 517, "word": "braten", "example": "Ich werde ein paar Kartoffeln braten" },
+  { "id": 518, "word": "kochen", "example": "Koch das Wasser für den Tee" },
+  { "id": 519, "word": "hacken / schneiden", "example": "Hack die Zwiebel klein" },
+  { "id": 520, "word": "das Rezept", "example": "Dieses Rezept ist von meiner Großmutter" }
+]

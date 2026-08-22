@@ -21,5 +21,7 @@
   "back_to_topics": "Zurück zu den Themen",
   "no_favorites": "Noch keine Favoriten!",
   "add_favorites_hint": "Füge Karten zu Favoriten hinzu, indem du auf das ☆ Symbol tippst",
-  "error_loading_cards": "Fehler beim Laden der Karten: "
+  "error_loading_cards": "Fehler beim Laden der Karten: ",
+  "expressions": "Sätze",
+  "unit_prefix": "Einheit"
 }

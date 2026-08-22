@@ -21,5 +21,7 @@
   "back_to_topics": "Back to Topics",
   "no_favorites": "No favorites yet!",
   "add_favorites_hint": "Add cards to favorites by clicking the ☆ icon",
-  "error_loading_cards": "Error loading cards: "
+  "error_loading_cards": "Error loading cards: ",
+  "expressions": "Expressions",
+  "unit_prefix": "Unit"
 }

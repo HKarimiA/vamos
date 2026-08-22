@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Creo que tienes razón" },
+  { "id": 2, "phrase": "Estoy de acuerdo" },
+  { "id": 3, "phrase": "No estoy de acuerdo" },
+  { "id": 4, "phrase": "En mi opinión" },
+  { "id": 5, "phrase": "Depende" },
+  { "id": 6, "phrase": "Tienes toda la razón" },
+  { "id": 7, "phrase": "Puede ser" },
+  { "id": 8, "phrase": "No lo veo así" },
+  { "id": 9, "phrase": "Estoy totalmente de acuerdo" },
+  { "id": 10, "phrase": "Lo dudo mucho" },
+  { "id": 11, "phrase": "Es verdad" },
+  { "id": 12, "phrase": "Eso no tiene sentido" },
+  { "id": 13, "phrase": "Cada uno tiene su opinión" },
+  { "id": 14, "phrase": "Yo pienso lo mismo" },
+  { "id": 15, "phrase": "Cambié de opinión" },
+  { "id": 16, "phrase": "Es una buena observación" },
+  { "id": 17, "phrase": "No estoy tan seguro" },
+  { "id": 18, "phrase": "Coincido contigo" },
+  { "id": 19, "phrase": "Al contrario" },
+  { "id": 20, "phrase": "Tiene sus pros y sus contras" }
+]

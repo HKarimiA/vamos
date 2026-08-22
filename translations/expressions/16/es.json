@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Cuál es tu número?" },
+  { "id": 2, "phrase": "Te llamo más tarde" },
+  { "id": 3, "phrase": "Se me acabó la batería" },
+  { "id": 4, "phrase": "No tengo señal" },
+  { "id": 5, "phrase": "Envíame un mensaje" },
+  { "id": 6, "phrase": "¿Puedes escribirme?" },
+  { "id": 7, "phrase": "Se cortó la llamada" },
+  { "id": 8, "phrase": "Mi teléfono se congeló" },
+  { "id": 9, "phrase": "Necesito cargar el móvil" },
+  { "id": 10, "phrase": "¿Tienes wifi aquí?" },
+  { "id": 11, "phrase": "No puedo conectarme a internet" },
+  { "id": 12, "phrase": "Te mando la ubicación" },
+  { "id": 13, "phrase": "Se me olvidó cargar el celular" },
+  { "id": 14, "phrase": "¿Puedes video llamarme?" },
+  { "id": 15, "phrase": "Mi pantalla está rota" },
+  { "id": 16, "phrase": "Descargué una aplicación nueva" },
+  { "id": 17, "phrase": "No me llegó tu mensaje" },
+  { "id": 18, "phrase": "Vamos a hacer una videollamada" },
+  { "id": 19, "phrase": "Se me perdió el cargador" },
+  { "id": 20, "phrase": "Estoy sin batería" }
+]

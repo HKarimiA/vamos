@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Voy a cocinar la cena" },
+  { "id": 2, "phrase": "¿Qué ingredientes necesitamos?" },
+  { "id": 3, "phrase": "Esta receta es muy fácil" },
+  { "id": 4, "phrase": "Voy a hacer la compra del supermercado" },
+  { "id": 5, "phrase": "Hay que cortar las verduras" },
+  { "id": 6, "phrase": "La comida está en el horno" },
+  { "id": 7, "phrase": "Se me quemó la comida" },
+  { "id": 8, "phrase": "Añade un poco de sal" },
+  { "id": 9, "phrase": "Huele delicioso" },
+  { "id": 10, "phrase": "Ya está listo para comer" },
+  { "id": 11, "phrase": "Me falta un ingrediente" },
+  { "id": 12, "phrase": "Voy a poner la mesa" },
+  { "id": 13, "phrase": "¿Me pasas la sartén?" },
+  { "id": 14, "phrase": "Está en su punto" },
+  { "id": 15, "phrase": "Vamos a preparar postre" },
+  { "id": 16, "phrase": "Hoy toca comida casera" },
+  { "id": 17, "phrase": "La masa necesita reposar" },
+  { "id": 18, "phrase": "Guárdalo en la nevera" },
+  { "id": 19, "phrase": "No queda nada de comida" },
+  { "id": 20, "phrase": "Cocinar juntos es divertido" }
+]

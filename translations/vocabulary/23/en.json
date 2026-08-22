@@ -1,0 +1,22 @@
+[
+  { "id": 441, "word": "nice/friendly", "example": "My neighbor is very nice" },
+  { "id": 442, "word": "kind", "example": "The waiter was very kind to us" },
+  { "id": 443, "word": "honest", "example": "I've always been honest with you" },
+  { "id": 444, "word": "sincere", "example": "I appreciate that you're so sincere" },
+  { "id": 445, "word": "generous", "example": "My uncle is very generous with his time" },
+  { "id": 446, "word": "selfish", "example": "Don't be so selfish with your friends" },
+  { "id": 447, "word": "shy", "example": "As a child I was very shy" },
+  { "id": 448, "word": "brave", "example": "He was very brave in facing the problem" },
+  { "id": 449, "word": "lazy", "example": "My cat is very lazy" },
+  { "id": 450, "word": "hardworking", "example": "She's a very hardworking employee" },
+  { "id": 451, "word": "patient", "example": "You have to be patient with children" },
+  { "id": 452, "word": "impatient", "example": "He gets impatient if he has to wait" },
+  { "id": 453, "word": "curious", "example": "Children are very curious" },
+  { "id": 454, "word": "stubborn", "example": "My grandfather is very stubborn" },
+  { "id": 455, "word": "optimistic", "example": "She's always very optimistic" },
+  { "id": 456, "word": "pessimistic", "example": "Don't be so pessimistic, everything will be fine" },
+  { "id": 457, "word": "sensitive", "example": "He's a very sensitive person" },
+  { "id": 458, "word": "self-confident", "example": "He feels more self-confident now" },
+  { "id": 459, "word": "modest", "example": "Despite his success, he's very modest" },
+  { "id": 460, "word": "loyal", "example": "My dog is very loyal" }
+]

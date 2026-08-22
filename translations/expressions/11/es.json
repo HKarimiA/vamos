@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Estoy feliz" },
+  { "id": 2, "phrase": "Estoy triste" },
+  { "id": 3, "phrase": "Estoy cansado" },
+  { "id": 4, "phrase": "Estoy nervioso" },
+  { "id": 5, "phrase": "Estoy enojado" },
+  { "id": 6, "phrase": "Tengo miedo" },
+  { "id": 7, "phrase": "Estoy emocionado" },
+  { "id": 8, "phrase": "Me siento aliviado" },
+  { "id": 9, "phrase": "Estoy preocupado" },
+  { "id": 10, "phrase": "Estoy orgulloso de ti" },
+  { "id": 11, "phrase": "Me da mucha alegría" },
+  { "id": 12, "phrase": "Estoy agotado" },
+  { "id": 13, "phrase": "Me siento solo" },
+  { "id": 14, "phrase": "Estoy aburrido" },
+  { "id": 15, "phrase": "Estoy agradecido" },
+  { "id": 16, "phrase": "Me pone nervioso" },
+  { "id": 17, "phrase": "Estoy enamorado" },
+  { "id": 18, "phrase": "Me siento mejor" },
+  { "id": 19, "phrase": "No te preocupes por mí" },
+  { "id": 20, "phrase": "Todo va a estar bien" }
+]

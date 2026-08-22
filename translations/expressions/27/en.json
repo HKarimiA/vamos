@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Happy birthday" },
+  { "id": 2, "phrase": "Congratulations" },
+  { "id": 3, "phrase": "Merry Christmas" },
+  { "id": 4, "phrase": "Happy New Year" },
+  { "id": 5, "phrase": "Let's celebrate" },
+  { "id": 6, "phrase": "It's my anniversary" },
+  { "id": 7, "phrase": "I wish you the best" },
+  { "id": 8, "phrase": "We're going to throw a party" },
+  { "id": 9, "phrase": "Congratulations on your graduation" },
+  { "id": 10, "phrase": "Let's toast to that" },
+  { "id": 11, "phrase": "Many happy returns" },
+  { "id": 12, "phrase": "I hope you have a great time" },
+  { "id": 13, "phrase": "It's a special occasion" },
+  { "id": 14, "phrase": "Let's blow out the candles" },
+  { "id": 15, "phrase": "You deserve this and more" },
+  { "id": 16, "phrase": "Congratulations on the new job" },
+  { "id": 17, "phrase": "They are getting married" },
+  { "id": 18, "phrase": "Congratulations to the newlyweds" },
+  { "id": 19, "phrase": "Let's make a toast" },
+  { "id": 20, "phrase": "May your wishes come true" }
+]

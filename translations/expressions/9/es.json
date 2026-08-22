@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Qué planes tienes?" },
+  { "id": 2, "phrase": "¿Quieres salir esta noche?" },
+  { "id": 3, "phrase": "Vamos al cine" },
+  { "id": 4, "phrase": "¿Te apuntas?" },
+  { "id": 5, "phrase": "Cuenta conmigo" },
+  { "id": 6, "phrase": "Tengo otros planes" },
+  { "id": 7, "phrase": "¿Nos vemos el sábado?" },
+  { "id": 8, "phrase": "Organicemos una fiesta" },
+  { "id": 9, "phrase": "¿Qué te parece si...?" },
+  { "id": 10, "phrase": "Me apunto" },
+  { "id": 11, "phrase": "Vamos a quedar pronto" },
+  { "id": 12, "phrase": "Ya tengo algo planeado" },
+  { "id": 13, "phrase": "Cambiemos de planes" },
+  { "id": 14, "phrase": "¿Dónde quedamos?" },
+  { "id": 15, "phrase": "Avísame si algo cambia" },
+  { "id": 16, "phrase": "Confirmamos más tarde" },
+  { "id": 17, "phrase": "No puedo, tengo trabajo" },
+  { "id": 18, "phrase": "Va a estar genial" },
+  { "id": 19, "phrase": "Nos organizamos por mensaje" },
+  { "id": 20, "phrase": "Cuento los días" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Ich werde das Abendessen kochen" },
+  { "id": 2, "phrase": "Welche Zutaten brauchen wir?" },
+  { "id": 3, "phrase": "Dieses Rezept ist sehr einfach" },
+  { "id": 4, "phrase": "Ich gehe im Supermarkt einkaufen" },
+  { "id": 5, "phrase": "Man muss das Gemüse schneiden" },
+  { "id": 6, "phrase": "Das Essen ist im Ofen" },
+  { "id": 7, "phrase": "Ich habe das Essen anbrennen lassen" },
+  { "id": 8, "phrase": "Füge etwas Salz hinzu" },
+  { "id": 9, "phrase": "Es riecht köstlich" },
+  { "id": 10, "phrase": "Es ist fertig zum Essen" },
+  { "id": 11, "phrase": "Mir fehlt eine Zutat" },
+  { "id": 12, "phrase": "Ich werde den Tisch decken" },
+  { "id": 13, "phrase": "Kannst du mir die Pfanne geben?" },
+  { "id": 14, "phrase": "Es ist genau richtig" },
+  { "id": 15, "phrase": "Lass uns ein Dessert zubereiten" },
+  { "id": 16, "phrase": "Heute gibt es hausgemachtes Essen" },
+  { "id": 17, "phrase": "Der Teig muss ruhen" },
+  { "id": 18, "phrase": "Bewahre es im Kühlschrank auf" },
+  { "id": 19, "phrase": "Es ist kein Essen mehr übrig" },
+  { "id": 20, "phrase": "Zusammen kochen macht Spaß" }
+]

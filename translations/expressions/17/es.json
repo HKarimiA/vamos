@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Cuánto es en total?" },
+  { "id": 2, "phrase": "Necesito cambio" },
+  { "id": 3, "phrase": "¿Tiene monedas?" },
+  { "id": 4, "phrase": "¿Dónde hay un cajero automático?" },
+  { "id": 5, "phrase": "Quiero cambiar dólares por euros" },
+  { "id": 6, "phrase": "Es muy barato" },
+  { "id": 7, "phrase": "Es demasiado caro" },
+  { "id": 8, "phrase": "Me quedé sin dinero" },
+  { "id": 9, "phrase": "¿Cuánto dinero tienes?" },
+  { "id": 10, "phrase": "Voy a pagar en efectivo" },
+  { "id": 11, "phrase": "¿Puedo pagar a plazos?" },
+  { "id": 12, "phrase": "Te debo dinero" },
+  { "id": 13, "phrase": "Vamos a dividir la cuenta" },
+  { "id": 14, "phrase": "Es un buen precio" },
+  { "id": 15, "phrase": "¿Cuál es el tipo de cambio?" },
+  { "id": 16, "phrase": "Ahorré bastante dinero" },
+  { "id": 17, "phrase": "Gasté demasiado" },
+  { "id": 18, "phrase": "Necesito pedir un préstamo" },
+  { "id": 19, "phrase": "Está a mitad de precio" },
+  { "id": 20, "phrase": "Cuesta un ojo de la cara" }
+]

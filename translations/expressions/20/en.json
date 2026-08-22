@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "What a surprise!" },
+  { "id": 2, "phrase": "No way!" },
+  { "id": 3, "phrase": "That's great!" },
+  { "id": 4, "phrase": "What bad luck!" },
+  { "id": 5, "phrase": "Incredible!" },
+  { "id": 6, "phrase": "Wow!" },
+  { "id": 7, "phrase": "What a scare!" },
+  { "id": 8, "phrase": "No idea!" },
+  { "id": 9, "phrase": "Awesome!" },
+  { "id": 10, "phrase": "What a shame!" },
+  { "id": 11, "phrase": "I wish!" },
+  { "id": 12, "phrase": "How annoying!" },
+  { "id": 13, "phrase": "Definitely!" },
+  { "id": 14, "phrase": "Of course!" },
+  { "id": 15, "phrase": "Gross!" },
+  { "id": 16, "phrase": "How funny!" },
+  { "id": 17, "phrase": "Come on!" },
+  { "id": 18, "phrase": "Watch out!" },
+  { "id": 19, "phrase": "Congratulations!" },
+  { "id": 20, "phrase": "What a relief!" }
+]

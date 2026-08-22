@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I have to wash the dishes" },
+  { "id": 2, "phrase": "I'm going to make the bed" },
+  { "id": 3, "phrase": "I need to vacuum" },
+  { "id": 4, "phrase": "The clothes are in the washing machine" },
+  { "id": 5, "phrase": "I'm going to take out the trash" },
+  { "id": 6, "phrase": "Can you help me tidy up?" },
+  { "id": 7, "phrase": "The house is very messy" },
+  { "id": 8, "phrase": "I'm going to water the plants" },
+  { "id": 9, "phrase": "The faucet broke" },
+  { "id": 10, "phrase": "I need to buy new light bulbs" },
+  { "id": 11, "phrase": "I'm going to fix this" },
+  { "id": 12, "phrase": "The fridge is empty" },
+  { "id": 13, "phrase": "The walls need painting" },
+  { "id": 14, "phrase": "I'm going to fold the laundry" },
+  { "id": 15, "phrase": "The neighbor is very noisy" },
+  { "id": 16, "phrase": "The power went out" },
+  { "id": 17, "phrase": "I need to change the sheets" },
+  { "id": 18, "phrase": "The house looks spotless" },
+  { "id": 19, "phrase": "I live in a small apartment" },
+  { "id": 20, "phrase": "I like having everything in its place" }
+]

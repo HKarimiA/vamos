@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Wie viel ist es insgesamt?" },
+  { "id": 2, "phrase": "Ich brauche Wechselgeld" },
+  { "id": 3, "phrase": "Haben Sie Münzen?" },
+  { "id": 4, "phrase": "Wo gibt es einen Geldautomaten?" },
+  { "id": 5, "phrase": "Ich möchte Dollar in Euro wechseln" },
+  { "id": 6, "phrase": "Es ist sehr billig" },
+  { "id": 7, "phrase": "Es ist zu teuer" },
+  { "id": 8, "phrase": "Mir ist das Geld ausgegangen" },
+  { "id": 9, "phrase": "Wie viel Geld hast du?" },
+  { "id": 10, "phrase": "Ich zahle bar" },
+  { "id": 11, "phrase": "Kann ich in Raten zahlen?" },
+  { "id": 12, "phrase": "Ich schulde dir Geld" },
+  { "id": 13, "phrase": "Lass uns die Rechnung teilen" },
+  { "id": 14, "phrase": "Das ist ein guter Preis" },
+  { "id": 15, "phrase": "Wie ist der Wechselkurs?" },
+  { "id": 16, "phrase": "Ich habe ziemlich viel Geld gespart" },
+  { "id": 17, "phrase": "Ich habe zu viel ausgegeben" },
+  { "id": 18, "phrase": "Ich muss einen Kredit aufnehmen" },
+  { "id": 19, "phrase": "Es ist zum halben Preis" },
+  { "id": 20, "phrase": "Es kostet ein Vermögen" }
+]

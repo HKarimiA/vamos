@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "It's hot today" },
+  { "id": 2, "phrase": "It's cold" },
+  { "id": 3, "phrase": "It's raining" },
+  { "id": 4, "phrase": "It's snowing" },
+  { "id": 5, "phrase": "It's very windy" },
+  { "id": 6, "phrase": "It's cloudy" },
+  { "id": 7, "phrase": "It's sunny" },
+  { "id": 8, "phrase": "What's the weather like?" },
+  { "id": 9, "phrase": "It's going to rain tomorrow" },
+  { "id": 10, "phrase": "It's a beautiful day" },
+  { "id": 11, "phrase": "I'm bringing an umbrella just in case" },
+  { "id": 12, "phrase": "There's a storm" },
+  { "id": 13, "phrase": "The forecast says it will rain" },
+  { "id": 14, "phrase": "It's freezing" },
+  { "id": 15, "phrase": "It's muggy" },
+  { "id": 16, "phrase": "The sky is clear" },
+  { "id": 17, "phrase": "It's foggy" },
+  { "id": 18, "phrase": "The temperature has dropped" },
+  { "id": 19, "phrase": "I love this weather" },
+  { "id": 20, "phrase": "Bundle up well" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Una mesa para dos, por favor" },
+  { "id": 2, "phrase": "¿Tiene la carta?" },
+  { "id": 3, "phrase": "Quisiera pedir" },
+  { "id": 4, "phrase": "¿Qué me recomienda?" },
+  { "id": 5, "phrase": "Para mí, un café con leche" },
+  { "id": 6, "phrase": "La cuenta, por favor" },
+  { "id": 7, "phrase": "¿Se puede pagar con tarjeta?" },
+  { "id": 8, "phrase": "Está delicioso" },
+  { "id": 9, "phrase": "Estoy lleno" },
+  { "id": 10, "phrase": "¿Me trae agua, por favor?" },
+  { "id": 11, "phrase": "¿Tienen opciones vegetarianas?" },
+  { "id": 12, "phrase": "Sin hielo, por favor" },
+  { "id": 13, "phrase": "Es para llevar" },
+  { "id": 14, "phrase": "Voy a probar esto" },
+  { "id": 15, "phrase": "¿Está incluida la propina?" },
+  { "id": 16, "phrase": "Reservé una mesa" },
+  { "id": 17, "phrase": "¿A qué hora cierran?" },
+  { "id": 18, "phrase": "Falta un tenedor" },
+  { "id": 19, "phrase": "Todo estuvo muy rico" },
+  { "id": 20, "phrase": "Nos vemos la próxima vez" }
+]

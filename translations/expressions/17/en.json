@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "How much is it in total?" },
+  { "id": 2, "phrase": "I need change" },
+  { "id": 3, "phrase": "Do you have coins?" },
+  { "id": 4, "phrase": "Where is there an ATM?" },
+  { "id": 5, "phrase": "I want to exchange dollars for euros" },
+  { "id": 6, "phrase": "It's very cheap" },
+  { "id": 7, "phrase": "It's too expensive" },
+  { "id": 8, "phrase": "I ran out of money" },
+  { "id": 9, "phrase": "How much money do you have?" },
+  { "id": 10, "phrase": "I'm going to pay in cash" },
+  { "id": 11, "phrase": "Can I pay in installments?" },
+  { "id": 12, "phrase": "I owe you money" },
+  { "id": 13, "phrase": "Let's split the bill" },
+  { "id": 14, "phrase": "It's a good price" },
+  { "id": 15, "phrase": "What's the exchange rate?" },
+  { "id": 16, "phrase": "I saved quite a bit of money" },
+  { "id": 17, "phrase": "I spent too much" },
+  { "id": 18, "phrase": "I need to take out a loan" },
+  { "id": 19, "phrase": "It's half price" },
+  { "id": 20, "phrase": "It costs an arm and a leg" }
+]

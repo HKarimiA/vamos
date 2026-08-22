@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Qué es esto?" },
+  { "id": 2, "phrase": "¿Dónde está el baño?" },
+  { "id": 3, "phrase": "¿Cómo se dice esto en español?" },
+  { "id": 4, "phrase": "¿Puedes repetir, por favor?" },
+  { "id": 5, "phrase": "¿Qué hora es?" },
+  { "id": 6, "phrase": "¿Cuánto cuesta esto?" },
+  { "id": 7, "phrase": "¿Puedes ayudarme?" },
+  { "id": 8, "phrase": "¿Hablas inglés?" },
+  { "id": 9, "phrase": "¿Qué significa esta palabra?" },
+  { "id": 10, "phrase": "¿Por qué?" },
+  { "id": 11, "phrase": "¿Cómo funciona esto?" },
+  { "id": 12, "phrase": "¿Está libre esta silla?" },
+  { "id": 13, "phrase": "¿Puedo hacerte una pregunta?" },
+  { "id": 14, "phrase": "¿Qué opinas?" },
+  { "id": 15, "phrase": "¿Estás seguro?" },
+  { "id": 16, "phrase": "¿Qué pasó?" },
+  { "id": 17, "phrase": "¿Cuál prefieres?" },
+  { "id": 18, "phrase": "¿Te importa si...?" },
+  { "id": 19, "phrase": "¿Vienes conmigo?" },
+  { "id": 20, "phrase": "¿Todo bien?" }
+]

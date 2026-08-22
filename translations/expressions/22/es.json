@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Me duele la cabeza" },
+  { "id": 2, "phrase": "Me siento mal" },
+  { "id": 3, "phrase": "Tengo fiebre" },
+  { "id": 4, "phrase": "Necesito ver a un médico" },
+  { "id": 5, "phrase": "¿Dónde está la farmacia?" },
+  { "id": 6, "phrase": "Me duele el estómago" },
+  { "id": 7, "phrase": "Estoy resfriado" },
+  { "id": 8, "phrase": "Necesito una cita" },
+  { "id": 9, "phrase": "Tengo alergia a esto" },
+  { "id": 10, "phrase": "¿Tienes algo para el dolor?" },
+  { "id": 11, "phrase": "Me torcí el tobillo" },
+  { "id": 12, "phrase": "Ya me siento mejor" },
+  { "id": 13, "phrase": "Tengo que tomar esta medicina" },
+  { "id": 14, "phrase": "Estoy mareado" },
+  { "id": 15, "phrase": "No he dormido bien" },
+  { "id": 16, "phrase": "Tengo cita con el dentista" },
+  { "id": 17, "phrase": "Es solo un rasguño" },
+  { "id": 18, "phrase": "Cuídate mucho" },
+  { "id": 19, "phrase": "Espero que te mejores pronto" },
+  { "id": 20, "phrase": "Salud" }
+]

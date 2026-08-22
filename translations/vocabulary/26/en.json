@@ -1,0 +1,22 @@
+[
+  { "id": 501, "word": "the frying pan", "example": "Fry the egg in the pan" },
+  { "id": 502, "word": "the pot", "example": "Put the pot on the stove" },
+  { "id": 503, "word": "the knife", "example": "Cut the bread with this knife" },
+  { "id": 504, "word": "the fork", "example": "I need a clean fork" },
+  { "id": 505, "word": "the spoon", "example": "Stir it with a spoon" },
+  { "id": 506, "word": "the plate", "example": "Put the food on the plate" },
+  { "id": 507, "word": "the glass", "example": "Fill the glass with water" },
+  { "id": 508, "word": "the cup/mug", "example": "I drink tea in this cup" },
+  { "id": 509, "word": "the oven", "example": "The cake is in the oven" },
+  { "id": 510, "word": "the fridge", "example": "Keep the milk in the fridge" },
+  { "id": 511, "word": "the microwave", "example": "Heat the soup in the microwave" },
+  { "id": 512, "word": "the cutting board", "example": "Cut the vegetables on the cutting board" },
+  { "id": 513, "word": "the strainer/colander", "example": "Drain the pasta with the strainer" },
+  { "id": 514, "word": "to whisk/beat", "example": "Beat the eggs first" },
+  { "id": 515, "word": "to mix", "example": "Mix the ingredients well" },
+  { "id": 516, "word": "to bake", "example": "We're going to bake a cake" },
+  { "id": 517, "word": "to fry", "example": "I'm going to fry some potatoes" },
+  { "id": 518, "word": "to boil", "example": "Boil the water for the tea" },
+  { "id": 519, "word": "to chop", "example": "Chop the onion finely" },
+  { "id": 520, "word": "the recipe", "example": "This recipe is my grandmother's" }
+]

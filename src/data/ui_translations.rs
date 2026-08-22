@@ -26,6 +26,8 @@ pub struct UiStrings {
     pub no_favorites: String,
     pub add_favorites_hint: String,
     pub error_loading_cards: String,
+    pub expressions: String,
+    pub unit_prefix: String,
 }
 
 impl UiStrings {

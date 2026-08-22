@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Wie ist deine Nummer?" },
+  { "id": 2, "phrase": "Ich rufe dich später an" },
+  { "id": 3, "phrase": "Mein Akku ist leer" },
+  { "id": 4, "phrase": "Ich habe keinen Empfang" },
+  { "id": 5, "phrase": "Schick mir eine Nachricht" },
+  { "id": 6, "phrase": "Kannst du mir schreiben?" },
+  { "id": 7, "phrase": "Das Gespräch wurde unterbrochen" },
+  { "id": 8, "phrase": "Mein Handy ist eingefroren" },
+  { "id": 9, "phrase": "Ich muss mein Handy aufladen" },
+  { "id": 10, "phrase": "Habt ihr hier WLAN?" },
+  { "id": 11, "phrase": "Ich kann mich nicht mit dem Internet verbinden" },
+  { "id": 12, "phrase": "Ich schicke dir den Standort" },
+  { "id": 13, "phrase": "Ich habe vergessen, mein Handy aufzuladen" },
+  { "id": 14, "phrase": "Kannst du mich per Video anrufen?" },
+  { "id": 15, "phrase": "Mein Bildschirm ist kaputt" },
+  { "id": 16, "phrase": "Ich habe eine neue App heruntergeladen" },
+  { "id": 17, "phrase": "Deine Nachricht ist bei mir nicht angekommen" },
+  { "id": 18, "phrase": "Lass uns einen Videoanruf machen" },
+  { "id": 19, "phrase": "Ich habe mein Ladegerät verloren" },
+  { "id": 20, "phrase": "Ich habe keinen Akku mehr" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Esta es mi familia" },
+  { "id": 2, "phrase": "Tengo dos hermanos" },
+  { "id": 3, "phrase": "Mis padres viven aquí" },
+  { "id": 4, "phrase": "Ella es mi hermana mayor" },
+  { "id": 5, "phrase": "Él es mi mejor amigo" },
+  { "id": 6, "phrase": "Estamos casados" },
+  { "id": 7, "phrase": "Tengo un hijo y una hija" },
+  { "id": 8, "phrase": "Mis abuelos son de México" },
+  { "id": 9, "phrase": "Nos llevamos muy bien" },
+  { "id": 10, "phrase": "Somos una familia unida" },
+  { "id": 11, "phrase": "Ella es mi pareja" },
+  { "id": 12, "phrase": "Vamos a visitar a la familia" },
+  { "id": 13, "phrase": "Nos conocimos en la universidad" },
+  { "id": 14, "phrase": "Es como de la familia" },
+  { "id": 15, "phrase": "Cuidamos mucho a los niños" },
+  { "id": 16, "phrase": "Tenemos una relación cercana" },
+  { "id": 17, "phrase": "Mi primo vive en otro país" },
+  { "id": 18, "phrase": "Somos muy diferentes" },
+  { "id": 19, "phrase": "Confío mucho en ella" },
+  { "id": 20, "phrase": "La familia es lo primero" }
+]

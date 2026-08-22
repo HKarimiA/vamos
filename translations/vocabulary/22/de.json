@@ -1,0 +1,22 @@
+[
+  { "id": 421, "word": "der Anwalt / die Anwältin", "example": "Meine Schwester ist Anwältin und arbeitet in einer wichtigen Kanzlei" },
+  { "id": 422, "word": "der Ingenieur / die Ingenieurin", "example": "Der Ingenieur hat die neue Brücke entworfen" },
+  { "id": 423, "word": "der Journalist / die Journalistin", "example": "Die Journalistin hat einen ausgezeichneten Artikel geschrieben" },
+  { "id": 424, "word": "der Architekt / die Architektin", "example": "Der Architekt hat ein modernes Haus entworfen" },
+  { "id": 425, "word": "der Buchhalter / die Buchhalterin", "example": "Der Buchhalter überprüft jeden Monat die Rechnungen" },
+  { "id": 426, "word": "der Krankenpfleger / die Krankenschwester", "example": "Die Krankenschwester kümmert sich sehr liebevoll um die Patienten" },
+  { "id": 427, "word": "der Elektriker / die Elektrikerin", "example": "Ich habe den Elektriker angerufen, um das Licht zu reparieren" },
+  { "id": 428, "word": "der Klempner / die Klempnerin", "example": "Der Klempner hat das kaputte Rohr repariert" },
+  { "id": 429, "word": "der Koch / die Köchin", "example": "Der Koch bereitet köstliche Gerichte zu" },
+  { "id": 430, "word": "der Kellner / die Kellnerin", "example": "Die Kellnerin brachte uns die Speisekarte" },
+  { "id": 431, "word": "der Pilot / die Pilotin", "example": "Der Pilot landete das Flugzeug sehr ruhig" },
+  { "id": 432, "word": "der Landwirt / die Landwirtin", "example": "Der Landwirt baut Weizen und Mais an" },
+  { "id": 433, "word": "der Tischler / die Tischlerin", "example": "Der Tischler hat diesen Holztisch gemacht" },
+  { "id": 434, "word": "der Verkäufer / die Verkäuferin", "example": "Der Verkäufer half mir, ein Geschenk auszuwählen" },
+  { "id": 435, "word": "der Beruf", "example": "Was ist dein Beruf?" },
+  { "id": 436, "word": "das Gehalt", "example": "Mein Gehalt ist dieses Jahr gestiegen" },
+  { "id": 437, "word": "in Rente gehen", "example": "Mein Vater ist letztes Jahr in Rente gegangen" },
+  { "id": 438, "word": "einstellen", "example": "Das Unternehmen wird mehr Personal einstellen" },
+  { "id": 439, "word": "entlassen", "example": "Sie wollen dieses Jahr niemanden entlassen" },
+  { "id": 440, "word": "kündigen", "example": "Er hat beschlossen, seinen Job zu kündigen" }
+]

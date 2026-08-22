@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¡Qué sorpresa!" },
+  { "id": 2, "phrase": "¡No puede ser!" },
+  { "id": 3, "phrase": "¡Qué bien!" },
+  { "id": 4, "phrase": "¡Qué mala suerte!" },
+  { "id": 5, "phrase": "¡Increíble!" },
+  { "id": 6, "phrase": "¡Vaya!" },
+  { "id": 7, "phrase": "¡Qué susto!" },
+  { "id": 8, "phrase": "¡Ni idea!" },
+  { "id": 9, "phrase": "¡Genial!" },
+  { "id": 10, "phrase": "¡Qué pena!" },
+  { "id": 11, "phrase": "¡Ojalá!" },
+  { "id": 12, "phrase": "¡Qué rabia!" },
+  { "id": 13, "phrase": "¡Claro que sí!" },
+  { "id": 14, "phrase": "¡Por supuesto!" },
+  { "id": 15, "phrase": "¡Qué asco!" },
+  { "id": 16, "phrase": "¡Qué gracioso!" },
+  { "id": 17, "phrase": "¡Vamos!" },
+  { "id": 18, "phrase": "¡Cuidado!" },
+  { "id": 19, "phrase": "¡Felicidades!" },
+  { "id": 20, "phrase": "¡Qué alivio!" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 421, "word": "the lawyer", "example": "My sister is a lawyer and works at an important firm" },
+  { "id": 422, "word": "the engineer", "example": "The engineer designed the new bridge" },
+  { "id": 423, "word": "the journalist", "example": "The journalist wrote an excellent article" },
+  { "id": 424, "word": "the architect", "example": "The architect designed a modern house" },
+  { "id": 425, "word": "the accountant", "example": "The accountant reviews the invoices every month" },
+  { "id": 426, "word": "the nurse", "example": "The nurse takes care of patients with great affection" },
+  { "id": 427, "word": "the electrician", "example": "I called the electrician to fix the light" },
+  { "id": 428, "word": "the plumber", "example": "The plumber repaired the broken pipe" },
+  { "id": 429, "word": "the cook/chef", "example": "The cook prepares delicious dishes" },
+  { "id": 430, "word": "the waiter/waitress", "example": "The waitress brought us the menu" },
+  { "id": 431, "word": "the pilot", "example": "The pilot landed the plane very calmly" },
+  { "id": 432, "word": "the farmer", "example": "The farmer grows wheat and corn" },
+  { "id": 433, "word": "the carpenter", "example": "The carpenter made this wooden table" },
+  { "id": 434, "word": "the salesperson", "example": "The salesperson helped me choose a gift" },
+  { "id": 435, "word": "the profession", "example": "What's your profession?" },
+  { "id": 436, "word": "the salary", "example": "My salary went up this year" },
+  { "id": 437, "word": "to retire", "example": "My father retired last year" },
+  { "id": 438, "word": "to hire", "example": "The company is going to hire more staff" },
+  { "id": 439, "word": "to fire/dismiss", "example": "They don't want to fire anyone this year" },
+  { "id": 440, "word": "to resign/quit", "example": "He decided to quit his job" }
+]

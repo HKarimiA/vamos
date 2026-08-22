@@ -1,0 +1,22 @@
+[
+  { "id": 601, "word": "die Umwelt", "example": "Wir müssen die Umwelt schützen" },
+  { "id": 602, "word": "das Recycling", "example": "Recycling hilft dem Planeten sehr" },
+  { "id": 603, "word": "der Müll", "example": "Bring bitte den Müll raus" },
+  { "id": 604, "word": "die erneuerbare Energie", "example": "Wir nutzen zu Hause erneuerbare Energie" },
+  { "id": 605, "word": "die globale Erwärmung", "example": "Die globale Erwärmung ist ein ernstes Problem" },
+  { "id": 606, "word": "der Klimawandel", "example": "Der Klimawandel betrifft alle" },
+  { "id": 607, "word": "die bedrohte Art", "example": "Der Panda ist eine bedrohte Art" },
+  { "id": 608, "word": "der Regenwald", "example": "Der Amazonas ist ein riesiger Regenwald" },
+  { "id": 609, "word": "die Nachhaltigkeit", "example": "Nachhaltigkeit ist der Schlüssel für die Zukunft" },
+  { "id": 610, "word": "der fossile Brennstoff", "example": "Wir müssen den Einsatz fossiler Brennstoffe reduzieren" },
+  { "id": 611, "word": "verschmutzen", "example": "Fabriken verschmutzen den Fluss" },
+  { "id": 612, "word": "recyceln", "example": "Wir recyceln Plastik und Papier" },
+  { "id": 613, "word": "schützen", "example": "Wir müssen die Ozeane schützen" },
+  { "id": 614, "word": "bewahren / erhalten", "example": "Wir wollen diesen Wald erhalten" },
+  { "id": 615, "word": "die Ozonschicht", "example": "Die Ozonschicht schützt uns vor der Sonne" },
+  { "id": 616, "word": "die Verschwendung", "example": "Es gibt viel Lebensmittelverschwendung" },
+  { "id": 617, "word": "ökologisch", "example": "Wir kaufen ökologische Produkte" },
+  { "id": 618, "word": "erneuerbar", "example": "Solarenergie ist erneuerbar" },
+  { "id": 619, "word": "verschmutzt", "example": "Dieser Fluss ist sehr verschmutzt" },
+  { "id": 620, "word": "der CO2-Fußabdruck", "example": "Ich möchte meinen CO2-Fußabdruck reduzieren" }
+]

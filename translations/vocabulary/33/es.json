@@ -1,0 +1,22 @@
+[
+  { "id": 641, "word": "sobre", "example": "El libro está sobre la mesa" },
+  { "id": 642, "word": "bajo", "example": "El gato está bajo la silla" },
+  { "id": 643, "word": "entre", "example": "El banco está entre la farmacia y la tienda" },
+  { "id": 644, "word": "dentro de", "example": "Todo está dentro de la caja" },
+  { "id": 645, "word": "fuera de", "example": "Espera fuera de la oficina" },
+  { "id": 646, "word": "a través de", "example": "Llegamos a través del túnel" },
+  { "id": 647, "word": "hacia", "example": "Caminamos hacia el centro" },
+  { "id": 648, "word": "según", "example": "Según el pronóstico, va a llover" },
+  { "id": 649, "word": "mediante", "example": "Se comunican mediante mensajes" },
+  { "id": 650, "word": "además", "example": "Además, necesitamos comprar pan" },
+  { "id": 651, "word": "sin embargo", "example": "Estoy cansado, sin embargo voy a ir" },
+  { "id": 652, "word": "por lo tanto", "example": "Llovió mucho, por lo tanto cancelamos el viaje" },
+  { "id": 653, "word": "aunque", "example": "Aunque llueve, vamos a salir" },
+  { "id": 654, "word": "mientras", "example": "Cocino mientras tú pones la mesa" },
+  { "id": 655, "word": "porque", "example": "No fui porque estaba enfermo" },
+  { "id": 656, "word": "debido a", "example": "El vuelo se retrasó debido al mal tiempo" },
+  { "id": 657, "word": "a pesar de", "example": "A pesar del frío, salimos a caminar" },
+  { "id": 658, "word": "en cuanto a", "example": "En cuanto a mí, prefiero quedarme" },
+  { "id": 659, "word": "de acuerdo con", "example": "De acuerdo con las normas, hay que esperar" },
+  { "id": 660, "word": "finalmente", "example": "Finalmente llegamos a casa" }
+]

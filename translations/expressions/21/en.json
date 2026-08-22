@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "How was your day?" },
+  { "id": 2, "phrase": "I'm on my way" },
+  { "id": 3, "phrase": "I'm almost there" },
+  { "id": 4, "phrase": "Don't forget" },
+  { "id": 5, "phrase": "I'm going to do the shopping" },
+  { "id": 6, "phrase": "I have to run an errand" },
+  { "id": 7, "phrase": "I'm going to take a nap" },
+  { "id": 8, "phrase": "It makes my mouth water" },
+  { "id": 9, "phrase": "I'm going to go for a walk" },
+  { "id": 10, "phrase": "I'm cleaning the house" },
+  { "id": 11, "phrase": "It totally slipped my mind" },
+  { "id": 12, "phrase": "I'm about to leave" },
+  { "id": 13, "phrase": "I'm going to make dinner" },
+  { "id": 14, "phrase": "It became a habit for me" },
+  { "id": 15, "phrase": "I'm exercising" },
+  { "id": 16, "phrase": "I'm going to take a shower" },
+  { "id": 17, "phrase": "I have to walk the dog" },
+  { "id": 18, "phrase": "I'm craving ice cream" },
+  { "id": 19, "phrase": "I'm on a diet" },
+  { "id": 20, "phrase": "That's life" }
+]

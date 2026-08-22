@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Adiós" },
+  { "id": 2, "phrase": "Hasta luego" },
+  { "id": 3, "phrase": "Hasta mañana" },
+  { "id": 4, "phrase": "Nos vemos" },
+  { "id": 5, "phrase": "Cuídate" },
+  { "id": 6, "phrase": "Que tengas un buen día" },
+  { "id": 7, "phrase": "Que descanses" },
+  { "id": 8, "phrase": "Fue un placer verte" },
+  { "id": 9, "phrase": "Nos mantenemos en contacto" },
+  { "id": 10, "phrase": "Hasta la próxima" },
+  { "id": 11, "phrase": "Que te vaya bien" },
+  { "id": 12, "phrase": "Buen viaje" },
+  { "id": 13, "phrase": "Saludos a tu familia" },
+  { "id": 14, "phrase": "Nos vemos pronto" },
+  { "id": 15, "phrase": "Te voy a extrañar" },
+  { "id": 16, "phrase": "Cuídate mucho" },
+  { "id": 17, "phrase": "Fue muy agradable" },
+  { "id": 18, "phrase": "Nos escribimos" },
+  { "id": 19, "phrase": "Espero verte pronto" },
+  { "id": 20, "phrase": "Chao" }
+]

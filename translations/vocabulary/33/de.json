@@ -1,0 +1,22 @@
+[
+  { "id": 641, "word": "über / auf", "example": "Das Buch liegt auf dem Tisch" },
+  { "id": 642, "word": "unter", "example": "Die Katze ist unter dem Stuhl" },
+  { "id": 643, "word": "zwischen", "example": "Die Bank ist zwischen der Apotheke und dem Geschäft" },
+  { "id": 644, "word": "innerhalb", "example": "Alles ist in der Kiste" },
+  { "id": 645, "word": "außerhalb", "example": "Warte außerhalb des Büros" },
+  { "id": 646, "word": "durch", "example": "Wir kamen durch den Tunnel an" },
+  { "id": 647, "word": "in Richtung / zu", "example": "Wir gingen in Richtung Stadtzentrum" },
+  { "id": 648, "word": "laut / gemäß", "example": "Laut Vorhersage wird es regnen" },
+  { "id": 649, "word": "mittels / durch", "example": "Sie kommunizieren mittels Nachrichten" },
+  { "id": 650, "word": "außerdem", "example": "Außerdem müssen wir Brot kaufen" },
+  { "id": 651, "word": "jedoch / trotzdem", "example": "Ich bin müde, trotzdem gehe ich" },
+  { "id": 652, "word": "deshalb / daher", "example": "Es regnete stark, deshalb haben wir die Reise abgesagt" },
+  { "id": 653, "word": "obwohl", "example": "Obwohl es regnet, gehen wir raus" },
+  { "id": 654, "word": "während", "example": "Ich koche, während du den Tisch deckst" },
+  { "id": 655, "word": "weil", "example": "Ich bin nicht gegangen, weil ich krank war" },
+  { "id": 656, "word": "aufgrund von", "example": "Der Flug hatte aufgrund von schlechtem Wetter Verspätung" },
+  { "id": 657, "word": "trotz", "example": "Trotz der Kälte sind wir spazieren gegangen" },
+  { "id": 658, "word": "was ... betrifft", "example": "Was mich betrifft, bleibe ich lieber" },
+  { "id": 659, "word": "gemäß / laut", "example": "Gemäß den Regeln muss man warten" },
+  { "id": 660, "word": "schließlich", "example": "Wir sind schließlich zu Hause angekommen" }
+]

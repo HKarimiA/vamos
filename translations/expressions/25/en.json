@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I'm going to cook dinner" },
+  { "id": 2, "phrase": "What ingredients do we need?" },
+  { "id": 3, "phrase": "This recipe is very easy" },
+  { "id": 4, "phrase": "I'm going to do the grocery shopping" },
+  { "id": 5, "phrase": "We need to chop the vegetables" },
+  { "id": 6, "phrase": "The food is in the oven" },
+  { "id": 7, "phrase": "I burned the food" },
+  { "id": 8, "phrase": "Add a bit of salt" },
+  { "id": 9, "phrase": "It smells delicious" },
+  { "id": 10, "phrase": "It's ready to eat" },
+  { "id": 11, "phrase": "I'm missing an ingredient" },
+  { "id": 12, "phrase": "I'm going to set the table" },
+  { "id": 13, "phrase": "Can you pass me the pan?" },
+  { "id": 14, "phrase": "It's just right" },
+  { "id": 15, "phrase": "Let's make dessert" },
+  { "id": 16, "phrase": "Today it's homemade food" },
+  { "id": 17, "phrase": "The dough needs to rest" },
+  { "id": 18, "phrase": "Keep it in the fridge" },
+  { "id": 19, "phrase": "There's no food left" },
+  { "id": 20, "phrase": "Cooking together is fun" }
+]

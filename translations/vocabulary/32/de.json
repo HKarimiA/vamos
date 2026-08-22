@@ -1,0 +1,22 @@
+[
+  { "id": 621, "word": "Montag", "example": "Montags fange ich früh mit der Arbeit an" },
+  { "id": 622, "word": "Dienstag", "example": "Am Dienstag habe ich ein wichtiges Meeting" },
+  { "id": 623, "word": "Mittwoch", "example": "Mittwochs gehe ich ins Fitnessstudio" },
+  { "id": 624, "word": "Donnerstag", "example": "Donnerstag ist mein Lieblingstag" },
+  { "id": 625, "word": "Freitag", "example": "Freitags gehen wir mit Freunden aus" },
+  { "id": 626, "word": "Samstag", "example": "Am Samstag schlafen wir lange" },
+  { "id": 627, "word": "Sonntag", "example": "Sonntags besuchen wir die Familie" },
+  { "id": 628, "word": "Januar", "example": "Januar ist ein sehr kalter Monat" },
+  { "id": 629, "word": "Februar", "example": "Im Februar feiern wir seinen/ihren Geburtstag" },
+  { "id": 630, "word": "März", "example": "Der Frühling beginnt im März" },
+  { "id": 631, "word": "April", "example": "Im April regnet es hier viel" },
+  { "id": 632, "word": "Mai", "example": "Wir haben im Mai geheiratet" },
+  { "id": 633, "word": "Juni", "example": "Der Unterricht endet im Juni" },
+  { "id": 634, "word": "der Kalender", "example": "Markiere das Datum im Kalender" },
+  { "id": 635, "word": "das Datum", "example": "Welches Datum haben wir heute?" },
+  { "id": 636, "word": "das Wochenende", "example": "Dieses Wochenende fahren wir an den Strand" },
+  { "id": 637, "word": "der Feiertag", "example": "Morgen ist ein Feiertag" },
+  { "id": 638, "word": "vierzehntägig", "example": "Ich werde vierzehntägig bezahlt" },
+  { "id": 639, "word": "monatlich", "example": "Ich zahle die Miete monatlich" },
+  { "id": 640, "word": "jährlich", "example": "Wir haben ein jährliches Treffen in der Firma" }
+]

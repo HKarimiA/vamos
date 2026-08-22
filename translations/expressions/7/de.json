@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Um wie viel Uhr treffen wir uns?" },
+  { "id": 2, "phrase": "Ich komme in zehn Minuten" },
+  { "id": 3, "phrase": "Ich bin zu spät gekommen" },
+  { "id": 4, "phrase": "Ich bin früh angekommen" },
+  { "id": 5, "phrase": "Hast du heute Zeit?" },
+  { "id": 6, "phrase": "Ich bin gerade beschäftigt" },
+  { "id": 7, "phrase": "Wir treffen uns um fünf" },
+  { "id": 8, "phrase": "Können wir die Uhrzeit ändern?" },
+  { "id": 9, "phrase": "Ich habe morgen einen Termin" },
+  { "id": 10, "phrase": "Ich habe mich verspätet" },
+  { "id": 11, "phrase": "Wir sehen uns nächste Woche" },
+  { "id": 12, "phrase": "Ich habe noch Zeit" },
+  { "id": 13, "phrase": "Die Zeit ist um" },
+  { "id": 14, "phrase": "Wie lange dauert es?" },
+  { "id": 15, "phrase": "Im Moment bin ich frei" },
+  { "id": 16, "phrase": "Wir sind knapp mit der Zeit" },
+  { "id": 17, "phrase": "Alles zu seiner Zeit" },
+  { "id": 18, "phrase": "Wir sehen uns bald" },
+  { "id": 19, "phrase": "Heutzutage" },
+  { "id": 20, "phrase": "Von Zeit zu Zeit" }
+]

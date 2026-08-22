@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "What plans do you have?" },
+  { "id": 2, "phrase": "Do you want to go out tonight?" },
+  { "id": 3, "phrase": "Let's go to the movies" },
+  { "id": 4, "phrase": "Are you in?" },
+  { "id": 5, "phrase": "Count me in" },
+  { "id": 6, "phrase": "I have other plans" },
+  { "id": 7, "phrase": "Shall we meet on Saturday?" },
+  { "id": 8, "phrase": "Let's organize a party" },
+  { "id": 9, "phrase": "What do you think if...?" },
+  { "id": 10, "phrase": "I'm in" },
+  { "id": 11, "phrase": "Let's meet up soon" },
+  { "id": 12, "phrase": "I already have something planned" },
+  { "id": 13, "phrase": "Let's change plans" },
+  { "id": 14, "phrase": "Where shall we meet?" },
+  { "id": 15, "phrase": "Let me know if something changes" },
+  { "id": 16, "phrase": "We'll confirm later" },
+  { "id": 17, "phrase": "I can't, I have work" },
+  { "id": 18, "phrase": "It's going to be great" },
+  { "id": 19, "phrase": "We'll organize by message" },
+  { "id": 20, "phrase": "I'm counting the days" }
+]

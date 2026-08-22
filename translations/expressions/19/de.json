@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Auf Wiedersehen" },
+  { "id": 2, "phrase": "Bis später" },
+  { "id": 3, "phrase": "Bis morgen" },
+  { "id": 4, "phrase": "Wir sehen uns" },
+  { "id": 5, "phrase": "Pass auf dich auf" },
+  { "id": 6, "phrase": "Einen schönen Tag noch" },
+  { "id": 7, "phrase": "Schlaf gut" },
+  { "id": 8, "phrase": "Es war schön, dich zu sehen" },
+  { "id": 9, "phrase": "Wir bleiben in Kontakt" },
+  { "id": 10, "phrase": "Bis zum nächsten Mal" },
+  { "id": 11, "phrase": "Alles Gute" },
+  { "id": 12, "phrase": "Gute Reise" },
+  { "id": 13, "phrase": "Grüße an deine Familie" },
+  { "id": 14, "phrase": "Wir sehen uns bald" },
+  { "id": 15, "phrase": "Ich werde dich vermissen" },
+  { "id": 16, "phrase": "Pass gut auf dich auf" },
+  { "id": 17, "phrase": "Es war sehr angenehm" },
+  { "id": 18, "phrase": "Wir schreiben uns" },
+  { "id": 19, "phrase": "Ich hoffe, dich bald zu sehen" },
+  { "id": 20, "phrase": "Tschüss" }
+]

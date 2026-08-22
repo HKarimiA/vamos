@@ -1,0 +1,22 @@
+[
+  { "id": 601, "word": "the environment", "example": "We must take care of the environment" },
+  { "id": 602, "word": "the recycling", "example": "Recycling helps the planet a lot" },
+  { "id": 603, "word": "the trash/garbage", "example": "Take out the trash, please" },
+  { "id": 604, "word": "the renewable energy", "example": "We use renewable energy at home" },
+  { "id": 605, "word": "the global warming", "example": "Global warming is a serious problem" },
+  { "id": 606, "word": "the climate change", "example": "Climate change affects everyone" },
+  { "id": 607, "word": "the endangered species", "example": "The panda is an endangered species" },
+  { "id": 608, "word": "the rainforest", "example": "The Amazon is a huge rainforest" },
+  { "id": 609, "word": "the sustainability", "example": "Sustainability is key for the future" },
+  { "id": 610, "word": "the fossil fuel", "example": "We must reduce the use of fossil fuels" },
+  { "id": 611, "word": "to pollute", "example": "Factories pollute the river" },
+  { "id": 612, "word": "to recycle", "example": "We recycle plastic and paper" },
+  { "id": 613, "word": "to protect", "example": "We must protect the oceans" },
+  { "id": 614, "word": "to conserve", "example": "We want to conserve this forest" },
+  { "id": 615, "word": "the ozone layer", "example": "The ozone layer protects us from the sun" },
+  { "id": 616, "word": "the waste", "example": "There's a lot of food waste" },
+  { "id": 617, "word": "ecological", "example": "We buy ecological products" },
+  { "id": 618, "word": "renewable", "example": "Solar energy is renewable" },
+  { "id": 619, "word": "polluted", "example": "This river is very polluted" },
+  { "id": 620, "word": "the carbon footprint", "example": "I want to reduce my carbon footprint" }
+]

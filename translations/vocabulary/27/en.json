@@ -1,0 +1,22 @@
+[
+  { "id": 521, "word": "the budget", "example": "We need to make a monthly budget" },
+  { "id": 522, "word": "the bank account", "example": "I opened a new bank account" },
+  { "id": 523, "word": "the savings", "example": "I'm using my savings for the trip" },
+  { "id": 524, "word": "the investment", "example": "It's a good long-term investment" },
+  { "id": 525, "word": "the loan", "example": "I took out a loan for the car" },
+  { "id": 526, "word": "the debt", "example": "I want to pay off my debt soon" },
+  { "id": 527, "word": "the tax", "example": "We pay taxes every year" },
+  { "id": 528, "word": "the bill/invoice", "example": "I received the electricity bill" },
+  { "id": 529, "word": "the income", "example": "My income increased this month" },
+  { "id": 530, "word": "the expense", "example": "I reduced my unnecessary expenses" },
+  { "id": 531, "word": "to invest", "example": "I'm going to invest in the stock market" },
+  { "id": 532, "word": "to borrow", "example": "I had to borrow money" },
+  { "id": 533, "word": "to lend", "example": "Can you lend me ten euros?" },
+  { "id": 534, "word": "to finance", "example": "The bank is going to finance the project" },
+  { "id": 535, "word": "the credit card", "example": "I pay with the credit card" },
+  { "id": 536, "word": "the ATM", "example": "I withdrew money from the ATM" },
+  { "id": 537, "word": "the currency", "example": "The euro is the currency of Spain" },
+  { "id": 538, "word": "the bill/banknote", "example": "I have a twenty-euro bill" },
+  { "id": 539, "word": "profitable", "example": "This business is very profitable" },
+  { "id": 540, "word": "to go bankrupt", "example": "The company went bankrupt last year" }
+]

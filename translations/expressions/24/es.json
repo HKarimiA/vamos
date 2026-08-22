@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Me gusta jugar al fútbol" },
+  { "id": 2, "phrase": "Voy al gimnasio todos los días" },
+  { "id": 3, "phrase": "¿Practicas algún deporte?" },
+  { "id": 4, "phrase": "Me encanta nadar" },
+  { "id": 5, "phrase": "Salgo a correr por las mañanas" },
+  { "id": 6, "phrase": "¿Quién ganó el partido?" },
+  { "id": 7, "phrase": "Juego al tenis los fines de semana" },
+  { "id": 8, "phrase": "Mi hobby favorito es la pintura" },
+  { "id": 9, "phrase": "Me gusta leer en mi tiempo libre" },
+  { "id": 10, "phrase": "Vamos a ver el partido juntos" },
+  { "id": 11, "phrase": "Toco la guitarra desde niño" },
+  { "id": 12, "phrase": "Estoy aprendiendo a bailar" },
+  { "id": 13, "phrase": "Hago senderismo los domingos" },
+  { "id": 14, "phrase": "Colecciono monedas antiguas" },
+  { "id": 15, "phrase": "Me apunté a un equipo de baloncesto" },
+  { "id": 16, "phrase": "Salimos a andar en bicicleta" },
+  { "id": 17, "phrase": "Ganamos el partido por poco" },
+  { "id": 18, "phrase": "Me relaja mucho pescar" },
+  { "id": 19, "phrase": "Entreno tres veces por semana" },
+  { "id": 20, "phrase": "Es un gran aficionado al fútbol" }
+]

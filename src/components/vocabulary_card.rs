@@ -22,6 +22,9 @@ pub fn VocabularyCard<FToggle, FPrev, FNext>(
     show_example: RwSignal<bool>,
     show_translation: RwSignal<bool>,
     #[prop(optional)] stage: Option<u32>,
+    #[prop(optional, default = true)] show_example_section: bool,
+    #[prop(optional, default = false)] compact_title: bool,
+    #[prop(optional, default = true)] show_favorite: bool,
     on_toggle_favorite: FToggle,
     on_prev: FPrev,
     on_next: FNext,
@@ -220,20 +223,22 @@ where
                     >
                         "🔊"
                     </button>
-                    <button
-                        class=move || if is_favorite { "favorite-button favorite-active" } else { "favorite-button" }
-                        style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
-                        on:click=move |_| on_toggle_favorite()
-                    >
-                        {move || if is_favorite { "⭐" } else { "☆" }}
-                    </button>
+                    {show_favorite.then(|| view! {
+                        <button
+                            class=move || if is_favorite { "favorite-button favorite-active" } else { "favorite-button" }
+                            style="font-size: 1.2rem; padding: 0.3rem 0.6rem;"
+                            on:click=move |_| on_toggle_favorite()
+                        >
+                            {move || if is_favorite { "⭐" } else { "☆" }}
+                        </button>
+                    })}
                 </div>
             </div>
             <div class="card-main">
-                <h2 class="card-word">{source_word}</h2>
+                <h2 class={if compact_title { "card-word card-word-compact" } else { "card-word" }}>{source_word}</h2>
             </div>
 
-            {move || (!show_example.get()).then(|| view! {
+            {move || (show_example_section && !show_example.get()).then(|| view! {
                 <button
                     class="reveal-button"
                     on:click=move |_| show_example.set(true)
@@ -242,7 +247,7 @@ where
                 </button>
             })}
 
-            {move || show_example.get().then(|| {
+            {move || (show_example_section && show_example.get()).then(|| {
                 let example_audio = source_example_clone.clone();
                 view! {
                     <div class="card-example" style="display: flex; align-items: center; gap: 0.5rem; margin: 0;">
@@ -272,7 +277,7 @@ where
                 view! {
                     <div class="card-translation">
                         <div style="display: flex; align-items: center; gap: 0.5rem;">
-                            <p class="translation-word" style="margin: 0; flex: 1;">{target_word.clone()}</p>
+                            <p class={if compact_title { "translation-word translation-word-compact" } else { "translation-word" }} style="margin: 0; flex: 1;">{target_word.clone()}</p>
                             <button
                                 class="audio-button-small"
                                 on:click=move |_| speak(word_audio.clone(), target_lang())
@@ -280,15 +285,17 @@ where
                                 "🔉"
                             </button>
                         </div>
-                        <div style="display: flex; align-items: center; gap: 0.5rem; margin-top: 1.0rem;">
-                            <p class="translation-example" style="margin: 0; flex: 1;">{target_example.clone()}</p>
-                            <button
-                                class="audio-button-small"
-                                on:click=move |_| speak(example_audio.clone(), target_lang())
-                            >
-                                "🔉"
-                            </button>
-                        </div>
+                        {show_example_section.then(|| view! {
+                            <div style="display: flex; align-items: center; gap: 0.5rem; margin-top: 1.0rem;">
+                                <p class="translation-example" style="margin: 0; flex: 1;">{target_example.clone()}</p>
+                                <button
+                                    class="audio-button-small"
+                                    on:click=move |_| speak(example_audio.clone(), target_lang())
+                                >
+                                    "🔉"
+                                </button>
+                            </div>
+                        })}
                     </div>
                 }
             })}

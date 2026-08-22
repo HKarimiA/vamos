@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Ich bin glücklich" },
+  { "id": 2, "phrase": "Ich bin traurig" },
+  { "id": 3, "phrase": "Ich bin müde" },
+  { "id": 4, "phrase": "Ich bin nervös" },
+  { "id": 5, "phrase": "Ich bin wütend" },
+  { "id": 6, "phrase": "Ich habe Angst" },
+  { "id": 7, "phrase": "Ich bin aufgeregt" },
+  { "id": 8, "phrase": "Ich fühle mich erleichtert" },
+  { "id": 9, "phrase": "Ich bin besorgt" },
+  { "id": 10, "phrase": "Ich bin stolz auf dich" },
+  { "id": 11, "phrase": "Es macht mich sehr froh" },
+  { "id": 12, "phrase": "Ich bin erschöpft" },
+  { "id": 13, "phrase": "Ich fühle mich einsam" },
+  { "id": 14, "phrase": "Mir ist langweilig" },
+  { "id": 15, "phrase": "Ich bin dankbar" },
+  { "id": 16, "phrase": "Es macht mich nervös" },
+  { "id": 17, "phrase": "Ich bin verliebt" },
+  { "id": 18, "phrase": "Ich fühle mich besser" },
+  { "id": 19, "phrase": "Mach dir keine Sorgen um mich" },
+  { "id": 20, "phrase": "Alles wird gut" }
+]

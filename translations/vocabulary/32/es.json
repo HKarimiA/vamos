@@ -1,0 +1,22 @@
+[
+  { "id": 621, "word": "lunes", "example": "Los lunes empiezo a trabajar temprano" },
+  { "id": 622, "word": "martes", "example": "El martes tengo una reunión importante" },
+  { "id": 623, "word": "miércoles", "example": "Los miércoles voy al gimnasio" },
+  { "id": 624, "word": "jueves", "example": "El jueves es mi día favorito" },
+  { "id": 625, "word": "viernes", "example": "Los viernes salimos con amigos" },
+  { "id": 626, "word": "sábado", "example": "El sábado dormimos hasta tarde" },
+  { "id": 627, "word": "domingo", "example": "Los domingos visitamos a la familia" },
+  { "id": 628, "word": "enero", "example": "Enero es un mes muy frío" },
+  { "id": 629, "word": "febrero", "example": "En febrero celebramos su cumpleaños" },
+  { "id": 630, "word": "marzo", "example": "La primavera empieza en marzo" },
+  { "id": 631, "word": "abril", "example": "En abril llueve mucho aquí" },
+  { "id": 632, "word": "mayo", "example": "Nos casamos en mayo" },
+  { "id": 633, "word": "junio", "example": "Las clases terminan en junio" },
+  { "id": 634, "word": "el calendario", "example": "Marca la fecha en el calendario" },
+  { "id": 635, "word": "la fecha", "example": "¿Cuál es la fecha de hoy?" },
+  { "id": 636, "word": "el fin de semana", "example": "Este fin de semana vamos a la playa" },
+  { "id": 637, "word": "el día festivo", "example": "Mañana es día festivo" },
+  { "id": 638, "word": "quincenal", "example": "Recibo el pago de forma quincenal" },
+  { "id": 639, "word": "mensual", "example": "Pago la renta de forma mensual" },
+  { "id": 640, "word": "anual", "example": "Tenemos una reunión anual en la empresa" }
+]

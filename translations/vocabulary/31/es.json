@@ -1,0 +1,22 @@
+[
+  { "id": 601, "word": "el medio ambiente", "example": "Debemos cuidar el medio ambiente" },
+  { "id": 602, "word": "el reciclaje", "example": "El reciclaje ayuda mucho al planeta" },
+  { "id": 603, "word": "la basura", "example": "Saca la basura, por favor" },
+  { "id": 604, "word": "la energía renovable", "example": "Usamos energía renovable en casa" },
+  { "id": 605, "word": "el calentamiento global", "example": "El calentamiento global es un problema serio" },
+  { "id": 606, "word": "el cambio climático", "example": "El cambio climático afecta a todos" },
+  { "id": 607, "word": "la especie en peligro", "example": "El panda es una especie en peligro" },
+  { "id": 608, "word": "el bosque tropical", "example": "El Amazonas es un bosque tropical enorme" },
+  { "id": 609, "word": "la sostenibilidad", "example": "La sostenibilidad es clave para el futuro" },
+  { "id": 610, "word": "el combustible fósil", "example": "Debemos reducir el uso de combustibles fósiles" },
+  { "id": 611, "word": "contaminar", "example": "Las fábricas contaminan el río" },
+  { "id": 612, "word": "reciclar", "example": "Reciclamos el plástico y el papel" },
+  { "id": 613, "word": "proteger", "example": "Debemos proteger los océanos" },
+  { "id": 614, "word": "conservar", "example": "Queremos conservar este bosque" },
+  { "id": 615, "word": "la capa de ozono", "example": "La capa de ozono nos protege del sol" },
+  { "id": 616, "word": "el desperdicio", "example": "Hay mucho desperdicio de comida" },
+  { "id": 617, "word": "ecológico/a", "example": "Compramos productos ecológicos" },
+  { "id": 618, "word": "renovable", "example": "La energía solar es renovable" },
+  { "id": 619, "word": "contaminado/a", "example": "Este río está muy contaminado" },
+  { "id": 620, "word": "la huella de carbono", "example": "Quiero reducir mi huella de carbono" }
+]

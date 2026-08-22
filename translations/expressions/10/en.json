@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I think you're right" },
+  { "id": 2, "phrase": "I agree" },
+  { "id": 3, "phrase": "I disagree" },
+  { "id": 4, "phrase": "In my opinion" },
+  { "id": 5, "phrase": "It depends" },
+  { "id": 6, "phrase": "You're absolutely right" },
+  { "id": 7, "phrase": "Maybe" },
+  { "id": 8, "phrase": "I don't see it that way" },
+  { "id": 9, "phrase": "I completely agree" },
+  { "id": 10, "phrase": "I doubt it very much" },
+  { "id": 11, "phrase": "It's true" },
+  { "id": 12, "phrase": "That doesn't make sense" },
+  { "id": 13, "phrase": "Everyone has their own opinion" },
+  { "id": 14, "phrase": "I think the same" },
+  { "id": 15, "phrase": "I changed my mind" },
+  { "id": 16, "phrase": "That's a good observation" },
+  { "id": 17, "phrase": "I'm not so sure" },
+  { "id": 18, "phrase": "I agree with you" },
+  { "id": 19, "phrase": "On the contrary" },
+  { "id": 20, "phrase": "It has its pros and cons" }
+]

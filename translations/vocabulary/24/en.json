@@ -1,0 +1,22 @@
+[
+  { "id": 461, "word": "the team", "example": "Our team won the game" },
+  { "id": 462, "word": "the coach", "example": "The coach motivates us a lot" },
+  { "id": 463, "word": "the match/game", "example": "The match starts at five" },
+  { "id": 464, "word": "the ball", "example": "The ball is under the table" },
+  { "id": 465, "word": "the court/field", "example": "We play on the school court" },
+  { "id": 466, "word": "the gym", "example": "I go to the gym three times a week" },
+  { "id": 467, "word": "to train", "example": "I train every morning" },
+  { "id": 468, "word": "to win", "example": "We're going to win this game" },
+  { "id": 469, "word": "to lose", "example": "We don't want to lose again" },
+  { "id": 470, "word": "to tie/draw", "example": "The two teams tied two-two" },
+  { "id": 471, "word": "the championship", "example": "We won the championship last year" },
+  { "id": 472, "word": "the race", "example": "I ran a ten-kilometer race" },
+  { "id": 473, "word": "to lift weights", "example": "I like to lift weights at the gym" },
+  { "id": 474, "word": "to stretch", "example": "It's important to stretch before running" },
+  { "id": 475, "word": "the muscle", "example": "I have a sore muscle in my leg" },
+  { "id": 476, "word": "the endurance/stamina", "example": "I need to improve my endurance" },
+  { "id": 477, "word": "to get injured", "example": "He got injured during training" },
+  { "id": 478, "word": "the referee", "example": "The referee blew the whistle for a foul" },
+  { "id": 479, "word": "to cheer", "example": "We went to cheer for our team" },
+  { "id": 480, "word": "fit/in shape", "example": "I try to stay in shape" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I work in an office" },
+  { "id": 2, "phrase": "I study at university" },
+  { "id": 3, "phrase": "I have a lot of work today" },
+  { "id": 4, "phrase": "What time does class start?" },
+  { "id": 5, "phrase": "I have an exam tomorrow" },
+  { "id": 6, "phrase": "I need to finish this project" },
+  { "id": 7, "phrase": "I have an important meeting" },
+  { "id": 8, "phrase": "I'm looking for a job" },
+  { "id": 9, "phrase": "I'm taking a break" },
+  { "id": 10, "phrase": "I work from home" },
+  { "id": 11, "phrase": "I have a lot of homework" },
+  { "id": 12, "phrase": "My boss is very demanding" },
+  { "id": 13, "phrase": "I passed the exam" },
+  { "id": 14, "phrase": "I'm stressed about work" },
+  { "id": 15, "phrase": "We work as a team" },
+  { "id": 16, "phrase": "I have the day off" },
+  { "id": 17, "phrase": "I presented my project today" },
+  { "id": 18, "phrase": "I need more experience" },
+  { "id": 19, "phrase": "I graduated last year" },
+  { "id": 20, "phrase": "It's time to work" }
+]

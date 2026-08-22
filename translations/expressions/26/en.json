@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I'm going to post a photo" },
+  { "id": 2, "phrase": "Did you see my story?" },
+  { "id": 3, "phrase": "I got tagged in a post" },
+  { "id": 4, "phrase": "Follow me on social media" },
+  { "id": 5, "phrase": "Like this" },
+  { "id": 6, "phrase": "I'm going to share this" },
+  { "id": 7, "phrase": "It went viral" },
+  { "id": 8, "phrase": "I don't have good signal" },
+  { "id": 9, "phrase": "I'm checking my notifications" },
+  { "id": 10, "phrase": "Comment if you like it" },
+  { "id": 11, "phrase": "I blocked that account" },
+  { "id": 12, "phrase": "I'm going to upload a video" },
+  { "id": 13, "phrase": "I lost a lot of followers" },
+  { "id": 14, "phrase": "I'm browsing the internet" },
+  { "id": 15, "phrase": "I changed my profile picture" },
+  { "id": 16, "phrase": "I haven't read the message yet" },
+  { "id": 17, "phrase": "He's offline right now" },
+  { "id": 18, "phrase": "I'm going to create a new account" },
+  { "id": 19, "phrase": "I forgot the password" },
+  { "id": 20, "phrase": "I spend a lot of time on my phone" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Einen Tisch für zwei, bitte" },
+  { "id": 2, "phrase": "Haben Sie die Speisekarte?" },
+  { "id": 3, "phrase": "Ich möchte bestellen" },
+  { "id": 4, "phrase": "Was empfehlen Sie mir?" },
+  { "id": 5, "phrase": "Für mich einen Milchkaffee" },
+  { "id": 6, "phrase": "Die Rechnung, bitte" },
+  { "id": 7, "phrase": "Kann man mit Karte bezahlen?" },
+  { "id": 8, "phrase": "Es ist köstlich" },
+  { "id": 9, "phrase": "Ich bin satt" },
+  { "id": 10, "phrase": "Können Sie mir bitte Wasser bringen?" },
+  { "id": 11, "phrase": "Haben Sie vegetarische Optionen?" },
+  { "id": 12, "phrase": "Ohne Eis, bitte" },
+  { "id": 13, "phrase": "Zum Mitnehmen" },
+  { "id": 14, "phrase": "Ich werde das probieren" },
+  { "id": 15, "phrase": "Ist das Trinkgeld inbegriffen?" },
+  { "id": 16, "phrase": "Ich habe einen Tisch reserviert" },
+  { "id": 17, "phrase": "Wann schließen Sie?" },
+  { "id": 18, "phrase": "Es fehlt eine Gabel" },
+  { "id": 19, "phrase": "Alles war sehr lecker" },
+  { "id": 20, "phrase": "Bis zum nächsten Mal" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 521, "word": "das Budget", "example": "Wir müssen ein monatliches Budget erstellen" },
+  { "id": 522, "word": "das Bankkonto", "example": "Ich habe ein neues Bankkonto eröffnet" },
+  { "id": 523, "word": "die Ersparnisse", "example": "Ich benutze meine Ersparnisse für die Reise" },
+  { "id": 524, "word": "die Investition", "example": "Das ist eine gute langfristige Investition" },
+  { "id": 525, "word": "der Kredit", "example": "Ich habe einen Kredit für das Auto aufgenommen" },
+  { "id": 526, "word": "die Schulden", "example": "Ich möchte meine Schulden bald zurückzahlen" },
+  { "id": 527, "word": "die Steuer", "example": "Wir zahlen jedes Jahr Steuern" },
+  { "id": 528, "word": "die Rechnung", "example": "Ich habe die Stromrechnung bekommen" },
+  { "id": 529, "word": "das Einkommen", "example": "Mein Einkommen ist diesen Monat gestiegen" },
+  { "id": 530, "word": "die Ausgabe", "example": "Ich habe meine unnötigen Ausgaben reduziert" },
+  { "id": 531, "word": "investieren", "example": "Ich werde an der Börse investieren" },
+  { "id": 532, "word": "sich leihen", "example": "Ich musste mir Geld leihen" },
+  { "id": 533, "word": "leihen", "example": "Kannst du mir zehn Euro leihen?" },
+  { "id": 534, "word": "finanzieren", "example": "Die Bank wird das Projekt finanzieren" },
+  { "id": 535, "word": "die Kreditkarte", "example": "Ich bezahle mit der Kreditkarte" },
+  { "id": 536, "word": "der Geldautomat", "example": "Ich habe Geld am Geldautomaten abgehoben" },
+  { "id": 537, "word": "die Währung", "example": "Der Euro ist die Währung Spaniens" },
+  { "id": 538, "word": "der Geldschein", "example": "Ich habe einen Zwanzig-Euro-Schein" },
+  { "id": 539, "word": "rentabel", "example": "Dieses Geschäft ist sehr rentabel" },
+  { "id": 540, "word": "bankrott gehen", "example": "Das Unternehmen ist letztes Jahr bankrottgegangen" }
+]

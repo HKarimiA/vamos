@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "I have a headache" },
+  { "id": 2, "phrase": "I feel sick" },
+  { "id": 3, "phrase": "I have a fever" },
+  { "id": 4, "phrase": "I need to see a doctor" },
+  { "id": 5, "phrase": "Where is the pharmacy?" },
+  { "id": 6, "phrase": "My stomach hurts" },
+  { "id": 7, "phrase": "I have a cold" },
+  { "id": 8, "phrase": "I need an appointment" },
+  { "id": 9, "phrase": "I'm allergic to this" },
+  { "id": 10, "phrase": "Do you have something for the pain?" },
+  { "id": 11, "phrase": "I twisted my ankle" },
+  { "id": 12, "phrase": "I already feel better" },
+  { "id": 13, "phrase": "I have to take this medicine" },
+  { "id": 14, "phrase": "I feel dizzy" },
+  { "id": 15, "phrase": "I haven't slept well" },
+  { "id": 16, "phrase": "I have a dentist appointment" },
+  { "id": 17, "phrase": "It's just a scratch" },
+  { "id": 18, "phrase": "Take good care of yourself" },
+  { "id": 19, "phrase": "I hope you get better soon" },
+  { "id": 20, "phrase": "Bless you" }
+]

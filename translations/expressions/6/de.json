@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Wie komme ich zum Bahnhof?" },
+  { "id": 2, "phrase": "Gehen Sie geradeaus" },
+  { "id": 3, "phrase": "Biegen Sie rechts ab" },
+  { "id": 4, "phrase": "Biegen Sie links ab" },
+  { "id": 5, "phrase": "Es ist sehr nah von hier" },
+  { "id": 6, "phrase": "Es ist weit weg" },
+  { "id": 7, "phrase": "Ist es hier in der Nähe?" },
+  { "id": 8, "phrase": "Nehmen Sie die zweite Straße" },
+  { "id": 9, "phrase": "Überqueren Sie den Platz" },
+  { "id": 10, "phrase": "Ich habe mich verlaufen" },
+  { "id": 11, "phrase": "Können Sie mir den Weg zeigen?" },
+  { "id": 12, "phrase": "Es ist gegenüber der Bank" },
+  { "id": 13, "phrase": "Es ist neben der Apotheke" },
+  { "id": 14, "phrase": "Es ist hinter dem Park" },
+  { "id": 15, "phrase": "Folgen Sie den Schildern" },
+  { "id": 16, "phrase": "Wie lange dauert es zu Fuß?" },
+  { "id": 17, "phrase": "Nehmen Sie den Bus Nummer drei" },
+  { "id": 18, "phrase": "Steigen Sie an der nächsten Haltestelle aus" },
+  { "id": 19, "phrase": "Können Sie mir das auf der Karte zeigen?" },
+  { "id": 20, "phrase": "Wir sind fast da" }
+]

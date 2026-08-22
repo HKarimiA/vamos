@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Hace calor hoy" },
+  { "id": 2, "phrase": "Hace frío" },
+  { "id": 3, "phrase": "Está lloviendo" },
+  { "id": 4, "phrase": "Está nevando" },
+  { "id": 5, "phrase": "Hace mucho viento" },
+  { "id": 6, "phrase": "Está nublado" },
+  { "id": 7, "phrase": "Hace sol" },
+  { "id": 8, "phrase": "¿Qué tiempo hace?" },
+  { "id": 9, "phrase": "Va a llover mañana" },
+  { "id": 10, "phrase": "Hace un día precioso" },
+  { "id": 11, "phrase": "Llevo paraguas por si acaso" },
+  { "id": 12, "phrase": "Hay tormenta" },
+  { "id": 13, "phrase": "El pronóstico dice que lloverá" },
+  { "id": 14, "phrase": "Está helando" },
+  { "id": 15, "phrase": "Hace bochorno" },
+  { "id": 16, "phrase": "El cielo está despejado" },
+  { "id": 17, "phrase": "Hay niebla" },
+  { "id": 18, "phrase": "La temperatura ha bajado" },
+  { "id": 19, "phrase": "Me encanta este clima" },
+  { "id": 20, "phrase": "Abrígate bien" }
+]

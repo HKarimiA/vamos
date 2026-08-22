@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Ich glaube, du hast recht" },
+  { "id": 2, "phrase": "Ich bin einverstanden" },
+  { "id": 3, "phrase": "Ich bin nicht einverstanden" },
+  { "id": 4, "phrase": "Meiner Meinung nach" },
+  { "id": 5, "phrase": "Es kommt darauf an" },
+  { "id": 6, "phrase": "Du hast völlig recht" },
+  { "id": 7, "phrase": "Kann sein" },
+  { "id": 8, "phrase": "Ich sehe das nicht so" },
+  { "id": 9, "phrase": "Ich stimme voll und ganz zu" },
+  { "id": 10, "phrase": "Ich bezweifle das sehr" },
+  { "id": 11, "phrase": "Das stimmt" },
+  { "id": 12, "phrase": "Das ergibt keinen Sinn" },
+  { "id": 13, "phrase": "Jeder hat seine eigene Meinung" },
+  { "id": 14, "phrase": "Ich denke das Gleiche" },
+  { "id": 15, "phrase": "Ich habe meine Meinung geändert" },
+  { "id": 16, "phrase": "Das ist eine gute Beobachtung" },
+  { "id": 17, "phrase": "Ich bin mir nicht so sicher" },
+  { "id": 18, "phrase": "Ich stimme dir zu" },
+  { "id": 19, "phrase": "Im Gegenteil" },
+  { "id": 20, "phrase": "Es hat seine Vor- und Nachteile" }
+]

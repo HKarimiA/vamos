@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Feliz cumpleaños" },
+  { "id": 2, "phrase": "Felicidades" },
+  { "id": 3, "phrase": "Feliz Navidad" },
+  { "id": 4, "phrase": "Feliz Año Nuevo" },
+  { "id": 5, "phrase": "Vamos a celebrar" },
+  { "id": 6, "phrase": "Es mi aniversario" },
+  { "id": 7, "phrase": "Te deseo lo mejor" },
+  { "id": 8, "phrase": "Vamos a hacer una fiesta" },
+  { "id": 9, "phrase": "Muchas felicidades por tu graduación" },
+  { "id": 10, "phrase": "Brindemos por eso" },
+  { "id": 11, "phrase": "Que cumplas muchos más" },
+  { "id": 12, "phrase": "Espero que lo pases genial" },
+  { "id": 13, "phrase": "Es una ocasión especial" },
+  { "id": 14, "phrase": "Vamos a soplar las velas" },
+  { "id": 15, "phrase": "Te mereces esto y más" },
+  { "id": 16, "phrase": "Enhorabuena por el nuevo trabajo" },
+  { "id": 17, "phrase": "Van a casarse" },
+  { "id": 18, "phrase": "Felicidades a los novios" },
+  { "id": 19, "phrase": "Vamos a hacer un brindis" },
+  { "id": 20, "phrase": "Que se cumplan tus deseos" }
+]

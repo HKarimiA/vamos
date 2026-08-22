@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Ich werde ein Foto posten" },
+  { "id": 2, "phrase": "Hast du meine Story gesehen?" },
+  { "id": 3, "phrase": "Ich wurde in einem Beitrag markiert" },
+  { "id": 4, "phrase": "Folge mir in den sozialen Medien" },
+  { "id": 5, "phrase": "Gib dem ein „Gefällt mir“" },
+  { "id": 6, "phrase": "Ich werde das teilen" },
+  { "id": 7, "phrase": "Es ist viral gegangen" },
+  { "id": 8, "phrase": "Ich habe kein gutes Signal" },
+  { "id": 9, "phrase": "Ich schaue meine Benachrichtigungen an" },
+  { "id": 10, "phrase": "Kommentiere, wenn es dir gefällt" },
+  { "id": 11, "phrase": "Ich habe dieses Konto blockiert" },
+  { "id": 12, "phrase": "Ich werde ein Video hochladen" },
+  { "id": 13, "phrase": "Ich habe viele Follower verloren" },
+  { "id": 14, "phrase": "Ich surfe im Internet" },
+  { "id": 15, "phrase": "Ich habe mein Profilbild geändert" },
+  { "id": 16, "phrase": "Ich habe die Nachricht noch nicht gelesen" },
+  { "id": 17, "phrase": "Er ist gerade offline" },
+  { "id": 18, "phrase": "Ich werde ein neues Konto erstellen" },
+  { "id": 19, "phrase": "Ich habe das Passwort vergessen" },
+  { "id": 20, "phrase": "Ich verbringe viel Zeit am Handy" }
+]

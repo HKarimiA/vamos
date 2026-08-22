@@ -57,7 +57,7 @@ pub fn Vocabulary() -> impl IntoView {
 
             <div class="vocab-content">
                 <div class="stage-grid">
-                    {move || (1..=21).map(|stage| {
+                    {move || (1..=33).map(|stage| {
                         let href = format!("/vocabulary/{}?dir={}", stage, direction.get());
                         view! {
                             <A href=href attr:class="stage-button">

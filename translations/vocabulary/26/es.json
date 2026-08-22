@@ -1,0 +1,22 @@
+[
+  { "id": 501, "word": "la sartén", "example": "Fríe el huevo en la sartén" },
+  { "id": 502, "word": "la olla", "example": "Pon la olla al fuego" },
+  { "id": 503, "word": "el cuchillo", "example": "Corta el pan con este cuchillo" },
+  { "id": 504, "word": "el tenedor", "example": "Necesito un tenedor limpio" },
+  { "id": 505, "word": "la cuchara", "example": "Remuévelo con una cuchara" },
+  { "id": 506, "word": "el plato", "example": "Pon la comida en el plato" },
+  { "id": 507, "word": "el vaso", "example": "Llena el vaso de agua" },
+  { "id": 508, "word": "la taza", "example": "Bebo té en esta taza" },
+  { "id": 509, "word": "el horno", "example": "El pastel está en el horno" },
+  { "id": 510, "word": "la nevera", "example": "Guarda la leche en la nevera" },
+  { "id": 511, "word": "el microondas", "example": "Calienta la sopa en el microondas" },
+  { "id": 512, "word": "la tabla de cortar", "example": "Corta las verduras en la tabla de cortar" },
+  { "id": 513, "word": "el colador", "example": "Escurre la pasta con el colador" },
+  { "id": 514, "word": "batir", "example": "Bate los huevos primero" },
+  { "id": 515, "word": "mezclar", "example": "Mezcla los ingredientes bien" },
+  { "id": 516, "word": "hornear", "example": "Vamos a hornear un pastel" },
+  { "id": 517, "word": "freír", "example": "Voy a freír unas patatas" },
+  { "id": 518, "word": "hervir", "example": "Hierve el agua para el té" },
+  { "id": 519, "word": "picar", "example": "Pica la cebolla finamente" },
+  { "id": 520, "word": "la receta", "example": "Esta receta es de mi abuela" }
+]

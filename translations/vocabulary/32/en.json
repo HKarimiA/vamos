@@ -1,0 +1,22 @@
+[
+  { "id": 621, "word": "Monday", "example": "On Mondays I start work early" },
+  { "id": 622, "word": "Tuesday", "example": "On Tuesday I have an important meeting" },
+  { "id": 623, "word": "Wednesday", "example": "On Wednesdays I go to the gym" },
+  { "id": 624, "word": "Thursday", "example": "Thursday is my favorite day" },
+  { "id": 625, "word": "Friday", "example": "On Fridays we go out with friends" },
+  { "id": 626, "word": "Saturday", "example": "On Saturday we sleep in" },
+  { "id": 627, "word": "Sunday", "example": "On Sundays we visit family" },
+  { "id": 628, "word": "January", "example": "January is a very cold month" },
+  { "id": 629, "word": "February", "example": "In February we celebrate his/her birthday" },
+  { "id": 630, "word": "March", "example": "Spring begins in March" },
+  { "id": 631, "word": "April", "example": "It rains a lot here in April" },
+  { "id": 632, "word": "May", "example": "We got married in May" },
+  { "id": 633, "word": "June", "example": "Classes end in June" },
+  { "id": 634, "word": "the calendar", "example": "Mark the date on the calendar" },
+  { "id": 635, "word": "the date", "example": "What's today's date?" },
+  { "id": 636, "word": "the weekend", "example": "This weekend we're going to the beach" },
+  { "id": 637, "word": "the holiday", "example": "Tomorrow is a holiday" },
+  { "id": 638, "word": "biweekly/fortnightly", "example": "I get paid biweekly" },
+  { "id": 639, "word": "monthly", "example": "I pay the rent monthly" },
+  { "id": 640, "word": "annual/yearly", "example": "We have an annual meeting at the company" }
+]

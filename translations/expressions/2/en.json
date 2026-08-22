@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Please" },
+  { "id": 2, "phrase": "Thank you" },
+  { "id": 3, "phrase": "You're welcome" },
+  { "id": 4, "phrase": "Sorry" },
+  { "id": 5, "phrase": "Excuse me" },
+  { "id": 6, "phrase": "Excuse me (to pass)" },
+  { "id": 7, "phrase": "No problem" },
+  { "id": 8, "phrase": "I'm very sorry" },
+  { "id": 9, "phrase": "After you" },
+  { "id": 10, "phrase": "Can I help you?" },
+  { "id": 11, "phrase": "Thank you very much for everything" },
+  { "id": 12, "phrase": "It's a pleasure" },
+  { "id": 13, "phrase": "How kind of you" },
+  { "id": 14, "phrase": "How's your day going?" },
+  { "id": 15, "phrase": "Everything's fine, thanks" },
+  { "id": 16, "phrase": "Tell me something" },
+  { "id": 17, "phrase": "What a good idea" },
+  { "id": 18, "phrase": "Don't worry" },
+  { "id": 19, "phrase": "Cheers" },
+  { "id": 20, "phrase": "Enjoy your meal" }
+]

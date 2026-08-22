@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Trabajo en una oficina" },
+  { "id": 2, "phrase": "Estudio en la universidad" },
+  { "id": 3, "phrase": "Tengo mucho trabajo hoy" },
+  { "id": 4, "phrase": "¿A qué hora empieza la clase?" },
+  { "id": 5, "phrase": "Tengo un examen mañana" },
+  { "id": 6, "phrase": "Necesito terminar este proyecto" },
+  { "id": 7, "phrase": "Tengo una reunión importante" },
+  { "id": 8, "phrase": "Estoy buscando trabajo" },
+  { "id": 9, "phrase": "Me tomo un descanso" },
+  { "id": 10, "phrase": "Trabajo desde casa" },
+  { "id": 11, "phrase": "Tengo mucha tarea" },
+  { "id": 12, "phrase": "Mi jefe es muy exigente" },
+  { "id": 13, "phrase": "Aprobé el examen" },
+  { "id": 14, "phrase": "Estoy estresado por el trabajo" },
+  { "id": 15, "phrase": "Trabajamos en equipo" },
+  { "id": 16, "phrase": "Tengo el día libre" },
+  { "id": 17, "phrase": "Presenté mi proyecto hoy" },
+  { "id": 18, "phrase": "Necesito más experiencia" },
+  { "id": 19, "phrase": "Me gradué el año pasado" },
+  { "id": 20, "phrase": "Es hora de trabajar" }
+]

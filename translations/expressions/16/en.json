@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "What's your number?" },
+  { "id": 2, "phrase": "I'll call you later" },
+  { "id": 3, "phrase": "My battery died" },
+  { "id": 4, "phrase": "I have no signal" },
+  { "id": 5, "phrase": "Send me a message" },
+  { "id": 6, "phrase": "Can you text me?" },
+  { "id": 7, "phrase": "The call got cut off" },
+  { "id": 8, "phrase": "My phone froze" },
+  { "id": 9, "phrase": "I need to charge my phone" },
+  { "id": 10, "phrase": "Do you have wifi here?" },
+  { "id": 11, "phrase": "I can't connect to the internet" },
+  { "id": 12, "phrase": "I'll send you the location" },
+  { "id": 13, "phrase": "I forgot to charge my phone" },
+  { "id": 14, "phrase": "Can you video call me?" },
+  { "id": 15, "phrase": "My screen is broken" },
+  { "id": 16, "phrase": "I downloaded a new app" },
+  { "id": 17, "phrase": "I didn't get your message" },
+  { "id": 18, "phrase": "Let's have a video call" },
+  { "id": 19, "phrase": "I lost my charger" },
+  { "id": 20, "phrase": "I'm out of battery" }
+]

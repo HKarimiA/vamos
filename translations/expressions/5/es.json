@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "¿Cuánto cuesta?" },
+  { "id": 2, "phrase": "¿Tiene esto en otra talla?" },
+  { "id": 3, "phrase": "Solo estoy mirando" },
+  { "id": 4, "phrase": "¿Puedo probármelo?" },
+  { "id": 5, "phrase": "Me lo llevo" },
+  { "id": 6, "phrase": "¿Aceptan tarjeta de crédito?" },
+  { "id": 7, "phrase": "¿Tiene un descuento?" },
+  { "id": 8, "phrase": "Es demasiado caro" },
+  { "id": 9, "phrase": "¿Dónde está la caja?" },
+  { "id": 10, "phrase": "Necesito una bolsa" },
+  { "id": 11, "phrase": "¿Puedo devolver esto?" },
+  { "id": 12, "phrase": "¿Tiene el recibo?" },
+  { "id": 13, "phrase": "Busco un regalo" },
+  { "id": 14, "phrase": "¿Está en oferta?" },
+  { "id": 15, "phrase": "Prefiero este color" },
+  { "id": 16, "phrase": "¿Cuál es su talla?" },
+  { "id": 17, "phrase": "Volveré más tarde" },
+  { "id": 18, "phrase": "¿Tiene esto en stock?" },
+  { "id": 19, "phrase": "Es justo lo que buscaba" },
+  { "id": 20, "phrase": "Gracias por su ayuda" }
+]

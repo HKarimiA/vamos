@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Was hast du vor?" },
+  { "id": 2, "phrase": "Willst du heute Abend ausgehen?" },
+  { "id": 3, "phrase": "Lass uns ins Kino gehen" },
+  { "id": 4, "phrase": "Machst du mit?" },
+  { "id": 5, "phrase": "Zähl auf mich" },
+  { "id": 6, "phrase": "Ich habe andere Pläne" },
+  { "id": 7, "phrase": "Sehen wir uns am Samstag?" },
+  { "id": 8, "phrase": "Lass uns eine Party organisieren" },
+  { "id": 9, "phrase": "Was hältst du davon, wenn...?" },
+  { "id": 10, "phrase": "Ich bin dabei" },
+  { "id": 11, "phrase": "Lass uns bald treffen" },
+  { "id": 12, "phrase": "Ich habe schon etwas geplant" },
+  { "id": 13, "phrase": "Lass uns die Pläne ändern" },
+  { "id": 14, "phrase": "Wo treffen wir uns?" },
+  { "id": 15, "phrase": "Sag mir Bescheid, falls sich etwas ändert" },
+  { "id": 16, "phrase": "Wir bestätigen später" },
+  { "id": 17, "phrase": "Ich kann nicht, ich habe Arbeit" },
+  { "id": 18, "phrase": "Es wird großartig" },
+  { "id": 19, "phrase": "Wir organisieren uns per Nachricht" },
+  { "id": 20, "phrase": "Ich zähle die Tage" }
+]

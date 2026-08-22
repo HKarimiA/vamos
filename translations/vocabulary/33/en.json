@@ -1,0 +1,22 @@
+[
+  { "id": 641, "word": "on/about", "example": "The book is on the table" },
+  { "id": 642, "word": "under/below", "example": "The cat is under the chair" },
+  { "id": 643, "word": "between", "example": "The bank is between the pharmacy and the store" },
+  { "id": 644, "word": "inside/within", "example": "Everything is inside the box" },
+  { "id": 645, "word": "outside of", "example": "Wait outside the office" },
+  { "id": 646, "word": "through", "example": "We arrived through the tunnel" },
+  { "id": 647, "word": "towards", "example": "We walked towards downtown" },
+  { "id": 648, "word": "according to", "example": "According to the forecast, it's going to rain" },
+  { "id": 649, "word": "by means of/through", "example": "They communicate through messages" },
+  { "id": 650, "word": "besides/moreover", "example": "Besides, we need to buy bread" },
+  { "id": 651, "word": "however/nevertheless", "example": "I'm tired, however I'm going to go" },
+  { "id": 652, "word": "therefore", "example": "It rained a lot, therefore we cancelled the trip" },
+  { "id": 653, "word": "although", "example": "Although it's raining, we're going out" },
+  { "id": 654, "word": "while", "example": "I cook while you set the table" },
+  { "id": 655, "word": "because", "example": "I didn't go because I was sick" },
+  { "id": 656, "word": "due to", "example": "The flight was delayed due to bad weather" },
+  { "id": 657, "word": "despite", "example": "Despite the cold, we went out for a walk" },
+  { "id": 658, "word": "regarding/as for", "example": "As for me, I prefer to stay" },
+  { "id": 659, "word": "in accordance with", "example": "In accordance with the rules, you have to wait" },
+  { "id": 660, "word": "finally", "example": "We finally arrived home" }
+]

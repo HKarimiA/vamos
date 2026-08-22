@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Tengo una reserva" },
+  { "id": 2, "phrase": "¿A qué hora es el check-in?" },
+  { "id": 3, "phrase": "Quisiera una habitación doble" },
+  { "id": 4, "phrase": "¿El desayuno está incluido?" },
+  { "id": 5, "phrase": "¿Tienen wifi gratis?" },
+  { "id": 6, "phrase": "Necesito otra toalla" },
+  { "id": 7, "phrase": "La habitación es muy cómoda" },
+  { "id": 8, "phrase": "¿A qué hora es el check-out?" },
+  { "id": 9, "phrase": "¿Puede llamar a un taxi?" },
+  { "id": 10, "phrase": "El aire acondicionado no funciona" },
+  { "id": 11, "phrase": "¿Dónde está el ascensor?" },
+  { "id": 12, "phrase": "Quisiera cambiar de habitación" },
+  { "id": 13, "phrase": "¿Puedo dejar mi equipaje aquí?" },
+  { "id": 14, "phrase": "La vista es espectacular" },
+  { "id": 15, "phrase": "¿Tienen servicio de habitaciones?" },
+  { "id": 16, "phrase": "Perdí la llave de mi habitación" },
+  { "id": 17, "phrase": "¿Podría subir mi maleta?" },
+  { "id": 18, "phrase": "¿Cuánto cuesta la noche?" },
+  { "id": 19, "phrase": "El personal es muy amable" },
+  { "id": 20, "phrase": "Fue una estancia muy agradable" }
+]

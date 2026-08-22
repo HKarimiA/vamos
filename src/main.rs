@@ -10,7 +10,10 @@ mod data;
 mod pages;
 
 use core::{FavoritesContext, LanguageContext};
-use pages::{Favorites, Grammar, GrammarTopic, Home, Settings, Vocabulary, VocabularyCards};
+use pages::{
+    ExpressionCards, Expressions, Favorites, Grammar, GrammarTopic, Home, Settings, Vocabulary,
+    VocabularyCards,
+};
 
 fn main() {
     leptos::mount::mount_to_body(|| view! { <App/> })
@@ -31,6 +34,8 @@ fn App() -> impl IntoView {
                 <Route path=path!("/vocabulary/:stage") view=VocabularyCards/>
                 <Route path=path!("/grammar") view=Grammar/>
                 <Route path=path!("/grammar/:id") view=GrammarTopic/>
+                <Route path=path!("/expressions") view=Expressions/>
+                <Route path=path!("/expressions/:unit") view=ExpressionCards/>
             </Routes>
         </Router>
     }

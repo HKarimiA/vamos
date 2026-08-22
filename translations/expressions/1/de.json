@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Hallo, wie geht's?" },
+  { "id": 2, "phrase": "Guten Morgen" },
+  { "id": 3, "phrase": "Guten Tag" },
+  { "id": 4, "phrase": "Guten Abend" },
+  { "id": 5, "phrase": "Wie heißt du?" },
+  { "id": 6, "phrase": "Ich heiße Ana" },
+  { "id": 7, "phrase": "Freut mich" },
+  { "id": 8, "phrase": "Es freut mich, dich kennenzulernen" },
+  { "id": 9, "phrase": "Woher kommst du?" },
+  { "id": 10, "phrase": "Ich komme aus Spanien" },
+  { "id": 11, "phrase": "Wie geht es dir?" },
+  { "id": 12, "phrase": "Mir geht es gut, danke" },
+  { "id": 13, "phrase": "Und dir?" },
+  { "id": 14, "phrase": "Ich stelle dir meinen Freund vor" },
+  { "id": 15, "phrase": "Wie alt bist du?" },
+  { "id": 16, "phrase": "Ich bin zwanzig Jahre alt" },
+  { "id": 17, "phrase": "Was machst du beruflich?" },
+  { "id": 18, "phrase": "Ich bin Student" },
+  { "id": 19, "phrase": "Willkommen" },
+  { "id": 20, "phrase": "Bis bald" }
+]

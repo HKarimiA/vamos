@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "A table for two, please" },
+  { "id": 2, "phrase": "Do you have the menu?" },
+  { "id": 3, "phrase": "I would like to order" },
+  { "id": 4, "phrase": "What do you recommend?" },
+  { "id": 5, "phrase": "For me, a coffee with milk" },
+  { "id": 6, "phrase": "The bill, please" },
+  { "id": 7, "phrase": "Can I pay by card?" },
+  { "id": 8, "phrase": "It's delicious" },
+  { "id": 9, "phrase": "I'm full" },
+  { "id": 10, "phrase": "Could you bring me water, please?" },
+  { "id": 11, "phrase": "Do you have vegetarian options?" },
+  { "id": 12, "phrase": "No ice, please" },
+  { "id": 13, "phrase": "It's to go" },
+  { "id": 14, "phrase": "I'm going to try this" },
+  { "id": 15, "phrase": "Is the tip included?" },
+  { "id": 16, "phrase": "I reserved a table" },
+  { "id": 17, "phrase": "What time do you close?" },
+  { "id": 18, "phrase": "A fork is missing" },
+  { "id": 19, "phrase": "Everything was very tasty" },
+  { "id": 20, "phrase": "See you next time" }
+]

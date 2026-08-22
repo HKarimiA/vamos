@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Hi, how's it going?" },
+  { "id": 2, "phrase": "Good morning" },
+  { "id": 3, "phrase": "Good afternoon" },
+  { "id": 4, "phrase": "Good evening" },
+  { "id": 5, "phrase": "What's your name?" },
+  { "id": 6, "phrase": "My name is Ana" },
+  { "id": 7, "phrase": "Nice to meet you" },
+  { "id": 8, "phrase": "Pleased to meet you" },
+  { "id": 9, "phrase": "Where are you from?" },
+  { "id": 10, "phrase": "I'm from Spain" },
+  { "id": 11, "phrase": "How are you?" },
+  { "id": 12, "phrase": "I'm fine, thank you" },
+  { "id": 13, "phrase": "And you?" },
+  { "id": 14, "phrase": "Let me introduce you to my friend" },
+  { "id": 15, "phrase": "How old are you?" },
+  { "id": 16, "phrase": "I'm twenty years old" },
+  { "id": 17, "phrase": "What do you do for a living?" },
+  { "id": 18, "phrase": "I'm a student" },
+  { "id": 19, "phrase": "Welcome" },
+  { "id": 20, "phrase": "See you soon" }
+]

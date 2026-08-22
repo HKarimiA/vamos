@@ -1,0 +1,22 @@
+[
+  { "id": 1, "phrase": "Tengo que lavar los platos" },
+  { "id": 2, "phrase": "Voy a hacer la cama" },
+  { "id": 3, "phrase": "Necesito pasar la aspiradora" },
+  { "id": 4, "phrase": "La ropa está en la lavadora" },
+  { "id": 5, "phrase": "Voy a sacar la basura" },
+  { "id": 6, "phrase": "¿Puedes ayudarme a ordenar?" },
+  { "id": 7, "phrase": "La casa está muy desordenada" },
+  { "id": 8, "phrase": "Voy a regar las plantas" },
+  { "id": 9, "phrase": "Se rompió el grifo" },
+  { "id": 10, "phrase": "Necesito comprar bombillas nuevas" },
+  { "id": 11, "phrase": "Voy a arreglar esto" },
+  { "id": 12, "phrase": "La nevera está vacía" },
+  { "id": 13, "phrase": "Hace falta pintar las paredes" },
+  { "id": 14, "phrase": "Voy a doblar la ropa" },
+  { "id": 15, "phrase": "El vecino hace mucho ruido" },
+  { "id": 16, "phrase": "Se fue la luz" },
+  { "id": 17, "phrase": "Necesito cambiar las sábanas" },
+  { "id": 18, "phrase": "La casa quedó reluciente" },
+  { "id": 19, "phrase": "Vivo en un piso pequeño" },
+  { "id": 20, "phrase": "Me gusta tener todo en su lugar" }
+]
